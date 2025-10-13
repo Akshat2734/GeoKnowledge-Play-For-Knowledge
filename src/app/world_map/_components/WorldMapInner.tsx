@@ -1,13 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-import {
-  MapContainer,
-  TileLayer,
-  GeoJSON,
-  useMap,
-  useMapEvent,
-} from 'react-leaflet';
+import { MapContainer, TileLayer, GeoJSON, useMap, useMapEvent } from 'react-leaflet';
 import type { GeoJsonObject } from 'geojson';
 import type { LeafletMouseEvent, Map as LeafletMap } from 'leaflet';
 import L from 'leaflet';
@@ -15,6 +9,7 @@ import * as turf from '@turf/turf';
 import Image from 'next/image';
 import 'leaflet/dist/leaflet.css';
 import loadingScreen from 'import/assets/Screenshot 2025-10-10 193356.png';
+import { useCountry } from '../../context/WorldMapContext'; // ✅ use shared context
 
 // --- Styles ---
 const defaultStyle = {
@@ -46,11 +41,8 @@ function CreateLabelPane() {
 }
 
 // --- Handle popup close ---
-function PopupCloseReset({
-  setSelectedCountry,
-}: {
-  setSelectedCountry: (name: string | null) => void;
-}) {
+function PopupCloseReset() {
+  const { setSelectedCountry } = useCountry();
   const map = useMap();
   useMapEvent('popupclose', () => {
     setSelectedCountry(null);
@@ -62,7 +54,7 @@ function PopupCloseReset({
 // --- MAIN COMPONENT ---
 const WorldMapInner: React.FC = () => {
   const [countriesData, setCountriesData] = useState<GeoJsonObject | null>(null);
-  const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
+  const { selectedCountry, setSelectedCountry } = useCountry();
   const geoJsonRef = useRef<L.GeoJSON<any>>(null);
 
   // Load GeoJSON
@@ -138,22 +130,17 @@ const WorldMapInner: React.FC = () => {
         className="h-full w-full rounded-2xl shadow-lg"
       >
         <CreateLabelPane />
-        <PopupCloseReset setSelectedCountry={setSelectedCountry} />
+        <PopupCloseReset />
 
-        {/* Base Map */}
         <TileLayer
-          attribution='&copy; OpenStreetMap & CartoDB'
+          attribution="&copy; OpenStreetMap & CartoDB"
           url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png"
         />
-
-        {/* Label Layer */}
         <TileLayer
-          attribution='&copy; OpenStreetMap & CartoDB'
+          attribution="&copy; OpenStreetMap & CartoDB"
           url="https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png"
           pane="labels"
         />
-
-        {/* GeoJSON */}
         <GeoJSON
           ref={geoJsonRef}
           data={countriesData}
@@ -162,7 +149,6 @@ const WorldMapInner: React.FC = () => {
         />
       </MapContainer>
 
-      {/* Display selected country name */}
       {selectedCountry && (
         <div className="absolute top-4 left-4 bg-white p-2 rounded shadow text-sm font-medium text-black">
           Selected Country: {selectedCountry}

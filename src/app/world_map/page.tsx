@@ -5,6 +5,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import dynamic from "next/dynamic";
 import Footer from "./_components/Footer";
+import { CountryProvider } from "../context/WorldMapContext";
 
 // Dynamically import WorldMapInner (for client-side only)
 const WorldMapInner = dynamic(() => import("./_components/WorldMapInner"), {
@@ -54,11 +55,13 @@ export default function Page() {
 }
   // 🌍 Show world map after animation
     return (
-        <div className="flex flex-col min-h-screen">
-            <main className="flex-grow flex justify-center items-center">
-                <WorldMapInner />
-            </main>
-            <Footer />
-        </div>
+        <CountryProvider>
+                <div className="flex flex-col min-h-screen">
+                    <main className="flex-grow flex justify-center items-center">
+                        <WorldMapInner />
+                    </main>
+                <Footer />
+            </div>
+        </CountryProvider>
 );
 }
