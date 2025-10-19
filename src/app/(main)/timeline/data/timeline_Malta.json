@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Malta",
+      "text": "Major events in the history of Malta."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -5000,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Settlements",
+      "text": "The first settlers arrived in Malta around 5000 BC, likely from Sicily. They established a Neolithic culture and began constructing megalithic temples.",
+      "media": "https://en.wikipedia.org/wiki/Megalithic_temples_of_Malta"
+    },
+    {
+      "start_date": {
+        "year": -3600,
+        "month": null,
+        "day": null
+      },
+      "headline": "Construction of Megalithic Temples",
+      "text": "The construction of the megalithic temples, such as Ħaġar Qim and Mnajdra, began around this time. These structures are among the oldest free-standing stone buildings in the world.",
+      "media": "https://en.wikipedia.org/wiki/Megalithic_temples_of_Malta"
+    },
+    {
+      "start_date": {
+        "year": -218,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Rule",
+      "text": "Malta became part of the Roman Empire after the defeat of Carthage in the Second Punic War. It was an important naval base and trade center.",
+      "media": "https://en.wikipedia.org/wiki/Malta_under_Roman_rule"
+    },
+    {
+      "start_date": {
+        "year": 60,
+        "month": null,
+        "day": null
+      },
+      "headline": "St. Paul's Shipwreck",
+      "text": "According to Christian tradition, St. Paul was shipwrecked on Malta, leading to the conversion of many inhabitants to Christianity. This event is commemorated in various local traditions.",
+      "media": "https://en.wikipedia.org/wiki/Paul_the_Apostle#Shipwreck_on_Malta"
+    },
+    {
+      "start_date": {
+        "year": 395,
+        "month": null,
+        "day": null
+      },
+      "headline": "Byzantine Rule",
+      "text": "Following the division of the Roman Empire, Malta came under Byzantine control. The island remained a part of the Eastern Roman Empire for several centuries.",
+      "media": "https://en.wikipedia.org/wiki/Malta#Byzantine_period"
+    },
+    {
+      "start_date": {
+        "year": 831,
+        "month": null,
+        "day": null
+      },
+      "headline": "Arab Conquest",
+      "text": "Malta was conquered by the Arabs, who introduced new agricultural practices and the Arabic language. This period lasted for over two centuries.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Malta#Arab_rule"
+    },
+    {
+      "start_date": {
+        "year": 1091,
+        "month": null,
+        "day": null
+      },
+      "headline": "Norman Conquest",
+      "text": "The Normans took control of Malta, ending Arab rule. They established feudalism and began the Christianization of the islands.",
+      "media": "https://en.wikipedia.org/wiki/Norman_conquest_of_Malta"
+    },
+    {
+      "start_date": {
+        "year": 1530,
+        "month": null,
+        "day": null
+      },
+      "headline": "Knights of St. John Arrive",
+      "text": "The Knights of St. John were granted control of Malta by Charles V of Spain. They fortified the islands and transformed Malta into a significant military stronghold.",
+      "media": "https://en.wikipedia.org/wiki/Knights_of_Saint_John"
+    },
+    {
+      "start_date": {
+        "year": 1565,
+        "month": null,
+        "day": null
+      },
+      "headline": "The Great Siege of Malta",
+      "text": "The Great Siege was a pivotal moment in Maltese history when the Knights defended the island against the Ottoman Empire. The successful defense solidified the Knights' power.",
+      "media": "https://en.wikipedia.org/wiki/Great_Siege_of_Malta"
+    },
+    {
+      "start_date": {
+        "year": 1798,
+        "month": 6,
+        "day": 1
+      },
+      "headline": "French Occupation",
+      "text": "Napoleon Bonaparte's forces occupied Malta, leading to a brief period of French rule. This occupation was met with resistance from the Maltese population.",
+      "media": "https://en.wikipedia.org/wiki/French_occupation_of_Malta"
+    },
+    {
+      "start_date": {
+        "year": 1800,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Rule Begins",
+      "text": "After the French were expelled, Malta became a British protectorate and later a colony. British rule brought significant changes to the island's governance and economy.",
+      "media": "https://en.wikipedia.org/wiki/Malta_under_British_rule"
+    },
+    {
+      "start_date": {
+        "year": 1940,
+        "month": 6,
+        "day": 1
+      },
+      "headline": "World War II Bombing",
+      "text": "Malta endured heavy bombing during World War II due to its strategic location in the Mediterranean. The resilience of the Maltese people earned the island the George Cross.",
+      "media": "https://en.wikipedia.org/wiki/Malta_during_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": 9,
+        "day": 21
+      },
+      "headline": "Independence from Britain",
+      "text": "Malta gained independence from British rule, becoming a sovereign nation. This marked the beginning of a new era in Maltese governance and identity.",
+      "media": "https://en.wikipedia.org/wiki/Malta#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1974,
+        "month": 12,
+        "day": 13
+      },
+      "headline": "Republic of Malta",
+      "text": "Malta was declared a republic, with a new constitution that established a parliamentary democracy. This change solidified Malta's national identity.",
+      "media": "https://en.wikipedia.org/wiki/Malta#Republic"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "EU Membership",
+      "text": "Malta joined the European Union, marking a significant step in its integration into European political and economic structures. This membership has influenced various aspects of Maltese life.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Malta_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": null,
+        "day": null
+      },
+      "headline": "Malta's Economic Growth",
+      "text": "Malta experienced significant economic growth, driven by sectors such as tourism, finance, and technology. This growth has transformed the island's economy.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Malta"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Migration Crisis",
+      "text": "Malta faced challenges related to the European migration crisis, with many migrants arriving on its shores. This situation sparked debates on immigration policy in Europe.",
+      "media": "https://en.wikipedia.org/wiki/Migration_in_Malta"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic affected Malta significantly, leading to health and economic challenges. The government implemented measures to control the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Malta"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Developments",
+      "text": "Malta continues to navigate various challenges, including economic recovery post-pandemic and ongoing discussions about its role in the EU. The island remains a vibrant cultural and historical hub.",
+      "media": "https://en.wikipedia.org/wiki/Malta"
+    }
+  ]
+}

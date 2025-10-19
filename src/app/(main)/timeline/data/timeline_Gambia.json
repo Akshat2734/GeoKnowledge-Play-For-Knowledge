@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Gambia",
+      "text": "Major events in the history of Gambia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Settlements",
+      "text": "The Gambia region has been inhabited since prehistoric times, with evidence of early human settlements dating back to around 3000 BC. These early communities were primarily engaged in fishing and agriculture.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Formation of Early Kingdoms",
+      "text": "By the first millennium AD, several kingdoms and chiefdoms emerged in the Gambia region, including the Kingdom of Gambia and the Mandinka states. These societies were characterized by trade and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Early_kingdoms"
+    },
+    {
+      "start_date": {
+        "year": 1456
+      },
+      "headline": "Portuguese Exploration",
+      "text": "The Portuguese were the first Europeans to explore the Gambia River, establishing trade routes and interactions with local tribes. This marked the beginning of European interest in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#European_exploration"
+    },
+    {
+      "start_date": {
+        "year": 1588
+      },
+      "headline": "Establishment of the Gambia River as a Trade Route",
+      "text": "The Gambia River became an important trade route for European powers, particularly for the slave trade. This led to increased European presence and competition in the area.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Slave_trade"
+    },
+    {
+      "start_date": {
+        "year": 1765
+      },
+      "headline": "British Establish Control",
+      "text": "The British established a trading post at Banjul, which later became the capital of The Gambia. This marked the beginning of British colonial influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1807
+      },
+      "headline": "Abolition of the Slave Trade",
+      "text": "The British Parliament passed the Abolition of the Slave Trade Act, which ended the legal slave trade in the British Empire. This had significant effects on the Gambia's economy and society.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Abolition_of_slavery"
+    },
+    {
+      "start_date": {
+        "year": 1888
+      },
+      "headline": "Gambia Becomes a Crown Colony",
+      "text": "The Gambia was officially declared a Crown Colony, solidifying British control over the territory. This led to the establishment of a colonial administration and infrastructure development.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1947
+      },
+      "headline": "First Legislative Council Elections",
+      "text": "The first elections for the Legislative Council were held, allowing limited representation for Gambians. This was a significant step towards self-governance.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Post-war_period"
+    },
+    {
+      "start_date": {
+        "year": 1965,
+        "month": 2,
+        "day": 18
+      },
+      "headline": "Independence from Britain",
+      "text": "The Gambia gained independence from British colonial rule on February 18, 1965. This marked the beginning of self-governance and the establishment of a parliamentary democracy.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1970
+      },
+      "headline": "Republic Established",
+      "text": "The Gambia was declared a republic, with Dawda Jawara as its first president. This transition marked a significant change in the political landscape of the country.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Republic"
+    },
+    {
+      "start_date": {
+        "year": 1981,
+        "month": 7,
+        "day": 30
+      },
+      "headline": "Attempted Coup",
+      "text": "An attempted coup d'état occurred, leading to violent clashes and instability. The government was able to suppress the coup with the help of Senegalese forces.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Coup_attempts"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": 7,
+        "day": 22
+      },
+      "headline": "Military Coup",
+      "text": "A military coup led by Yahya Jammeh overthrew the government of President Jawara. This marked the beginning of Jammeh's long and controversial rule.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Jammeh_regime"
+    },
+    {
+      "start_date": {
+        "year": 1996
+      },
+      "headline": "New Constitution Adopted",
+      "text": "A new constitution was adopted, establishing a presidential system of government. This was part of Jammeh's efforts to legitimize his rule.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Constitutional_changes"
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "headline": "Political Repression",
+      "text": "The Jammeh regime faced increasing criticism for human rights abuses and political repression. Opposition parties were often suppressed, and dissent was not tolerated.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Political_repression"
+    },
+    {
+      "start_date": {
+        "year": 2012
+      },
+      "headline": "Gambia Leaves Commonwealth",
+      "text": "The Gambia announced its withdrawal from the Commonwealth of Nations, citing perceived neocolonialism. This decision was controversial and drew international criticism.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Commonwealth_withdrawal"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": 12,
+        "day": 1
+      },
+      "headline": "Presidential Election",
+      "text": "In a surprising election, opposition candidate Adama Barrow defeated Yahya Jammeh. This marked a significant shift in Gambian politics and was celebrated as a victory for democracy.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#2016_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "headline": "Jammeh Exiled",
+      "text": "Yahya Jammeh went into exile after refusing to concede defeat in the presidential election. His departure marked the end of 22 years of authoritarian rule.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Jammeh_exile"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "Truth, Reconciliation and Reparations Commission",
+      "text": "The Gambian government established a Truth, Reconciliation and Reparations Commission to address human rights abuses committed during Jammeh's regime. This was part of the country's efforts to heal and move forward.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Truth_and_Reconciliation_Commission"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 12,
+        "day": 4
+      },
+      "headline": "Barrow Reelected",
+      "text": "Adama Barrow was reelected in a peaceful election, securing a second term as president. This reaffirmed the country's commitment to democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#2021_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Democratic Reforms",
+      "text": "The Gambia continues to implement democratic reforms and address issues of governance and human rights. The nation is focused on building a more inclusive and transparent political system.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Gambia#Recent_developments"
+    }
+  ]
+}

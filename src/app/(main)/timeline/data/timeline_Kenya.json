@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Kenya",
+      "text": "Major events in the history of Kenya."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Habitation",
+      "text": "Evidence of human habitation in Kenya dates back to around 2 million years ago, with early hominids such as Homo habilis found in the region. This marks the beginning of human history in the area.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Kenya#Prehistory"
+    },
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Bantu Migration",
+      "text": "The Bantu-speaking peoples began migrating into Kenya from West Africa around 1000 BC, bringing with them agriculture and ironworking skills. This migration significantly influenced the cultural landscape of the region.",
+      "media": "https://en.wikipedia.org/wiki/Bantu_peoples"
+    },
+    {
+      "start_date": {
+        "year": 500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Coastal City-States",
+      "text": "By 500 AD, trade networks developed along the Kenyan coast, leading to the establishment of city-states like Mombasa and Malindi. These city-states became important centers for trade with Arabia, Persia, and India.",
+      "media": "https://en.wikipedia.org/wiki/Swahili_coast"
+    },
+    {
+      "start_date": {
+        "year": 1498,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "Vasco da Gama's Arrival",
+      "text": "Portuguese explorer Vasco da Gama arrived on the Kenyan coast in 1498, marking the beginning of European interest in the region. His arrival initiated a period of Portuguese control over trade routes in the Indian Ocean.",
+      "media": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+    },
+    {
+      "start_date": {
+        "year": 1895,
+        "month": null,
+        "day": null
+      },
+      "headline": "British East Africa Protectorate Established",
+      "text": "The British established the East Africa Protectorate in 1895, marking the beginning of formal colonial rule in Kenya. This led to significant changes in land ownership and governance.",
+      "media": "https://en.wikipedia.org/wiki/British_East_Africa"
+    },
+    {
+      "start_date": {
+        "year": 1900,
+        "month": null,
+        "day": null
+      },
+      "headline": "Construction of the Uganda Railway",
+      "text": "The construction of the Uganda Railway began in 1896 and was completed in 1901. This railway was crucial for the movement of goods and people, linking the interior of Kenya to the coast.",
+      "media": "https://en.wikipedia.org/wiki/Uganda_Railway"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": null,
+        "day": null
+      },
+      "headline": "Kenya Becomes a Colony",
+      "text": "In 1920, the East Africa Protectorate was officially declared a colony, known as the Kenya Colony. This change solidified British control over the region and intensified local resistance.",
+      "media": "https://en.wikipedia.org/wiki/Colonial_history_of_Kenya"
+    },
+    {
+      "start_date": {
+        "year": 1952,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Mau Mau Uprising Begins",
+      "text": "The Mau Mau Uprising against British colonial rule began in 1952, led by the Kikuyu people. This violent rebellion was a significant turning point in Kenya's struggle for independence.",
+      "media": "https://en.wikipedia.org/wiki/Mau_Mau_Uprising"
+    },
+    {
+      "start_date": {
+        "year": 1963,
+        "month": 6,
+        "day": 1
+      },
+      "headline": "Kenya Gains Independence",
+      "text": "Kenya gained independence from British colonial rule on June 1, 1963. Jomo Kenyatta became the first Prime Minister and later the first President of the Republic of Kenya.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Kenya#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": 12,
+        "day": 12
+      },
+      "headline": "Republic of Kenya Established",
+      "text": "On December 12, 1964, Kenya was declared a republic, with Jomo Kenyatta as its first president. This marked a new era in Kenyan governance and national identity.",
+      "media": "https://en.wikipedia.org/wiki/Republic_of_Kenya"
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": 8,
+        "day": 22
+      },
+      "headline": "Death of Jomo Kenyatta",
+      "text": "Jomo Kenyatta, the founding father and first president of Kenya, died on August 22, 1978. His death marked the end of an era and led to the presidency of Daniel arap Moi.",
+      "media": "https://en.wikipedia.org/wiki/Jomo_Kenyatta"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": null,
+        "day": null
+      },
+      "headline": "Return to Multi-Party Politics",
+      "text": "In 1991, Kenya returned to multi-party politics after years of single-party rule under President Moi. This change was a response to growing pressure for democratic reforms.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Kenya"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": 12,
+        "day": 27
+      },
+      "headline": "First Peaceful Transfer of Power",
+      "text": "In December 2002, Kenya experienced its first peaceful transfer of power after the National Rainbow Coalition defeated President Moi's party in the elections. This marked a significant milestone in Kenya's democratic journey.",
+      "media": "https://en.wikipedia.org/wiki/Kenya_general_election,_2002"
+    },
+    {
+      "start_date": {
+        "year": 2007,
+        "month": 12,
+        "day": 27
+      },
+      "headline": "Controversial Elections and Violence",
+      "text": "The 2007 general elections were marred by allegations of fraud, leading to widespread violence and ethnic clashes. The crisis resulted in over 1,000 deaths and significant displacement of people.",
+      "media": "https://en.wikipedia.org/wiki/Kenya_elections,_2007"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 8,
+        "day": 27
+      },
+      "headline": "New Constitution Adopted",
+      "text": "A new constitution was adopted in Kenya on August 27, 2010, following a national referendum. This constitution aimed to enhance democracy, human rights, and devolution of power.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Kenya"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": 3,
+        "day": 4
+      },
+      "headline": "Uhuru Kenyatta Elected President",
+      "text": "Uhuru Kenyatta was elected as the fourth president of Kenya in March 2013. His election was significant as he was the son of Jomo Kenyatta, the country's first president.",
+      "media": "https://en.wikipedia.org/wiki/Kenya_general_election,_2013"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 26
+      },
+      "headline": "Repeat Presidential Election",
+      "text": "A repeat presidential election was held on October 26, 2017, after the Supreme Court annulled the previous election due to irregularities. Uhuru Kenyatta was declared the winner amid boycotts and protests.",
+      "media": "https://en.wikipedia.org/wiki/Kenya_general_election,_2017"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 13
+      },
+      "headline": "COVID-19 Pandemic Hits Kenya",
+      "text": "The COVID-19 pandemic reached Kenya in March 2020, leading to significant health and economic challenges. The government implemented various measures to curb the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Kenya"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 8,
+        "day": 9
+      },
+      "headline": "General Elections Held",
+      "text": "Kenya held its general elections on August 9, 2022, with William Ruto emerging as the president-elect. The elections were marked by a high voter turnout and a peaceful transition of power.",
+      "media": "https://en.wikipedia.org/wiki/Kenya_general_election,_2022"
+    }
+  ]
+}

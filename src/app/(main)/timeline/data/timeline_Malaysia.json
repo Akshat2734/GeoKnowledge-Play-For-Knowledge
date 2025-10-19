@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Malaysia",
+      "text": "Major events in the history of Malaysia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Settlements",
+      "text": "The earliest evidence of human settlements in Malaysia dates back to around 3000 BC, with archaeological findings in the region indicating the presence of Neolithic communities.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Malaysia#Prehistoric_Malaysia"
+    },
+    {
+      "start_date": {
+        "year": 1400,
+        "month": null,
+        "day": null
+      },
+      "headline": "Founding of Malacca Sultanate",
+      "text": "The Malacca Sultanate was founded in 1400 by Parameswara, a Hindu prince from Sumatra, marking the beginning of a significant Islamic kingdom in the region.",
+      "media": "https://en.wikipedia.org/wiki/Malacca_Sultanate"
+    },
+    {
+      "start_date": {
+        "year": 1511,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Conquest of Malacca",
+      "text": "The Portuguese captured Malacca in 1511, establishing a foothold in Southeast Asia and marking the beginning of European colonial interests in the region.",
+      "media": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_Malacca"
+    },
+    {
+      "start_date": {
+        "year": 1641,
+        "month": null,
+        "day": null
+      },
+      "headline": "Dutch Capture of Malacca",
+      "text": "The Dutch seized Malacca from the Portuguese in 1641, further asserting their dominance in the spice trade and colonial ambitions in Southeast Asia.",
+      "media": "https://en.wikipedia.org/wiki/Dutch_conquest_of_Malacca"
+    },
+    {
+      "start_date": {
+        "year": 1786,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Establish Penang",
+      "text": "The British established Penang as a trading post in 1786, marking the beginning of British colonial influence in the Malay Peninsula.",
+      "media": "https://en.wikipedia.org/wiki/Penang"
+    },
+    {
+      "start_date": {
+        "year": 1826,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Straits Settlements",
+      "text": "The Straits Settlements were formed in 1826, comprising Penang, Malacca, and Singapore, serving as important trading hubs under British control.",
+      "media": "https://en.wikipedia.org/wiki/Straits_Settlements"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": null,
+        "day": null
+      },
+      "headline": "Japanese Occupation",
+      "text": "During World War II, Malaysia was occupied by Japan from 1941 to 1945, leading to significant hardships and changes in the local political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Malaya"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": null,
+        "day": null
+      },
+      "headline": "End of Japanese Occupation",
+      "text": "The Japanese occupation ended in 1945 with the surrender of Japan, leading to a power vacuum and the rise of nationalist movements in Malaysia.",
+      "media": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Malaya"
+    },
+    {
+      "start_date": {
+        "year": 1957,
+        "month": 8,
+        "day": 31
+      },
+      "headline": "Independence from Britain",
+      "text": "Malaysia gained independence from British colonial rule on August 31, 1957, marking a significant milestone in its history.",
+      "media": "https://en.wikipedia.org/wiki/Malaysia#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1963,
+        "month": 9,
+        "day": 16
+      },
+      "headline": "Formation of Malaysia",
+      "text": "On September 16, 1963, Malaysia was formed with the joining of Malaya, Singapore, Sarawak, and Sabah, creating a new federation.",
+      "media": "https://en.wikipedia.org/wiki/Malaysia#Formation"
+    },
+    {
+      "start_date": {
+        "year": 1965,
+        "month": 8,
+        "day": 9
+      },
+      "headline": "Singapore's Separation",
+      "text": "Singapore was expelled from Malaysia on August 9, 1965, becoming an independent nation after a brief union.",
+      "media": "https://en.wikipedia.org/wiki/Singapore#Separation_from_Malaysia"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Economic Policy Introduced",
+      "text": "The New Economic Policy (NEP) was introduced in 1971 to address economic disparities and promote social equity among the various ethnic groups in Malaysia.",
+      "media": "https://en.wikipedia.org/wiki/New_Economic_Policy"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": null,
+        "day": null
+      },
+      "headline": "Vision 2020 Launched",
+      "text": "Prime Minister Mahathir Mohamad launched Vision 2020 in 1991, aiming to transform Malaysia into a fully developed nation by the year 2020.",
+      "media": "https://en.wikipedia.org/wiki/Vision_2020_(Malaysia)"
+    },
+    {
+      "start_date": {
+        "year": 1997,
+        "month": null,
+        "day": null
+      },
+      "headline": "Asian Financial Crisis",
+      "text": "The Asian Financial Crisis in 1997 severely impacted Malaysia's economy, leading to a recession and significant reforms in the financial sector.",
+      "media": "https://en.wikipedia.org/wiki/1997_Asian_financial_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": null,
+        "day": null
+      },
+      "headline": "Tsunami Disaster",
+      "text": "The 2004 Indian Ocean tsunami caused devastation in parts of Malaysia, particularly in Penang and the northern states, leading to humanitarian efforts and disaster preparedness reforms.",
+      "media": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_tsunami"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "1MDB Scandal",
+      "text": "The 1Malaysia Development Berhad (1MDB) scandal emerged in 2015, involving allegations of corruption and mismanagement of state funds, leading to significant political turmoil.",
+      "media": "https://en.wikipedia.org/wiki/1Malaysia_Development_Berhad"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 5,
+        "day": 9
+      },
+      "headline": "Historic General Election",
+      "text": "In the 2018 general election, the Pakatan Harapan coalition won, marking the first change of government in Malaysia's history since independence in 1957.",
+      "media": "https://en.wikipedia.org/wiki/Malaysian_general_election,_2018"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic affected Malaysia significantly, leading to lockdowns, economic challenges, and a national vaccination campaign.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Malaysia"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Turmoil",
+      "text": "Political instability continued in Malaysia with changes in leadership and government coalitions, reflecting ongoing challenges in governance.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Malaysia"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Developments",
+      "text": "As of 2023, Malaysia continues to navigate economic recovery post-pandemic and address political challenges while aiming for sustainable development.",
+      "media": "https://en.wikipedia.org/wiki/Malaysia"
+    }
+  ]
+}

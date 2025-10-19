@@ -1,0 +1,100 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Switzerland",
+      "text": "Major events in the history of Switzerland."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1291
+      },
+      "headline": "Swiss Confederation Founded",
+      "text": "Three Alpine cantons form an alliance for mutual defense.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Old_Swiss_Confederacy"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1499
+      },
+      "headline": "Independence from the Holy Roman Empire",
+      "text": "After the Swabian War, Switzerland gains de facto independence.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Swabian_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1515
+      },
+      "headline": "Battle of Marignano",
+      "text": "A major defeat prompts Switzerland’s long-term neutrality.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Marignano"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1648
+      },
+      "headline": "Treaty of Westphalia",
+      "text": "Swiss independence is formally recognized in European law.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Westphalia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1798
+      },
+      "headline": "Helvetic Republic",
+      "text": "French occupation imposes centralized rule.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Helvetic_Republic"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1848
+      },
+      "headline": "Federal Constitution",
+      "text": "Modern Switzerland is established with a democratic constitution.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Switzerland"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1914
+      },
+      "headline": "Neutral in the World Wars",
+      "text": "Switzerland maintains neutrality and hosts humanitarian efforts.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Switzerland_during_the_World_Wars"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2002
+      },
+      "headline": "Joins the United Nations",
+      "text": "Switzerland joins the UN after a referendum.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Switzerland_and_the_United_Nations"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Global Diplomatic Leadership",
+      "text": "The country remains a hub for peace, finance, and climate diplomacy.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Switzerland"
+      }
+    }
+  ]
+}

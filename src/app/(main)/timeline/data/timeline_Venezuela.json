@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Venezuela",
+      "text": "Major events in the history of Venezuela."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1498
+      },
+      "headline": "Columbus Visits",
+      "text": "Christopher Columbus lands on the coast during his third voyage.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Venezuela"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1522
+      },
+      "headline": "Spanish Colonization",
+      "text": "Spain establishes settlements and colonizes the region.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Colonial_Venezuela"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1811,
+        "month": 7,
+        "day": 5
+      },
+      "headline": "Declaration of Independence",
+      "text": "First South American colony to declare independence from Spain.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Venezuelan_Declaration_of_Independence"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1821
+      },
+      "headline": "Battle of Carabobo",
+      "text": "Simón Bolívar secures independence with a decisive victory.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Carabobo"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1830
+      },
+      "headline": "Republic of Venezuela",
+      "text": "Separates from Gran Colombia as an independent republic.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Gran_Colombia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1908
+      },
+      "headline": "Gómez Dictatorship",
+      "text": "Juan Vicente Gómez establishes authoritarian rule and modernizes oil.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Juan_Vicente_G%C3%B3mez"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1958
+      },
+      "headline": "Democracy Restored",
+      "text": "After Pérez Jiménez falls, democracy returns.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/1958_Venezuelan_coup_d%27%C3%A9tat"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1999
+      },
+      "headline": "Bolivarian Republic",
+      "text": "Hugo Chávez introduces a new socialist constitution.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Maduro Presidency",
+      "text": "Nicolás Maduro succeeds Chávez amid crisis.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Crisis & Negotiations",
+      "text": "Economic turmoil continues with opposition talks.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Venezuela"
+      }
+    }
+  ]
+}

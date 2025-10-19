@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Denmark",
+      "text": "Major events in the history of Denmark."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -12000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The first human settlements in Denmark date back to around 12,000 BC, following the retreat of the glaciers from the last Ice Age. These early inhabitants were primarily hunter-gatherers.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Denmark#Prehistoric_Denmark"
+    },
+    {
+      "start_date": {
+        "year": -4000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Agricultural Revolution",
+      "text": "Around 4000 BC, agriculture began to spread in Denmark, leading to the establishment of more permanent settlements. This shift allowed for population growth and the development of more complex societies.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Denmark#Neolithic_period"
+    },
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Bronze Age",
+      "text": "The Bronze Age in Denmark began around 1000 BC, marked by the introduction of metalworking and trade with other cultures. This era saw the construction of burial mounds and the development of social hierarchies.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Denmark#Bronze_Age"
+    },
+    {
+      "start_date": {
+        "year": 0,
+        "month": null,
+        "day": null
+      },
+      "headline": "Viking Age Begins",
+      "text": "The Viking Age, which began around 800 AD, was characterized by seafaring Norsemen exploring, trading, and raiding across Europe. Denmark became a significant power during this period.",
+      "media": "https://en.wikipedia.org/wiki/Viking_Age"
+    },
+    {
+      "start_date": {
+        "year": 965,
+        "month": null,
+        "day": null
+      },
+      "headline": "Denmark Becomes Christian",
+      "text": "King Harald Bluetooth officially converted to Christianity in 965, marking the Christianization of Denmark. This event significantly influenced Danish culture and politics.",
+      "media": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+    },
+    {
+      "start_date": {
+        "year": 1397,
+        "month": null,
+        "day": null
+      },
+      "headline": "Kalmar Union Established",
+      "text": "The Kalmar Union was formed in 1397, uniting Denmark, Norway, and Sweden under a single monarch. This political alliance lasted until the early 16th century.",
+      "media": "https://en.wikipedia.org/wiki/Kalmar_Union"
+    },
+    {
+      "start_date": {
+        "year": 1523,
+        "month": null,
+        "day": null
+      },
+      "headline": "Denmark Becomes Independent",
+      "text": "Denmark regained independence from the Kalmar Union in 1523 when Christian II was deposed. This marked the beginning of a more centralized Danish monarchy.",
+      "media": "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 1536,
+        "month": null,
+        "day": null
+      },
+      "headline": "Reformation in Denmark",
+      "text": "The Reformation reached Denmark in 1536, leading to the establishment of Lutheranism as the state religion. This had profound effects on Danish society and governance.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Denmark#Reformation"
+    },
+    {
+      "start_date": {
+        "year": 1660,
+        "month": null,
+        "day": null
+      },
+      "headline": "Absolute Monarchy Established",
+      "text": "In 1660, Denmark transitioned to an absolute monarchy under King Frederick III. This marked a significant shift in the political structure of the country.",
+      "media": "https://en.wikipedia.org/wiki/Frederick_III_of_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 1849,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Constitution",
+      "text": "Denmark adopted its first constitution in 1849, transitioning from absolute monarchy to a constitutional monarchy. This was a pivotal moment in Danish democracy.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 1864,
+        "month": null,
+        "day": null
+      },
+      "headline": "Second Schleswig War",
+      "text": "The Second Schleswig War in 1864 resulted in Denmark's defeat against Prussia and Austria, leading to the loss of Schleswig and Holstein. This event had lasting impacts on Danish nationalism.",
+      "media": "https://en.wikipedia.org/wiki/Second_Schleswig_War"
+    },
+    {
+      "start_date": {
+        "year": 1901,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Danish Parliament Elections",
+      "text": "In 1901, Denmark held its first parliamentary elections based on universal suffrage for men. This was a significant step towards a more democratic society.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Denmark#20th_century"
+    },
+    {
+      "start_date": {
+        "year": 1915,
+        "month": null,
+        "day": null
+      },
+      "headline": "Women's Suffrage",
+      "text": "Women in Denmark gained the right to vote in 1915, making it one of the first countries in the world to grant suffrage to women. This was a major milestone in the fight for gender equality.",
+      "media": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 1940,
+        "month": 4,
+        "day": 9
+      },
+      "headline": "German Occupation",
+      "text": "Denmark was invaded by Nazi Germany on April 9, 1940, leading to a five-year occupation. The Danish government initially chose to cooperate with the occupiers.",
+      "media": "https://en.wikipedia.org/wiki/German_occupation_of_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": 5,
+        "day": 5
+      },
+      "headline": "Liberation from Occupation",
+      "text": "Denmark was liberated from German occupation on May 5, 1945, marking the end of World War II in the country. This event was celebrated nationwide.",
+      "media": "https://en.wikipedia.org/wiki/Liberation_of_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 1973,
+        "month": null,
+        "day": null
+      },
+      "headline": "Denmark Joins the EU",
+      "text": "Denmark became a member of the European Economic Community (EEC), now known as the European Union (EU), in 1973. This marked a significant step in Denmark's integration into Europe.",
+      "media": "https://en.wikipedia.org/wiki/Denmark_and_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Crown Prince Frederik's Wedding",
+      "text": "Crown Prince Frederik married Mary Donaldson in 2004, an event that captured the attention of the nation and strengthened the monarchy's popularity.",
+      "media": "https://en.wikipedia.org/wiki/Frederik,_Crown_Prince_of_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 11
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Denmark faced the COVID-19 pandemic starting in March 2020, leading to widespread lockdowns and public health measures. The government implemented various strategies to manage the crisis.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Climate Action Initiatives",
+      "text": "Denmark has been a leader in climate action, committing to ambitious goals for reducing carbon emissions and transitioning to renewable energy sources. This reflects the country's commitment to sustainability.",
+      "media": "https://en.wikipedia.org/wiki/Climate_change_in_Denmark"
+    }
+  ]
+}

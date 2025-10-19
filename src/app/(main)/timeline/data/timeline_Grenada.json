@@ -1,0 +1,172 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Grenada",
+      "text": "Major events in the history of Grenada."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The first known inhabitants of Grenada were the Arawak people, who arrived around 3000 BC. They were later followed by the Carib people, who displaced the Arawaks.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 1498,
+        "month": 6,
+        "day": 15
+      },
+      "headline": "Discovery by Columbus",
+      "text": "Christopher Columbus sighted Grenada during his third voyage to the New World. He named the island 'Concepción' but did not establish any settlements.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1600
+      },
+      "headline": "French Colonization",
+      "text": "The French began to settle Grenada in the early 17th century, establishing plantations and importing enslaved Africans to work them. This marked the beginning of significant European influence on the island.",
+      "media": "https://en.wikipedia.org/wiki/French_colonization_of_the_Americas"
+    },
+    {
+      "start_date": {
+        "year": 1763
+      },
+      "headline": "Treaty of Paris",
+      "text": "The Treaty of Paris ended the Seven Years' War and ceded Grenada to the British from the French. This marked the beginning of British colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)"
+    },
+    {
+      "start_date": {
+        "year": 1795,
+        "month": 8,
+        "day": 2
+      },
+      "headline": "The Great Slave Revolt",
+      "text": "The Great Slave Revolt occurred in Grenada, led by Julien Fédon. The revolt was a significant resistance against British colonial rule and slavery.",
+      "media": "https://en.wikipedia.org/wiki/Great_Slave_Revolt_of_1795"
+    },
+    {
+      "start_date": {
+        "year": 1834
+      },
+      "headline": "Abolition of Slavery",
+      "text": "Slavery was officially abolished in Grenada in 1834, leading to significant social and economic changes on the island. Former enslaved people became laborers on plantations.",
+      "media": "https://en.wikipedia.org/wiki/Abolition_of_slavery"
+    },
+    {
+      "start_date": {
+        "year": 1951
+      },
+      "headline": "Universal Suffrage",
+      "text": "Grenada achieved universal suffrage, allowing all adults the right to vote. This was a significant step towards self-governance and political representation.",
+      "media": "https://en.wikipedia.org/wiki/Universal_suffrage"
+    },
+    {
+      "start_date": {
+        "year": 1967
+      },
+      "headline": "Internal Self-Government",
+      "text": "Grenada was granted internal self-government under the British West Indies Act. This allowed for greater autonomy while still being a British colony.",
+      "media": "https://en.wikipedia.org/wiki/British_West_Indies_Act_1967"
+    },
+    {
+      "start_date": {
+        "year": 1974,
+        "month": 2,
+        "day": 7
+      },
+      "headline": "Independence from Britain",
+      "text": "Grenada gained independence from British colonial rule on February 7, 1974. This marked the beginning of a new era for the nation as a sovereign state.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": 3,
+        "day": 13
+      },
+      "headline": "Revolution in Grenada",
+      "text": "A revolution led by Maurice Bishop and the New Jewel Movement overthrew the government. This resulted in the establishment of a socialist state in Grenada.",
+      "media": "https://en.wikipedia.org/wiki/Grenadian_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1983,
+        "month": 10,
+        "day": 25
+      },
+      "headline": "U.S. Invasion of Grenada",
+      "text": "The United States invaded Grenada in Operation Urgent Fury, citing concerns over the safety of American citizens and the spread of communism. The invasion led to the overthrow of the Grenadian government.",
+      "media": "https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 1984
+      },
+      "headline": "Return to Democracy",
+      "text": "Following the U.S. invasion, Grenada returned to democratic governance with elections held in 1984. This marked a significant shift back to a more stable political environment.",
+      "media": "https://en.wikipedia.org/wiki/Elections_in_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 1995
+      },
+      "headline": "Formation of the National Democratic Congress",
+      "text": "The National Democratic Congress (NDC) was formed as a political party, aiming to provide an alternative to the ruling New National Party. It played a significant role in Grenadian politics.",
+      "media": "https://en.wikipedia.org/wiki/National_Democratic_Congress_(Grenada)"
+    },
+    {
+      "start_date": {
+        "year": 2008
+      },
+      "headline": "Economic Challenges",
+      "text": "Grenada faced significant economic challenges, including the impact of global financial crises and natural disasters. These challenges prompted government reforms and international assistance.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Hurricane Season",
+      "text": "Hurricane season in 2013 brought severe weather to Grenada, causing damage to infrastructure and homes. The government initiated recovery efforts to rebuild the affected areas.",
+      "media": "https://en.wikipedia.org/wiki/Hurricanes_in_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "General Elections",
+      "text": "General elections were held in Grenada, resulting in a victory for the New National Party. This continued the party's long-standing influence in Grenadian politics.",
+      "media": "https://en.wikipedia.org/wiki/2018_Grenadian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic impacted Grenada significantly, affecting health, tourism, and the economy. The government implemented measures to manage the crisis and protect public health.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Vaccination Rollout",
+      "text": "Grenada began its COVID-19 vaccination rollout, aiming to immunize the population against the virus. This was a crucial step in the country's recovery from the pandemic.",
+      "media": "https://en.wikipedia.org/wiki/Vaccination_in_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Recovery Efforts",
+      "text": "As Grenada continues to recover from the impacts of the COVID-19 pandemic, the government focuses on rebuilding the economy and enhancing public health infrastructure.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Grenada"
+    }
+  ]
+}

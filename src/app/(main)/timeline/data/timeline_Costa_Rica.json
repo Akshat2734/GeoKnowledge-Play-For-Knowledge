@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Costa Rica",
+      "text": "Major events in the history of Costa Rica."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The earliest known human settlements in Costa Rica date back to around 500 BC, with indigenous groups such as the Chorotega and Bribri establishing communities.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Costa_Rica#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1502,
+        "month": 9,
+        "day": 18
+      },
+      "headline": "Christopher Columbus Arrives",
+      "text": "Christopher Columbus arrived on the Caribbean coast of Costa Rica during his fourth voyage to the New World, marking the beginning of European interest in the region.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1563,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Cartago",
+      "text": "Cartago was founded as the first permanent Spanish settlement in Costa Rica, serving as the colonial capital and a center for agriculture and trade.",
+      "media": "https://en.wikipedia.org/wiki/Cartago,_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": 9,
+        "day": 15
+      },
+      "headline": "Independence from Spain",
+      "text": "Costa Rica, along with other Central American provinces, declared independence from Spanish rule, marking a significant turning point in its history.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 1838,
+        "month": null,
+        "day": null
+      },
+      "headline": "Costa Rica Becomes a Sovereign State",
+      "text": "Costa Rica officially declared itself a sovereign state, separating from the Federal Republic of Central America, which had been established after independence.",
+      "media": "https://en.wikipedia.org/wiki/Federal_Republic_of_Central_America"
+    },
+    {
+      "start_date": {
+        "year": 1843,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Constitution",
+      "text": "Costa Rica adopted its first constitution, establishing the framework for its government and legal system, emphasizing democracy and civil rights.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 1856,
+        "month": null,
+        "day": null
+      },
+      "headline": "Filibuster War",
+      "text": "Costa Rican forces, led by General Juan Rafael Mora Porras, successfully repelled the invasion of American filibuster William Walker, who aimed to establish a slave state.",
+      "media": "https://en.wikipedia.org/wiki/William_Walker_(filibuster)"
+    },
+    {
+      "start_date": {
+        "year": 1871,
+        "month": null,
+        "day": null
+      },
+      "headline": "Coffee Export Boom",
+      "text": "The coffee industry began to flourish, becoming a key driver of Costa Rica's economy and leading to increased exports and foreign investment.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Costa_Rica#Agriculture"
+    },
+    {
+      "start_date": {
+        "year": 1948,
+        "month": null,
+        "day": null
+      },
+      "headline": "Abolition of the Army",
+      "text": "Costa Rica abolished its army, redirecting military funds towards education and healthcare, which laid the foundation for its modern welfare state.",
+      "media": "https://en.wikipedia.org/wiki/Military_of_Costa_Rica#Abolition_of_the_army"
+    },
+    {
+      "start_date": {
+        "year": 1949,
+        "month": 11,
+        "day": 7
+      },
+      "headline": "New Constitution",
+      "text": "A new constitution was adopted, solidifying democratic governance and human rights protections, and establishing the framework for a stable political system.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": null,
+        "day": null
+      },
+      "headline": "National Parks System Established",
+      "text": "Costa Rica established its national parks system, recognizing the importance of conservation and biodiversity, which has become a model for ecotourism.",
+      "media": "https://en.wikipedia.org/wiki/National_parks_of_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Crisis",
+      "text": "Costa Rica faced a severe economic crisis characterized by high inflation and unemployment, prompting significant reforms and adjustments in economic policy.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Costa_Rica#1980s_crisis"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": null,
+        "day": null
+      },
+      "headline": "Democratic Elections",
+      "text": "Costa Rica held democratic elections, marking a return to stable governance after a period of political turmoil and economic challenges.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 1996,
+        "month": null,
+        "day": null
+      },
+      "headline": "Free Trade Agreement with Mexico",
+      "text": "Costa Rica signed a free trade agreement with Mexico, paving the way for increased trade and economic integration within the region.",
+      "media": "https://en.wikipedia.org/wiki/Free_trade_agreement"
+    },
+    {
+      "start_date": {
+        "year": 2007,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "CAFTA-DR Agreement",
+      "text": "Costa Rica ratified the Central America-Dominican Republic Free Trade Agreement (CAFTA-DR), further integrating its economy with the United States and Central America.",
+      "media": "https://en.wikipedia.org/wiki/CAFTA-DR"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": null,
+        "day": null
+      },
+      "headline": "Renewable Energy Milestone",
+      "text": "Costa Rica achieved a significant milestone by running on 100% renewable energy for 299 days, showcasing its commitment to sustainability and environmental protection.",
+      "media": "https://en.wikipedia.org/wiki/Renewable_energy_in_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Costa Rica, like the rest of the world, faced the challenges of the COVID-19 pandemic, implementing measures to protect public health while managing economic impacts.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Costa_Rica"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "Presidential Elections",
+      "text": "Costa Rica held presidential elections, reflecting its ongoing democratic processes and the public's engagement in shaping the country's future.",
+      "media": "https://en.wikipedia.org/wiki/2022_Costa_Rican_presidential_election"
+    }
+  ]
+}

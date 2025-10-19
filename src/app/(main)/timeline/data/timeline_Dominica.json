@@ -1,0 +1,170 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Dominica",
+      "text": "Major events in the history of Dominica."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Inhabitants",
+      "text": "The first known inhabitants of Dominica were the Arawak people, who arrived around 1000 AD. They were later followed by the Carib people, who displaced the Arawaks and settled on the island.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1493,
+        "month": 11,
+        "day": 3
+      },
+      "headline": "Discovery by Christopher Columbus",
+      "text": "Christopher Columbus sighted Dominica on November 3, 1493, during his second voyage to the Americas. He named the island 'Dominica' after the day of the week it was discovered, Sunday.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#European_discovery"
+    },
+    {
+      "start_date": {
+        "year": 1635,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Colonization",
+      "text": "The French began to settle in Dominica in 1635, establishing plantations and engaging in trade. This marked the beginning of European colonial influence on the island.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#French_colonization"
+    },
+    {
+      "start_date": {
+        "year": 1763,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of Paris",
+      "text": "The Treaty of Paris in 1763 ceded Dominica to the British after the Seven Years' War. This marked a significant shift in colonial power on the island.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#British_rule"
+    },
+    {
+      "start_date": {
+        "year": 1805,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Census",
+      "text": "Dominica conducted its first census in 1805, recording a population of approximately 12,000 people. This census provided important demographic data for the island.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#19th_century"
+    },
+    {
+      "start_date": {
+        "year": 1834,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "Abolition of Slavery",
+      "text": "Slavery was abolished in Dominica in 1834, leading to significant social and economic changes. Former enslaved people began to establish their own communities and livelihoods.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Abolition_of_slavery"
+    },
+    {
+      "start_date": {
+        "year": 1903,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Legislative Council",
+      "text": "In 1903, the British established a Legislative Council in Dominica, allowing for limited self-governance. This was a step towards political representation for the island's inhabitants.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#20th_century"
+    },
+    {
+      "start_date": {
+        "year": 1967,
+        "month": null,
+        "day": null
+      },
+      "headline": "Associated Statehood",
+      "text": "Dominica achieved Associated Statehood in 1967, gaining greater autonomy while remaining a part of the British Empire. This was a significant milestone in the island's path to independence.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": 11,
+        "day": 3
+      },
+      "headline": "Independence from Britain",
+      "text": "Dominica gained full independence from Britain on November 3, 1978. This marked the beginning of a new era for the island as a sovereign nation.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "First General Elections",
+      "text": "Dominica held its first general elections as an independent nation in 1980. This election was crucial for establishing the democratic governance of the country.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Political_development"
+    },
+    {
+      "start_date": {
+        "year": 1995,
+        "month": null,
+        "day": null
+      },
+      "headline": "Hurricane Maria",
+      "text": "Hurricane Maria struck Dominica in September 2017, causing widespread destruction and loss of life. The storm had a profound impact on the island's infrastructure and economy.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Maria"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Challenges",
+      "text": "The early 2000s saw Dominica facing significant economic challenges, including high unemployment and debt. The government implemented various reforms to stabilize the economy.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Economic_development"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": null,
+        "day": null
+      },
+      "headline": "Climate Resilience Initiatives",
+      "text": "In response to the impacts of climate change, Dominica launched several initiatives aimed at building climate resilience. These efforts focused on sustainable development and disaster preparedness.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Recent_developments"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reached Dominica in 2020, prompting the government to implement health measures to protect the population. The pandemic had significant effects on the island's tourism-dependent economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Dominica"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Vaccination Rollout",
+      "text": "Dominica began its COVID-19 vaccination rollout in early 2021, aiming to immunize a significant portion of the population. This was a crucial step towards recovery from the pandemic.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Dominica"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Recovery Efforts",
+      "text": "As of 2023, Dominica continues its recovery efforts from the impacts of Hurricane Maria and the COVID-19 pandemic. The government is focused on rebuilding infrastructure and promoting sustainable tourism.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Dominica#Recent_developments"
+    }
+  ]
+}

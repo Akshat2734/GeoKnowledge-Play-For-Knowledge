@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Eritrea",
+      "text": "Major events in the history of Eritrea."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Settlements",
+      "text": "Eritrea's history dates back to ancient times with settlements by the Aksumite Empire. The region was known for its trade routes and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/Aksumite_Empire"
+    },
+    {
+      "start_date": {
+        "year": 500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Rise of the Kingdom of Aksum",
+      "text": "The Kingdom of Aksum emerged as a major trading empire, controlling trade routes across the Red Sea and into the Arabian Peninsula.",
+      "media": "https://en.wikipedia.org/wiki/Aksum"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Exploration",
+      "text": "Portuguese explorers arrived in the region, marking the beginning of European interest in the Horn of Africa.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eritrea#Portuguese_exploration"
+    },
+    {
+      "start_date": {
+        "year": 1869,
+        "month": null,
+        "day": null
+      },
+      "headline": "Construction of the Suez Canal",
+      "text": "The opening of the Suez Canal increased European interest in the Red Sea region, leading to further colonization efforts.",
+      "media": "https://en.wikipedia.org/wiki/Suez_Canal"
+    },
+    {
+      "start_date": {
+        "year": 1885,
+        "month": null,
+        "day": null
+      },
+      "headline": "Italian Colonization Begins",
+      "text": "Italy established a colony in Eritrea, marking the beginning of European colonial rule in the region.",
+      "media": "https://en.wikipedia.org/wiki/Italian_Eritrea"
+    },
+    {
+      "start_date": {
+        "year": 1935,
+        "month": 10,
+        "day": 3
+      },
+      "headline": "Second Italo-Ethiopian War",
+      "text": "Italy invaded Ethiopia, leading to a brutal conflict that resulted in the annexation of Ethiopia and the consolidation of Italian East Africa.",
+      "media": "https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Occupation",
+      "text": "British forces defeated the Italians and occupied Eritrea during World War II, leading to the end of Italian colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/British_Eritrea"
+    },
+    {
+      "start_date": {
+        "year": 1952,
+        "month": null,
+        "day": null
+      },
+      "headline": "Federation with Ethiopia",
+      "text": "Eritrea was federated with Ethiopia under a UN resolution, granting it a degree of autonomy.",
+      "media": "https://en.wikipedia.org/wiki/Eritrea#Federation_with_Ethiopia"
+    },
+    {
+      "start_date": {
+        "year": 1962,
+        "month": null,
+        "day": null
+      },
+      "headline": "Annexation by Ethiopia",
+      "text": "Ethiopia dissolved the federation and annexed Eritrea, leading to widespread discontent and the start of armed resistance.",
+      "media": "https://en.wikipedia.org/wiki/Eritrean_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": 9,
+        "day": 1
+      },
+      "headline": "Start of the Eritrean War of Independence",
+      "text": "The Eritrean War of Independence began as the Eritrean Liberation Front (ELF) launched an armed struggle against Ethiopian rule.",
+      "media": "https://en.wikipedia.org/wiki/Eritrean_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the EPLF",
+      "text": "The Eritrean People's Liberation Front (EPLF) was formed, becoming the dominant force in the struggle for independence.",
+      "media": "https://en.wikipedia.org/wiki/Eritrean_People%27s_Liberation_Front"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 5,
+        "day": 24
+      },
+      "headline": "Independence Achieved",
+      "text": "Eritrea officially gained independence from Ethiopia after a 30-year war, following the defeat of Ethiopian forces.",
+      "media": "https://en.wikipedia.org/wiki/Eritrea#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": 4,
+        "day": 23
+      },
+      "headline": "Eritrea Becomes a Republic",
+      "text": "Eritrea became an independent republic following a UN-supervised referendum where over 99% voted for independence.",
+      "media": "https://en.wikipedia.org/wiki/Eritrea#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": 5,
+        "day": 6
+      },
+      "headline": "Eritrean-Ethiopian War Begins",
+      "text": "A border dispute between Eritrea and Ethiopia escalated into a full-scale war, lasting until 2000.",
+      "media": "https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_War"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": 12,
+        "day": 12
+      },
+      "headline": "Algiers Agreement Signed",
+      "text": "The Algiers Agreement was signed, officially ending the Eritrean-Ethiopian War and establishing a ceasefire.",
+      "media": "https://en.wikipedia.org/wiki/Algiers_Agreement"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Repression Intensifies",
+      "text": "Following the war, the Eritrean government intensified political repression, banning opposition parties and restricting freedoms.",
+      "media": "https://en.wikipedia.org/wiki/Human_rights_in_Eritrea"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 7,
+        "day": 9
+      },
+      "headline": "Peace Agreement with Ethiopia",
+      "text": "Eritrea and Ethiopia signed a peace agreement, officially ending the state of war that had existed since 1998.",
+      "media": "https://en.wikipedia.org/wiki/Eritrea%E2%80%93Ethiopia_peace_agreement"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Conflict in Tigray",
+      "text": "The conflict in Ethiopia's Tigray region had significant implications for Eritrea, with Eritrean troops involved in the conflict alongside Ethiopian forces.",
+      "media": "https://en.wikipedia.org/wiki/Tigray_war"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Human Rights Concerns",
+      "text": "Eritrea continues to face international scrutiny over human rights abuses, with reports of forced conscription and lack of political freedoms.",
+      "media": "https://en.wikipedia.org/wiki/Human_rights_in_Eritrea"
+    }
+  ]
+}

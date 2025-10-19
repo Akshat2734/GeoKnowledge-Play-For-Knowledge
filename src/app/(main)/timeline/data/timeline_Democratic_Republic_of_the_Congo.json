@@ -1,0 +1,157 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Democratic Republic of the Congo",
+      "text": "Major events in the history of Democratic Republic of the Congo."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "headline": "Early Human Settlement",
+      "text": "Archaeological evidence suggests that humans have inhabited the region of present-day Democratic Republic of the Congo since at least 5000 BC, with various hunter-gatherer societies emerging.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Democratic_Republic_of_the_Congo#Pre-colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Formation of Kingdoms",
+      "text": "By the first millennium AD, several kingdoms, including the Kingdom of Kongo, began to form in the region, establishing trade networks and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo"
+    },
+    {
+      "start_date": {
+        "year": 1482,
+        "month": 5, "day": 1
+      },
+      "headline": "Arrival of the Portuguese",
+      "text": "Portuguese explorer Diogo Cão arrives at the mouth of the Congo River, marking the beginning of European contact with the region.",
+      "media": "https://en.wikipedia.org/wiki/Diogo_C%C3%A3o"
+    },
+    {
+      "start_date": {
+        "year": 1885
+      },
+      "headline": "Establishment of the Congo Free State",
+      "text": "King Leopold II of Belgium claims the Congo Free State as his personal possession, leading to widespread exploitation and atrocities against the local population.",
+      "media": "https://en.wikipedia.org/wiki/Congo_Free_State"
+    },
+    {
+      "start_date": {
+        "year": 1908
+      },
+      "headline": "Congo Becomes Belgian Colony",
+      "text": "International outrage over the abuses in the Congo Free State leads to its annexation by Belgium, becoming a Belgian colony.",
+      "media": "https://en.wikipedia.org/wiki/Belgian_Congo"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 6, "day": 30
+      },
+      "headline": "Independence from Belgium",
+      "text": "The Democratic Republic of the Congo gains independence from Belgium, with Patrice Lumumba becoming the first Prime Minister.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_the_Democratic_Republic_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": null,       "day": null
+      },
+      "headline": "Assassination of Patrice Lumumba",
+      "text": "Prime Minister Patrice Lumumba is assassinated, leading to a period of political instability and conflict.",
+      "media": "https://en.wikipedia.org/wiki/Patrice_Lumumba"
+    },
+    {
+      "start_date": {
+        "year": 1965
+      },
+      "headline": "Mobutu Sese Seko Takes Power",
+      "text": "General Mobutu Sese Seko seizes power in a coup, establishing a dictatorship that lasts for over three decades.",
+      "media": "https://en.wikipedia.org/wiki/Mobutu_Sese_Seko"
+    },
+    {
+      "start_date": {
+        "year": 1997
+      },
+      "headline": "Mobutu Overthrown",
+      "text": "Mobutu is overthrown by Laurent-Désiré Kabila, marking the end of his long rule and the beginning of a new era.",
+      "media": "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila"
+    },
+    {
+      "start_date": {
+        "year": 1998
+      },
+      "headline": "First Congo War",
+      "text": "The First Congo War begins, involving multiple African nations and leading to millions of deaths and widespread devastation.",
+      "media": "https://en.wikipedia.org/wiki/First_Congo_War"
+    },
+    {
+      "start_date": {
+        "year": 2001
+      },
+      "headline": "Assassination of Laurent-Désiré Kabila",
+      "text": "President Laurent-Désiré Kabila is assassinated, leading to his son Joseph Kabila assuming the presidency amidst ongoing conflict.",
+      "media": "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila#Assassination"
+    },
+    {
+      "start_date": {
+        "year": 2003
+      },
+      "headline": "End of Second Congo War",
+      "text": "The Second Congo War officially ends with the signing of peace agreements, although violence continues in various regions.",
+      "media": "https://en.wikipedia.org/wiki/Second_Congo_War"
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "headline": "First Democratic Elections",
+      "text": "The Democratic Republic of the Congo holds its first democratic elections since independence, with Joseph Kabila elected as president.",
+      "media": "https://en.wikipedia.org/wiki/2006_Democratic_Republic_of_the_Congo_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "headline": "Controversial Elections",
+      "text": "Presidential elections are held, but are marred by allegations of fraud and violence, leading to widespread unrest.",
+      "media": "https://en.wikipedia.org/wiki/2011_Democratic_Republic_of_the_Congo_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "New Presidential Elections",
+      "text": "After years of political tension, new presidential elections are held, resulting in Félix Tshisekedi becoming president.",
+      "media": "https://en.wikipedia.org/wiki/2018_Democratic_Republic_of_the_Congo_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reaches the Democratic Republic of the Congo, impacting public health and the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Democratic_Republic_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Political and Social Unrest",
+      "text": "The country faces ongoing political and social unrest, with protests against government policies and economic challenges.",
+      "media": "https://en.wikipedia.org/wiki/2021_in_the_Democratic_Republic_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Conflict in Eastern DRC",
+      "text": "The eastern regions of the Democratic Republic of the Congo continue to experience violence and conflict, with various armed groups operating in the area.",
+      "media": "https://en.wikipedia.org/wiki/Eastern_Democratic_Republic_of_the_Congo"
+    }
+  ]
+}

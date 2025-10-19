@@ -1,0 +1,174 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Antigua and Barbuda",
+      "text": "Major events in the history of Antigua and Barbuda."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -4000
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The first inhabitants of Antigua and Barbuda were the Siboney people, who arrived around 4000 BC. They were followed by the Arawak and Carib tribes, who developed agriculture and fishing techniques.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Antigua_and_Barbuda"
+    },
+    {
+      "start_date": {
+        "year": 1493,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Christopher Columbus Arrives",
+      "text": "Christopher Columbus arrived in Antigua on his second voyage to the Americas in 1493. He claimed the island for Spain, although it was not settled by them.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1632
+      },
+      "headline": "English Settlement",
+      "text": "The English established their first settlement in Antigua in 1632. This marked the beginning of European colonization and the introduction of sugar plantations.",
+      "media": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1666
+      },
+      "headline": "Barbuda Settled",
+      "text": "Barbuda was settled by the English in 1666, becoming a part of the same colonial administration as Antigua. The island was primarily used for agriculture and livestock.",
+      "media": "https://en.wikipedia.org/wiki/Barbuda"
+    },
+    {
+      "start_date": {
+        "year": 1689
+      },
+      "headline": "Sugar Industry Flourishes",
+      "text": "By the late 17th century, the sugar industry became the backbone of Antigua's economy. The demand for labor led to the importation of enslaved Africans.",
+      "media": "https://en.wikipedia.org/wiki/Sugar_cane"
+    },
+    {
+      "start_date": {
+        "year": 1834
+      },
+      "headline": "Abolition of Slavery",
+      "text": "Slavery was officially abolished in Antigua and Barbuda in 1834. This led to significant social and economic changes in the islands.",
+      "media": "https://en.wikipedia.org/wiki/Abolition_of_slavery"
+    },
+    {
+      "start_date": {
+        "year": 1860
+      },
+      "headline": "First Sugar Factory",
+      "text": "The first sugar factory was established in Antigua in 1860, marking a shift towards more industrialized sugar production. This contributed to the economy until the decline of the sugar industry.",
+      "media": "https://en.wikipedia.org/wiki/Sugar_industry"
+    },
+    {
+      "start_date": {
+        "year": 1943
+      },
+      "headline": "U.S. Military Base Established",
+      "text": "During World War II, the United States established a military base in Antigua. This brought economic benefits and infrastructure development to the islands.",
+      "media": "https://en.wikipedia.org/wiki/United_States_military_bases"
+    },
+    {
+      "start_date": {
+        "year": 1967
+      },
+      "headline": "Associated Statehood",
+      "text": "Antigua and Barbuda achieved associated statehood with the United Kingdom in 1967. This allowed for greater self-governance while remaining a British territory.",
+      "media": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda#Political_history"
+    },
+    {
+      "start_date": {
+        "year": 1981,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Independence from Britain",
+      "text": "Antigua and Barbuda gained independence from the United Kingdom on November 1, 1981. This marked a significant milestone in the islands' political history.",
+      "media": "https://en.wikipedia.org/wiki/Independence_Day_(Antigua_and_Barbuda)"
+    },
+    {
+      "start_date": {
+        "year": 1983
+      },
+      "headline": "U.S. Invasion of Grenada",
+      "text": "The U.S. invasion of Grenada in 1983 had implications for Antigua and Barbuda, as it was part of a broader regional response to perceived threats. The event highlighted the strategic importance of the Caribbean.",
+      "media": "https://en.wikipedia.org/wiki/1983_invasion_of_Grenada"
+    },
+    {
+      "start_date": {
+        "year": 1990
+      },
+      "headline": "Economic Challenges",
+      "text": "The 1990s brought economic challenges to Antigua and Barbuda, including a decline in tourism and the sugar industry. The government sought to diversify the economy.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Antigua_and_Barbuda"
+    },
+    {
+      "start_date": {
+        "year": 1994
+      },
+      "headline": "Caribbean Single Market",
+      "text": "Antigua and Barbuda joined the Caribbean Community (CARICOM) in 1994, promoting regional integration and cooperation among Caribbean nations.",
+      "media": "https://en.wikipedia.org/wiki/CARICOM"
+    },
+    {
+      "start_date": {
+        "year": 2004
+      },
+      "headline": "Hurricane Ivan",
+      "text": "Hurricane Ivan struck the Caribbean in 2004, causing significant damage to Antigua and Barbuda. The government initiated recovery efforts to rebuild the affected areas.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Ivan"
+    },
+    {
+      "start_date": {
+        "year": 2008
+      },
+      "headline": "Economic Recession",
+      "text": "The global financial crisis of 2008 severely impacted Antigua and Barbuda's economy, leading to increased unemployment and reduced tourism revenues.",
+      "media": "https://en.wikipedia.org/wiki/2008_financial_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "New Citizenship by Investment Program",
+      "text": "In 2013, Antigua and Barbuda launched a Citizenship by Investment program to attract foreign investment. This initiative aimed to boost the economy and create jobs.",
+      "media": "https://en.wikipedia.org/wiki/Citizenship_by_investment"
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "headline": "Hurricane Irma",
+      "text": "Hurricane Irma struck in 2017, causing extensive damage to Barbuda, leading to the evacuation of its residents. Recovery efforts were initiated to restore the island.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Irma"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic in 2020 severely affected Antigua and Barbuda's tourism-dependent economy. The government implemented measures to mitigate the impact on public health and the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Antigua_and_Barbuda"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Vaccination Rollout",
+      "text": "In 2021, Antigua and Barbuda began its COVID-19 vaccination rollout, aiming to achieve herd immunity and revive the tourism sector. The program was supported by international partners.",
+      "media": "https://en.wikipedia.org/wiki/Vaccination_against_COVID-19"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Economic Recovery",
+      "text": "As of 2023, Antigua and Barbuda continues to focus on economic recovery post-pandemic, emphasizing tourism and sustainable development. The government is exploring new opportunities for growth.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Antigua_and_Barbuda"
+    }
+  ]
+}

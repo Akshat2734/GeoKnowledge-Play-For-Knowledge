@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Belize",
+      "text": "Major events in the history of Belize."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mayan Civilization",
+      "text": "The area now known as Belize was inhabited by the Maya civilization, which flourished from around 1500 BC to the arrival of Europeans. The Maya built impressive cities, developed a complex society, and made significant advancements in mathematics and astronomy.",
+      "media": "https://en.wikipedia.org/wiki/Maya_civilization"
+    },
+    {
+      "start_date": {
+        "year": 1492,
+        "month": 10,
+        "day": 12
+      },
+      "headline": "Christopher Columbus",
+      "text": "Christopher Columbus arrived in the Caribbean in 1492, marking the beginning of European exploration in the region. Although he did not land in Belize, his voyages opened the door for future exploration and colonization.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Exploration",
+      "text": "Spanish explorers began to arrive in the region, claiming territories and establishing settlements. They encountered the Maya but were largely unsuccessful in colonizing Belize due to resistance from the indigenous population.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas"
+    },
+    {
+      "start_date": {
+        "year": 1638,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Settlement",
+      "text": "The first British settlers arrived in Belize, initially attracted by the region's valuable timber resources. They established logging camps, leading to the eventual establishment of British Honduras.",
+      "media": "https://en.wikipedia.org/wiki/British_Honduras"
+    },
+    {
+      "start_date": {
+        "year": 1763,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of Paris",
+      "text": "The Treaty of Paris granted Britain control over the territory of Belize after the Seven Years' War. This solidified British interests in the region and marked the beginning of formal colonial administration.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)"
+    },
+    {
+      "start_date": {
+        "year": 1862,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Honduras",
+      "text": "Belize was officially declared a British colony and renamed British Honduras. This marked a significant step in the establishment of colonial governance and administration.",
+      "media": "https://en.wikipedia.org/wiki/British_Honduras"
+    },
+    {
+      "start_date": {
+        "year": 1931,
+        "month": null,
+        "day": null
+      },
+      "headline": "Hurricane of 1931",
+      "text": "A devastating hurricane struck Belize City, causing widespread destruction and loss of life. The disaster prompted significant changes in urban planning and disaster preparedness in the country.",
+      "media": "https://en.wikipedia.org/wiki/1931_Belize_hurricane"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Awakening",
+      "text": "The post-World War II era saw a rise in political consciousness among the people of Belize. This period laid the groundwork for future movements towards self-governance and independence.",
+      "media": "https://en.wikipedia.org/wiki/Belizean_independence"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Changes",
+      "text": "The British government enacted constitutional reforms that increased local representation in the legislature. This was a significant step towards self-governance for Belize.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Belize"
+    },
+    {
+      "start_date": {
+        "year": 1973,
+        "month": null,
+        "day": null
+      },
+      "headline": "Independence Movement",
+      "text": "Belize began to push more vigorously for independence from British rule. The movement gained momentum as political parties and leaders advocated for self-determination.",
+      "media": "https://en.wikipedia.org/wiki/Belizean_independence"
+    },
+    {
+      "start_date": {
+        "year": 1981,
+        "month": 9,
+        "day": 21
+      },
+      "headline": "Independence from Britain",
+      "text": "Belize officially gained independence from Britain on September 21, 1981. This marked the beginning of a new era for the nation as it established its own government and constitution.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Belize"
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": null,
+        "day": null
+      },
+      "headline": "Hurricane Mitch",
+      "text": "Hurricane Mitch struck Belize, causing significant damage and prompting international aid efforts. The hurricane highlighted the vulnerability of the country to natural disasters.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Mitch"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": null,
+        "day": null
+      },
+      "headline": "Belize-Guatemala Dispute",
+      "text": "The long-standing territorial dispute between Belize and Guatemala was brought to international attention. Efforts for resolution continued through diplomatic channels.",
+      "media": "https://en.wikipedia.org/wiki/Belize–Guatemala_relations"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": null,
+        "day": null
+      },
+      "headline": "Referendum on Territorial Dispute",
+      "text": "A referendum was held to determine whether Belizeans supported taking the territorial dispute with Guatemala to the International Court of Justice. The results were mixed, reflecting the complexity of national sentiment.",
+      "media": "https://en.wikipedia.org/wiki/Belize–Guatemala_relations"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic significantly impacted Belize, affecting public health and the economy. The government implemented measures to mitigate the spread of the virus and support affected communities.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Belize"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 11,
+        "day": 11
+      },
+      "headline": "General Elections",
+      "text": "General elections were held in Belize, resulting in a change of government. The elections were seen as a crucial moment for the country's democratic process.",
+      "media": "https://en.wikipedia.org/wiki/2021_Belize_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Climate Change Initiatives",
+      "text": "Belize launched several initiatives to combat climate change, focusing on sustainable development and conservation. These efforts reflect the country's commitment to environmental stewardship.",
+      "media": "https://en.wikipedia.org/wiki/Climate_change_in_Belize"
+    }
+  ]
+}

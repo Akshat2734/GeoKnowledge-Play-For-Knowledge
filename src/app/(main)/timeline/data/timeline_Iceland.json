@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Iceland",
+      "text": "Major events in the history of Iceland."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 874,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Settlers Arrive",
+      "text": "The first Norse settlers, led by Ingólfur Arnarson, arrive in Iceland, marking the beginning of permanent habitation. They establish a settlement in what is now Reykjavík.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Settlement"
+    },
+    {
+      "start_date": {
+        "year": 930,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Althing",
+      "text": "The Althing, one of the oldest parliaments in the world, is established at Þingvellir. It serves as a national assembly where laws are made and disputes are settled.",
+      "media": "https://en.wikipedia.org/wiki/Althing"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Christianization of Iceland",
+      "text": "Iceland officially converts to Christianity, largely due to the influence of the Althing. The decision is made to avoid conflict between pagans and Christians.",
+      "media": "https://en.wikipedia.org/wiki/Christianization_of_Iceland"
+    },
+    {
+      "start_date": {
+        "year": 1262,
+        "month": null,
+        "day": null
+      },
+      "headline": "Union with Norway",
+      "text": "Iceland enters into a union with Norway, losing some of its independence. This marks the beginning of foreign rule over the island.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Union_with_Norway"
+    },
+    {
+      "start_date": {
+        "year": 1380,
+        "month": null,
+        "day": null
+      },
+      "headline": "Union with Denmark",
+      "text": "The union with Norway leads to Iceland becoming part of the Kingdom of Denmark. This period sees significant cultural and economic changes.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Union_with_Denmark"
+    },
+    {
+      "start_date": {
+        "year": 1550,
+        "month": null,
+        "day": null
+      },
+      "headline": "Reformation in Iceland",
+      "text": "The Protestant Reformation reaches Iceland, leading to the establishment of Lutheranism as the state religion. This marks a significant shift in religious practices.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Reformation"
+    },
+    {
+      "start_date": {
+        "year": 1800,
+        "month": null,
+        "day": null
+      },
+      "headline": "Althing Disbanded",
+      "text": "The Althing is disbanded by Danish authorities, and Iceland is governed directly from Copenhagen. This leads to a decline in local governance.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Disbandment_of_the_Althing"
+    },
+    {
+      "start_date": {
+        "year": 1845,
+        "month": null,
+        "day": null
+      },
+      "headline": "Althing Reestablished",
+      "text": "The Althing is reestablished as an advisory body, allowing Icelanders to have a voice in their governance once again. This marks a resurgence of national identity.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Reestablishment_of_the_Althing"
+    },
+    {
+      "start_date": {
+        "year": 1874,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Constitution",
+      "text": "Iceland is granted its first constitution by the Danish king, marking a step towards greater autonomy. This document lays the groundwork for future governance.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Iceland"
+    },
+    {
+      "start_date": {
+        "year": 1904,
+        "month": null,
+        "day": null
+      },
+      "headline": "Home Rule Granted",
+      "text": "Iceland is granted home rule, allowing for greater self-governance while still remaining under Danish sovereignty. This is a significant milestone in Icelandic autonomy.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Home_rule"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sovereignty with Denmark",
+      "text": "Iceland achieves sovereignty under the Danish crown, becoming a separate kingdom in personal union with Denmark. This marks a new era in Icelandic history.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Sovereignty"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": 6,
+        "day": 17
+      },
+      "headline": "Independence from Denmark",
+      "text": "Iceland declares independence from Denmark during World War II, establishing itself as a republic. This is a pivotal moment in Iceland's national identity.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Iceland#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1949,
+        "month": null,
+        "day": null
+      },
+      "headline": "NATO Membership",
+      "text": "Iceland becomes a founding member of NATO, aligning itself with Western powers during the Cold War. This decision reflects Iceland's strategic importance in the North Atlantic.",
+      "media": "https://en.wikipedia.org/wiki/Iceland#Foreign_relations"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": null,
+        "day": null
+      },
+      "headline": "Cod Wars",
+      "text": "Iceland engages in a series of confrontations known as the Cod Wars with the United Kingdom over fishing rights. These disputes highlight the importance of fishing to Iceland's economy.",
+      "media": "https://en.wikipedia.org/wiki/Cod_Wars"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": null,
+        "day": null
+      },
+      "headline": "Financial Crisis",
+      "text": "Iceland faces a severe financial crisis, leading to the collapse of its banking system. This event has lasting impacts on the economy and public trust in government.",
+      "media": "https://en.wikipedia.org/wiki/2008%E2%80%932011_Icelandic_financial_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 4,
+        "day": 14
+      },
+      "headline": "Eyjafjallajökull Eruption",
+      "text": "The eruption of the Eyjafjallajökull volcano disrupts air travel across Europe, highlighting Iceland's geological activity. The event raises awareness of volcanic risks in the region.",
+      "media": "https://en.wikipedia.org/wiki/2010_Eyjafjallaj%C3%B6kull_eruption"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Constitution Proposal",
+      "text": "A new constitution is proposed following the 2008 financial crisis, aiming to increase democracy and transparency. The proposal is a response to public demands for reform.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Iceland#Proposed_new_constitution"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Iceland, like the rest of the world, faces the challenges posed by the COVID-19 pandemic. The government implements measures to protect public health while supporting the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Iceland"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Climate Action Initiatives",
+      "text": "Iceland continues to lead in climate action initiatives, focusing on renewable energy and sustainability. The country aims to be carbon neutral by 2040.",
+      "media": "https://en.wikipedia.org/wiki/Climate_change_in_Iceland"
+    }
+  ]
+}

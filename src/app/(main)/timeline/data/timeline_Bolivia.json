@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Bolivia",
+      "text": "Major events in the history of Bolivia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The earliest known inhabitants of Bolivia were hunter-gatherers who settled in the region around 2000 BC. They developed agriculture and established complex societies over time.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Bolivia#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Tiwanaku Civilization",
+      "text": "The Tiwanaku civilization emerged around 1000 BC near Lake Titicaca, known for its advanced agricultural techniques and monumental architecture. It became a major cultural and political center in the Andes.",
+      "media": "https://en.wikipedia.org/wiki/Tiwanaku"
+    },
+    {
+      "start_date": {
+        "year": 1438,
+        "month": null,
+        "day": null
+      },
+      "headline": "Inca Conquest",
+      "text": "In 1438, the Inca Empire began its expansion into the region that is now Bolivia. The Incas incorporated local cultures and established their dominance over the area.",
+      "media": "https://en.wikipedia.org/wiki/Inca_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1538,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Conquest",
+      "text": "Spanish conquistadors led by Francisco Pizarro began the conquest of Bolivia in the 16th century, leading to the fall of the Inca Empire. The region was subsequently colonized by Spain.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1545,
+        "month": null,
+        "day": null
+      },
+      "headline": "Discovery of Silver at Potosí",
+      "text": "The discovery of silver at Potosí in 1545 transformed Bolivia's economy and made it one of the richest cities in the world during the colonial period. This wealth significantly impacted Spanish colonial policies.",
+      "media": "https://en.wikipedia.org/wiki/Potos%C3%AD"
+    },
+    {
+      "start_date": {
+        "year": 1809,
+        "month": 5,
+        "day": 25
+      },
+      "headline": "First Cry of Independence",
+      "text": "On May 25, 1809, the first cry for independence from Spanish rule was proclaimed in La Paz. This event marked the beginning of the Bolivian War of Independence.",
+      "media": "https://en.wikipedia.org/wiki/Bolivian_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1825,
+        "month": 8,
+        "day": 6
+      },
+      "headline": "Bolivia Declares Independence",
+      "text": "Bolivia officially declared its independence from Spain on August 6, 1825, following years of struggle. The country was named after Simón Bolívar, a key figure in Latin American independence.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Bolivia#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1836,
+        "month": null,
+        "day": null
+      },
+      "headline": "Bolivian Confederation",
+      "text": "Bolivia briefly formed a confederation with Peru in 1836, known as the Bolivian Confederation. This union was short-lived and ended in conflict.",
+      "media": "https://en.wikipedia.org/wiki/Bolivian_Confederation"
+    },
+    {
+      "start_date": {
+        "year": 1879,
+        "month": 4,
+        "day": 14
+      },
+      "headline": "War of the Pacific",
+      "text": "Bolivia lost its coastal territory to Chile during the War of the Pacific (1879-1884). This conflict significantly impacted Bolivia's economy and national identity.",
+      "media": "https://en.wikipedia.org/wiki/War_of_the_Pacific"
+    },
+    {
+      "start_date": {
+        "year": 1900,
+        "month": null,
+        "day": null
+      },
+      "headline": "Rubber Boom",
+      "text": "The early 20th century saw a rubber boom in Bolivia, driven by global demand. This period led to significant economic growth but also exploitation of indigenous peoples.",
+      "media": "https://en.wikipedia.org/wiki/Rubber_boom"
+    },
+    {
+      "start_date": {
+        "year": 1952,
+        "month": 4,
+        "day": 9
+      },
+      "headline": "National Revolution",
+      "text": "The National Revolution of 1952 resulted in significant social and political changes in Bolivia, including land reform and universal suffrage. It marked a shift towards greater rights for indigenous populations.",
+      "media": "https://en.wikipedia.org/wiki/National_Revolution_of_1952"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Coup",
+      "text": "A military coup in 1964 led to a series of authoritarian regimes in Bolivia. This period was marked by political instability and repression.",
+      "media": "https://en.wikipedia.org/wiki/1964_Bolivian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1982,
+        "month": 10,
+        "day": 10
+      },
+      "headline": "Return to Democracy",
+      "text": "Bolivia returned to democratic rule in 1982 after years of military dictatorship. This transition marked the beginning of a new era of political reform.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Bolivia#Democratic_transition"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Water War",
+      "text": "The Water War in 2000 was a series of protests against the privatization of water services in Cochabamba. The conflict highlighted issues of social inequality and access to resources.",
+      "media": "https://en.wikipedia.org/wiki/Water_War_(Bolivia)"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": null,
+        "day": null
+      },
+      "headline": "Evo Morales Elected",
+      "text": "Evo Morales was elected as Bolivia's first indigenous president in 2005, marking a significant political shift. His presidency focused on social reforms and nationalization of key industries.",
+      "media": "https://en.wikipedia.org/wiki/Evo_Morales"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 2,
+        "day": 7
+      },
+      "headline": "New Constitution",
+      "text": "Bolivia adopted a new constitution in 2009, which recognized the rights of indigenous peoples and established Bolivia as a plurinational state. This was a major milestone in the country's political evolution.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Bolivia"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 10,
+        "day": 20
+      },
+      "headline": "Controversial Election",
+      "text": "The 2019 presidential election was marred by allegations of fraud, leading to widespread protests and the resignation of Evo Morales. This event sparked a political crisis in Bolivia.",
+      "media": "https://en.wikipedia.org/wiki/2019_Bolivian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 11,
+        "day": 8
+      },
+      "headline": "Luis Arce Elected President",
+      "text": "Luis Arce, a member of Morales' party, was elected president in 2020, signaling a return to leftist policies. His administration faced challenges related to the COVID-19 pandemic and economic recovery.",
+      "media": "https://en.wikipedia.org/wiki/Luis_Arce"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Tensions Persist",
+      "text": "Political tensions and social unrest continued in Bolivia in 2022, as various groups protested against government policies. The country faced ongoing challenges related to governance and social equity.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Bolivia"
+    }
+  ]
+}

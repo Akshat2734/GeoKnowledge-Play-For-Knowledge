@@ -1,0 +1,230 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Argentina",
+      "text": "Major events in the history of Argentina."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -15000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Settlements",
+      "text": "Archaeological evidence suggests that humans inhabited the region of present-day Argentina as early as 15,000 years ago. These early inhabitants were primarily hunter-gatherers.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Argentina#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1492,
+        "month": null,
+        "day": null
+      },
+      "headline": "European Discovery",
+      "text": "Christopher Columbus's voyages led to the European discovery of the Americas. Spanish explorers soon arrived in the region that would become Argentina.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1536,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Buenos Aires",
+      "text": "Spanish explorer Pedro de Mendoza founded the city of Buenos Aires, although it was abandoned shortly after due to indigenous resistance. It was later re-established in 1580.",
+      "media": "https://en.wikipedia.org/wiki/Buenos_Aires#Foundation"
+    },
+    {
+      "start_date": {
+        "year": 1776,
+        "month": null,
+        "day": null
+      },
+      "headline": "Viceroyalty of the Río de la Plata",
+      "text": "The Viceroyalty of the Río de la Plata was established, consolidating Spanish colonial rule over a vast territory that included present-day Argentina, Uruguay, Paraguay, and Bolivia.",
+      "media": "https://en.wikipedia.org/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata"
+    },
+    {
+      "start_date": {
+        "year": 1810,
+        "month": 5,
+        "day": 25
+      },
+      "headline": "May Revolution",
+      "text": "The May Revolution marked the beginning of the Argentine War of Independence. It led to the establishment of a local government and the eventual declaration of independence from Spain.",
+      "media": "https://en.wikipedia.org/wiki/May_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1816,
+        "month": 7,
+        "day": 9
+      },
+      "headline": "Declaration of Independence",
+      "text": "Argentina declared its independence from Spain on July 9, 1816, in the Congress of Tucumán. This event was pivotal in the formation of the nation.",
+      "media": "https://en.wikipedia.org/wiki/Argentine_Declaration_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1826,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Argentine Constitution",
+      "text": "The first constitution of Argentina was enacted, establishing a federal government. However, it faced significant opposition and was soon replaced.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Argentina"
+    },
+    {
+      "start_date": {
+        "year": 1853,
+        "month": null,
+        "day": null
+      },
+      "headline": "Second Argentine Constitution",
+      "text": "A new constitution was adopted in 1853, which remains the basis of Argentina's legal framework today. It established a federal system of government.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Argentina#1853_Constitution"
+    },
+    {
+      "start_date": {
+        "year": 1865,
+        "month": null,
+        "day": null
+      },
+      "headline": "War of the Triple Alliance",
+      "text": "Argentina, along with Brazil and Uruguay, fought against Paraguay in the War of the Triple Alliance. This devastating conflict lasted until 1870 and had significant consequences for the region.",
+      "media": "https://en.wikipedia.org/wiki/War_of_the_Triple_Alliance"
+    },
+    {
+      "start_date": {
+        "year": 1880,
+        "month": null,
+        "day": null
+      },
+      "headline": "Buenos Aires Becomes Capital",
+      "text": "Buenos Aires was designated as the capital of Argentina, solidifying its status as the political and cultural center of the nation.",
+      "media": "https://en.wikipedia.org/wiki/Buenos_Aires#Capital_of_Argentina"
+    },
+    {
+      "start_date": {
+        "year": 1912,
+        "month": null,
+        "day": null
+      },
+      "headline": "Universal Suffrage",
+      "text": "Argentina adopted a law granting universal male suffrage, expanding democratic participation in the political process. This was a significant step towards a more inclusive democracy.",
+      "media": "https://en.wikipedia.org/wiki/Suffrage_in_Argentina"
+    },
+    {
+      "start_date": {
+        "year": 1943,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Coup",
+      "text": "A military coup overthrew the sitting government, leading to a series of military regimes in Argentina. This period was marked by political instability and repression.",
+      "media": "https://en.wikipedia.org/wiki/1943_coup_d%27%C3%A9tat_in_Argentina"
+    },
+    {
+      "start_date": {
+        "year": 1946,
+        "month": null,
+        "day": null
+      },
+      "headline": "Juan Perón Elected President",
+      "text": "Juan Perón was elected president, marking the beginning of the Peronist movement. His policies focused on labor rights and social welfare.",
+      "media": "https://en.wikipedia.org/wiki/Juan_Per%C3%B3n"
+    },
+    {
+      "start_date": {
+        "year": 1955,
+        "month": null,
+        "day": null
+      },
+      "headline": "Perón Overthrown",
+      "text": "Juan Perón was overthrown in a military coup, leading to a period of political turmoil and the eventual return of Peronism in the 1970s.",
+      "media": "https://en.wikipedia.org/wiki/1955_coup_d%27%C3%A9tat_in_Argentina"
+    },
+    {
+      "start_date": {
+        "year": 1976,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Dictatorship",
+      "text": "A military junta seized power, initiating a period known as the 'Dirty War,' during which thousands of people were disappeared. This era lasted until 1983.",
+      "media": "https://en.wikipedia.org/wiki/Dirty_War"
+    },
+    {
+      "start_date": {
+        "year": 1982,
+        "month": null,
+        "day": null
+      },
+      "headline": "Falklands War",
+      "text": "Argentina invaded the Falkland Islands, leading to a conflict with the United Kingdom. The war ended in defeat for Argentina, contributing to the fall of the military regime.",
+      "media": "https://en.wikipedia.org/wiki/Falklands_War"
+    },
+    {
+      "start_date": {
+        "year": 1983,
+        "month": null,
+        "day": null
+      },
+      "headline": "Return to Democracy",
+      "text": "Argentina returned to democratic rule with the election of Raúl Alfonsín as president. This marked the end of military rule and the beginning of a new democratic era.",
+      "media": "https://en.wikipedia.org/wiki/Argentina#Return_to_democracy"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": 12,
+        "day": 20
+      },
+      "headline": "Economic Crisis",
+      "text": "Argentina faced a severe economic crisis, leading to widespread protests and the resignation of President Fernando de la Rúa. This event marked a significant turning point in the country's economic policies.",
+      "media": "https://en.wikipedia.org/wiki/2001_argentine_economic_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2003,
+        "month": null,
+        "day": null
+      },
+      "headline": "Néstor Kirchner Elected President",
+      "text": "Néstor Kirchner was elected president, initiating a period of economic recovery and social reform. His administration focused on human rights and economic growth.",
+      "media": "https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mauricio Macri Elected President",
+      "text": "Mauricio Macri was elected president, marking a shift towards more market-friendly policies. His administration faced challenges related to inflation and economic reforms.",
+      "media": "https://en.wikipedia.org/wiki/Mauricio_Macri"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Argentina, like many countries, faced the challenges of the COVID-19 pandemic. The government implemented strict measures to control the spread of the virus, impacting the economy and society.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Argentina"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": 10,
+        "day": 22
+      },
+      "headline": "Presidential Elections",
+      "text": "Argentina held presidential elections, which resulted in significant political changes and discussions about the country's future direction. The elections reflected the ongoing economic and social challenges.",
+      "media": "https://en.wikipedia.org/wiki/2023_Argentine_general_election"
+    }
+  ]
+}

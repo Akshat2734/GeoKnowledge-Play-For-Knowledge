@@ -1,0 +1,188 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Kiribati",
+      "text": "Major events in the history of Kiribati."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Settlement of Kiribati",
+      "text": "The first settlers, believed to be Polynesians, arrived in Kiribati around 3000 years ago. They established communities and began to cultivate the land and fish the surrounding waters.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1537,
+        "month": null,
+        "day": null
+      },
+      "headline": "European Discovery",
+      "text": "The first European to sight Kiribati was the Spanish explorer Alvaro de Mendaña, who arrived in 1568. He named the islands 'Las Gilberts' after the local king.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1788,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Exploration",
+      "text": "Captain Thomas Gilbert, an English explorer, visited the islands in 1788. His expedition contributed to the mapping and understanding of the Gilbert Islands.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1892,
+        "month": null,
+        "day": null
+      },
+      "headline": "Annexation by the British",
+      "text": "The British formally annexed the Gilbert Islands in 1892, establishing colonial rule. This marked the beginning of significant changes in the islands' governance and economy.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1915,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the British Colony",
+      "text": "The Gilbert and Ellice Islands became a British colony in 1915. This colonial administration lasted until the mid-20th century, affecting local governance and culture.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 12,
+        "day": 8
+      },
+      "headline": "World War II",
+      "text": "Kiribati became strategically important during World War II, with significant battles occurring in the Pacific. The islands were occupied by Japanese forces until retaken by Allied troops.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": null,
+        "day": null
+      },
+      "headline": "Post-War Administration",
+      "text": "After World War II, the Gilbert and Ellice Islands were administered by the British as part of the Western Pacific High Commission. This period saw increased local political activity.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": null,
+        "day": null
+      },
+      "headline": "Self-Government",
+      "text": "Kiribati was granted self-government in 1971, allowing for greater local control over governance. This was a significant step towards full independence.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": 7,
+        "day": 12
+      },
+      "headline": "Independence",
+      "text": "Kiribati gained full independence from Britain on July 12, 1979. This marked the establishment of the Republic of Kiribati, with a new constitution and government.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the National Parliament",
+      "text": "The National Parliament of Kiribati was established, allowing citizens to participate in the democratic process. This was a key development in the country's political evolution.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#History"
+    },
+    {
+      "start_date": {
+        "year": 1995,
+        "month": null,
+        "day": null
+      },
+      "headline": "Environmental Concerns",
+      "text": "Kiribati began to face significant challenges due to climate change and rising sea levels. The government started to advocate for international action to address these issues.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#Climate_change"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Kiribati Climate Change Adaptation Program",
+      "text": "In response to environmental challenges, Kiribati launched the Climate Change Adaptation Program. This aimed to improve resilience against climate impacts.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#Climate_change"
+    },
+    {
+      "start_date": {
+        "year": 2003,
+        "month": null,
+        "day": null
+      },
+      "headline": "International Advocacy",
+      "text": "Kiribati took a leading role in international climate negotiations, advocating for vulnerable nations affected by climate change. This increased its visibility on the global stage.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#Climate_change"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": null,
+        "day": null
+      },
+      "headline": "Migration with Dignity Policy",
+      "text": "The government introduced the 'Migration with Dignity' policy, allowing citizens to migrate to other countries as a response to climate change. This policy aimed to ensure the rights and dignity of migrants.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#Climate_change"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": null,
+        "day": null
+      },
+      "headline": "Presidential Elections",
+      "text": "Kiribati held presidential elections in 2019, marking a significant moment in its democratic process. The elections reflected the citizens' concerns over climate change and governance.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#Politics"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic Response",
+      "text": "Kiribati implemented measures to combat the COVID-19 pandemic, including travel restrictions and health protocols. The government prioritized public health and safety.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#COVID-19_pandemic"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Vaccination Rollout",
+      "text": "Kiribati began its COVID-19 vaccination rollout in 2021, aiming to protect its population from the virus. This was a crucial step in managing the pandemic.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#COVID-19_pandemic"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Climate Advocacy",
+      "text": "Kiribati continues to advocate for global action on climate change, emphasizing the need for support for small island nations. The government remains active in international forums.",
+      "media": "https://en.wikipedia.org/wiki/Kiribati#Climate_change"
+    }
+  ]
+}

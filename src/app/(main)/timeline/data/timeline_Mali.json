@@ -1,0 +1,156 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Mali",
+      "text": "Major events in the history of Mali."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Settlements",
+      "text": "The earliest known settlements in Mali date back to around 3000 BC, with evidence of agricultural communities in the region. These early inhabitants laid the foundation for future civilizations in West Africa.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Mali"
+    },
+    {
+      "start_date": {
+        "year": 1235
+      },
+      "headline": "Founding of the Mali Empire",
+      "text": "The Mali Empire was founded by Sundiata Keita after the Battle of Kirina. This event marked the beginning of a powerful empire that would dominate West Africa for centuries.",
+      "media": "https://en.wikipedia.org/wiki/Sundiata_Keita"
+    },
+    {
+      "start_date": {
+        "year": 1255
+      },
+      "headline": "Mansa Musa's Reign Begins",
+      "text": "Mansa Musa ascended to the throne and became one of the richest and most powerful rulers in history. His pilgrimage to Mecca in 1324 showcased the wealth of the Mali Empire and established its prominence in the Islamic world.",
+      "media": "https://en.wikipedia.org/wiki/Mansa_Musa"
+    },
+    {
+      "start_date": {
+        "year": 1324
+      },
+      "headline": "Mansa Musa's Pilgrimage to Mecca",
+      "text": "Mansa Musa undertook a famous pilgrimage to Mecca, during which he distributed gold and wealth along the way. This journey significantly raised the profile of Mali on the global stage.",
+      "media": "https://en.wikipedia.org/wiki/Mansa_Musa#Pilgrimage_to_Mecca"
+    },
+    {
+      "start_date": {
+        "year": 1400
+      },
+      "headline": "Peak of the Mali Empire",
+      "text": "The Mali Empire reached its zenith during the 14th century, controlling trade routes across the Sahara. It became a center of learning and culture, particularly in the city of Timbuktu.",
+      "media": "https://en.wikipedia.org/wiki/Mali_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1468
+      },
+      "headline": "Songhai Empire's Rise",
+      "text": "The Songhai Empire began to rise in power, eventually eclipsing the Mali Empire. This shift marked a significant change in the political landscape of West Africa.",
+      "media": "https://en.wikipedia.org/wiki/Songhai_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1591
+      },
+      "headline": "Fall of the Mali Empire",
+      "text": "The Mali Empire began to decline after the invasion of the Moroccan army. This event marked the end of Mali's dominance in West Africa and the rise of new powers.",
+      "media": "https://en.wikipedia.org/wiki/Mali_Empire#Decline"
+    },
+    {
+      "start_date": {
+        "year": 1892
+      },
+      "headline": "French Colonization",
+      "text": "Mali, then known as French Sudan, became a French colony. This period saw significant changes in governance, economy, and society in the region.",
+      "media": "https://en.wikipedia.org/wiki/French_Sudan"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 9,
+        "day": 22
+      },
+      "headline": "Independence from France",
+      "text": "Mali gained independence from France on September 22, 1960. This marked the beginning of a new era in Mali's history as a sovereign nation.",
+      "media": "https://en.wikipedia.org/wiki/Mali#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1968
+      },
+      "headline": "Military Coup",
+      "text": "A military coup led by Moussa Tavele took place, resulting in the establishment of a military government. This coup marked the beginning of a period of political instability in Mali.",
+      "media": "https://en.wikipedia.org/wiki/Mali#Military_coups"
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "Democratic Transition",
+      "text": "Mali transitioned to a multiparty democracy after a popular uprising against the military regime. This change was a significant step towards political reform and civil liberties.",
+      "media": "https://en.wikipedia.org/wiki/Mali#Democratic_transition"
+    },
+    {
+      "start_date": {
+        "year": 2012
+      },
+      "headline": "Tuareg Rebellion",
+      "text": "A rebellion by Tuareg separatists in northern Mali led to the declaration of independence for Azawad. This conflict resulted in a humanitarian crisis and increased instability in the region.",
+      "media": "https://en.wikipedia.org/wiki/2012_Malian_rebellion"
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "French Military Intervention",
+      "text": "In response to the Tuareg rebellion and the subsequent takeover by Islamist groups, France launched a military intervention to restore order in Mali. This operation was crucial in regaining control over northern territories.",
+      "media": "https://en.wikipedia.org/wiki/Operation_Serval"
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "headline": "Peace Agreement Signed",
+      "text": "A peace agreement was signed between the Malian government and various armed groups in an effort to restore peace in the north. However, the implementation of the agreement faced numerous challenges.",
+      "media": "https://en.wikipedia.org/wiki/Mali#Peace_agreement"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "Second Military Coup",
+      "text": "A second military coup occurred in Mali, leading to the ousting of President Ibrahim Boubacar Keïta. This event raised concerns about the future of democracy in the country.",
+      "media": "https://en.wikipedia.org/wiki/2020_Malian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Transition Government Established",
+      "text": "A transitional government was established following the military coup, with promises to return to civilian rule. This period has been marked by ongoing political and security challenges.",
+      "media": "https://en.wikipedia.org/wiki/Mali#Current_events"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Continued Violence and Instability",
+      "text": "Mali continues to face violence from jihadist groups and ethnic conflicts, complicating the transition to stability. The situation remains precarious as the government struggles to maintain control.",
+      "media": "https://en.wikipedia.org/wiki/Mali#Current_events"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "International Relations and Security",
+      "text": "Mali's international relations have shifted, with increased cooperation with Russia and a reduction in ties with France. This change reflects the ongoing complexities of security and governance in the region.",
+      "media": "https://en.wikipedia.org/wiki/Mali#Current_events"
+    }
+  ]
+}

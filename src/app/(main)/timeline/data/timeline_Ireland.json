@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Ireland",
+      "text": "Major events in the history of Ireland."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -8000,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Settlers Arrive",
+      "text": "The first settlers, Mesolithic hunter-gatherers, arrive in Ireland around 8000 BC, marking the beginning of human habitation on the island.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Ireland#Prehistoric_Ireland"
+    },
+    {
+      "start_date": {
+        "year": -4000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Neolithic Farming Communities",
+      "text": "By 4000 BC, Neolithic farmers establish permanent settlements, introducing agriculture and megalithic structures like Newgrange.",
+      "media": "https://en.wikipedia.org/wiki/Newgrange"
+    },
+    {
+      "start_date": {
+        "year": -300,
+        "month": null,
+        "day": null
+      },
+      "headline": "Celtic Influence",
+      "text": "The Celts begin to arrive in Ireland, bringing their language, culture, and social structure, which will dominate the island for centuries.",
+      "media": "https://en.wikipedia.org/wiki/Celtic_Ireland"
+    },
+    {
+      "start_date": {
+        "year": 432,
+        "month": null,
+        "day": null
+      },
+      "headline": "St. Patrick Arrives",
+      "text": "St. Patrick, the patron saint of Ireland, arrives and begins converting the Irish to Christianity, significantly influencing Irish culture.",
+      "media": "https://en.wikipedia.org/wiki/Saint_Patrick"
+    },
+    {
+      "start_date": {
+        "year": 795,
+        "month": null,
+        "day": null
+      },
+      "headline": "Viking Raids Begin",
+      "text": "The first Viking raids occur, leading to the establishment of coastal settlements and the founding of cities such as Dublin.",
+      "media": "https://en.wikipedia.org/wiki/Vikings_in_Ireland"
+    },
+    {
+      "start_date": {
+        "year": 1169,
+        "month": null,
+        "day": null
+      },
+      "headline": "Norman Invasion",
+      "text": "The Norman invasion of Ireland begins, leading to significant changes in land ownership and governance.",
+      "media": "https://en.wikipedia.org/wiki/Norman_invasion_of_Ireland"
+    },
+    {
+      "start_date": {
+        "year": 1536,
+        "month": null,
+        "day": null
+      },
+      "headline": "Henry VIII's Reformation",
+      "text": "Henry VIII declares himself King of Ireland, initiating the English Reformation and furthering English control over Irish affairs.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Ireland"
+    },
+    {
+      "start_date": {
+        "year": 1641,
+        "month": null,
+        "day": null
+      },
+      "headline": "Irish Rebellion",
+      "text": "The Irish Rebellion of 1641 occurs, leading to a series of conflicts and the eventual Cromwellian conquest of Ireland.",
+      "media": "https://en.wikipedia.org/wiki/Irish_Rebellion_of_1641"
+    },
+    {
+      "start_date": {
+        "year": 1691,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of Limerick",
+      "text": "The Treaty of Limerick is signed, ending the Williamite War in Ireland and leading to the marginalization of Catholics in Irish society.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Limerick"
+    },
+    {
+      "start_date": {
+        "year": 1800,
+        "month": null,
+        "day": null
+      },
+      "headline": "Act of Union",
+      "text": "The Act of Union is enacted, merging the Kingdom of Great Britain and the Kingdom of Ireland into the United Kingdom of Great Britain and Ireland.",
+      "media": "https://en.wikipedia.org/wiki/Acts_of_Union_1800"
+    },
+    {
+      "start_date": {
+        "year": 1845,
+        "month": null,
+        "day": null
+      },
+      "headline": "Great Famine Begins",
+      "text": "The Great Famine begins, caused by potato blight, leading to mass starvation, disease, and emigration, profoundly affecting Irish society.",
+      "media": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)"
+    },
+    {
+      "start_date": {
+        "year": 1916,
+        "month": 4,
+        "day": 24
+      },
+      "headline": "Easter Rising",
+      "text": "The Easter Rising occurs, a pivotal event in the struggle for Irish independence, leading to the establishment of the Irish Republic.",
+      "media": "https://en.wikipedia.org/wiki/Easter_Rising"
+    },
+    {
+      "start_date": {
+        "year": 1922,
+        "month": null,
+        "day": null
+      },
+      "headline": "Irish Free State Established",
+      "text": "The Anglo-Irish Treaty is ratified, leading to the establishment of the Irish Free State as a self-governing dominion within the British Empire.",
+      "media": "https://en.wikipedia.org/wiki/Irish_Free_State"
+    },
+    {
+      "start_date": {
+        "year": 1937,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Constitution Adopted",
+      "text": "A new constitution is adopted, establishing the state as 'Ireland' and asserting its sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Ireland"
+    },
+    {
+      "start_date": {
+        "year": 1949,
+        "month": null,
+        "day": null
+      },
+      "headline": "Republic of Ireland Declared",
+      "text": "Ireland officially becomes a republic, severing its last constitutional links with the British monarchy.",
+      "media": "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+    },
+    {
+      "start_date": {
+        "year": 1969,
+        "month": null,
+        "day": null
+      },
+      "headline": "The Troubles Begin",
+      "text": "The Troubles, a violent conflict in Northern Ireland, begin, characterized by civil unrest and political strife between nationalists and unionists.",
+      "media": "https://en.wikipedia.org/wiki/The_Troubles"
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": 4,
+        "day": 10
+      },
+      "headline": "Good Friday Agreement",
+      "text": "The Good Friday Agreement is signed, marking a major political development in the peace process in Northern Ireland.",
+      "media": "https://en.wikipedia.org/wiki/Good_Friday_Agreement"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,
+        "day": null
+      },
+      "headline": "Euro Introduced",
+      "text": "Ireland adopts the Euro as its currency, joining the Eurozone and further integrating into the European Union.",
+      "media": "https://en.wikipedia.org/wiki/Euro"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": null,
+        "day": null
+      },
+      "headline": "Centenary of the Easter Rising",
+      "text": "Ireland commemorates the centenary of the Easter Rising, reflecting on its impact on Irish identity and independence.",
+      "media": "https://en.wikipedia.org/wiki/Easter_Rising#Centenary"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic impacts Ireland, leading to public health measures, economic challenges, and changes in daily life.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Republic_of_Ireland"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": null,
+        "day": null
+      },
+      "headline": "Northern Ireland Protocol",
+      "text": "The Northern Ireland Protocol is implemented as part of the Brexit agreement, creating new trade arrangements and political discussions.",
+      "media": "https://en.wikipedia.org/wiki/Northern_Ireland_Protocol"
+    }
+  ]
+}

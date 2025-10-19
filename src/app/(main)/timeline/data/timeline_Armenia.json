@@ -1,0 +1,170 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Armenia",
+      "text": "Major events in the history of Armenia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -6000
+      },
+      "headline": "Earliest Settlements",
+      "text": "Armenia is one of the oldest inhabited regions in the world, with evidence of human settlement dating back to around 6000 BC. Early inhabitants engaged in agriculture and animal husbandry.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Armenia"
+    },
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Formation of Urartu",
+      "text": "The Urartian Kingdom emerged in the 9th century BC, covering parts of modern-day Armenia, Turkey, and Iran. It was known for its advanced culture and military prowess.",
+      "media": "https://en.wikipedia.org/wiki/Urartu"
+    },
+    {
+      "start_date": {
+        "year": -600
+      },
+      "headline": "Armenia Becomes a Satrapy",
+      "text": "In the 6th century BC, Armenia became a satrapy of the Achaemenid Empire. This period saw the introduction of Persian culture and administration.",
+      "media": "https://en.wikipedia.org/wiki/Armenia#Achaemenid_period"
+    },
+    {
+      "start_date": {
+        "year": 301,
+        "month": null,
+        "day": null
+      },
+      "headline": "Christianity Becomes State Religion",
+      "text": "Armenia became the first nation to adopt Christianity as its state religion in 301 AD under King Tiridates III. This pivotal moment shaped the country's identity.",
+      "media": "https://en.wikipedia.org/wiki/Armenia#Christianity"
+    },
+    {
+      "start_date": {
+        "year": 405
+      },
+      "headline": "Creation of the Armenian Alphabet",
+      "text": "The Armenian alphabet was created by Mesrop Mashtots in 405 AD, which facilitated the spread of Christianity and literacy in Armenia. This was a significant cultural milestone.",
+      "media": "https://en.wikipedia.org/wiki/Armenian_alphabet"
+    },
+    {
+      "start_date": {
+        "year": 885
+      },
+      "headline": "Establishment of the Kingdom of Armenia",
+      "text": "The Kingdom of Armenia was re-established in 885 AD under the rule of the Bagratuni dynasty. This period is marked by cultural and economic flourishing.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Armenia"
+    },
+    {
+      "start_date": {
+        "year": 1045
+      },
+      "headline": "Fall of the Kingdom of Armenia",
+      "text": "The Kingdom of Armenia fell to the Byzantine Empire in 1045, leading to a period of foreign domination and instability. This marked the decline of Armenian sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Armenia#Medieval_period"
+    },
+    {
+      "start_date": {
+        "year": 1375
+      },
+      "headline": "Armenian Kingdom of Cilicia",
+      "text": "The Armenian Kingdom of Cilicia was established in 1080 and lasted until 1375. It served as a significant cultural and commercial hub for Armenians.",
+      "media": "https://en.wikipedia.org/wiki/Armenian_Kingdom_of_Cilicia"
+    },
+    {
+      "start_date": {
+        "year": 1512
+      },
+      "headline": "Ottoman Rule Begins",
+      "text": "Armenia fell under Ottoman rule in the early 16th century, leading to significant changes in the social and political landscape of the region. Armenians faced various challenges during this period.",
+      "media": "https://en.wikipedia.org/wiki/Armenians_in_the_Ottoman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1915,
+        "month": 4,
+        "day": 24
+      },
+      "headline": "Armenian Genocide",
+      "text": "The Armenian Genocide began in 1915, resulting in the systematic extermination of 1.5 million Armenians by the Ottoman Empire. This tragic event has had lasting effects on the Armenian diaspora.",
+      "media": "https://en.wikipedia.org/wiki/Armenian_Genocide"
+    },
+    {
+      "start_date": {
+        "year": 1920
+      },
+      "headline": "Soviet Armenia Established",
+      "text": "In 1920, Armenia became part of the Soviet Union as the Armenian Soviet Socialist Republic. This period saw significant industrialization and cultural development.",
+      "media": "https://en.wikipedia.org/wiki/Armenian_Soviet_Socialist_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1988
+      },
+      "headline": "Nagorno-Karabakh Conflict Begins",
+      "text": "The Nagorno-Karabakh conflict began in 1988 when ethnic Armenians in the region sought independence from Azerbaijan. This conflict has led to ongoing tensions and violence.",
+      "media": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 9,
+        "day": 21
+      },
+      "headline": "Independence from the Soviet Union",
+      "text": "Armenia declared independence from the Soviet Union on September 21, 1991. This marked the beginning of a new era for the nation as it sought to establish its sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Armenia"
+    },
+    {
+      "start_date": {
+        "year": 1994
+      },
+      "headline": "Ceasefire in Nagorno-Karabakh War",
+      "text": "A ceasefire was reached in 1994, effectively ending the first Nagorno-Karabakh War. However, the conflict remained unresolved, leading to ongoing tensions between Armenia and Azerbaijan.",
+      "media": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_War"
+    },
+    {
+      "start_date": {
+        "year": 2008
+      },
+      "headline": "Post-Election Protests",
+      "text": "Following the disputed presidential elections in February 2008, mass protests erupted in Yerevan. The government responded with a crackdown, leading to international condemnation.",
+      "media": "https://en.wikipedia.org/wiki/2008_Armenian_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "headline": "Centennial of the Armenian Genocide",
+      "text": "The centennial of the Armenian Genocide was commemorated in 2015, drawing international attention to the historical tragedy. Events were held worldwide to honor the victims.",
+      "media": "https://en.wikipedia.org/wiki/Armenian_Genocide#Centennial_commemoration"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+      },
+      "headline": "Second Nagorno-Karabakh War",
+      "text": "The Second Nagorno-Karabakh War broke out on September 27, 2020, resulting in significant territorial changes and casualties. The conflict ended with a ceasefire brokered by Russia.",
+      "media": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Political Turmoil",
+      "text": "Following the 2020 war, Armenia faced political turmoil and protests against Prime Minister Nikol Pashinyan. Calls for his resignation highlighted the nation's ongoing struggles.",
+      "media": "https://en.wikipedia.org/wiki/2021_Armenian_protests"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Tensions",
+      "text": "As of 2023, Armenia continues to navigate complex geopolitical challenges, including relations with Azerbaijan and Turkey. The nation is focused on rebuilding and fostering international partnerships.",
+      "media": "https://en.wikipedia.org/wiki/Armenia#Recent_history"
+    }
+  ]
+}

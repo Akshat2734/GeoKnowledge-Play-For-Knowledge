@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Lithuania",
+      "text": "Major events in the history of Lithuania."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1009,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Mention of Lithuania",
+      "text": "Lithuania is first mentioned in historical records in the Annales of Quedlinburg. This marks the beginning of Lithuania's documented history.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Lithuania#Early_history"
+    },
+    {
+      "start_date": {
+        "year": 1253,
+        "month": 7,
+        "day": 6
+      },
+      "headline": "Establishment of the Grand Duchy of Lithuania",
+      "text": "Mindaugas is crowned as the first King of Lithuania, establishing the Grand Duchy of Lithuania. This event marks the unification of various Baltic tribes.",
+      "media": "https://en.wikipedia.org/wiki/Mindaugas"
+    },
+    {
+      "start_date": {
+        "year": 1386,
+        "month": 2,
+        "day": 18
+      },
+      "headline": "Union with Poland",
+      "text": "The marriage of Grand Duke Jogaila to Queen Jadwiga of Poland leads to the creation of a dynastic union between Lithuania and Poland. This union significantly influences the political landscape of Eastern Europe.",
+      "media": "https://en.wikipedia.org/wiki/Union_of_Krewo"
+    },
+    {
+      "start_date": {
+        "year": 1410,
+        "month": 7,
+        "day": 15
+      },
+      "headline": "Battle of Grunwald",
+      "text": "The Grand Duchy of Lithuania, allied with Poland, defeats the Teutonic Knights at the Battle of Grunwald. This victory is a pivotal moment in the struggle against the Knights' expansion.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Grunwald"
+    },
+    {
+      "start_date": {
+        "year": 1569,
+        "month": 7,
+        "day": 1
+      },
+      "headline": "Union of Lublin",
+      "text": "The Union of Lublin creates the Polish-Lithuanian Commonwealth, a bi-federation that lasts for over two centuries. This union enhances Lithuania's political power and cultural exchange.",
+      "media": "https://en.wikipedia.org/wiki/Union_of_Lublin"
+    },
+    {
+      "start_date": {
+        "year": 1795,
+        "month": null,
+        "day": null
+      },
+      "headline": "Third Partition of Poland",
+      "text": "Lithuania is partitioned and annexed by the Russian Empire during the Third Partition of Poland. This marks the end of the Polish-Lithuanian Commonwealth.",
+      "media": "https://en.wikipedia.org/wiki/Partitions_of_Poland"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 2,
+        "day": 16
+      },
+      "headline": "Declaration of Independence",
+      "text": "Lithuania declares independence from Germany, marking the establishment of the modern Lithuanian state. This event is celebrated annually as Independence Day.",
+      "media": "https://en.wikipedia.org/wiki/Act_of_Independence_of_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 1940,
+        "month": 6,
+        "day": 15
+      },
+      "headline": "Soviet Occupation",
+      "text": "Lithuania is occupied by the Soviet Union as part of the Molotov-Ribbentrop Pact. This leads to significant political repression and the annexation of Lithuania into the USSR.",
+      "media": "https://en.wikipedia.org/wiki/Soviet_occupation_of_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 6,
+        "day": 22
+      },
+      "headline": "Nazi Occupation",
+      "text": "Nazi Germany invades Lithuania, leading to a brutal occupation characterized by the Holocaust and mass killings of Jews and other groups.",
+      "media": "https://en.wikipedia.org/wiki/Nazi_occupation_of_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": null,
+        "day": null
+      },
+      "headline": "Re-Sovietization",
+      "text": "The Soviet Union reoccupies Lithuania, leading to the establishment of a Soviet republic. This period is marked by political repression and forced collectivization.",
+      "media": "https://en.wikipedia.org/wiki/Soviet_occupation_of_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 8,
+        "day": 23
+      },
+      "headline": "Baltic Way",
+      "text": "Approximately two million people join hands to form a human chain across the three Baltic states, including Lithuania, in a peaceful protest for independence from Soviet rule.",
+      "media": "https://en.wikipedia.org/wiki/Baltic_Way"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 3,
+        "day": 11
+      },
+      "headline": "Restoration of Independence",
+      "text": "Lithuania becomes the first Soviet republic to declare independence from the USSR. This act is a significant step towards the dissolution of the Soviet Union.",
+      "media": "https://en.wikipedia.org/wiki/Act_of_Independence_of_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "NATO Membership",
+      "text": "Lithuania joins NATO, enhancing its security and military cooperation with Western nations. This membership marks a significant shift in Lithuania's foreign policy.",
+      "media": "https://en.wikipedia.org/wiki/Lithuania#NATO_membership"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "European Union Membership",
+      "text": "Lithuania becomes a member of the European Union, further integrating into European political and economic structures. This membership is seen as a milestone in Lithuania's post-independence development.",
+      "media": "https://en.wikipedia.org/wiki/Lithuania#European_Union_membership"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 2,
+        "day": 16
+      },
+      "headline": "Centenary of Independence",
+      "text": "Lithuania celebrates 100 years of independence with various events and activities. This centenary reflects on the country's journey since regaining independence in 1990.",
+      "media": "https://en.wikipedia.org/wiki/2018_in_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Lithuania, like many countries, faces challenges due to the COVID-19 pandemic. The government implements various measures to control the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 2,
+        "day": 24
+      },
+      "headline": "Support for Ukraine",
+      "text": "In response to the Russian invasion of Ukraine, Lithuania actively supports Ukraine through military aid and humanitarian assistance. This reflects Lithuania's commitment to regional security.",
+      "media": "https://en.wikipedia.org/wiki/Lithuania#Foreign_relations"
+    }
+  ]
+}

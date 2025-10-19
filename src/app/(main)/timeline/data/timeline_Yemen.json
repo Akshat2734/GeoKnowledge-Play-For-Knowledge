@@ -1,0 +1,122 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Yemen",
+      "text": "Major events in the history of Yemen."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Kingdom of Saba",
+      "text": "Sabaean kingdom prospers through incense and spice trade.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Sabaeans"
+      }
+    },
+    {
+      "start_date": {
+        "year": 570
+      },
+      "headline": "Aksumite & Persian Control",
+      "text": "Ethiopia and Persia contest control of southern Arabia.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Yemen"
+      }
+    },
+    {
+      "start_date": {
+        "year": 628
+      },
+      "headline": "Arrival of Islam",
+      "text": "Yemeni tribes adopt Islam.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Islam_in_Yemen"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1517
+      },
+      "headline": "Ottoman Rule",
+      "text": "Ottoman Empire controls parts of Yemen.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Ottoman_Yemen"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1839
+      },
+      "headline": "British Capture Aden",
+      "text": "Aden becomes a strategic British coaling station.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Aden_Colony"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1918
+      },
+      "headline": "North Yemen Independence",
+      "text": "Mutawakkilite Kingdom established after Ottoman collapse.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Mutawakkilite_Kingdom_of_Yemen"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1962
+      },
+      "headline": "North Yemen Civil War",
+      "text": "Republicans and royalists clash with foreign backing.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/North_Yemen_Civil_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 5,
+        "day": 22
+      },
+      "headline": "Unification",
+      "text": "Yemen Arab Republic and PDRY merge to form modern Yemen.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Unification_of_Yemen"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "headline": "Arab Spring",
+      "text": "Protests oust President Ali Abdullah Saleh.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Yemeni_Revolution"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "headline": "Civil War",
+      "text": "Houthi rebels battle the government; Saudi-led intervention ensues.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Yemeni_Civil_War_(2014%E2%80%93present)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Humanitarian Crisis",
+      "text": "Fragile negotiations seek to end the conflict.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Yemen"
+      }
+    }
+  ]
+}

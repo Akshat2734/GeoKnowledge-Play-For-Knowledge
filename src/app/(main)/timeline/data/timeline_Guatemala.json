@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Guatemala",
+      "text": "Major events in the history of Guatemala."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Maya Civilization",
+      "text": "The Maya civilization begins to develop in the region that is now Guatemala, known for its advanced architecture, mathematics, and astronomy.",
+      "media": "https://en.wikipedia.org/wiki/Maya_civilization"
+    },
+    {
+      "start_date": {
+        "year": 250,
+        "month": null,
+        "day": null
+      },
+      "headline": "Classic Maya Period",
+      "text": "The Classic period of Maya civilization flourishes, with major city-states such as Tikal and Quiriguá emerging as cultural and political centers.",
+      "media": "https://en.wikipedia.org/wiki/Classic_Maya"
+    },
+    {
+      "start_date": {
+        "year": 1524,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Conquest",
+      "text": "Spanish conquistador Pedro de Alvarado begins the conquest of Guatemala, leading to the fall of the Maya civilization and the establishment of Spanish rule.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_conquest_of_Guatemala"
+    },
+    {
+      "start_date": {
+        "year": 1540,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Guatemala City",
+      "text": "Guatemala City is founded by the Spanish as the capital of the Captaincy General of Guatemala, becoming a key administrative center.",
+      "media": "https://en.wikipedia.org/wiki/Guatemala_City"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": 9,
+        "day": 15
+      },
+      "headline": "Independence from Spain",
+      "text": "Guatemala declares independence from Spain, joining the Mexican Empire briefly before becoming part of the United Provinces of Central America.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Central_America"
+    },
+    {
+      "start_date": {
+        "year": 1839,
+        "month": null,
+        "day": null
+      },
+      "headline": "Consolidation of Power",
+      "text": "Rafael Carrera becomes the de facto leader of Guatemala, establishing a conservative government and maintaining control until his death in 1865.",
+      "media": "https://en.wikipedia.org/wiki/Rafael_Carrera"
+    },
+    {
+      "start_date": {
+        "year": 1871,
+        "month": null,
+        "day": null
+      },
+      "headline": "Liberal Reforms",
+      "text": "Justo Rufino Barrios leads a series of liberal reforms aimed at modernizing Guatemala, including land redistribution and secularization.",
+      "media": "https://en.wikipedia.org/wiki/Justo_Rufino_Barrios"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": 10,
+        "day": 20
+      },
+      "headline": "October Revolution",
+      "text": "A popular uprising leads to the overthrow of dictator Jorge Ubico, initiating a decade of democratic reforms and social change.",
+      "media": "https://en.wikipedia.org/wiki/Guatemalan_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1954,
+        "month": 6,
+        "day": 27
+      },
+      "headline": "CIA-backed Coup",
+      "text": "A coup orchestrated by the CIA overthrows democratically elected President Jacobo Árbenz, leading to decades of political instability.",
+      "media": "https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": null,
+        "day": null
+      },
+      "headline": "Civil War Begins",
+      "text": "The Guatemalan Civil War begins, lasting over three decades and resulting in significant loss of life and human rights violations.",
+      "media": "https://en.wikipedia.org/wiki/Guatemalan_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1985,
+        "month": null,
+        "day": null
+      },
+      "headline": "Return to Democracy",
+      "text": "Guatemala returns to democratic governance with the election of Vinicio Cerezo, marking the end of military rule.",
+      "media": "https://en.wikipedia.org/wiki/Vinicio_Cerezo"
+    },
+    {
+      "start_date": {
+        "year": 1996,
+        "month": 12,
+        "day": 29
+      },
+      "headline": "Peace Accords Signed",
+      "text": "The Guatemalan government and the Revolutionary National Unity Guatemalan (URNG) sign peace accords, officially ending the civil war.",
+      "media": "https://en.wikipedia.org/wiki/Guatemalan_Peace_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Judicial Reforms",
+      "text": "Judicial reforms are implemented to improve the legal system and address issues of corruption and impunity in Guatemala.",
+      "media": "https://en.wikipedia.org/wiki/Corruption_in_Guatemala"
+    },
+    {
+      "start_date": {
+        "year": 2006,
+        "month": null,
+        "day": null
+      },
+      "headline": "Anti-Corruption Protests",
+      "text": "Mass protests erupt against corruption in government, leading to increased demands for accountability and transparency.",
+      "media": "https://en.wikipedia.org/wiki/Corruption_in_Guatemala"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": 4,
+        "day": 25
+      },
+      "headline": "President Resigns",
+      "text": "President Otto Pérez Molina resigns amid corruption allegations, leading to further political turmoil and calls for reform.",
+      "media": "https://en.wikipedia.org/wiki/Otto_P%C3%A9rez_Molina"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Presidential Elections",
+      "text": "New presidential elections are held, with Alejandro Giammattei winning amid ongoing concerns about corruption and governance.",
+      "media": "https://en.wikipedia.org/wiki/Alejandro_Giammattei"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Political Challenges",
+      "text": "Guatemala faces ongoing political challenges, including corruption, human rights issues, and migration crises.",
+      "media": "https://en.wikipedia.org/wiki/2021_in_Guatemala"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Political Climate",
+      "text": "The political climate remains tense as citizens demand accountability and reforms, while facing economic and social challenges.",
+      "media": "https://en.wikipedia.org/wiki/2023_in_Guatemala"
+    }
+  ]
+}

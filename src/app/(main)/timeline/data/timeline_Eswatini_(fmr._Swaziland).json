@@ -1,0 +1,144 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Eswatini (fmr. Swaziland)",
+      "text": "Major events in the history of Eswatini (fmr. Swaziland)."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1500
+      },
+      "headline": "Formation of the Swazi Kingdom",
+      "text": "The Swazi Kingdom was established in the late 15th century by Ngwane III, who united various clans in the region. This marked the beginning of a centralized political structure in what is now Eswatini.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+    },
+    {
+      "start_date": {
+        "year": 1818
+      },
+      "headline": "Rise of King Sobhuza I",
+      "text": "King Sobhuza I ascended to the throne and expanded the kingdom's territory through military conquests and alliances. His reign solidified the Swazi identity and governance.",
+      "media": "https://en.wikipedia.org/wiki/Sobhuza_I"
+    },
+    {
+      "start_date": {
+        "year": 1840
+      },
+      "headline": "The Zulu Wars",
+      "text": "The Swazi Kingdom faced invasions from the Zulu Kingdom, leading to significant military engagements. These conflicts shaped the political landscape of Southern Africa.",
+      "media": "https://en.wikipedia.org/wiki/Zulu_wars"
+    },
+    {
+      "start_date": {
+        "year": 1881
+      },
+      "headline": "British Protectorate Established",
+      "text": "Eswatini became a British protectorate following the signing of treaties with the British Empire. This marked the beginning of colonial influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+    },
+    {
+      "start_date": {
+        "year": 1894
+      },
+      "headline": "The Swazi Civil War",
+      "text": "A civil war broke out in Eswatini as rival factions vied for control of the throne. The conflict resulted in significant loss of life and further instability.",
+      "media": "https://en.wikipedia.org/wiki/Swazi_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1903
+      },
+      "headline": "Constitutional Changes",
+      "text": "The British introduced a new constitution that limited the powers of the Swazi monarchy and established a council to assist in governance. This change marked a shift towards more formalized colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+    },
+    {
+      "start_date": {
+        "year": 1967,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "Independence Movement Begins",
+      "text": "The movement for independence gained momentum as political parties began to form and advocate for self-governance. This laid the groundwork for future independence.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+    },
+    {
+      "start_date": {
+        "year": 1968,
+        "month": 9,
+        "day": 6
+      },
+      "headline": "Independence from Britain",
+      "text": "Eswatini gained independence from British colonial rule, becoming a fully sovereign nation. This was a significant milestone in the country's history.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+    },
+    {
+      "start_date": {
+        "year": 1973
+      },
+      "headline": "Suspension of the Constitution",
+      "text": "King Sobhuza II suspended the constitution and banned political parties, consolidating his power. This led to a period of absolute monarchy in Eswatini.",
+      "media": "https://en.wikipedia.org/wiki/Sobhuza_II"
+    },
+    {
+      "start_date": {
+        "year": 1982
+      },
+      "headline": "Formation of the People's United Democratic Movement",
+      "text": "The People's United Democratic Movement (PUDEMO) was formed as an opposition party advocating for democracy and political reform in Eswatini. This marked the beginning of organized resistance against the monarchy.",
+      "media": "https://en.wikipedia.org/wiki/PUDEMO"
+    },
+    {
+      "start_date": {
+        "year": 1992
+      },
+      "headline": "Political Reforms Proposed",
+      "text": "In response to growing pressure, King Sobhuza II proposed limited political reforms, including the establishment of a parliamentary system. However, these reforms were largely symbolic.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "New Constitution Adopted",
+      "text": "A new constitution was adopted, allowing for a limited form of democracy while maintaining the monarchy's significant powers. This was a step towards political reform in Eswatini.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Eswatini"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "King Mswati III Celebrates 50 Years",
+      "text": "King Mswati III celebrated 50 years on the throne, marking a significant milestone in his reign. The event was attended by dignitaries from around the world.",
+      "media": "https://en.wikipedia.org/wiki/Mswati_III"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 6,
+        "day": 29
+      },
+      "headline": "Protests Erupt",
+      "text": "Widespread protests erupted in Eswatini demanding democratic reforms and an end to the monarchy's absolute power. The protests were met with a heavy police response.",
+      "media": "https://en.wikipedia.org/wiki/2021_Eswatini_protests"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Government Response to Protests",
+      "text": "The government implemented measures to quell the protests, including arrests of opposition leaders and restrictions on gatherings. The political climate remained tense.",
+      "media": "https://en.wikipedia.org/wiki/2021_Eswatini_protests"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Calls for Reform",
+      "text": "Calls for political reform and greater democratic freedoms continue in Eswatini, with civil society organizations advocating for change. The future of the monarchy remains uncertain.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+    }
+  ]
+}

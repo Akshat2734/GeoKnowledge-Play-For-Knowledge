@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Jordan",
+      "text": "Major events in the history of Jordan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -12000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Settlements",
+      "text": "The region that is now Jordan has been inhabited since the Paleolithic era, with evidence of early human settlements and tools found in various archaeological sites.",
+      "media": "https://en.wikipedia.org/wiki/Prehistoric_Jordan"
+    },
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Ancient Civilizations",
+      "text": "By 3000 BCE, the area saw the rise of ancient civilizations, including the Ammonites, Moabites, and Edomites, who established city-states.",
+      "media": "https://en.wikipedia.org/wiki/Ancient_Jordan"
+    },
+    {
+      "start_date": {
+        "year": -1200,
+        "month": null,
+        "day": null
+      },
+      "headline": "The Arrival of the Israelites",
+      "text": "According to biblical accounts, the Israelites entered the region during their Exodus from Egypt, leading to conflicts with local tribes.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Jordan#Biblical_period"
+    },
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Persian Rule",
+      "text": "The region came under Persian control after the conquest by Cyrus the Great, integrating it into the vast Achaemenid Empire.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Jordan#Persian_period"
+    },
+    {
+      "start_date": {
+        "year": 332,
+        "month": null,
+        "day": null
+      },
+      "headline": "Conquest by Alexander the Great",
+      "text": "In 332 BCE, Alexander the Great conquered the region, leading to the spread of Hellenistic culture and the establishment of cities like Philadelphia (modern Amman).",
+      "media": "https://en.wikipedia.org/wiki/History_of_Jordan#Hellenistic_period"
+    },
+    {
+      "start_date": {
+        "year": 64,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Annexation",
+      "text": "The area became part of the Roman Empire in 64 BCE, leading to significant urban development and the establishment of the Decapolis, a group of ten cities.",
+      "media": "https://en.wikipedia.org/wiki/Decapolis"
+    },
+    {
+      "start_date": {
+        "year": 330,
+        "month": null,
+        "day": null
+      },
+      "headline": "Byzantine Period",
+      "text": "During the Byzantine era, the region saw the spread of Christianity and the construction of numerous churches and monasteries.",
+      "media": "https://en.wikipedia.org/wiki/Byzantine_Jordan"
+    },
+    {
+      "start_date": {
+        "year": 636,
+        "month": null,
+        "day": null
+      },
+      "headline": "Islamic Conquest",
+      "text": "The Muslim armies defeated the Byzantine forces at the Battle of Yarmouk in 636 CE, leading to the Islamic rule over Jordan.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Jordan#Islamic_period"
+    },
+    {
+      "start_date": {
+        "year": 1250,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mamluk Sultanate",
+      "text": "The region came under the control of the Mamluks, who ruled from Egypt and contributed to the architectural development of cities in Jordan.",
+      "media": "https://en.wikipedia.org/wiki/Mamluk_Sultanate"
+    },
+    {
+      "start_date": {
+        "year": 1517,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ottoman Rule",
+      "text": "Jordan became part of the Ottoman Empire in 1517, remaining under Ottoman control for four centuries until World War I.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Jordan"
+    },
+    {
+      "start_date": {
+        "year": 1916,
+        "month": 6,
+        "day": 5
+      },
+      "headline": "Arab Revolt",
+      "text": "The Arab Revolt against Ottoman rule began, with support from the British, leading to the eventual establishment of Arab states.",
+      "media": "https://en.wikipedia.org/wiki/Arab_Revolt"
+    },
+    {
+      "start_date": {
+        "year": 1921,
+        "month": 4,
+        "day": 11
+      },
+      "headline": "Establishment of Transjordan",
+      "text": "Transjordan was established as a semi-autonomous region under British mandate, with Abdullah I as its emir.",
+      "media": "https://en.wikipedia.org/wiki/Transjordan"
+    },
+    {
+      "start_date": {
+        "year": 1946,
+        "month": 5,
+        "day": 25
+      },
+      "headline": "Independence from Britain",
+      "text": "Jordan gained full independence from British rule, becoming the Hashemite Kingdom of Jordan.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Jordan#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1948,
+        "month": 5,
+        "day": 15
+      },
+      "headline": "First Arab-Israeli War",
+      "text": "Following the establishment of Israel, Jordan entered the first Arab-Israeli war, resulting in the annexation of the West Bank.",
+      "media": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War"
+    },
+    {
+      "start_date": {
+        "year": 1967,
+        "month": 6,
+        "day": 5
+      },
+      "headline": "Six-Day War",
+      "text": "In the Six-Day War, Israel captured the West Bank from Jordan, leading to significant territorial and demographic changes.",
+      "media": "https://en.wikipedia.org/wiki/Six-Day_War"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": 9,
+        "day": 1
+      },
+      "headline": "Black September",
+      "text": "A civil conflict erupted between the Jordanian government and the Palestine Liberation Organization (PLO), leading to a crackdown on Palestinian factions.",
+      "media": "https://en.wikipedia.org/wiki/Black_September_in_Jordan"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": 10,
+        "day": 26
+      },
+      "headline": "Peace Treaty with Israel",
+      "text": "Jordan signed a peace treaty with Israel, becoming the second Arab country to recognize Israel, which helped stabilize relations in the region.",
+      "media": "https://en.wikipedia.org/wiki/Jordan%E2%80%93Israel_peace_treaty"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": null,
+        "day": null
+      },
+      "headline": "Arab Spring Protests",
+      "text": "Inspired by the Arab Spring, protests erupted in Jordan calling for political reforms and economic improvements, leading to some governmental changes.",
+      "media": "https://en.wikipedia.org/wiki/2011_Jordanian_protests"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Jordan implemented strict measures to combat the COVID-19 pandemic, affecting the economy and daily life of its citizens.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Jordan"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Economic Challenges",
+      "text": "Jordan faced significant economic challenges, including high unemployment and inflation, exacerbated by the pandemic and regional instability.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Jordan"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Reforms",
+      "text": "The Jordanian government continues to implement economic and political reforms aimed at improving governance and economic stability amidst ongoing challenges.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Jordan"
+    }
+  ]
+}

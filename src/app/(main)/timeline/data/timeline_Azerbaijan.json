@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Azerbaijan",
+      "text": "Major events in the history of Azerbaijan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The territory of modern Azerbaijan has been inhabited since the Stone Age, with evidence of early human settlements dating back to around 3000 BC.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Azerbaijan"
+    },
+    {
+      "start_date": {
+        "year": -550,
+        "month": null,
+        "day": null
+      },
+      "headline": "Achaemenid Empire",
+      "text": "Azerbaijan became part of the Achaemenid Empire, which marked the beginning of significant Persian influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+    },
+    {
+      "start_date": {
+        "year": 330,
+        "month": null,
+        "day": null
+      },
+      "headline": "Alexander the Great's Conquest",
+      "text": "The region was conquered by Alexander the Great, further integrating it into the Hellenistic world.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": 652,
+        "month": null,
+        "day": null
+      },
+      "headline": "Arab Conquest",
+      "text": "The Arab conquest of Azerbaijan led to the spread of Islam and significant cultural changes in the region.",
+      "media": "https://en.wikipedia.org/wiki/Arab_conquest_of_Persia"
+    },
+    {
+      "start_date": {
+        "year": 1040,
+        "month": null,
+        "day": null
+      },
+      "headline": "Seljuk Empire",
+      "text": "The Seljuk Turks established control over Azerbaijan, leading to a period of prosperity and cultural development.",
+      "media": "https://en.wikipedia.org/wiki/Seljuk_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1380,
+        "month": null,
+        "day": null
+      },
+      "headline": "Timurid Empire",
+      "text": "Azerbaijan became part of the Timurid Empire under Timur, which fostered a rich cultural and artistic environment.",
+      "media": "https://en.wikipedia.org/wiki/Timurid_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1501,
+        "month": null,
+        "day": null
+      },
+      "headline": "Safavid Dynasty",
+      "text": "The Safavid dynasty established Shia Islam as the state religion, marking a significant shift in the region's religious landscape.",
+      "media": "https://en.wikipedia.org/wiki/Safavid"
+    },
+    {
+      "start_date": {
+        "year": 1722,
+        "month": null,
+        "day": null
+      },
+      "headline": "Persian Invasion",
+      "text": "The Persian invasion by the Afghans led to a period of instability and the eventual fragmentation of the Safavid Empire.",
+      "media": "https://en.wikipedia.org/wiki/Afghan_invasions_of_Iran"
+    },
+    {
+      "start_date": {
+        "year": 1805,
+        "month": null,
+        "day": null
+      },
+      "headline": "Russian Annexation",
+      "text": "Following the Russo-Persian War, Azerbaijan was annexed by the Russian Empire, significantly altering its political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Russo-Persian_Wars"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 5,
+        "day": 28
+      },
+      "headline": "Azerbaijan Democratic Republic",
+      "text": "Azerbaijan declared independence from Russia, becoming the first secular democratic republic in the Muslim world.",
+      "media": "https://en.wikipedia.org/wiki/Azerbaijan_Democratic_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": 4,
+        "day": 28
+      },
+      "headline": "Soviet Occupation",
+      "text": "The Red Army invaded Azerbaijan, leading to the establishment of the Azerbaijan Soviet Socialist Republic.",
+      "media": "https://en.wikipedia.org/wiki/Soviet_Azerbaijan"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": null,
+        "day": null
+      },
+      "headline": "World War II Contribution",
+      "text": "Azerbaijan played a crucial role in supplying oil to the Soviet Union during World War II.",
+      "media": "https://en.wikipedia.org/wiki/Azerbaijan_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 30
+      },
+      "headline": "Independence from the USSR",
+      "text": "Azerbaijan declared independence from the Soviet Union, marking a new chapter in its national history.",
+      "media": "https://en.wikipedia.org/wiki/Azerbaijan#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": null,
+        "day": null
+      },
+      "headline": "Nagorno-Karabakh Conflict Begins",
+      "text": "The conflict over the Nagorno-Karabakh region erupted, leading to a prolonged and violent struggle between Azerbaijan and Armenia.",
+      "media": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ceasefire Agreement",
+      "text": "A ceasefire was reached in the Nagorno-Karabakh conflict, although tensions remained high for years to come.",
+      "media": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict#Ceasefire"
+    },
+    {
+      "start_date": {
+        "year": 2006,
+        "month": null,
+        "day": null
+      },
+      "headline": "Baku-Tbilisi-Ceyhan Pipeline",
+      "text": "The Baku-Tbilisi-Ceyhan oil pipeline was inaugurated, enhancing Azerbaijan's role as a key energy supplier to Europe.",
+      "media": "https://en.wikipedia.org/wiki/Baku%E2%80%93Tbilisi%E2%80%93Ceyhan_pipeline"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": 4,
+        "day": null
+      },
+      "headline": "April War",
+      "text": "A brief but intense military confrontation occurred in Nagorno-Karabakh, resulting in casualties on both sides.",
+      "media": "https://en.wikipedia.org/wiki/April_War"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+      },
+      "headline": "Second Nagorno-Karabakh War",
+      "text": "A 44-day war broke out between Azerbaijan and Armenia over Nagorno-Karabakh, leading to significant territorial gains for Azerbaijan.",
+      "media": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Post-War Reconstruction",
+      "text": "Azerbaijan began reconstruction efforts in the territories regained during the Second Nagorno-Karabakh War, focusing on infrastructure and housing.",
+      "media": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war#Aftermath"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ongoing Diplomatic Efforts",
+      "text": "Azerbaijan continues to engage in diplomatic efforts to stabilize relations with Armenia and promote regional peace.",
+      "media": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict#Current_situation"
+    }
+  ]
+}

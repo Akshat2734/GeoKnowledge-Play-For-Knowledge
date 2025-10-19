@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Ecuador",
+      "text": "Major events in the history of Ecuador."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -12000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The earliest known inhabitants of Ecuador were hunter-gatherers who settled in the region around 12,000 years ago. They left behind evidence of their existence through tools and artifacts.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Ecuador#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Development of Agriculture",
+      "text": "By around 3000 BC, the inhabitants of Ecuador began to practice agriculture, cultivating crops such as maize and potatoes. This shift allowed for the development of more complex societies.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Ecuador#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": -1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Valdivia Culture",
+      "text": "The Valdivia culture emerged around 1500 BC on the coast of Ecuador, known for its pottery and early forms of social organization. They are considered one of the earliest complex societies in the region.",
+      "media": "https://en.wikipedia.org/wiki/Valdivia_culture"
+    },
+    {
+      "start_date": {
+        "year": 1460,
+        "month": null,
+        "day": null
+      },
+      "headline": "Inca Conquest",
+      "text": "In the 15th century, the Inca Empire expanded into Ecuador, incorporating various indigenous groups into their vast territory. This led to significant cultural and political changes in the region.",
+      "media": "https://en.wikipedia.org/wiki/Inca_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1532,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Conquest",
+      "text": "The Spanish conquest of Ecuador began in 1532, led by Francisco Pizarro. The indigenous populations faced violence and disease, leading to a dramatic decline in their numbers.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1534,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Quito",
+      "text": "Quito was founded by the Spanish on December 6, 1534, on the ruins of an Inca city. It became an important colonial administrative center in the Spanish Empire.",
+      "media": "https://en.wikipedia.org/wiki/Quito"
+    },
+    {
+      "start_date": {
+        "year": 1822,
+        "month": 5,
+        "day": 24
+      },
+      "headline": "Battle of Pichincha",
+      "text": "On May 24, 1822, the Battle of Pichincha took place, leading to the liberation of Quito from Spanish rule. This battle was a crucial step in Ecuador's path to independence.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Pichincha"
+    },
+    {
+      "start_date": {
+        "year": 1830,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Ecuador as a Republic",
+      "text": "Ecuador officially became a republic on September 13, 1830, following its separation from Gran Colombia. This marked the beginning of its journey as an independent nation.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Ecuador#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1859,
+        "month": null,
+        "day": null
+      },
+      "headline": "Civil War",
+      "text": "Ecuador experienced a civil war from 1859 to 1860, primarily driven by political and economic tensions between conservatives and liberals. The conflict resulted in significant changes in governance.",
+      "media": "https://en.wikipedia.org/wiki/Ecuadorian_Civil_War_(1859%E2%80%9360)"
+    },
+    {
+      "start_date": {
+        "year": 1895,
+        "month": null,
+        "day": null
+      },
+      "headline": "Liberal Revolution",
+      "text": "The Liberal Revolution of 1895, led by Eloy Alfaro, aimed to modernize Ecuador and reduce the power of the Catholic Church. It resulted in significant social and political reforms.",
+      "media": "https://en.wikipedia.org/wiki/Liberal_Revolution_(Ecuador)"
+    },
+    {
+      "start_date": {
+        "year": 1925,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Coup",
+      "text": "A military coup in 1925 led to the overthrow of President Gonzalo Córdova. This event marked the beginning of a series of military governments in Ecuador.",
+      "media": "https://en.wikipedia.org/wiki/Ecuador#20th_century"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": null,
+        "day": null
+      },
+      "headline": "Democratic Elections",
+      "text": "In 1944, Ecuador held democratic elections, marking a return to civilian rule after years of military dictatorship. This period saw the establishment of new political parties.",
+      "media": "https://en.wikipedia.org/wiki/Ecuador#20th_century"
+    },
+    {
+      "start_date": {
+        "year": 1972,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Junta",
+      "text": "In 1972, a military junta led by General Guillermo Rodríguez took control of the government. This regime implemented various reforms but faced opposition from civil society.",
+      "media": "https://en.wikipedia.org/wiki/Ecuador#20th_century"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": null,
+        "day": null
+      },
+      "headline": "Return to Democracy",
+      "text": "Ecuador returned to democratic governance in 1979 after years of military rule. This transition was marked by the election of President Jaime Roldós.",
+      "media": "https://en.wikipedia.org/wiki/Ecuador#20th_century"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Dollarization",
+      "text": "In January 2000, Ecuador adopted the US dollar as its official currency in response to a severe economic crisis. This move aimed to stabilize the economy and restore confidence.",
+      "media": "https://en.wikipedia.org/wiki/Ecuador#21st_century"
+    },
+    {
+      "start_date": {
+        "year": 2006,
+        "month": null,
+        "day": null
+      },
+      "headline": "Election of Rafael Correa",
+      "text": "Rafael Correa was elected president in 2006, promising to implement a 'Citizens' Revolution' aimed at reducing poverty and increasing social spending. His presidency marked a shift in Ecuadorian politics.",
+      "media": "https://en.wikipedia.org/wiki/Rafael_Correa"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 5,
+        "day": 24
+      },
+      "headline": "Lenín Moreno Takes Office",
+      "text": "Lenín Moreno assumed the presidency on May 24, 2017, succeeding Rafael Correa. His administration focused on dialogue and reconciliation after years of political polarization.",
+      "media": "https://en.wikipedia.org/wiki/Len%C3%ADn_Moreno"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 5,
+        "day": 24
+      },
+      "headline": "Guillermo Lasso Elected President",
+      "text": "Guillermo Lasso was elected president on April 11, 2021, marking a return to conservative governance. His administration faced challenges related to the economy and public health.",
+      "media": "https://en.wikipedia.org/wiki/Guillermo_Lasso"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Turmoil",
+      "text": "Ecuador faced significant political turmoil in 2023, including protests and calls for early elections. The situation highlighted ongoing social and economic challenges in the country.",
+      "media": "https://en.wikipedia.org/wiki/2023_Ecuadorian_protests"
+    }
+  ]
+}

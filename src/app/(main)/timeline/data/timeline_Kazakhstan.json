@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Kazakhstan",
+      "text": "Major events in the history of Kazakhstan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The territory of modern Kazakhstan has been inhabited since the Stone Age, with evidence of early human settlements dating back to around 3000 BC. These early inhabitants were primarily nomadic tribes engaged in hunting and gathering.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Kazakhstan"
+    },
+    {
+      "start_date": {
+        "year": -700,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Scythian Kingdom",
+      "text": "By 700 BC, the Scythians established a powerful kingdom in the region, known for their warrior culture and intricate gold artifacts. This period marked the beginning of significant cultural development in Kazakhstan.",
+      "media": "https://en.wikipedia.org/wiki/Scythians"
+    },
+    {
+      "start_date": {
+        "year": 550,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Turkic Khaganate",
+      "text": "The Turkic Khaganate was founded in 550 AD, uniting various Turkic tribes under a single political entity. This marked the beginning of Turkic influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Turkic_Khaganate"
+    },
+    {
+      "start_date": {
+        "year": 1219,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mongol Invasion",
+      "text": "Genghis Khan launched a massive invasion of Central Asia in 1219, leading to the conquest of Kazakhstan. This invasion had a profound impact on the region's demographics and culture.",
+      "media": "https://en.wikipedia.org/wiki/Mongol_invasions"
+    },
+    {
+      "start_date": {
+        "year": 1465,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Kazakh Khanate",
+      "text": "The Kazakh Khanate was established in 1465, uniting various Kazakh tribes under a single leadership. This marked the beginning of a distinct Kazakh identity and political structure.",
+      "media": "https://en.wikipedia.org/wiki/Kazakh_Khanate"
+    },
+    {
+      "start_date": {
+        "year": 1731,
+        "month": null,
+        "day": null
+      },
+      "headline": "Kazakh Khanate Becomes a Russian Protectorate",
+      "text": "In 1731, the Kazakh Khanate signed an agreement with the Russian Empire, becoming a protectorate. This marked the beginning of significant Russian influence in Kazakhstan.",
+      "media": "https://en.wikipedia.org/wiki/Kazakhstan#Russian_empire"
+    },
+    {
+      "start_date": {
+        "year": 1867,
+        "month": null,
+        "day": null
+      },
+      "headline": "Administrative Reforms by the Russian Empire",
+      "text": "The Russian Empire implemented administrative reforms in 1867, dividing Kazakhstan into two governorates. This restructuring aimed to increase control over the region and facilitate Russian settlement.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Kazakhstan#Russian_empire"
+    },
+    {
+      "start_date": {
+        "year": 1917,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "Russian Revolution",
+      "text": "The Russian Revolution in 1917 led to significant political changes in Kazakhstan. The region experienced social upheaval and the rise of nationalist movements seeking independence.",
+      "media": "https://en.wikipedia.org/wiki/Russian_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": null,
+        "day": null
+      },
+      "headline": "Creation of the Kazakh Autonomous Soviet Socialist Republic",
+      "text": "In 1920, the Kazakh Autonomous Soviet Socialist Republic was established within the Russian Soviet Federative Socialist Republic. This marked the beginning of Soviet governance in Kazakhstan.",
+      "media": "https://en.wikipedia.org/wiki/Kazakh_Autonomous_Soviet_Socialist_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1936,
+        "month": 12,
+        "day": 5
+      },
+      "headline": "Kazakh SSR Established",
+      "text": "On December 5, 1936, the Kazakh SSR was officially established as a separate republic within the Soviet Union. This change aimed to strengthen Soviet control and promote industrialization.",
+      "media": "https://en.wikipedia.org/wiki/Kazakh_Soviet_Socialist_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1949,
+        "month": null,
+        "day": null
+      },
+      "headline": "Nuclear Testing at Semipalatinsk",
+      "text": "The Soviet Union conducted nuclear tests at the Semipalatinsk Test Site starting in 1949. This had devastating effects on the environment and health of local populations.",
+      "media": "https://en.wikipedia.org/wiki/Semipalatinsk_Test_Site"
+    },
+    {
+      "start_date": {
+        "year": 1986,
+        "month": 12,
+        "day": 16
+      },
+      "headline": "Zheltoksan Uprising",
+      "text": "The Zheltoksan Uprising in December 1986 was a significant protest against the Soviet regime, sparked by the appointment of a Russian leader in Kazakhstan. This event highlighted the growing nationalist sentiments among Kazakhs.",
+      "media": "https://en.wikipedia.org/wiki/Zheltoksan"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 12,
+        "day": 1
+      },
+      "headline": "Independence from the Soviet Union",
+      "text": "Kazakhstan declared its independence from the Soviet Union on December 1, 1991. This marked a new era for the nation, allowing it to establish its own government and pursue a path of sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Kazakhstan#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Adoption of the National Currency",
+      "text": "Kazakhstan introduced its national currency, the tenge, in November 1993, replacing the Soviet ruble. This was a crucial step in establishing economic independence.",
+      "media": "https://en.wikipedia.org/wiki/Tenge"
+    },
+    {
+      "start_date": {
+        "year": 1997,
+        "month": 10,
+        "day": 20
+      },
+      "headline": "Capital Relocation to Astana",
+      "text": "In 1997, the capital of Kazakhstan was moved from Almaty to Akmolinsk, later renamed Astana. This decision aimed to promote development in the northern regions of the country.",
+      "media": "https://en.wikipedia.org/wiki/Astana"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Kazakhstan Joins the Organization for Security and Co-operation in Europe",
+      "text": "Kazakhstan became a member of the Organization for Security and Co-operation in Europe (OSCE) in 2000. This membership marked its commitment to international cooperation and security.",
+      "media": "https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 7,
+        "day": 1
+      },
+      "headline": "Astana Expo 2017 Announcement",
+      "text": "Kazakhstan was chosen to host the Expo 2017 in Astana, focusing on the theme of 'Future Energy.' This event showcased Kazakhstan's commitment to sustainable development and innovation.",
+      "media": "https://en.wikipedia.org/wiki/Expo_2017"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 3,
+        "day": 20
+      },
+      "headline": "Change of Leadership",
+      "text": "On March 20, 2019, Nursultan Nazarbayev announced his resignation after nearly three decades in power. Kassym-Jomart Tokayev was appointed as the new president, marking a significant political transition.",
+      "media": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 1,
+        "day": 5
+      },
+      "headline": "January Events",
+      "text": "In January 2022, Kazakhstan experienced widespread protests against rising fuel prices, which escalated into violent clashes. The government declared a state of emergency in response to the unrest.",
+      "media": "https://en.wikipedia.org/wiki/2022_Kazakhstan_protests"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Kazakhstan's Economic Reforms",
+      "text": "In 2023, Kazakhstan continued to implement economic reforms aimed at diversifying its economy and reducing dependence on oil. These reforms are part of a broader strategy to enhance economic resilience.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Kazakhstan"
+    }
+  ]
+}

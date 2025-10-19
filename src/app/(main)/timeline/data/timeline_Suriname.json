@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Suriname",
+      "text": "Major events in the history of Suriname."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1499
+      },
+      "headline": "First European Contact",
+      "text": "Spanish explorers reach the Suriname coast, encountering indigenous Arawak and Carib peoples.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Suriname"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1651
+      },
+      "headline": "British Settlement Established",
+      "text": "English colonists establish sugar plantations worked by enslaved Africans.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Suriname"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1667
+      },
+      "headline": "Dutch Take Control",
+      "text": "The Dutch seize Suriname from the British, trading it for New Amsterdam (modern New York).",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Breda_(1667)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1763
+      },
+      "headline": "Maroons Resist Slavery",
+      "text": "Escaped slaves form independent communities in the interior, fighting for freedom and autonomy.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Maroons_(Suriname)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1863
+      },
+      "headline": "Abolition of Slavery",
+      "text": "Slavery is abolished, but indentured laborers from India and Java replace enslaved workers.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Suriname"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1954
+      },
+      "headline": "Autonomous Status Within the Kingdom of the Netherlands",
+      "text": "Suriname gains internal self-government while remaining under Dutch sovereignty.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Suriname"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": 11,
+        "day": 25
+      },
+      "headline": "Independence from the Netherlands",
+      "text": "Suriname becomes an independent republic with Paramaribo as its capital.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Suriname"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "headline": "Military Coup",
+      "text": "Sergeant Dési Bouterse leads a coup, suspending the constitution and ruling by decree.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Desi_Bouterse"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "Return to Civilian Rule",
+      "text": "Democratic elections restore civilian government.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Suriname"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Economic and Environmental Challenges",
+      "text": "Suriname faces debt and deforestation concerns while pursuing sustainable development.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Suriname"
+      }
+    }
+  ]
+}

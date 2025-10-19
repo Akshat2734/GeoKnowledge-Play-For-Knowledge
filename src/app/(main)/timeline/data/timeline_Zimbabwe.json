@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Zimbabwe",
+      "text": "Major events in the history of Zimbabwe."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1100
+      },
+      "headline": "Great Zimbabwe",
+      "text": "Shona civilization builds the monumental stone city of Great Zimbabwe.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1500
+      },
+      "headline": "Mutapa Empire",
+      "text": "Dominates gold and ivory trade across southern Africa.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Mutapa_Empire"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1890
+      },
+      "headline": "BSAC Occupation",
+      "text": "Cecil Rhodes’ company occupies the area, naming it Southern Rhodesia.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Southern_Rhodesia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1923
+      },
+      "headline": "Self-Governing Colony",
+      "text": "Southern Rhodesia becomes a self-governing British colony.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Southern_Rhodesia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1965
+      },
+      "headline": "UDI",
+      "text": "Ian Smith’s regime declares independence from Britain.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Unilateral_Declaration_of_Independence_(Rhodesia)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": 4,
+        "day": 18
+      },
+      "headline": "Independence",
+      "text": "Zimbabwe gains international recognition; Robert Mugabe becomes PM.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Zimbabwe)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1999
+      },
+      "headline": "Economic Collapse",
+      "text": "Land seizures and hyperinflation trigger decline.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Zimbabwe"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "headline": "Mugabe Ousted",
+      "text": "Military intervention removes Mugabe after 37 years.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/2017_Zimbabwean_coup_d%27%C3%A9tat"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "Mnangagwa Elected",
+      "text": "Elections under new leadership with reform promises.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Emmerson_Mnangagwa"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Inflation & Reform Efforts",
+      "text": "Pursuing investment and stability amid economic challenges.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Zimbabwe"
+      }
+    }
+  ]
+}

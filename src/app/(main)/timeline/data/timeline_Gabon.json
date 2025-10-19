@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Gabon",
+      "text": "Major events in the history of Gabon."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Settlements",
+      "text": "The earliest human settlements in Gabon date back to around 2000 BC, with evidence of hunter-gatherer communities. These groups relied on the rich natural resources of the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Gabon"
+    },
+    {
+      "start_date": {
+        "year": 1472,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Exploration",
+      "text": "The Portuguese explorer Diego Cao reached the Gabonese coast in 1472, marking the beginning of European interest in the region. This led to the establishment of trade routes along the coast.",
+      "media": "https://en.wikipedia.org/wiki/Diego_C%C3%A3o"
+    },
+    {
+      "start_date": {
+        "year": 1839,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Colonization Begins",
+      "text": "France established a protectorate over Gabon in 1839, leading to increased French influence in the region. This marked the beginning of a long colonial period.",
+      "media": "https://en.wikipedia.org/wiki/French_colonization_of_Gabon"
+    },
+    {
+      "start_date": {
+        "year": 1885,
+        "month": null,
+        "day": null
+      },
+      "headline": "Gabon Becomes a French Colony",
+      "text": "In 1885, Gabon was officially declared a French colony. This led to significant changes in governance and the introduction of French culture and language.",
+      "media": "https://en.wikipedia.org/wiki/Gabon"
+    },
+    {
+      "start_date": {
+        "year": 1910,
+        "month": null,
+        "day": null
+      },
+      "headline": "Gabon Joins French Equatorial Africa",
+      "text": "Gabon became part of French Equatorial Africa in 1910, which included several other territories. This integration aimed to streamline colonial administration.",
+      "media": "https://en.wikipedia.org/wiki/French_Equatorial_Africa"
+    },
+    {
+      "start_date": {
+        "year": 1946,
+        "month": null,
+        "day": null
+      },
+      "headline": "Gabon Becomes an Overseas Territory",
+      "text": "After World War II, Gabon was designated an overseas territory of France, granting it a degree of political autonomy. This period saw the rise of nationalist movements.",
+      "media": "https://en.wikipedia.org/wiki/Overseas_territories_of_France"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 8,
+        "day": 16
+      },
+      "headline": "Independence from France",
+      "text": "Gabon gained independence from France on August 16, 1960. Léon M'ba became the first president, marking a new era in Gabon's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Gabon#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1967,
+        "month": null,
+        "day": null
+      },
+      "headline": "Léon M'ba's Death",
+      "text": "Léon M'ba passed away in 1967, leading to a power struggle in Gabon. His death marked a significant turning point in the country's political history.",
+      "media": "https://en.wikipedia.org/wiki/L%C3%A9on_M%27ba"
+    },
+    {
+      "start_date": {
+        "year": 1967,
+        "month": 12,
+        "day": 1
+      },
+      "headline": "Omar Bongo Becomes President",
+      "text": "Following the death of Léon M'ba, Omar Bongo was elected president. He would go on to rule Gabon for over 40 years, shaping the country's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Omar_Bongo"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Reforms",
+      "text": "In 1990, Gabon underwent significant political reforms, allowing for multi-party elections. This was a response to growing demands for democracy from the populace.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Gabon"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Multi-Party Elections",
+      "text": "Gabon held its first multi-party elections in 1993, marking a significant step towards democratic governance. However, the elections were marred by allegations of fraud.",
+      "media": "https://en.wikipedia.org/wiki/1993_Gabonese_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 6,
+        "day": 8
+      },
+      "headline": "Omar Bongo's Death",
+      "text": "Omar Bongo died in June 2009, leading to a transition of power to his son, Ali Bongo Ondimba. This event raised concerns about political continuity in Gabon.",
+      "media": "https://en.wikipedia.org/wiki/Omar_Bongo#Death"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 8,
+        "day": 30
+      },
+      "headline": "Ali Bongo Ondimba Elected President",
+      "text": "Ali Bongo Ondimba was elected president in August 2009, amid allegations of electoral fraud. His presidency has been marked by controversies and calls for reform.",
+      "media": "https://en.wikipedia.org/wiki/Ali_Bongo_Ondimba"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": 8,
+        "day": 31
+      },
+      "headline": "Controversial Re-Election",
+      "text": "Ali Bongo was re-elected in a controversial election in 2016, leading to widespread protests and accusations of electoral manipulation. The political climate in Gabon remained tense.",
+      "media": "https://en.wikipedia.org/wiki/2016_Gabonese_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Challenges",
+      "text": "Gabon faced significant economic challenges in 2019, largely due to fluctuations in oil prices. This led to increased public discontent and calls for economic reform.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Gabon"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic Impact",
+      "text": "The COVID-19 pandemic began to impact Gabon in 2020, leading to health crises and economic downturns. The government implemented various measures to combat the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Gabon"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Political Climate",
+      "text": "As of 2023, Gabon continues to navigate political and economic challenges under Ali Bongo's leadership. The country is facing growing demands for transparency and democratic reforms.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Gabon"
+    }
+  ]
+}

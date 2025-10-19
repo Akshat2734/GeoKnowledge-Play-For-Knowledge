@@ -1,0 +1,240 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Afghanistan",
+      "text": "Major events in the history of Afghanistan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Indo-Aryan Migration",
+      "text": "The Indo-Aryans migrated into the region, bringing with them their language and culture, which would influence the development of the area.",
+      "media": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations"
+    },
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Achaemenid Empire",
+      "text": "Afghanistan became part of the Achaemenid Empire, which marked the beginning of significant Persian influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+    },
+    {
+      "start_date": {
+        "year": 330,
+        "month": null,
+        "day": null
+      },
+      "headline": "Conquest by Alexander the Great",
+      "text": "Alexander the Great conquered the region, establishing several cities, including the famous city of Alexandria Arachosia.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": 250,
+        "month": null,
+        "day": null
+      },
+      "headline": "Buddhism in Afghanistan",
+      "text": "Buddhism spread throughout Afghanistan, leading to the construction of many stupas and monasteries, particularly in the Bamiyan Valley.",
+      "media": "https://en.wikipedia.org/wiki/Buddhism_in_Afghanistan"
+    },
+    {
+      "start_date": {
+        "year": 640,
+        "month": null,
+        "day": null
+      },
+      "headline": "Islamic Conquest",
+      "text": "The region was conquered by Muslim armies, leading to the gradual conversion of the population to Islam.",
+      "media": "https://en.wikipedia.org/wiki/Islamic_conquest_of_Afghanistan"
+    },
+    {
+      "start_date": {
+        "year": 1220,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mongol Invasion",
+      "text": "Genghis Khan invaded Afghanistan, causing widespread destruction and significant loss of life.",
+      "media": "https://en.wikipedia.org/wiki/Mongol_invasions"
+    },
+    {
+      "start_date": {
+        "year": 1504,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mughal Empire",
+      "text": "Babur, the founder of the Mughal Empire, captured Kabul, establishing it as an important center of the empire.",
+      "media": "https://en.wikipedia.org/wiki/Mughal_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1747,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Durrani Empire",
+      "text": "Ahmad Shah Durrani founded the Durrani Empire, which is considered the foundation of modern Afghanistan.",
+      "media": "https://en.wikipedia.org/wiki/Durrani_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1839,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Anglo-Afghan War",
+      "text": "The British invaded Afghanistan, leading to a disastrous retreat from Kabul in 1842.",
+      "media": "https://en.wikipedia.org/wiki/First_Anglo-Afghan_War"
+    },
+    {
+      "start_date": {
+        "year": 1878,
+        "month": null,
+        "day": null
+      },
+      "headline": "Second Anglo-Afghan War",
+      "text": "The British launched a second invasion of Afghanistan, resulting in the Treaty of Gandamak and the establishment of a British protectorate.",
+      "media": "https://en.wikipedia.org/wiki/Second_Anglo-Afghan_War"
+    },
+    {
+      "start_date": {
+        "year": 1919,
+        "month": null,
+        "day": null
+      },
+      "headline": "Third Anglo-Afghan War",
+      "text": "Afghanistan gained full independence from British influence after successfully resisting British forces.",
+      "media": "https://en.wikipedia.org/wiki/Third_Anglo-Afghan_War"
+    },
+    {
+      "start_date": {
+        "year": 1926,
+        "month": null,
+        "day": null
+      },
+      "headline": "King Amanullah Khan's Reforms",
+      "text": "King Amanullah Khan initiated a series of modernizing reforms aimed at transforming Afghanistan into a modern state.",
+      "media": "https://en.wikipedia.org/wiki/Amanullah_Khan"
+    },
+    {
+      "start_date": {
+        "year": 1973,
+        "month": null,
+        "day": null
+      },
+      "headline": "Coup d'état",
+      "text": "Mohammad Daoud Khan overthrew the monarchy and established a republic, marking the beginning of political instability.",
+      "media": "https://en.wikipedia.org/wiki/Mohammad_Daoud_Khan"
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": null,
+        "day": null
+      },
+      "headline": "Saur Revolution",
+      "text": "A communist coup led by the People's Democratic Party of Afghanistan resulted in the establishment of a communist government.",
+      "media": "https://en.wikipedia.org/wiki/Saur_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": null,
+        "day": null
+      },
+      "headline": "Soviet Invasion",
+      "text": "The Soviet Union invaded Afghanistan to support the communist government, leading to a decade-long conflict.",
+      "media": "https://en.wikipedia.org/wiki/Soviet_invasion_of_Afghanistan"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 2,
+        "day": 15
+      },
+      "headline": "Soviet Withdrawal",
+      "text": "The Soviet Union withdrew its troops from Afghanistan, marking the end of a brutal conflict that left the country devastated.",
+      "media": "https://en.wikipedia.org/wiki/Soviet_withdrawal_from_Afghanistan"
+    },
+    {
+      "start_date": {
+        "year": 1996,
+        "month": null,
+        "day": null
+      },
+      "headline": "Taliban Takeover",
+      "text": "The Taliban seized control of Kabul, establishing a regime characterized by strict interpretations of Islamic law.",
+      "media": "https://en.wikipedia.org/wiki/Taliban"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": 9,
+        "day": 11
+      },
+      "headline": "9/11 Attacks",
+      "text": "The terrorist attacks on September 11 led to the U.S. invasion of Afghanistan to dismantle al-Qaeda and remove the Taliban from power.",
+      "media": "https://en.wikipedia.org/wiki/September_11_attacks"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": 11,
+        "day": 13
+      },
+      "headline": "Fall of the Taliban",
+      "text": "U.S.-led forces captured Kabul, leading to the collapse of the Taliban regime and the establishment of a new government.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_Kabul_(2001)"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Constitution",
+      "text": "Afghanistan adopted a new constitution that established a democratic framework and recognized the rights of citizens.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Afghanistan"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": null,
+        "day": null
+      },
+      "headline": "NATO Withdrawal",
+      "text": "NATO formally ended its combat mission in Afghanistan, transitioning to a training and support role for Afghan forces.",
+      "media": "https://en.wikipedia.org/wiki/NATO_in_Afghanistan"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 8,
+        "day": 15
+      },
+      "headline": "Taliban Regain Control",
+      "text": "The Taliban regained control of Afghanistan as U.S. and NATO forces completed their withdrawal, leading to significant changes in governance and human rights.",
+      "media": "https://en.wikipedia.org/wiki/Taliban_takeover_of_Afghanistan"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Situation",
+      "text": "Afghanistan faces ongoing humanitarian crises, economic challenges, and international isolation under Taliban rule.",
+      "media": "https://en.wikipedia.org/wiki/Afghanistan"
+    }
+  ]
+}

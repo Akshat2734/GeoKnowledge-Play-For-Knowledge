@@ -1,0 +1,154 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Djibouti",
+      "text": "Major events in the history of Djibouti."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The region now known as Djibouti has been inhabited since prehistoric times, with evidence of human activity dating back to around 3000 BC. Early inhabitants were primarily pastoralists and traders.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Prehistory"
+    },
+    {
+      "start_date": {
+        "year": -500
+      },
+      "headline": "Aksumite Empire Influence",
+      "text": "By 500 BC, the area was influenced by the Aksumite Empire, which facilitated trade across the Red Sea and the Indian Ocean. This period marked the beginning of significant trade routes in the region.",
+      "media": "https://en.wikipedia.org/wiki/Aksumite_Empire"
+    },
+    {
+      "start_date": {
+        "year": 640
+      },
+      "headline": "Islamic Influence",
+      "text": "Islam began to spread in the region around the 7th century, significantly impacting the culture and society of Djibouti. The majority of the population gradually converted to Islam.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Islam_in_East_Africa"
+    },
+    {
+      "start_date": {
+        "year": 1500
+      },
+      "headline": "European Exploration",
+      "text": "In the 16th century, European powers began to explore the Horn of Africa. The Portuguese were among the first Europeans to arrive, seeking control over trade routes.",
+      "media": "https://en.wikipedia.org/wiki/Portuguese_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1883
+      },
+      "headline": "French Somaliland Established",
+      "text": "In 1883, France established a protectorate over the area, which became known as French Somaliland. This marked the beginning of significant French influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/French_Somaliland"
+    },
+    {
+      "start_date": {
+        "year": 1946
+      },
+      "headline": "Territorial Status",
+      "text": "In 1946, French Somaliland was designated as a territory, granting it a degree of self-governance. This was a step towards greater autonomy for the local population.",
+      "media": "https://en.wikipedia.org/wiki/French_Somaliland#Post-World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1958
+      },
+      "headline": "Referendum for Self-Governance",
+      "text": "A referendum was held in 1958, allowing the people of Djibouti to choose between remaining a French territory or becoming an autonomous republic. The majority opted for autonomy.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1977
+      },
+      "headline": "Independence from France",
+      "text": "On June 27, 1977, Djibouti gained independence from France after a peaceful transition. This marked the beginning of a new era for the nation.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1978
+      },
+      "headline": "Civil War Begins",
+      "text": "A civil war broke out in 1978 between the government and various opposition groups. This conflict lasted for several years and caused significant instability.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Civil_war"
+    },
+    {
+      "start_date": {
+        "year": 1992
+      },
+      "headline": "Peace Agreement Signed",
+      "text": "In 1992, a peace agreement was signed, bringing an end to the civil war. This agreement was crucial for stabilizing the country and fostering national reconciliation.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Civil_war"
+    },
+    {
+      "start_date": {
+        "year": 1999
+      },
+      "headline": "First Multiparty Elections",
+      "text": "Djibouti held its first multiparty elections in 1999, marking a significant step towards democratic governance. However, the political landscape remained dominated by the ruling party.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Politics"
+    },
+    {
+      "start_date": {
+        "year": 2001
+      },
+      "headline": "U.S. Military Base Established",
+      "text": "The United States established a military base in Djibouti, known as Camp Lemonnier, which became a key location for operations in the Horn of Africa and the Middle East.",
+      "media": "https://en.wikipedia.org/wiki/Camp_Lemonnier"
+    },
+    {
+      "start_date": {
+        "year": 2008
+      },
+      "headline": "Piracy Off the Coast",
+      "text": "The waters off the coast of Djibouti became a hotspot for piracy, particularly from Somali pirates. This led to increased international naval presence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Piracy_in_the_Somali_seas"
+    },
+    {
+      "start_date": {
+        "year": 2010
+      },
+      "headline": "Economic Growth",
+      "text": "Djibouti experienced significant economic growth in the 2010s, driven by its strategic location and investments in infrastructure. The country became a key logistics hub in East Africa.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Djibouti"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "China's Military Base Established",
+      "text": "In 2018, China established its first overseas military base in Djibouti, further solidifying the country's strategic importance in global geopolitics.",
+      "media": "https://en.wikipedia.org/wiki/China%E2%80%93Djibouti_relations"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reached Djibouti in 2020, prompting the government to implement health measures to curb the spread of the virus. The pandemic had significant impacts on the economy and public health.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Djibouti"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Presidential Elections",
+      "text": "Presidential elections were held in Djibouti in 2021, resulting in the re-election of President Ismaïl Omar Guelleh. The elections were marked by allegations of irregularities.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Politics"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Strategic Development",
+      "text": "Djibouti continues to develop its strategic infrastructure, aiming to become a major logistics hub in Africa. The government is focusing on enhancing its port facilities and transportation networks.",
+      "media": "https://en.wikipedia.org/wiki/Djibouti#Economy"
+    }
+  ]
+}

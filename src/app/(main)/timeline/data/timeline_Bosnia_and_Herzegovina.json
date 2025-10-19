@@ -1,0 +1,181 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Bosnia and Herzegovina",
+      "text": "Major events in the history of Bosnia and Herzegovina."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Early Settlements",
+      "text": "The area now known as Bosnia and Herzegovina was inhabited by Illyrian tribes. These tribes established various settlements and cultures throughout the region.",
+      "media": "https://en.wikipedia.org/wiki/Illyrians"
+    },
+    {
+      "start_date": {
+        "year": 9,
+        "month": 1
+      },
+      "headline": "Roman Conquest",
+      "text": "The Romans conquered the region and incorporated it into the province of Illyricum. This brought significant cultural and economic changes.",
+      "media": "https://en.wikipedia.org/wiki/Roman_conquest_of_Illyricum"
+    },
+    {
+      "start_date": {
+        "year": 395
+      },
+      "headline": "Division of the Roman Empire",
+      "text": "The Roman Empire was divided into Eastern and Western halves, with Bosnia and Herzegovina falling under the Eastern Roman Empire (Byzantium).",
+      "media": "https://en.wikipedia.org/wiki/Division_of_the_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 476
+      },
+      "headline": "Fall of the Western Roman Empire",
+      "text": "The Western Roman Empire fell, leading to increased influence of the Byzantine Empire in the region.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1180
+      },
+      "headline": "Formation of the Banate of Bosnia",
+      "text": "The Banate of Bosnia was established, marking the beginning of a distinct Bosnian state. It was ruled by the Ban Kulin, who promoted trade and cultural development.",
+      "media": "https://en.wikipedia.org/wiki/Banate_of_Bosnia"
+    },
+    {
+      "start_date": {
+        "year": 1377
+      },
+      "headline": "Bosnia Becomes a Kingdom",
+      "text": "Bosnia was elevated to a kingdom under the rule of Tvrtko I, marking a significant step in its political development.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Bosnia"
+    },
+    {
+      "start_date": {
+        "year": 1463
+      },
+      "headline": "Ottoman Conquest",
+      "text": "The Ottoman Empire conquered Bosnia, leading to significant demographic and cultural changes, including the spread of Islam.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_conquest_of_Bosnia"
+    },
+    {
+      "start_date": {
+        "year": 1878
+      },
+      "headline": "Austro-Hungarian Occupation",
+      "text": "Following the Congress of Berlin, Bosnia and Herzegovina was occupied by Austria-Hungary, leading to modernization but also rising nationalist sentiments.",
+      "media": "https://en.wikipedia.org/wiki/Austro-Hungarian_occupation_of_Bosnia_and_Herzegovina"
+    },
+    {
+      "start_date": {
+        "year": 1914,
+        "month": 6,
+        "day": 28
+      },
+      "headline": "Assassination of Archduke Franz Ferdinand",
+      "text": "The assassination of Archduke Franz Ferdinand in Sarajevo triggered World War I, highlighting Bosnia's geopolitical significance.",
+      "media": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand"
+    },
+    {
+      "start_date": {
+        "year": 1918
+      },
+      "headline": "Formation of the Kingdom of Serbs, Croats, and Slovenes",
+      "text": "After World War I, Bosnia and Herzegovina became part of the newly formed Kingdom of Serbs, Croats, and Slovenes, later known as Yugoslavia.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Serbs,_Croats_and_Slovenes"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 4,
+        "day": 6
+      },
+      "headline": "Axis Invasion of Yugoslavia",
+      "text": "Nazi Germany and its allies invaded Yugoslavia, leading to significant suffering and the rise of resistance movements in Bosnia.",
+      "media": "https://en.wikipedia.org/wiki/Invasion_of_Yugoslavia"
+    },
+    {
+      "start_date": {
+        "year": 1945
+      },
+      "headline": "Formation of Socialist Yugoslavia",
+      "text": "After World War II, Bosnia and Herzegovina became one of the six republics of the Socialist Federal Republic of Yugoslavia under Josip Broz Tito.",
+      "media": "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "Independence Referendum",
+      "text": "Bosnia and Herzegovina held a referendum for independence from Yugoslavia, which was largely supported by the Bosniak and Croat populations.",
+      "media": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": 4,
+        "day": 6
+      },
+      "headline": "Start of the Bosnian War",
+      "text": "The Bosnian War began shortly after independence, marked by ethnic conflict and significant humanitarian crises.",
+      "media": "https://en.wikipedia.org/wiki/Bosnian_War"
+    },
+    {
+      "start_date": {
+        "year": 1995,
+        "month": 12,
+        "day": 14
+      },
+      "headline": "Dayton Agreement",
+      "text": "The Dayton Agreement was signed, effectively ending the Bosnian War and establishing the framework for the current political structure of Bosnia and Herzegovina.",
+      "media": "https://en.wikipedia.org/wiki/Dayton_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "headline": "Constitutional Changes",
+      "text": "Bosnia and Herzegovina underwent constitutional changes to improve governance and address issues stemming from the Dayton Agreement.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Bosnia_and_Herzegovina"
+    },
+    {
+      "start_date": {
+        "year": 2010
+      },
+      "headline": "European Union Membership Application",
+      "text": "Bosnia and Herzegovina submitted its application for EU membership, marking a significant step towards European integration.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Bosnia_and_Herzegovina_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Centenary of World War I",
+      "text": "Bosnia and Herzegovina commemorated the centenary of the assassination of Archduke Franz Ferdinand, reflecting on its complex history.",
+      "media": "https://en.wikipedia.org/wiki/Commemoration_of_the_centennial_of_the_assassination_of_Franz_Ferdinand"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Political Crisis",
+      "text": "Bosnia and Herzegovina faced a political crisis marked by ethnic tensions and challenges to the governance structure established by the Dayton Agreement.",
+      "media": "https://en.wikipedia.org/wiki/2021_Bosnia_and_Herzegovina_political_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued EU Integration Efforts",
+      "text": "Bosnia and Herzegovina continues its efforts to meet the criteria for EU membership, focusing on reforms and addressing political challenges.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Bosnia_and_Herzegovina_to_the_European_Union"
+    }
+  ]
+}

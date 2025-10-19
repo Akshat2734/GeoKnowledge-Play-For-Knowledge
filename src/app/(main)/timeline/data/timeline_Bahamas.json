@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Bahamas",
+      "text": "Major events in the history of Bahamas."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Inhabitants",
+      "text": "The first inhabitants of the Bahamas were the Lucayan Taíno, who arrived around 500 AD. They lived off fishing, farming, and gathering, establishing a rich culture in the islands.",
+      "media": "https://en.wikipedia.org/wiki/Lucayan"
+    },
+    {
+      "start_date": {
+        "year": 1492,
+        "month": "October",
+        "day": 12
+      },
+      "headline": "Columbus Discovers the Bahamas",
+      "text": "Christopher Columbus landed on the island of San Salvador in the Bahamas on October 12, 1492. This event marked the beginning of European exploration and colonization in the Americas.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Decline of the Lucayan Population",
+      "text": "Following Columbus's arrival, the Lucayan population began to decline due to disease, enslavement, and violence. By the mid-16th century, the Lucayan people were nearly extinct.",
+      "media": "https://en.wikipedia.org/wiki/Lucayan"
+    },
+    {
+      "start_date": {
+        "year": 1625,
+        "month": null,
+        "day": null
+      },
+      "headline": "First European Settlement",
+      "text": "The first European settlement in the Bahamas was established by the English in 1625 on the island of Eleuthera. This marked the beginning of permanent European presence in the islands.",
+      "media": "https://en.wikipedia.org/wiki/Eleuthera"
+    },
+    {
+      "start_date": {
+        "year": 1647,
+        "month": null,
+        "day": null
+      },
+      "headline": "The First Permanent Settlement",
+      "text": "The first permanent settlement in the Bahamas was established by the Eleutheran Adventurers on the island of Eleuthera in 1647. This group sought religious freedom and a new life in the New World.",
+      "media": "https://en.wikipedia.org/wiki/Eleutheran_Adventurers"
+    },
+    {
+      "start_date": {
+        "year": 1718,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Control Established",
+      "text": "In 1718, the British Crown took control of the Bahamas, establishing a royal colony. This marked the beginning of significant British influence in the islands.",
+      "media": "https://en.wikipedia.org/wiki/Bahamas"
+    },
+    {
+      "start_date": {
+        "year": 1776,
+        "month": null,
+        "day": null
+      },
+      "headline": "American Revolution Impact",
+      "text": "During the American Revolution, many Loyalists fled to the Bahamas, bringing their slaves and establishing plantations. This significantly impacted the economy and demographics of the islands.",
+      "media": "https://en.wikipedia.org/wiki/American_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1834,
+        "month": "August",
+        "day": 1
+      },
+      "headline": "Abolition of Slavery",
+      "text": "Slavery was abolished in the British Empire on August 1, 1834, which included the Bahamas. This led to significant social and economic changes in the islands.",
+      "media": "https://en.wikipedia.org/wiki/Abolition_of_slavery"
+    },
+    {
+      "start_date": {
+        "year": 1861,
+        "month": null,
+        "day": null
+      },
+      "headline": "Civil War Refugees",
+      "text": "During the American Civil War, the Bahamas became a refuge for Confederate sympathizers and blockade runners. This increased trade and economic activity in the islands.",
+      "media": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": "July",
+        "day": 10
+      },
+      "headline": "Internal Self-Government",
+      "text": "The Bahamas achieved internal self-government on July 10, 1964, allowing for greater autonomy while remaining a British colony. This was a significant step towards full independence.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Bahamas"
+    },
+    {
+      "start_date": {
+        "year": 1973,
+        "month": "July",
+        "day": 10
+      },
+      "headline": "Independence from Britain",
+      "text": "The Bahamas gained independence from Britain on July 10, 1973. This marked the establishment of the Commonwealth of the Bahamas as a sovereign nation.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_the_Bahamas"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Challenges",
+      "text": "The Bahamas faced significant economic challenges in the 1980s, including high unemployment and inflation rates. These issues prompted government reforms and economic diversification efforts.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_the_Bahamas"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": "September",
+        "day": 1
+      },
+      "headline": "Hurricane Andrew",
+      "text": "Hurricane Andrew struck the Bahamas on September 1, 1992, causing widespread destruction and loss of life. The storm highlighted the vulnerability of the islands to natural disasters.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Andrew"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Tourism Growth",
+      "text": "The 2000s saw significant growth in the tourism sector, becoming a major driver of the Bahamian economy. The islands became a popular destination for cruise ships and vacationers.",
+      "media": "https://en.wikipedia.org/wiki/Tourism_in_the_Bahamas"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": "September",
+        "day": null
+      },
+      "headline": "Hurricane Frances",
+      "text": "Hurricane Frances struck the Bahamas in September 2004, causing extensive damage and leading to a long recovery process. The storm underscored the ongoing threat of hurricanes to the islands.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Frances"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": "September",
+        "day": null
+      },
+      "headline": "Hurricane Matthew",
+      "text": "Hurricane Matthew impacted the Bahamas in September 2016, causing significant destruction, particularly in the southern islands. The recovery efforts highlighted the need for improved disaster preparedness.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Matthew"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": "September",
+        "day": null
+      },
+      "headline": "Hurricane Dorian",
+      "text": "Hurricane Dorian struck the Bahamas in September 2019 as a Category 5 hurricane, causing catastrophic damage, especially in the Abaco Islands and Grand Bahama. The storm resulted in a humanitarian crisis and extensive rebuilding efforts.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Dorian"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": "March",
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reached the Bahamas in March 2020, leading to lockdowns and significant impacts on the economy, particularly in the tourism sector. The government implemented various measures to combat the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Bahamas"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": "September",
+        "day": null
+      },
+      "headline": "Vaccination Rollout",
+      "text": "The Bahamas began its COVID-19 vaccination rollout in September 2021, aiming to immunize the population against the virus. This was a crucial step towards recovery and reopening the economy.",
+      "media": "https://en.wikipedia.org/wiki/Vaccination_in_the_Bahamas"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Recovery",
+      "text": "As the world began to recover from the COVID-19 pandemic, the Bahamas focused on revitalizing its tourism sector and economy in 2022. Efforts included promoting the islands as a safe travel destination.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_the_Bahamas"
+    }
+  ]
+}

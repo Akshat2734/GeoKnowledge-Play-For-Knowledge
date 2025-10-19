@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Estonia",
+      "text": "Major events in the history of Estonia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -8500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The first human settlements in Estonia date back to around 8500 BC, during the Mesolithic period. These early inhabitants were primarily hunter-gatherers.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Estonia#Prehistory"
+    },
+    {
+      "start_date": {
+        "year": 1200,
+        "month": null,
+        "day": null
+      },
+      "headline": "Christianization Begins",
+      "text": "The Christianization of Estonia began in the early 13th century with the arrival of German crusaders. This marked the start of significant cultural and religious changes in the region.",
+      "media": "https://en.wikipedia.org/wiki/Christianization_of_Estonia"
+    },
+    {
+      "start_date": {
+        "year": 1227,
+        "month": null,
+        "day": null
+      },
+      "headline": "Estonia Conquered by the Teutonic Order",
+      "text": "In 1227, the Teutonic Knights conquered Estonia, establishing control over the territory. This led to the establishment of a feudal system and significant German influence.",
+      "media": "https://en.wikipedia.org/wiki/Teutonic_Order"
+    },
+    {
+      "start_date": {
+        "year": 1561,
+        "month": null,
+        "day": null
+      },
+      "headline": "Livonian War",
+      "text": "The Livonian War began in 1558, leading to the division of Estonia between Sweden and Poland. This conflict had lasting effects on the region's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Livonian_War"
+    },
+    {
+      "start_date": {
+        "year": 1629,
+        "month": null,
+        "day": null
+      },
+      "headline": "Swedish Rule Established",
+      "text": "Sweden gained control over most of Estonia in 1629, marking the beginning of a period of relative stability and economic growth under Swedish rule.",
+      "media": "https://en.wikipedia.org/wiki/Swedish_Estonia"
+    },
+    {
+      "start_date": {
+        "year": 1710,
+        "month": null,
+        "day": null
+      },
+      "headline": "Great Northern War",
+      "text": "The Great Northern War led to the end of Swedish dominance in the region, with Estonia falling under Russian control in 1710. This marked a significant shift in power.",
+      "media": "https://en.wikipedia.org/wiki/Great_Northern_War"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 2,
+        "day": 24
+      },
+      "headline": "Declaration of Independence",
+      "text": "Estonia declared its independence from Russia on February 24, 1918, following the turmoil of World War I. This event marked the birth of the modern Estonian state.",
+      "media": "https://en.wikipedia.org/wiki/Estonian_Declaration_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": 2,
+        "day": 2
+      },
+      "headline": "Tartu Peace Treaty",
+      "text": "The Tartu Peace Treaty was signed between Estonia and Soviet Russia, officially recognizing Estonia's independence. This treaty laid the foundation for Estonia's sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Tartu_Peace_Treaty"
+    },
+    {
+      "start_date": {
+        "year": 1940,
+        "month": 6,
+        "day": 17
+      },
+      "headline": "Soviet Occupation Begins",
+      "text": "In June 1940, Estonia was occupied by the Soviet Union as part of the Molotov-Ribbentrop Pact. This marked the beginning of a difficult period of repression and loss of independence.",
+      "media": "https://en.wikipedia.org/wiki/Occupation_of_Estonia"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 6,
+        "day": 14
+      },
+      "headline": "Mass Deportations",
+      "text": "On June 14, 1941, the Soviet regime initiated mass deportations of Estonians to Siberia. Thousands were forcibly removed from their homes, leading to significant demographic changes.",
+      "media": "https://en.wikipedia.org/wiki/Deportations_from_Estonia"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": 9,
+        "day": 22
+      },
+      "headline": "Soviet Reoccupation",
+      "text": "The Soviet Union reoccupied Estonia in September 1944 during World War II. This led to another period of Soviet rule and further repression.",
+      "media": "https://en.wikipedia.org/wiki/Estonia_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1987,
+        "month": 4,
+        "day": 14
+      },
+      "headline": "Singing Revolution Begins",
+      "text": "The Singing Revolution began in Estonia in 1987, marked by peaceful protests and mass singing events. This movement aimed to restore independence and cultural identity.",
+      "media": "https://en.wikipedia.org/wiki/Singing_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 20
+      },
+      "headline": "Restoration of Independence",
+      "text": "On August 20, 1991, Estonia declared the restoration of its independence from the Soviet Union. This event was a culmination of years of struggle for freedom.",
+      "media": "https://en.wikipedia.org/wiki/Estonia#Restoration_of_independence"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "NATO and EU Membership",
+      "text": "Estonia joined NATO and the European Union in 2004, marking a significant step in its integration into Western political and security structures. This solidified its independence and sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Estonia#European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": null,
+        "day": null
+      },
+      "headline": "Euro Adoption",
+      "text": "Estonia adopted the Euro as its official currency on January 1, 2011. This move further integrated Estonia into the European economic framework.",
+      "media": "https://en.wikipedia.org/wiki/Euro_adoption_in_Estonia"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reached Estonia in March 2020, leading to widespread health measures and changes in daily life. The government implemented various strategies to manage the crisis.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Estonia"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 2,
+        "day": 1
+      },
+      "headline": "Parliamentary Elections",
+      "text": "In February 2021, Estonia held parliamentary elections, showcasing its democratic processes. The elections were marked by a high voter turnout and significant political engagement.",
+      "media": "https://en.wikipedia.org/wiki/2021_Estonian_parliamentary_election"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 2,
+        "day": 24
+      },
+      "headline": "Russia-Ukraine Conflict",
+      "text": "The ongoing conflict between Russia and Ukraine, which escalated in February 2022, has had significant implications for Estonia's security and foreign policy. Estonia has expressed strong support for Ukraine.",
+      "media": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued NATO Engagement",
+      "text": "Estonia continues to strengthen its ties with NATO and other Western allies in response to regional security concerns. This includes hosting joint military exercises and increasing defense spending.",
+      "media": "https://en.wikipedia.org/wiki/Estonia#Military"
+    }
+  ]
+}

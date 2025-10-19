@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Malawi",
+      "text": "Major events in the history of Malawi."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Settlements",
+      "text": "The area now known as Malawi saw the establishment of early agricultural communities. These communities engaged in farming and fishing, laying the groundwork for future civilizations.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Malawi#Early_settlements"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Bantu Migration",
+      "text": "Bantu-speaking peoples migrated into the region, bringing new agricultural techniques and ironworking skills. This migration significantly influenced the culture and social structure of the area.",
+      "media": "https://en.wikipedia.org/wiki/Bantu_migrations"
+    },
+    {
+      "start_date": {
+        "year": 1859,
+        "month": null,
+        "day": null
+      },
+      "headline": "David Livingstone's Arrival",
+      "text": "Scottish missionary and explorer David Livingstone arrived in Malawi, bringing attention to the region. His writings and explorations helped to introduce Malawi to the wider world.",
+      "media": "https://en.wikipedia.org/wiki/David_Livingstone"
+    },
+    {
+      "start_date": {
+        "year": 1891,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the British Protectorate",
+      "text": "Malawi became a British protectorate known as Nyasaland. This marked the beginning of colonial rule, which would last for several decades.",
+      "media": "https://en.wikipedia.org/wiki/Nyasaland"
+    },
+    {
+      "start_date": {
+        "year": 1915,
+        "month": null,
+        "day": null
+      },
+      "headline": "First World War Impact",
+      "text": "During World War I, many Malawians were recruited to fight for the British. The war had significant social and economic impacts on the region.",
+      "media": "https://en.wikipedia.org/wiki/Malawi_in_World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Nyasaland African Congress",
+      "text": "The Nyasaland African Congress was formed to advocate for the rights of Africans in Nyasaland. This marked the beginning of organized political movements against colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/Nyasaland_African_Congress"
+    },
+    {
+      "start_date": {
+        "year": 1953,
+        "month": null,
+        "day": null
+      },
+      "headline": "Federation of Rhodesia and Nyasaland",
+      "text": "Nyasaland was merged with Northern and Southern Rhodesia to form the Federation of Rhodesia and Nyasaland. This federation was met with resistance from Malawian nationalists.",
+      "media": "https://en.wikipedia.org/wiki/Federation_of_Rhodesia_and_Nyasaland"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": null,
+        "day": null
+      },
+      "headline": "Nyasaland's Path to Independence",
+      "text": "The Nyasaland African Congress won the majority in the 1961 elections, leading to increased calls for independence from British rule. This was a pivotal moment in the country's political history.",
+      "media": "https://en.wikipedia.org/wiki/Nyasaland#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": 7,
+        "day": 6
+      },
+      "headline": "Independence from Britain",
+      "text": "Malawi gained independence from British colonial rule, with Hastings Kamuzu Banda becoming the first Prime Minister. This marked the beginning of a new era for the nation.",
+      "media": "https://en.wikipedia.org/wiki/Malawi#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": null,
+        "day": null
+      },
+      "headline": "Banda Becomes President",
+      "text": "Hastings Kamuzu Banda declared himself President for Life, consolidating power and establishing a one-party state. His rule was marked by authoritarianism and repression.",
+      "media": "https://en.wikipedia.org/wiki/Hastings_Kamuzu_Banda"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": null,
+        "day": null
+      },
+      "headline": "Return to Multiparty Democracy",
+      "text": "A referendum was held, resulting in the end of Banda's one-party rule and the restoration of multiparty democracy. This was a significant turning point in Malawi's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Malawi#Democratic_reforms"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": 5,
+        "day": 14
+      },
+      "headline": "First Multiparty Elections",
+      "text": "Malawi held its first multiparty elections, leading to the election of Bakili Muluzi as President. This marked a new chapter in the country's democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/Malawi#1994_elections"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 5,
+        "day": 20
+      },
+      "headline": "Second Democratic Elections",
+      "text": "Malawi held its second democratic elections, with Bingu wa Mutharika winning the presidency. His administration focused on economic reforms and agricultural development.",
+      "media": "https://en.wikipedia.org/wiki/Bingu_wa_Mutharika"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": 4,
+        "day": 5
+      },
+      "headline": "Death of Bingu wa Mutharika",
+      "text": "President Bingu wa Mutharika passed away, leading to a constitutional crisis. Vice President Joyce Banda succeeded him, becoming the first female president of Malawi.",
+      "media": "https://en.wikipedia.org/wiki/Death_of_Bingu_wa_Mutharika"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "day": 20
+      },
+      "headline": "2014 General Elections",
+      "text": "Malawi held general elections, resulting in Peter Mutharika, brother of Bingu wa Mutharika, winning the presidency. The elections were marred by allegations of fraud.",
+      "media": "https://en.wikipedia.org/wiki/2014_Malawian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 5,
+        "day": 21
+      },
+      "headline": "2019 General Elections",
+      "text": "The 2019 elections were held amid widespread allegations of irregularities. The Constitutional Court annulled the results, leading to a rerun of the presidential election.",
+      "media": "https://en.wikipedia.org/wiki/2019_Malawian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 6,
+        "day": 23
+      },
+      "headline": "Presidential Election Rerun",
+      "text": "A rerun of the presidential election was held, resulting in the victory of Lazarus Chakwera. This marked a significant shift in Malawi's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/2020_Malawian_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic Impact",
+      "text": "Malawi faced significant challenges due to the COVID-19 pandemic, impacting health systems and the economy. The government implemented measures to mitigate the virus's spread.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Malawi"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Economic Challenges",
+      "text": "Malawi continues to face economic challenges, including inflation and food insecurity. The government is working on strategies to improve the economic situation for its citizens.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Malawi"
+    }
+  ]
+}

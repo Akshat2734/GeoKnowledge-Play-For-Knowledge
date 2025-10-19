@@ -1,1 +1,5 @@
-    declare module '*.css';
+declare module '*.css';
+
+interface ImportMeta {
+  glob: (pattern: string, options?: { eager?: boolean }) => Record<string, any>;
+}

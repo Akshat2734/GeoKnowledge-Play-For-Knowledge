@@ -1,0 +1,160 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Botswana",
+      "text": "Major events in the history of Botswana."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Habitation",
+      "text": "The area now known as Botswana has been inhabited by humans for thousands of years, with evidence of early hunter-gatherer communities dating back to around 2000 BC. These communities were primarily composed of the San people.",
+      "media": "https://en.wikipedia.org/wiki/San_people"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Tswana Kingdoms",
+      "text": "By the first millennium AD, various Tswana kingdoms began to form in the region, establishing social and political structures. These kingdoms included the Ngwaketse, Ngwato, and others.",
+      "media": "https://en.wikipedia.org/wiki/Tswana_people"
+    },
+    {
+      "start_date": {
+        "year": 1885,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Protectorate Established",
+      "text": "In 1885, the British declared the area a protectorate, naming it Bechuanaland. This was part of a broader strategy to establish control over southern Africa and protect British interests.",
+      "media": "https://en.wikipedia.org/wiki/Bechuanaland"
+    },
+    {
+      "start_date": {
+        "year": 1890,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of London",
+      "text": "The Treaty of London was signed, which formalized the boundaries of Bechuanaland and established British control over the territory. This treaty was significant in shaping the future political landscape of Botswana.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_London_(1890)"
+    },
+    {
+      "start_date": {
+        "year": 1966,
+        "month": 9,
+        "day": 30
+      },
+      "headline": "Independence from Britain",
+      "text": "Botswana gained independence from British colonial rule on September 30, 1966. The country was renamed from Bechuanaland to Botswana and became a republic.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Botswana#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1966,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "First General Elections",
+      "text": "Shortly after independence, Botswana held its first general elections, marking the beginning of democratic governance in the country. Seretse Khama became the first president.",
+      "media": "https://en.wikipedia.org/wiki/Seretse_Khama"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Botswana Democratic Party",
+      "text": "The Botswana Democratic Party (BDP) was established, becoming the dominant political party in the country. The BDP has played a significant role in shaping Botswana's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Botswana_Democratic_Party"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "Discovery of Diamonds",
+      "text": "The discovery of diamonds in Botswana in the late 1970s and early 1980s transformed the country's economy. The mining sector became a key driver of growth and development.",
+      "media": "https://en.wikipedia.org/wiki/Diamond_mining_in_Botswana"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Multi-Party Elections",
+      "text": "Botswana held its first multi-party elections in 1994, allowing for greater political plurality. This marked a significant step in the country's democratic development.",
+      "media": "https://en.wikipedia.org/wiki/Elections_in_Botswana"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": null,
+        "day": null
+      },
+      "headline": "HIV/AIDS Epidemic Response",
+      "text": "Botswana faced a severe HIV/AIDS epidemic, prompting the government to implement comprehensive health programs. These efforts have significantly improved life expectancy and public health.",
+      "media": "https://en.wikipedia.org/wiki/HIV/AIDS_in_Botswana"
+    },
+    {
+      "start_date": {
+        "year": 2006,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Reforms",
+      "text": "Botswana undertook constitutional reforms aimed at enhancing democracy and governance. These reforms included changes to electoral laws and the judiciary.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Botswana"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Diversification Initiatives",
+      "text": "In response to fluctuating diamond prices, Botswana began initiatives to diversify its economy. This included investments in tourism, agriculture, and manufacturing.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Botswana"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": null,
+        "day": null
+      },
+      "headline": "Presidential Elections",
+      "text": "In October 2019, Botswana held presidential elections, with Mokgweetsi Masisi elected as president. The elections were marked by a peaceful transfer of power.",
+      "media": "https://en.wikipedia.org/wiki/Mokgweetsi_Masisi"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic Response",
+      "text": "Botswana implemented measures to combat the COVID-19 pandemic, including lockdowns and vaccination campaigns. The government focused on public health and economic recovery.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Botswana"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Economic Recovery",
+      "text": "As of 2023, Botswana is focusing on economic recovery post-COVID-19, with an emphasis on sustainable development and diversification of its economy. The government aims to enhance resilience against future shocks.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Botswana"
+    }
+  ]
+}

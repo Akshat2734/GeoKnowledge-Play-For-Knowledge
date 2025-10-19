@@ -1,0 +1,156 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Bahrain",
+      "text": "Major events in the history of Bahrain."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Settlements",
+      "text": "Bahrain's history dates back to ancient times, with evidence of human settlements around 3000 BC. The island was known for its fertile land and was part of the Dilmun civilization.",
+      "media": "https://en.wikipedia.org/wiki/Dilmun"
+    },
+    {
+      "start_date": {
+        "year": -2000
+      },
+      "headline": "Dilmun Trade Hub",
+      "text": "By 2000 BC, Bahrain became an important trade hub in the ancient world, connecting Mesopotamia with the Indus Valley. It was known for its pearls and copper.",
+      "media": "https://en.wikipedia.org/wiki/Dilmun"
+    },
+    {
+      "start_date": {
+        "year": -600
+      },
+      "headline": "Persian Conquest",
+      "text": "Bahrain was conquered by the Persian Empire around 600 BC, becoming part of the Achaemenid Empire. This marked a significant shift in the region's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+    },
+    {
+      "start_date": {
+        "year": 628
+      },
+      "headline": "Islamic Conquest",
+      "text": "In 628 AD, Bahrain was introduced to Islam following the Prophet Muhammad's mission. The island became an important center for the spread of Islam in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Bahrain"
+    },
+    {
+      "start_date": {
+        "year": 1500
+      },
+      "headline": "Portuguese Rule",
+      "text": "In the early 16th century, the Portuguese seized control of Bahrain, establishing a fort to protect their trade routes. Their rule lasted until the early 17th century.",
+      "media": "https://en.wikipedia.org/wiki/Portuguese_Bahrain"
+    },
+    {
+      "start_date": {
+        "year": 1602
+      },
+      "headline": "Persian Safavid Control",
+      "text": "The Safavid dynasty of Persia regained control of Bahrain in 1602, marking the start of a period of Persian influence that lasted until the 18th century.",
+      "media": "https://en.wikipedia.org/wiki/Safavid"
+    },
+    {
+      "start_date": {
+        "year": 1783
+      },
+      "headline": "Al Khalifa Dynasty",
+      "text": "In 1783, the Al Khalifa family, originally from Kuwait, took control of Bahrain. This marked the beginning of the modern ruling dynasty that continues to this day.",
+      "media": "https://en.wikipedia.org/wiki/House_of_Khalifa"
+    },
+    {
+      "start_date": {
+        "year": 1820
+      },
+      "headline": "Treaty with Britain",
+      "text": "Bahrain signed a treaty with Britain in 1820, establishing it as a British protectorate. This agreement significantly influenced Bahrain's foreign relations and governance.",
+      "media": "https://en.wikipedia.org/wiki/Bahrain#British_protectorate"
+    },
+    {
+      "start_date": {
+        "year": 1932
+      },
+      "headline": "Oil Discovery",
+      "text": "The discovery of oil in Bahrain in 1932 transformed its economy and society. It marked the beginning of rapid modernization and development in the country.",
+      "media": "https://en.wikipedia.org/wiki/Oil_industry_in_Bahrain"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": 8,
+        "day": 15
+      },
+      "headline": "Independence from Britain",
+      "text": "Bahrain gained independence from British rule on August 15, 1971. This event marked the beginning of a new era in Bahrain's history as a sovereign nation.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Bahrain#Independence"
+    },
+    {
+      "start_date": {
+        "year": 2001
+      },
+      "headline": "National Action Charter",
+      "text": "In 2001, Bahrain adopted the National Action Charter, which aimed to promote political reform and establish a constitutional monarchy. This was a significant step towards democratization.",
+      "media": "https://en.wikipedia.org/wiki/National_Action_Charter_of_Bahrain"
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "headline": "Bahrain Protests",
+      "text": "In February 2011, Bahrain witnessed widespread protests demanding political reform and greater freedoms. The protests were part of the broader Arab Spring movement.",
+      "media": "https://en.wikipedia.org/wiki/2011_Bahrain_protests"
+    },
+    {
+      "start_date": {
+        "year": 2012
+      },
+      "headline": "Bahrain Independent Commission of Inquiry",
+      "text": "The Bahrain Independent Commission of Inquiry was established in 2011 to investigate the events surrounding the protests. Its report highlighted human rights abuses and called for reforms.",
+      "media": "https://en.wikipedia.org/wiki/Bahrain_Independent_Commission_of_Inquiry"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "Bahrain's First National Dialogue",
+      "text": "In 2018, Bahrain held its first national dialogue since the 2011 protests, aimed at addressing political and social issues. The dialogue sought to promote reconciliation and stability.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Bahrain"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Bahrain, like many countries, faced challenges due to the COVID-19 pandemic starting in 2020. The government implemented measures to control the spread of the virus and support the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Bahrain"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Bahrain Normalizes Relations with Israel",
+      "text": "In September 2020, Bahrain announced the normalization of relations with Israel, becoming the fourth Arab country to do so. This agreement was formalized in 2021.",
+      "media": "https://en.wikipedia.org/wiki/Abraham_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Bahrain's Economic Vision 2030",
+      "text": "Bahrain launched its Economic Vision 2030 plan aimed at diversifying the economy and reducing dependence on oil. The plan focuses on innovation, sustainability, and investment.",
+      "media": "https://en.wikipedia.org/wiki/Economic_Vision_2030"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Bahrain Hosts Formula 1",
+      "text": "Bahrain continues to host the Formula 1 Bahrain Grand Prix, showcasing its commitment to sports and tourism. The event has become a significant part of Bahrain's international profile.",
+      "media": "https://en.wikipedia.org/wiki/Bahrain_Grand_Prix"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Cyprus",
+      "text": "Major events in the history of Cyprus."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -10000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The first human settlements in Cyprus date back to around 10,000 BC, during the Neolithic period. These early inhabitants engaged in agriculture and animal husbandry.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cyprus#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Copper Age",
+      "text": "Cyprus became known for its copper resources, leading to the development of trade networks. The island's strategic location made it a hub for various civilizations.",
+      "media": "https://en.wikipedia.org/wiki/Copper_Age"
+    },
+    {
+      "start_date": {
+        "year": -1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mycenaean Colonization",
+      "text": "Mycenaean Greeks began to settle in Cyprus, influencing the culture and language of the island. This period marked the beginning of significant Greek influence.",
+      "media": "https://en.wikipedia.org/wiki/Mycenaean_Greece"
+    },
+    {
+      "start_date": {
+        "year": -1100,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of City-kingdoms",
+      "text": "The island saw the rise of city-kingdoms such as Salamis, Paphos, and Kition. These city-states became centers of trade and culture.",
+      "media": "https://en.wikipedia.org/wiki/City-kingdom"
+    },
+    {
+      "start_date": {
+        "year": -800,
+        "month": null,
+        "day": null
+      },
+      "headline": "Phoenician Influence",
+      "text": "The Phoenicians established colonies in Cyprus, further enhancing trade and cultural exchange. They introduced their alphabet, which influenced the Greek script.",
+      "media": "https://en.wikipedia.org/wiki/Phoenicia"
+    },
+    {
+      "start_date": {
+        "year": -333,
+        "month": null,
+        "day": null
+      },
+      "headline": "Conquest by Alexander the Great",
+      "text": "Cyprus fell under the control of Alexander the Great after his conquest of the Persian Empire. This brought Hellenistic culture to the island.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": 58,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Rule",
+      "text": "Cyprus became a Roman province, leading to significant economic development and the spread of Christianity. The island was known for its grain production.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Cyprus"
+    },
+    {
+      "start_date": {
+        "year": 395,
+        "month": null,
+        "day": null
+      },
+      "headline": "Byzantine Period",
+      "text": "Following the division of the Roman Empire, Cyprus became part of the Byzantine Empire. This period was marked by the flourishing of Christianity.",
+      "media": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1191,
+        "month": null,
+        "day": null
+      },
+      "headline": "Richard the Lionheart's Conquest",
+      "text": "Richard the Lionheart captured Cyprus during the Third Crusade. He later sold the island to the Knights Templar.",
+      "media": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+    },
+    {
+      "start_date": {
+        "year": 1489,
+        "month": null,
+        "day": null
+      },
+      "headline": "Venetian Rule",
+      "text": "The Republic of Venice took control of Cyprus, fortifying the island against Ottoman expansion. This period saw economic growth and cultural development.",
+      "media": "https://en.wikipedia.org/wiki/Venetian_Cyprus"
+    },
+    {
+      "start_date": {
+        "year": 1571,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ottoman Conquest",
+      "text": "The Ottomans conquered Cyprus, marking over three centuries of Ottoman rule. This period significantly influenced the island's demographics and culture.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Cyprus"
+    },
+    {
+      "start_date": {
+        "year": 1878,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Administration Begins",
+      "text": "Cyprus was placed under British administration following the Russo-Turkish War. The British later annexed the island during World War I.",
+      "media": "https://en.wikipedia.org/wiki/British_Cyprus"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 8,
+        "day": 16
+      },
+      "headline": "Independence from Britain",
+      "text": "Cyprus gained independence from British rule, establishing a presidential republic. The constitution aimed to balance power between Greek and Turkish Cypriots.",
+      "media": "https://en.wikipedia.org/wiki/Cyprus"
+    },
+    {
+      "start_date": {
+        "year": 1974,
+        "month": 7,
+        "day": 20
+      },
+      "headline": "Turkish Invasion",
+      "text": "Turkey invaded Cyprus following a coup aimed at uniting the island with Greece. This led to the division of the island into the Republic of Cyprus and the Turkish Republic of Northern Cyprus.",
+      "media": "https://en.wikipedia.org/wiki/Cyprus_conflict"
+    },
+    {
+      "start_date": {
+        "year": 1983,
+        "month": 11,
+        "day": 15
+      },
+      "headline": "Declaration of the Turkish Republic of Northern Cyprus",
+      "text": "The Turkish Republic of Northern Cyprus was declared, recognized only by Turkey. This solidified the division of the island.",
+      "media": "https://en.wikipedia.org/wiki/Turkish_Republic_of_Northern_Cyprus"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 4,
+        "day": 24
+      },
+      "headline": "Referendum on Annan Plan",
+      "text": "A UN plan to reunify Cyprus was rejected by the Greek Cypriots in a referendum, while Turkish Cypriots supported it. The division remained intact.",
+      "media": "https://en.wikipedia.org/wiki/Annan_Plan"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": 3,
+        "day": 25
+      },
+      "headline": "Financial Crisis",
+      "text": "Cyprus faced a severe financial crisis, leading to a bailout agreement with the European Union and the International Monetary Fund. This had significant economic repercussions.",
+      "media": "https://en.wikipedia.org/wiki/2012%E2%80%9313_Cypriot_financial_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Cyprus, like many countries, faced challenges due to the COVID-19 pandemic. The government implemented measures to protect public health and support the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Cyprus"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Efforts for Reunification",
+      "text": "Efforts for the reunification of Cyprus continue, with various diplomatic initiatives and negotiations taking place. The island remains divided, but dialogue persists.",
+      "media": "https://en.wikipedia.org/wiki/Cyprus_conflict"
+    }
+  ]
+}

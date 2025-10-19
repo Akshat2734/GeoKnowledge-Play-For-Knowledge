@@ -1,0 +1,194 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Guinea",
+      "text": "Major events in the history of Guinea."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Early Settlements",
+      "text": "The region now known as Guinea was inhabited by various ethnic groups, including the Mandinka, Fulani, and Susu. These groups established agricultural communities and trade networks.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 700
+      },
+      "headline": "Islamic Influence",
+      "text": "Islam began to spread in Guinea through trade routes, significantly influencing the culture and social structures of the region. The Fulani people played a key role in this religious transformation.",
+      "media": "https://en.wikipedia.org/wiki/Islam_in_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 1235
+      },
+      "headline": "Formation of the Mali Empire",
+      "text": "Guinea became part of the Mali Empire, which was one of the largest and most powerful empires in West Africa. This period saw the flourishing of trade, culture, and education.",
+      "media": "https://en.wikipedia.org/wiki/Mali_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1460
+      },
+      "headline": "European Contact",
+      "text": "Portuguese explorers arrived on the coast of Guinea, initiating trade in gold, ivory, and slaves. This marked the beginning of European interest in West Africa.",
+      "media": "https://en.wikipedia.org/wiki/Guinea#History"
+    },
+    {
+      "start_date": {
+        "year": 1530
+      },
+      "headline": "Slave Trade",
+      "text": "Guinea became a significant source of enslaved people for the transatlantic slave trade. Millions of Africans were forcibly taken from their homes and shipped to the Americas.",
+      "media": "https://en.wikipedia.org/wiki/Atlantic_slave_trade"
+    },
+    {
+      "start_date": {
+        "year": 1890
+      },
+      "headline": "French Colonization",
+      "text": "Guinea was officially declared a French colony, becoming part of French West Africa. The colonial administration imposed significant changes to local governance and economy.",
+      "media": "https://en.wikipedia.org/wiki/French_West_Africa"
+    },
+    {
+      "start_date": {
+        "year": 1958,
+        "month": 9,
+        "day": 28
+      },
+      "headline": "Independence Referendum",
+      "text": "Guinea held a referendum in which the population overwhelmingly voted for independence from France. This marked a significant step towards self-governance.",
+      "media": "https://en.wikipedia.org/wiki/Guinea#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1958,
+        "month": 10,
+        "day": 2
+      },
+      "headline": "Independence from France",
+      "text": "Guinea officially declared its independence from France, becoming the first French African colony to do so. Ahmed Sékou Touré became the first President of Guinea.",
+      "media": "https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 1960
+      },
+      "headline": "One-Party State",
+      "text": "Guinea was declared a one-party state under the leadership of Ahmed Sékou Touré. Political opposition was suppressed, and the government implemented socialist policies.",
+      "media": "https://en.wikipedia.org/wiki/Guinea#Politics"
+    },
+    {
+      "start_date": {
+        "year": 1970
+      },
+      "headline": "Attempted Coup",
+      "text": "An attempted coup against President Touré was thwarted, leading to increased repression of dissent. The government intensified its crackdown on political opponents.",
+      "media": "https://en.wikipedia.org/wiki/Guinea#Political_history"
+    },
+    {
+      "start_date": {
+        "year": 1984,
+        "month": 3,
+        "day": 26
+      },
+      "headline": "Death of Sékou Touré",
+      "text": "Ahmed Sékou Touré died in office, leading to a power struggle. His death marked the end of an era of authoritarian rule in Guinea.",
+      "media": "https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9#Death"
+    },
+    {
+      "start_date": {
+        "year": 1984
+      },
+      "headline": "Lansana Conté Takes Power",
+      "text": "Lansana Conté, a military officer, seized power in a coup following Touré's death. He ruled Guinea for 24 years, initially promising reforms but later becoming increasingly autocratic.",
+      "media": "https://en.wikipedia.org/wiki/Lansana_Cont%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 1990
+      },
+      "headline": "Political Reforms",
+      "text": "Under pressure from civil society, Conté announced political reforms, allowing for multi-party elections. This was a significant step towards democratization.",
+      "media": "https://en.wikipedia.org/wiki/Guinea#Politics"
+    },
+    {
+      "start_date": {
+        "year": 2001
+      },
+      "headline": "Conté Reelected",
+      "text": "Lansana Conté was reelected in a controversial election marred by allegations of fraud and violence. His government faced increasing opposition and unrest.",
+      "media": "https://en.wikipedia.org/wiki/Guinea#Elections"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 12,
+        "day": 23
+      },
+      "headline": "Conté's Death",
+      "text": "Lansana Conté died, leading to a military coup by Captain Moussa Dadis Camara. The coup was met with widespread protests and condemnation.",
+      "media": "https://en.wikipedia.org/wiki/Lansana_Cont%C3%A9#Death"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 9,
+        "day": 28
+      },
+      "headline": "Stadium Massacre",
+      "text": "A violent crackdown on protesters at a stadium in Conakry resulted in numerous deaths and injuries. This event highlighted the ongoing political instability in Guinea.",
+      "media": "https://en.wikipedia.org/wiki/2009_Conakry_stadium_massacre"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 11,
+        "day": 7
+      },
+      "headline": "First Democratic Elections",
+      "text": "Guinea held its first democratic presidential elections, which were won by Alpha Condé. This marked a significant transition towards democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "headline": "Ebola Outbreak",
+      "text": "Guinea was severely affected by the Ebola outbreak that began in West Africa. The crisis highlighted weaknesses in the health system and led to international intervention.",
+      "media": "https://en.wikipedia.org/wiki/2014%E2%80%9316_Ebola_outbreak_in_West_Africa"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 5
+      },
+      "headline": "Military Coup",
+      "text": "A military coup led by Colonel Mamady Doumbouya ousted President Alpha Condé, who had attempted to extend his presidency through controversial constitutional changes. This event marked another chapter of instability in Guinea.",
+      "media": "https://en.wikipedia.org/wiki/2021_Guinea_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 9,
+        "day": 1
+      },
+      "headline": "Transitional Government Established",
+      "text": "Following the coup, a transitional government was established, promising to restore civilian rule and hold elections. The international community closely monitored the situation.",
+      "media": "https://en.wikipedia.org/wiki/2021_Guinea_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Ongoing Political Developments",
+      "text": "Guinea continues to navigate its political landscape following the coup. The transitional government faces challenges in restoring stability and preparing for future elections.",
+      "media": "https://en.wikipedia.org/wiki/Guinea#Recent_events"
+    }
+  ]
+}

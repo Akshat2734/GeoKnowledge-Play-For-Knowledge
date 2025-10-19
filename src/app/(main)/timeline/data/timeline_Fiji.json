@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Fiji",
+      "text": "Major events in the history of Fiji."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Settlement",
+      "text": "The first settlers, believed to be Lapita people, arrive in Fiji from Southeast Asia, bringing with them pottery and agricultural practices.",
+      "media": "https://en.wikipedia.org/wiki/Lapita_culture"
+    },
+    {
+      "start_date": {
+        "year": 1643,
+        "month": null,
+        "day": null
+      },
+      "headline": "European Contact",
+      "text": "Dutch explorer Abel Tasman becomes the first European to sight Fiji, although he does not land on the islands.",
+      "media": "https://en.wikipedia.org/wiki/Abel_Tasman"
+    },
+    {
+      "start_date": {
+        "year": 1774,
+        "month": null,
+        "day": null
+      },
+      "headline": "Captain Cook's Visit",
+      "text": "British explorer Captain James Cook visits Fiji during his second voyage, mapping parts of the islands and interacting with the indigenous people.",
+      "media": "https://en.wikipedia.org/wiki/James_Cook"
+    },
+    {
+      "start_date": {
+        "year": 1804,
+        "month": null,
+        "day": null
+      },
+      "headline": "Introduction of Christianity",
+      "text": "Christian missionaries arrive in Fiji, leading to significant cultural changes and the eventual decline of traditional practices.",
+      "media": "https://en.wikipedia.org/wiki/Christianity_in_Fiji"
+    },
+    {
+      "start_date": {
+        "year": 1835,
+        "month": null,
+        "day": null
+      },
+      "headline": "Fiji's First European Settlers",
+      "text": "The first permanent European settlers, primarily from Britain, arrive in Fiji, establishing plantations and trading posts.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Fiji"
+    },
+    {
+      "start_date": {
+        "year": 1874,
+        "month": null,
+        "day": null
+      },
+      "headline": "Fiji Becomes a British Colony",
+      "text": "Fiji is ceded to Great Britain, becoming a British colony, which leads to the introduction of indentured labor from India.",
+      "media": "https://en.wikipedia.org/wiki/Fiji#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1916,
+        "month": null,
+        "day": null
+      },
+      "headline": "Fiji's First Political Party",
+      "text": "The Fiji Labour Party is formed, advocating for the rights of Fijian workers and the Indian community.",
+      "media": "https://en.wikipedia.org/wiki/Fiji_Labour_Party"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": null,
+        "day": null
+      },
+      "headline": "End of World War II",
+      "text": "Fiji plays a strategic role in the Pacific during World War II, with significant military presence and infrastructure development.",
+      "media": "https://en.wikipedia.org/wiki/Fiji_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": 10,
+        "day": 10
+      },
+      "headline": "Independence from Britain",
+      "text": "Fiji gains independence from British colonial rule, becoming a sovereign nation and a member of the Commonwealth.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Fiji"
+    },
+    {
+      "start_date": {
+        "year": 1987,
+        "month": 5,
+        "day": 14
+      },
+      "headline": "First Coup",
+      "text": "The first coup d'état occurs in Fiji, led by Lieutenant Colonel Sitiveni Rabuka, resulting in the overthrow of the elected government.",
+      "media": "https://en.wikipedia.org/wiki/1987_Fijian_coups"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 7,
+        "day": 25
+      },
+      "headline": "New Constitution",
+      "text": "A new constitution is adopted, which establishes a multi-ethnic government and aims to address racial tensions between indigenous Fijians and Indo-Fijians.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Fiji"
+    },
+    {
+      "start_date": {
+        "year": 1997,
+        "month": 7,
+        "day": 25
+      },
+      "headline": "Revised Constitution",
+      "text": "A revised constitution is enacted, further promoting democracy and equal rights for all citizens, regardless of ethnicity.",
+      "media": "https://en.wikipedia.org/wiki/1997_Constitution_of_Fiji"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": 5,
+        "day": 19
+      },
+      "headline": "Second Coup",
+      "text": "Another coup d'état occurs, led by George Speight, resulting in the abrogation of the 1997 constitution and the establishment of a military government.",
+      "media": "https://en.wikipedia.org/wiki/2000_Fijian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2006,
+        "month": 12,
+        "day": 5
+      },
+      "headline": "Third Coup",
+      "text": "A military coup is launched by Commodore Frank Bainimarama, leading to the dissolution of parliament and the establishment of a military-led government.",
+      "media": "https://en.wikipedia.org/wiki/2006_Fijian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 4,
+        "day": 10
+      },
+      "headline": "New Constitution",
+      "text": "A new constitution is promulgated, which abolishes the previous racial-based electoral system and establishes a more democratic framework.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Fiji#2009_Constitution"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "day": 17
+      },
+      "headline": "Return to Democracy",
+      "text": "Fiji holds its first democratic elections since the 2006 coup, resulting in a victory for the FijiFirst party led by Frank Bainimarama.",
+      "media": "https://en.wikipedia.org/wiki/Fiji_general_election,_2014"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 11,
+        "day": 14
+      },
+      "headline": "General Elections",
+      "text": "Fiji conducts general elections, which are marked by allegations of electoral irregularities but ultimately reaffirm the FijiFirst party's position in power.",
+      "media": "https://en.wikipedia.org/wiki/Fiji_general_election,_2018"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Fiji faces significant challenges due to the COVID-19 pandemic, impacting its economy and tourism sector, which is vital for the nation.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Fiji"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 12,
+        "day": null
+      },
+      "headline": "Natural Disasters",
+      "text": "Fiji experiences severe weather events, including cyclones, highlighting the vulnerabilities of island nations to climate change.",
+      "media": "https://en.wikipedia.org/wiki/Climate_change_in_Fiji"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Challenges",
+      "text": "Fiji continues to navigate political, economic, and environmental challenges, focusing on recovery and resilience in the face of climate change.",
+      "media": "https://en.wikipedia.org/wiki/2023_in_Fiji"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Sweden",
+      "text": "Major events in the history of Sweden."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 970
+      },
+      "headline": "Unification of Sweden",
+      "text": "The kingdom begins to take shape under early rulers like Eric the Victorious.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Sweden"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1397
+      },
+      "headline": "Kalmar Union Formed",
+      "text": "Sweden joins Denmark and Norway in the Kalmar Union under one monarch.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Kalmar_Union"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1523
+      },
+      "headline": "Gustav Vasa Becomes King",
+      "text": "Gustav Vasa leads Sweden’s independence from Denmark, founding the modern Swedish state.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Gustav_I_of_Sweden"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1611
+      },
+      "headline": "Sweden as a Great Power",
+      "text": "Under Gustavus Adolphus, Sweden expands during the Thirty Years' War.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1718
+      },
+      "headline": "Great Northern War Ends",
+      "text": "Sweden loses territories to Russia, marking the end of its empire.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1809
+      },
+      "headline": "Loss of Finland to Russia",
+      "text": "Sweden cedes Finland to Russia after military defeat.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Finnish_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1814
+      },
+      "headline": "Union with Norway",
+      "text": "Sweden enters a union with Norway, which lasts until 1905.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Sweden–Norway"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1905
+      },
+      "headline": "Norway Gains Independence",
+      "text": "The union dissolves peacefully; Sweden continues as a constitutional monarchy.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Sweden"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1945
+      },
+      "headline": "Neutral in World Wars",
+      "text": "Sweden remains neutral, emerging economically strong.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Sweden_during_World_War_II"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "NATO Accession Process",
+      "text": "After Russia’s invasion of Ukraine, Sweden applies to join NATO.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Sweden_and_NATO"
+      }
+    }
+  ]
+}

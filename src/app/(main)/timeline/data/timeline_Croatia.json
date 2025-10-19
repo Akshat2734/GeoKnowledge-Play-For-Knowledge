@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Croatia",
+      "text": "Major events in the history of Croatia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The area of present-day Croatia has been inhabited since the Neolithic period, with evidence of early agricultural communities. These settlements laid the foundation for future civilizations in the region.",
+      "media": "https://en.wikipedia.org/wiki/Prehistoric_Croatia"
+    },
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Illyrian Tribes",
+      "text": "By the first millennium BC, the Illyrians, a group of tribes, inhabited the western Balkans, including modern Croatia. They played a significant role in the region's early history and culture.",
+      "media": "https://en.wikipedia.org/wiki/Illyrians"
+    },
+    {
+      "start_date": {
+        "year": 9,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Conquest",
+      "text": "The Romans conquered the Illyrian territories, integrating them into the Roman Empire. This led to the establishment of cities such as Pula and Split, which remain significant today.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Croatia"
+    },
+    {
+      "start_date": {
+        "year": 476,
+        "month": null,
+        "day": null
+      },
+      "headline": "Fall of the Western Roman Empire",
+      "text": "The Western Roman Empire fell, leading to the rise of various barbarian kingdoms in the region, including the Ostrogoths and later the Byzantines. This marked a significant shift in power dynamics in the area.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 925,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Kingdom of Croatia",
+      "text": "Tomislav became the first king of Croatia, uniting various tribes and establishing the Kingdom of Croatia. This marked the beginning of a distinct Croatian state.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Croatia"
+    },
+    {
+      "start_date": {
+        "year": 1102,
+        "month": null,
+        "day": null
+      },
+      "headline": "Pacta Conventa",
+      "text": "The Pacta Conventa was an agreement that established a personal union between the Kingdom of Croatia and the Kingdom of Hungary. This arrangement influenced Croatian politics for centuries.",
+      "media": "https://en.wikipedia.org/wiki/Pacta_Conventa"
+    },
+    {
+      "start_date": {
+        "year": 1526,
+        "month": null,
+        "day": null
+      },
+      "headline": "Battle of Mohács",
+      "text": "The defeat of the Hungarian army at the Battle of Mohács led to the Habsburgs gaining control over Croatia. This marked the beginning of a long period of Habsburg influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
+    },
+    {
+      "start_date": {
+        "year": 1848,
+        "month": null,
+        "day": null
+      },
+      "headline": "Croatian National Revival",
+      "text": "The Croatian National Revival, or Illyrian Movement, sought to promote Croatian language and culture. This period was crucial for the development of Croatian national identity.",
+      "media": "https://en.wikipedia.org/wiki/Illyrian_Movement"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": null,
+        "day": null
+      },
+      "headline": "End of World War I",
+      "text": "Following the end of World War I, Croatia became part of the newly formed Kingdom of Serbs, Croats, and Slovenes, later known as Yugoslavia. This marked a significant political change for Croatia.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Serbs,_Croats_and_Slovenes"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "Nazi Occupation",
+      "text": "During World War II, Croatia was occupied by Axis forces and became a puppet state under the Ustaše regime. This period was marked by severe repression and conflict.",
+      "media": "https://en.wikipedia.org/wiki/Nazi_occupation_of_Croatia"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": null,
+        "day": null
+      },
+      "headline": "Post-War Yugoslavia",
+      "text": "After World War II, Croatia became a republic within the Socialist Federal Republic of Yugoslavia. This period saw significant industrialization and social changes.",
+      "media": "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 6,
+        "day": 25
+      },
+      "headline": "Independence Declaration",
+      "text": "Croatia declared independence from Yugoslavia on June 25, 1991, following a referendum. This marked the beginning of the Croatian War of Independence.",
+      "media": "https://en.wikipedia.org/wiki/Croatian_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1995,
+        "month": 8,
+        "day": 4
+      },
+      "headline": "Operation Storm",
+      "text": "Operation Storm was a military operation that led to the liberation of Croatian territory occupied by Serb forces. This operation was a turning point in the Croatian War of Independence.",
+      "media": "https://en.wikipedia.org/wiki/Operation_Storm"
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": null,
+        "day": null
+      },
+      "headline": "Reintegration of Eastern Slavonia",
+      "text": "Eastern Slavonia was reintegrated into Croatia after a peaceful transition, marking the end of the Croatian War of Independence. This event was significant for national reconciliation.",
+      "media": "https://en.wikipedia.org/wiki/Reintegration_of_Eastern_Slavonia"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "day": 1
+      },
+      "headline": "EU Membership",
+      "text": "Croatia officially became a member of the European Union on July 1, 2013. This marked a significant milestone in Croatia's post-war development and integration into Europe.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Croatia_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic affected Croatia significantly, leading to health and economic challenges. The government implemented various measures to combat the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Croatia"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Eurozone Membership",
+      "text": "Croatia adopted the euro as its official currency on January 1, 2023, becoming the 20th member of the Eurozone. This transition aimed to strengthen its economy and integration within Europe.",
+      "media": "https://en.wikipedia.org/wiki/Euro_adoption_in_Croatia"
+    }
+  ]
+}

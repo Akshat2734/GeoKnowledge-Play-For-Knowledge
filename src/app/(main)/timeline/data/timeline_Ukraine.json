@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Ukraine",
+      "text": "Major events in the history of Ukraine."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 882
+      },
+      "headline": "Kyivan Rus’ Founded",
+      "text": "Prince Oleg unites tribes, establishing Kyiv as capital of a powerful state.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Kievan_Rus%27"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1240
+      },
+      "headline": "Mongol Invasion",
+      "text": "Kyiv is destroyed by Mongol forces, ending Kyivan dominance.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1569
+      },
+      "headline": "Union of Lublin",
+      "text": "Ukraine enters the Polish–Lithuanian Commonwealth.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Union_of_Lublin"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1654
+      },
+      "headline": "Treaty of Pereyaslav",
+      "text": "Cossack Hetmanate allies with Russia.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Pereyaslav"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1917
+      },
+      "headline": "Ukrainian People’s Republic",
+      "text": "Ukraine declares independence amid the Russian Empire’s collapse.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Ukrainian_People%27s_Republic"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1922
+      },
+      "headline": "Ukrainian SSR",
+      "text": "Becomes a founding republic of the Soviet Union.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1932
+      },
+      "headline": "Holodomor",
+      "text": "Man-made famine under Stalin kills millions.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Holodomor"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 24
+      },
+      "headline": "Independence",
+      "text": "Ukraine declares independence from the USSR.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Ukraine)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Annexation of Crimea",
+      "text": "Russia annexes Crimea after Euromaidan.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Full-Scale Invasion",
+      "text": "Russia launches a full invasion; Ukraine resists with global support.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Comoros",
+      "text": "Major events in the history of Comoros."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Settlements",
+      "text": "The first inhabitants of Comoros are believed to have arrived from Southeast Asia and East Africa, establishing early settlements on the islands.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Exploration",
+      "text": "Portuguese explorers arrived in the Comoros, marking the beginning of European interest in the islands.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 17,
+        "month": null,
+        "day": null
+      },
+      "headline": "Omani Influence",
+      "text": "The islands came under the influence of the Omani Empire, which established trade routes and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1886,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Colonization",
+      "text": "Comoros became a French protectorate, leading to significant changes in governance and society.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1946,
+        "month": null,
+        "day": null
+      },
+      "headline": "Overseas Territory",
+      "text": "Comoros was designated as an overseas territory of France, gaining some degree of self-governance.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": 7,
+        "day": 6
+      },
+      "headline": "Independence from France",
+      "text": "Comoros declared independence from France, becoming a sovereign nation after a brief struggle.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Coup",
+      "text": "The first coup d'état occurred in Comoros, leading to political instability and a series of subsequent coups.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": null,
+        "day": null
+      },
+      "headline": "Second Coup",
+      "text": "Another coup took place, further complicating the political landscape of the islands.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": null,
+        "day": null
+      },
+      "headline": "Civil War",
+      "text": "A civil war broke out in Comoros, fueled by ethnic tensions and political rivalries.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 1997,
+        "month": null,
+        "day": null
+      },
+      "headline": "Anjouan Secession",
+      "text": "The island of Anjouan declared independence from Comoros, leading to further conflict.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Peace Agreement",
+      "text": "A peace agreement was reached, restoring some degree of stability to the islands.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Constitution",
+      "text": "A new constitution was adopted, establishing a federal system of government in Comoros.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2006,
+        "month": null,
+        "day": null
+      },
+      "headline": "Presidential Elections",
+      "text": "The first presidential elections under the new constitution were held, marking a step towards democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Referendum",
+      "text": "A referendum was held to amend the constitution, aiming to enhance the powers of the presidency.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Crisis",
+      "text": "A political crisis erupted following disputed elections, leading to protests and calls for reform.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Changes",
+      "text": "Further constitutional changes were made, allowing the president to extend their term, which sparked controversy.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic impacted Comoros, leading to health challenges and economic difficulties.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Presidential Elections",
+      "text": "Presidential elections were held amid ongoing political tensions, with calls for fair electoral processes.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Political Climate",
+      "text": "Comoros continues to navigate its political landscape, facing challenges related to governance, economic development, and social issues.",
+      "media": "https://en.wikipedia.org/wiki/Comoros#History"
+    }
+  ]
+}

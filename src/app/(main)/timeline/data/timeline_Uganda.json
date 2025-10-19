@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Uganda",
+      "text": "Major events in the history of Uganda."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Bantu Kingdoms",
+      "text": "Buganda, Bunyoro, and Toro emerge around the Great Lakes.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Uganda"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1862
+      },
+      "headline": "Speke Reaches Lake Victoria",
+      "text": "John Hanning Speke searches for the Nile’s source.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/John_Hanning_Speke"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1894
+      },
+      "headline": "British Protectorate",
+      "text": "Buganda and neighboring areas come under British rule.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/British_Protectorate_of_Uganda"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1962,
+        "month": 10,
+        "day": 9
+      },
+      "headline": "Independence",
+      "text": "Uganda gains independence with Milton Obote as PM.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Uganda)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1971
+      },
+      "headline": "Idi Amin Coup",
+      "text": "General Idi Amin seizes power, ruling by terror.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Idi_Amin"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1979
+      },
+      "headline": "Amin Overthrown",
+      "text": "Tanzanian forces and Ugandan exiles oust Amin.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/1979_Ugandan_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1986
+      },
+      "headline": "Museveni Takes Power",
+      "text": "NRA captures Kampala, ending years of conflict.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Yoweri_Museveni"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "LRA Rebellion Ends",
+      "text": "Government defeats the Lord’s Resistance Army insurgency.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Lord%27s_Resistance_Army"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Contested Election",
+      "text": "Museveni wins a sixth term amid disputes.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/2021_Ugandan_general_election"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Growth & Rights Controversies",
+      "text": "Economic expansion continues amid rights concerns.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uganda"
+      }
+    }
+  ]
+}

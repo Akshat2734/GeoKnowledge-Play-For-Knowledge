@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Belarus",
+      "text": "Major events in the history of Belarus."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Slavic Settlement",
+      "text": "The territory of modern Belarus was inhabited by various Slavic tribes. These early settlements laid the foundation for the future development of the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Belarus#Early_Slavic_settlement"
+    },
+    {
+      "start_date": {
+        "year": 862,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Kievan Rus'",
+      "text": "Belarus became part of Kievan Rus', a federation of Slavic tribes under the rule of the Varangians. This marked the beginning of a unified Eastern Slavic culture.",
+      "media": "https://en.wikipedia.org/wiki/Kievan_Rus%27"
+    },
+    {
+      "start_date": {
+        "year": 1136,
+        "month": null,
+        "day": null
+      },
+      "headline": "Principality of Polotsk",
+      "text": "The Principality of Polotsk emerged as one of the most significant principalities in the region. It played a crucial role in the political and cultural development of Belarus.",
+      "media": "https://en.wikipedia.org/wiki/Principality_of_Polotsk"
+    },
+    {
+      "start_date": {
+        "year": 1263,
+        "month": null,
+        "day": null
+      },
+      "headline": "Grand Duchy of Lithuania",
+      "text": "The Grand Duchy of Lithuania was established, which included much of modern Belarus. This period saw the flourishing of trade and culture.",
+      "media": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania"
+    },
+    {
+      "start_date": {
+        "year": 1569,
+        "month": null,
+        "day": null
+      },
+      "headline": "Union of Lublin",
+      "text": "The Union of Lublin united the Grand Duchy of Lithuania and the Kingdom of Poland into a single state, the Polish-Lithuanian Commonwealth. This significantly influenced Belarusian identity.",
+      "media": "https://en.wikipedia.org/wiki/Union_of_Lublin"
+    },
+    {
+      "start_date": {
+        "year": 1795,
+        "month": null,
+        "day": null
+      },
+      "headline": "Third Partition of Poland",
+      "text": "The Third Partition of Poland resulted in Belarus being divided among the Russian Empire, Prussia, and Austria. This marked the end of the Polish-Lithuanian Commonwealth.",
+      "media": "https://en.wikipedia.org/wiki/Partitions_of_Poland"
+    },
+    {
+      "start_date": {
+        "year": 1917,
+        "month": 11,
+        "day": 7
+      },
+      "headline": "October Revolution",
+      "text": "The Bolshevik Revolution in Russia led to significant political changes in Belarus. The region became a battleground for various political factions.",
+      "media": "https://en.wikipedia.org/wiki/October_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 2,
+        "day": 1
+      },
+      "headline": "Belarusian People's Republic",
+      "text": "The Belarusian People's Republic was proclaimed, marking an attempt to establish an independent Belarus. However, it was short-lived due to external pressures.",
+      "media": "https://en.wikipedia.org/wiki/Belarusian_People%27s_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1922,
+        "month": 12,
+        "day": 30
+      },
+      "headline": "Belarus joins the USSR",
+      "text": "Belarus became one of the founding republics of the Soviet Union. This led to significant political and economic changes in the region.",
+      "media": "https://en.wikipedia.org/wiki/Belarus#Soviet_Belarus"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 6,
+        "day": 22
+      },
+      "headline": "Nazi Invasion",
+      "text": "Nazi Germany invaded the Soviet Union, leading to the occupation of Belarus. The region suffered immense destruction and loss of life during the war.",
+      "media": "https://en.wikipedia.org/wiki/Operation_Barbarossa"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": 7,
+        "day": 3
+      },
+      "headline": "Liberation of Belarus",
+      "text": "Belarus was liberated from Nazi occupation by Soviet forces. The war left the country devastated, with a significant loss of population and infrastructure.",
+      "media": "https://en.wikipedia.org/wiki/Belarus#World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 7,
+        "day": 27
+      },
+      "headline": "Declaration of State Sovereignty",
+      "text": "Belarus declared its sovereignty, marking a significant step toward independence from the Soviet Union. This was a crucial moment in the country's modern history.",
+      "media": "https://en.wikipedia.org/wiki/Declaration_of_State_Sovereignty_of_Belarus"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 25
+      },
+      "headline": "Independence from the USSR",
+      "text": "Belarus declared independence from the Soviet Union following a failed coup in Moscow. This event is celebrated annually as Independence Day.",
+      "media": "https://en.wikipedia.org/wiki/Independence_Day_(Belarus)"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": 7,
+        "day": 20
+      },
+      "headline": "First Presidential Election",
+      "text": "Alexander Lukashenko was elected as the first President of Belarus. His presidency has been marked by controversy and allegations of authoritarianism.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_Lukashenko"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Union State with Russia",
+      "text": "Belarus and Russia signed a treaty to create a Union State, aiming for deeper political and economic integration. This relationship has been a defining aspect of Belarusian foreign policy.",
+      "media": "https://en.wikipedia.org/wiki/Union_State"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 12,
+        "day": 19
+      },
+      "headline": "Presidential Elections and Protests",
+      "text": "The presidential elections led to widespread protests against alleged electoral fraud. The government responded with a crackdown on dissent.",
+      "media": "https://en.wikipedia.org/wiki/2010_Belarusian_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 8,
+        "day": 9
+      },
+      "headline": "Controversial Presidential Election",
+      "text": "The presidential election resulted in widespread allegations of fraud, leading to massive protests across the country. The government responded with a violent crackdown on demonstrators.",
+      "media": "https://en.wikipedia.org/wiki/2020_Belarusian_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 5,
+        "day": 23
+      },
+      "headline": "Ryanair Flight Incident",
+      "text": "A Ryanair flight was diverted to Minsk, where authorities arrested opposition journalist Roman Protasevich. This incident drew international condemnation and sanctions against Belarus.",
+      "media": "https://en.wikipedia.org/wiki/Ryanair_flight_4978"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 2,
+        "day": 24
+      },
+      "headline": "Support for Russia in Ukraine",
+      "text": "Belarus supported Russia's invasion of Ukraine, allowing its territory to be used for military operations. This further isolated Belarus from the West.",
+      "media": "https://en.wikipedia.org/wiki/Belarus#Belarus_and_the_Russian_invasion_of_Ukraine"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Political Repression",
+      "text": "Political repression in Belarus continues, with ongoing crackdowns on dissent and opposition figures. The international community remains concerned about human rights violations.",
+      "media": "https://en.wikipedia.org/wiki/Human_rights_in_Belarus"
+    }
+  ]
+}

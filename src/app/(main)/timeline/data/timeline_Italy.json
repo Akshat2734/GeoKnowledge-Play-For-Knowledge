@@ -1,0 +1,176 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Italy",
+      "text": "Major events in the history of Italy."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -753,
+        "month": 4,
+        "day": 21
+      },
+      "headline": "Foundation of Rome",
+      "text": "According to legend, Rome was founded by Romulus on April 21, 753 BC. This event marks the beginning of Roman civilization and its eventual expansion throughout the Mediterranean.",
+      "media": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+    },
+    {
+      "start_date": {
+        "year": -509
+      },
+      "headline": "Establishment of the Roman Republic",
+      "text": "In 509 BC, the last king of Rome was overthrown, leading to the establishment of the Roman Republic. This marked a significant shift in governance, with power held by elected officials.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Republic"
+    },
+    {
+      "start_date": {
+        "year": -264,
+        "month": 1
+      },
+      "headline": "Start of the Punic Wars",
+      "text": "The First Punic War began in 264 BC between Rome and Carthage, marking the start of a series of conflicts that would lead to Rome's dominance over the western Mediterranean.",
+      "media": "https://en.wikipedia.org/wiki/Punic_Wars"
+    },
+    {
+      "start_date": {
+        "year": -44,
+        "month": 3,
+        "day": 15
+      },
+      "headline": "Assassination of Julius Caesar",
+      "text": "Julius Caesar was assassinated on the Ides of March in 44 BC, a pivotal moment that led to the end of the Roman Republic and the rise of the Roman Empire.",
+      "media": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar"
+    },
+    {
+      "start_date": {
+        "year": 27,
+        "month": 1
+      },
+      "headline": "Establishment of the Roman Empire",
+      "text": "In 27 BC, Octavian, later known as Augustus, became the first Roman Emperor, marking the transition from Republic to Empire. This initiated a period of relative peace known as the Pax Romana.",
+      "media": "https://en.wikipedia.org/wiki/Principate"
+    },
+    {
+      "start_date": {
+        "year": 313
+      },
+      "headline": "Edict of Milan",
+      "text": "The Edict of Milan was issued in 313 AD, granting religious tolerance throughout the Roman Empire and allowing Christianity to be practiced openly. This was a significant turning point for the religion.",
+      "media": "https://en.wikipedia.org/wiki/Edict_of_Milan"
+    },
+    {
+      "start_date": {
+        "year": 476
+      },
+      "headline": "Fall of the Western Roman Empire",
+      "text": "In 476 AD, the last Roman emperor of the West, Romulus Augustulus, was deposed, marking the traditional date for the fall of the Western Roman Empire. This event led to the fragmentation of Italy into various kingdoms.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 800
+      },
+      "headline": "Charlemagne Crowned Emperor",
+      "text": "In the year 800, Charlemagne was crowned Emperor of the Romans by Pope Leo III, symbolizing the fusion of Roman, Christian, and Germanic elements. This event laid the groundwork for the Holy Roman Empire.",
+      "media": "https://en.wikipedia.org/wiki/Charlemagne"
+    },
+    {
+      "start_date": {
+        "year": 1300
+      },
+      "headline": "Beginning of the Renaissance",
+      "text": "The Renaissance began in Italy around the 14th century, characterized by a revival of art, culture, and intellectual pursuits. This period produced influential figures such as Leonardo da Vinci and Michelangelo.",
+      "media": "https://en.wikipedia.org/wiki/Renaissance"
+    },
+    {
+      "start_date": {
+        "year": 1492
+      },
+      "headline": "Columbus Discovers America",
+      "text": "In 1492, Christopher Columbus, sponsored by Spain, made his first voyage across the Atlantic, leading to the European discovery of the Americas. This event had profound implications for Italy and Europe.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1527
+      },
+      "headline": "Sack of Rome",
+      "text": "In 1527, Rome was sacked by the troops of Charles V, Holy Roman Emperor. This event marked a significant low point for the city and the Papal States, affecting the political landscape of Italy.",
+      "media": "https://en.wikipedia.org/wiki/Sack_of_Rome_(1527)"
+    },
+    {
+      "start_date": {
+        "year": 1861
+      },
+      "headline": "Unification of Italy",
+      "text": "The Kingdom of Italy was officially proclaimed in 1861, uniting various states and territories into a single nation. This unification was a significant milestone in Italian history.",
+      "media": "https://en.wikipedia.org/wiki/Italian_unification"
+    },
+    {
+      "start_date": {
+        "year": 1915
+      },
+      "headline": "Italy Enters World War I",
+      "text": "Italy entered World War I on May 23, 1915, joining the Allies against the Central Powers. The war had a profound impact on Italian society and politics.",
+      "media": "https://en.wikipedia.org/wiki/Italy_in_World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1922
+      },
+      "headline": "Mussolini Becomes Prime Minister",
+      "text": "In 1922, Benito Mussolini became Prime Minister of Italy, establishing a fascist regime that would last until 1943. His rule marked a significant shift in Italian politics and society.",
+      "media": "https://en.wikipedia.org/wiki/Benito_Mussolini"
+    },
+    {
+      "start_date": {
+        "year": 1939
+      },
+      "headline": "Italy Enters World War II",
+      "text": "Italy entered World War II on June 10, 1940, siding with Nazi Germany. This decision had devastating consequences for the country and led to Mussolini's downfall.",
+      "media": "https://en.wikipedia.org/wiki/Italy_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1943
+      },
+      "headline": "Mussolini Overthrown",
+      "text": "In July 1943, Mussolini was overthrown and arrested, leading to the establishment of a new government. This marked a turning point in Italy's involvement in World War II.",
+      "media": "https://en.wikipedia.org/wiki/Italian_Co-belligerent_Army"
+    },
+    {
+      "start_date": {
+        "year": 1946
+      },
+      "headline": "Abolition of the Monarchy",
+      "text": "In 1946, a referendum resulted in the abolition of the monarchy and the establishment of the Italian Republic. This marked a significant change in the country's governance.",
+      "media": "https://en.wikipedia.org/wiki/Italian_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1957
+      },
+      "headline": "Treaty of Rome",
+      "text": "The Treaty of Rome was signed in 1957, establishing the European Economic Community (EEC). This event was a crucial step towards European integration.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Rome"
+    },
+    {
+      "start_date": {
+        "year": 2002
+      },
+      "headline": "Adoption of the Euro",
+      "text": "Italy adopted the Euro as its official currency on January 1, 2002, replacing the Italian Lira. This marked Italy's commitment to European economic integration.",
+      "media": "https://en.wikipedia.org/wiki/Euro"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "In early 2020, Italy became one of the first countries severely affected by the COVID-19 pandemic. The crisis had significant health, economic, and social impacts on the nation.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Italy"
+    }
+  ]
+}

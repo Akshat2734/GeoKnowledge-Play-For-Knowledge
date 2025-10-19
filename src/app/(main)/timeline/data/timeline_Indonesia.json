@@ -1,0 +1,171 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Indonesia",
+      "text": "Major events in the history of Indonesia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Early Human Settlements",
+      "text": "The earliest evidence of human habitation in Indonesia dates back to around 3000 BCE, with the arrival of Austronesian peoples. These early settlers established agricultural communities and began to develop trade networks.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Indonesia#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": 200,
+        "month": 1
+      },
+      "headline": "Formation of Srivijaya Empire",
+      "text": "Around the 7th century, the Srivijaya Empire emerged as a powerful maritime kingdom based in Sumatra. It became a center for trade and Buddhism in Southeast Asia.",
+      "media": "https://en.wikipedia.org/wiki/Srivijaya"
+    },
+    {
+      "start_date": {
+        "year": 1293
+      },
+      "headline": "Majapahit Empire Established",
+      "text": "The Majapahit Empire was founded in 1293 and became one of the greatest empires in Indonesian history. It is known for its cultural achievements and expansion across the archipelago.",
+      "media": "https://en.wikipedia.org/wiki/Majapahit"
+    },
+    {
+      "start_date": {
+        "year": 1511
+      },
+      "headline": "Portuguese Arrival",
+      "text": "The Portuguese arrived in Indonesia in 1511, seeking to control the lucrative spice trade. Their presence marked the beginning of European colonial interests in the region.",
+      "media": "https://en.wikipedia.org/wiki/Portuguese_Empire#In_Asia"
+    },
+    {
+      "start_date": {
+        "year": 1602
+      },
+      "headline": "Dutch East India Company Established",
+      "text": "The Dutch East India Company was established in 1602, leading to the Dutch colonization of Indonesia. The company played a crucial role in the spice trade and territorial expansion.",
+      "media": "https://en.wikipedia.org/wiki/Dutch_East_India_Company"
+    },
+    {
+      "start_date": {
+        "year": 1800
+      },
+      "headline": "Dutch Colonial Rule Formalized",
+      "text": "In 1800, the Dutch government took direct control of Indonesia from the Dutch East India Company, marking the beginning of formal colonial rule that lasted for over a century.",
+      "media": "https://en.wikipedia.org/wiki/Dutch_colonial_period_in_Indonesia"
+    },
+    {
+      "start_date": {
+        "year": 1908,
+        "month": 5,
+        "day": 20
+      },
+      "headline": "Budi Utomo Founded",
+      "text": "Budi Utomo, the first nationalist organization in Indonesia, was founded in 1908. It marked the beginning of the Indonesian nationalist movement against colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/Budi_Utomo"
+    },
+    {
+      "start_date": {
+        "year": 1928,
+        "month": 10,
+        "day": 28
+      },
+      "headline": "Youth Pledge",
+      "text": "The Youth Pledge was declared in 1928, uniting Indonesian youth in their struggle for independence. It emphasized the commitment to a single nation, language, and homeland.",
+      "media": "https://en.wikipedia.org/wiki/Youth_Pledge"
+    },
+    {
+      "start_date": {
+        "year": 1942
+      },
+      "headline": "Japanese Occupation",
+      "text": "During World War II, Japan occupied Indonesia from 1942 to 1945. This occupation weakened Dutch colonial authority and fueled the desire for independence among Indonesians.",
+      "media": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Indonesia"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": 8,
+        "day": 17
+      },
+      "headline": "Proclamation of Independence",
+      "text": "On August 17, 1945, Sukarno and Mohammad Hatta proclaimed Indonesia's independence from Dutch colonial rule. This event marked the beginning of the Indonesian National Revolution.",
+      "media": "https://en.wikipedia.org/wiki/Proclamation_of_Independence_(Indonesia)"
+    },
+    {
+      "start_date": {
+        "year": 1949
+      },
+      "headline": "Recognition of Independence",
+      "text": "The Dutch formally recognized Indonesia's independence in 1949 after a series of diplomatic negotiations and military confrontations. This event marked the end of colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/Dutch-Indonesian_Round_Table_Conference"
+    },
+    {
+      "start_date": {
+        "year": 1965,
+        "month": 9,
+        "day": 30
+      },
+      "headline": "Anti-Communist Purge",
+      "text": "In 1965, a failed coup led to a violent anti-communist purge in Indonesia, resulting in the deaths of hundreds of thousands of suspected communists. This event paved the way for Suharto's rise to power.",
+      "media": "https://en.wikipedia.org/wiki/1965_Indonesian_mass_killings"
+    },
+    {
+      "start_date": {
+        "year": 1967
+      },
+      "headline": "Suharto Becomes President",
+      "text": "General Suharto officially became president of Indonesia in 1967 after a coup that ousted Sukarno. His regime lasted for over three decades, characterized by authoritarian rule and economic development.",
+      "media": "https://en.wikipedia.org/wiki/Suharto"
+    },
+    {
+      "start_date": {
+        "year": 1998
+      },
+      "headline": "Fall of Suharto",
+      "text": "In May 1998, widespread protests and economic turmoil led to the resignation of President Suharto. This marked the beginning of the Reformation Era and a transition to democracy.",
+      "media": "https://en.wikipedia.org/wiki/1998_Indonesian_reform"
+    },
+    {
+      "start_date": {
+        "year": 2004
+      },
+      "headline": "Indian Ocean Earthquake and Tsunami",
+      "text": "On December 26, 2004, a massive earthquake struck off the coast of Sumatra, triggering a devastating tsunami that affected several countries, including Indonesia. The disaster resulted in significant loss of life and widespread destruction.",
+      "media": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Joko Widodo Elected President",
+      "text": "In July 2014, Joko Widodo was elected as the President of Indonesia, marking a significant shift in the political landscape. His administration focused on infrastructure development and economic reform.",
+      "media": "https://en.wikipedia.org/wiki/Joko_Widodo"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reached Indonesia in early 2020, leading to widespread health and economic challenges. The government implemented various measures to control the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Indonesia"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Indonesia's Climate Commitment",
+      "text": "In 2021, Indonesia reaffirmed its commitment to addressing climate change by pledging to reduce greenhouse gas emissions. The country aims to balance economic growth with environmental sustainability.",
+      "media": "https://en.wikipedia.org/wiki/Climate_change_in_Indonesia"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "G20 Presidency",
+      "text": "In 2023, Indonesia held the G20 presidency, focusing on global economic recovery and sustainable development. This event highlighted Indonesia's growing influence on the international stage.",
+      "media": "https://en.wikipedia.org/wiki/2022_G20_Bali_summit"
+    }
+  ]
+}

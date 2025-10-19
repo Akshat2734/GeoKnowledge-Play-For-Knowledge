@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Finland",
+      "text": "Major events in the history of Finland."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -8500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The first human settlements in Finland date back to around 8500 BC, when hunter-gatherers arrived after the last Ice Age. These early inhabitants relied on fishing, hunting, and gathering for their sustenance.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Finland#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Introduction of Christianity",
+      "text": "Christianity began to spread in Finland around the year 1000, primarily through Swedish missionaries. This marked a significant cultural shift as pagan beliefs were gradually replaced.",
+      "media": "https://en.wikipedia.org/wiki/Christianization_of_Finland"
+    },
+    {
+      "start_date": {
+        "year": 1155,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Swedish Crusade",
+      "text": "The First Swedish Crusade to Finland was launched in 1155, leading to the establishment of Swedish rule over parts of the region. This event laid the groundwork for centuries of Swedish influence.",
+      "media": "https://en.wikipedia.org/wiki/Crusades_in_Finland"
+    },
+    {
+      "start_date": {
+        "year": 1323,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of Nöteborg",
+      "text": "The Treaty of Nöteborg was signed between Sweden and Novgorod, establishing a border that recognized Swedish control over parts of Finland. This treaty marked a significant point in the territorial disputes of the region.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_N%C3%B6teborg"
+    },
+    {
+      "start_date": {
+        "year": 1809,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finland Becomes an Autonomous Grand Duchy",
+      "text": "After the Finnish War, Finland was ceded by Sweden to Russia and became an autonomous Grand Duchy. This change allowed for a degree of self-governance and the development of a national identity.",
+      "media": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Finland"
+    },
+    {
+      "start_date": {
+        "year": 1866,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finnish Famine",
+      "text": "The Finnish famine of 1866-1868 resulted in the deaths of approximately 15% of the population. This tragedy highlighted the need for social reform and agricultural improvements in Finland.",
+      "media": "https://en.wikipedia.org/wiki/Famine_in_Finland_(1866%E2%80%931868)"
+    },
+    {
+      "start_date": {
+        "year": 1906,
+        "month": null,
+        "day": null
+      },
+      "headline": "Universal Suffrage",
+      "text": "Finland became the first country in Europe to grant women the right to vote and stand for election in 1906. This was a significant milestone in the global movement for women's rights.",
+      "media": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_Finland"
+    },
+    {
+      "start_date": {
+        "year": 1917,
+        "month": 12,
+        "day": 6
+      },
+      "headline": "Declaration of Independence",
+      "text": "Finland declared its independence from Russia on December 6, 1917, amidst the chaos of the Russian Revolution. This date is now celebrated as Finland's Independence Day.",
+      "media": "https://en.wikipedia.org/wiki/Independence_Day_(Finland)"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finnish Civil War",
+      "text": "The Finnish Civil War broke out in January 1918 between the 'Reds' (socialists) and the 'Whites' (conservatives). The conflict ended in May 1918 with a victory for the Whites, leading to a conservative government.",
+      "media": "https://en.wikipedia.org/wiki/Finnish_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1939,
+        "month": 11,
+        "day": 30
+      },
+      "headline": "Winter War Begins",
+      "text": "The Winter War began on November 30, 1939, when the Soviet Union invaded Finland. Despite being outnumbered, Finnish forces put up a fierce resistance, leading to a peace treaty in March 1940.",
+      "media": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 6,
+        "day": 22
+      },
+      "headline": "Continuation War",
+      "text": "The Continuation War started on June 22, 1941, when Finland allied with Nazi Germany against the Soviet Union. The conflict lasted until September 1944, resulting in significant territorial changes.",
+      "media": "https://en.wikipedia.org/wiki/Continuation_War"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": 9,
+        "day": 19
+      },
+      "headline": "Moscow Armistice",
+      "text": "The Moscow Armistice was signed on September 19, 1944, ending the Continuation War. Finland ceded territory to the Soviet Union and agreed to expel German troops from its territory.",
+      "media": "https://en.wikipedia.org/wiki/Moscow_Armistice"
+    },
+    {
+      "start_date": {
+        "year": 1955,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finland Joins the United Nations",
+      "text": "Finland became a member of the United Nations in 1955, marking its commitment to international cooperation and peacekeeping. This membership has been a cornerstone of Finland's foreign policy.",
+      "media": "https://en.wikipedia.org/wiki/Finland_and_the_United_Nations"
+    },
+    {
+      "start_date": {
+        "year": 1995,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finland Joins the European Union",
+      "text": "Finland officially joined the European Union on January 1, 1995. This membership has facilitated economic growth and integration with other European nations.",
+      "media": "https://en.wikipedia.org/wiki/Finland_and_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finland's Education System Ranked",
+      "text": "Finland's education system began to gain international recognition in the early 2000s, often ranked among the best in the world. This reputation has attracted global interest in Finnish educational practices.",
+      "media": "https://en.wikipedia.org/wiki/Education_in_Finland"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finland Named Happiest Country",
+      "text": "In 2012, Finland was ranked as the happiest country in the world by the World Happiness Report. This ranking has been attributed to factors such as social equality, education, and quality of life.",
+      "media": "https://en.wikipedia.org/wiki/World_Happiness_Report"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic Response",
+      "text": "Finland's response to the COVID-19 pandemic was noted for its effectiveness and transparency. The government implemented measures to protect public health while maintaining social services.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Finland"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Finland Joins NATO",
+      "text": "In 2023, Finland officially joined NATO, marking a significant shift in its security policy. This decision was influenced by the changing geopolitical landscape in Europe.",
+      "media": "https://en.wikipedia.org/wiki/Finland_and_NATO"
+    }
+  ]
+}

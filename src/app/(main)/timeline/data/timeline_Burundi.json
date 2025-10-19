@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Burundi",
+      "text": "Major events in the history of Burundi."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Formation of the Kingdom of Burundi",
+      "text": "The Kingdom of Burundi was established, with the Tutsi ethnic group forming the ruling class. The kingdom developed a complex social structure and engaged in trade with neighboring regions.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Burundi"
+    },
+    {
+      "start_date": {
+        "year": 1500
+      },
+      "headline": "Expansion of the Kingdom",
+      "text": "The Kingdom of Burundi expanded its territory and influence, incorporating various ethnic groups and establishing a centralized monarchy. This period saw the solidification of Tutsi dominance.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Burundi"
+    },
+    {
+      "start_date": {
+        "year": 1890
+      },
+      "headline": "Burundi Becomes a German Colony",
+      "text": "Burundi was incorporated into German East Africa, which included present-day Tanzania and Rwanda. The Germans imposed colonial rule, disrupting traditional governance.",
+      "media": "https://en.wikipedia.org/wiki/German_East_Africa"
+    },
+    {
+      "start_date": {
+        "year": 1916
+      },
+      "headline": "Belgian Control",
+      "text": "During World War I, Belgian forces occupied Burundi, and it became a Belgian mandate after the war. The Belgians continued to exploit ethnic divisions, favoring the Tutsi minority.",
+      "media": "https://en.wikipedia.org/wiki/Belgian_congo"
+    },
+    {
+      "start_date": {
+        "year": 1948
+      },
+      "headline": "First Census",
+      "text": "Burundi conducted its first census, revealing significant demographic changes and tensions between the Hutu and Tutsi populations. This census laid the groundwork for future ethnic conflicts.",
+      "media": "https://en.wikipedia.org/wiki/Demographics_of_Burundi"
+    },
+    {
+      "start_date": {
+        "year": 1961
+      },
+      "headline": "Independence from Belgium",
+      "text": "Burundi gained independence from Belgium on July 1, 1962. The transition to independence was marked by ethnic tensions and political instability.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Burundi"
+    },
+    {
+      "start_date": {
+        "year": 1965
+      },
+      "headline": "First Hutu Rebellion",
+      "text": "A Hutu uprising against the Tutsi-dominated government was brutally suppressed, leading to thousands of deaths. This event marked the beginning of a cycle of violence between the two ethnic groups.",
+      "media": "https://en.wikipedia.org/wiki/1965_Burundi_rebellion"
+    },
+    {
+      "start_date": {
+        "year": 1972
+      },
+      "headline": "Massacres of Hutus",
+      "text": "The Burundian government launched a campaign against the Hutu population, resulting in the deaths of an estimated 200,000 Hutus. This event deepened ethnic divisions and resentment.",
+      "media": "https://en.wikipedia.org/wiki/1972_Burundi_massacre"
+    },
+    {
+      "start_date": {
+        "year": 1987
+      },
+      "headline": "Return of Exiles",
+      "text": "Many Hutu refugees began returning to Burundi after years of exile due to the violence of the 1970s. Their return contributed to rising tensions in the country.",
+      "media": "https://en.wikipedia.org/wiki/Burundi#History"
+    },
+    {
+      "start_date": {
+        "year": 1993
+      },
+      "headline": "First Democratic Elections",
+      "text": "Burundi held its first democratic elections, resulting in the election of a Hutu president, Melchior Ndadaye. This was a significant step towards political inclusion.",
+      "media": "https://en.wikipedia.org/wiki/1993_Burundi_elections"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": 10,
+        "day": 21
+      },
+      "headline": "Assassination of President Ndadaye",
+      "text": "President Melchior Ndadaye was assassinated in a coup, leading to a civil war that lasted until 2006. This event marked the beginning of a brutal conflict between Hutu and Tutsi factions.",
+      "media": "https://en.wikipedia.org/wiki/Melchior_Ndadaye"
+    },
+    {
+      "start_date": {
+        "year": 1998
+      },
+      "headline": "Peace Talks Begin",
+      "text": "Peace negotiations began in Arusha, Tanzania, aiming to end the civil war. The talks involved various political factions and international mediators.",
+      "media": "https://en.wikipedia.org/wiki/Arusha_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "Arusha Accords Signed",
+      "text": "The Arusha Accords were signed, establishing a framework for power-sharing and the establishment of a transitional government. This was a crucial step towards peace.",
+      "media": "https://en.wikipedia.org/wiki/Arusha_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2003
+      },
+      "headline": "End of Civil War",
+      "text": "The civil war officially ended with the signing of a peace agreement. The country began the long process of reconciliation and rebuilding.",
+      "media": "https://en.wikipedia.org/wiki/Burundi#Civil_war"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "New Constitution Adopted",
+      "text": "Burundi adopted a new constitution that established a multi-party system and aimed to promote ethnic balance in government. This was a significant step towards democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Burundi"
+    },
+    {
+      "start_date": {
+        "year": 2010
+      },
+      "headline": "Political Tensions Rise",
+      "text": "Political tensions escalated as the ruling party faced accusations of authoritarianism and human rights abuses. This period marked a resurgence of violence and unrest.",
+      "media": "https://en.wikipedia.org/wiki/2010_Burundi_elections"
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "headline": "Controversial Presidential Election",
+      "text": "President Pierre Nkurunziza announced his intention to run for a third term, sparking widespread protests and violence. The election was marred by accusations of fraud and repression.",
+      "media": "https://en.wikipedia.org/wiki/2015_Burundi_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "headline": "International Condemnation",
+      "text": "The international community condemned the Burundian government for its crackdown on dissent and human rights violations. Sanctions were imposed by several countries.",
+      "media": "https://en.wikipedia.org/wiki/2015_Burundi_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "Death of President Nkurunziza",
+      "text": "President Pierre Nkurunziza died suddenly, leading to a transition of power. His death raised questions about the future of governance and stability in the country.",
+      "media": "https://en.wikipedia.org/wiki/Pierre_Nkurunziza"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "New Leadership Under Evariste Ndayishimiye",
+      "text": "Evariste Ndayishimiye was elected as the new president, promising reforms and reconciliation. His leadership marked a potential turning point for Burundi's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Evariste_Ndayishimiye"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Challenges",
+      "text": "Burundi continues to face challenges related to political stability, economic development, and human rights. The government is working towards addressing these issues while navigating international relations.",
+      "media": "https://en.wikipedia.org/wiki/Burundi"
+    }
+  ]
+}

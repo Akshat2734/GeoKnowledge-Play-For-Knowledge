@@ -1,0 +1,102 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Vatican City",
+      "text": "Major events in the history of Vatican City, the center of the Roman Catholic Church."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 64
+      },
+      "headline": "Martyrdom of Saint Peter",
+      "text": "Saint Peter is martyred and buried on Vatican Hill, marking the site’s sacred origins.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Saint_Peter"
+      }
+    },
+    {
+      "start_date": {
+        "year": 326
+      },
+      "headline": "Old St. Peter’s Basilica",
+      "text": "Emperor Constantine builds the first basilica over Peter’s tomb.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Old_St._Peter%27s_Basilica"
+      }
+    },
+    {
+      "start_date": {
+        "year": 756
+      },
+      "headline": "Papal States Established",
+      "text": "Donation of Pepin grants the Pope territorial rule over central Italy.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Papal_States"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1870
+      },
+      "headline": "Roman Question",
+      "text": "Italian unification ends the Papal States’ rule over Rome.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Roman_Question"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1929,
+        "month": 2,
+        "day": 11
+      },
+      "headline": "Lateran Treaty",
+      "text": "Vatican City becomes an independent sovereign state.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Lateran_Treaty"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1962
+      },
+      "headline": "Second Vatican Council",
+      "text": "Council convened to modernize church practices.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Second_Vatican_Council"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1978
+      },
+      "headline": "Pope John Paul II",
+      "text": "First non-Italian pope in 400+ years.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Pope Francis Elected",
+      "text": "First Jesuit and Latin American pope.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Pope_Francis"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Outreach & Reform",
+      "text": "Reforms with emphasis on interfaith dialogue and climate responsibility.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Vatican_City"
+      }
+    }
+  ]
+}

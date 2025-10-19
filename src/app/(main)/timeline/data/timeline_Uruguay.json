@@ -1,0 +1,100 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Uruguay",
+      "text": "Major events in the history of Uruguay."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1516
+      },
+      "headline": "European Discovery",
+      "text": "Juan Díaz de Solís reaches the Río de la Plata region.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Uruguay"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1680
+      },
+      "headline": "Colonia del Sacramento",
+      "text": "Portugal founds a settlement opposite Buenos Aires.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Colonia_del_Sacramento"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1811
+      },
+      "headline": "Artigas’ Revolt",
+      "text": "José Gervasio Artigas launches revolt against Spain.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gervasio_Artigas"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1828
+      },
+      "headline": "Independence",
+      "text": "Uruguay becomes an independent buffer state.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uruguayan_War_of_Independence"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1900
+      },
+      "headline": "Batllista Reforms",
+      "text": "Progressive reforms modernize Uruguay.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Batlle_y_Ord%C3%B3%C3%B1ez"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1973
+      },
+      "headline": "Military Dictatorship",
+      "text": "Armed forces seize power until 1985.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uruguayan_civic-military_dictatorship"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1985
+      },
+      "headline": "Return to Democracy",
+      "text": "Elections restore civilian rule.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uruguay"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Marijuana Legalization",
+      "text": "First country to fully legalize marijuana.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Cannabis_in_Uruguay"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Renewables & Digital Govt",
+      "text": "Recognized for clean energy and e-government.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uruguay"
+      }
+    }
+  ]
+}

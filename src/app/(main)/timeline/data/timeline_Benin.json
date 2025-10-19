@@ -1,0 +1,156 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Benin",
+      "text": "Major events in the history of Benin."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Early Settlements",
+      "text": "The area now known as Benin was inhabited by various ethnic groups, including the Fon and Yoruba, who established early settlements and engaged in agriculture and trade.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Benin"
+    },
+    {
+      "start_date": {
+        "year": 1180
+      },
+      "headline": "Founding of the Kingdom of Dahomey",
+      "text": "The Kingdom of Dahomey was founded around this time, becoming one of the most powerful states in West Africa, known for its military prowess and complex political structure.",
+      "media": "https://en.wikipedia.org/wiki/Dahomey"
+    },
+    {
+      "start_date": {
+        "year": 1600
+      },
+      "headline": "Rise of the Slave Trade",
+      "text": "Dahomey became a significant player in the transatlantic slave trade, capturing and selling prisoners of war and other individuals into slavery.",
+      "media": "https://en.wikipedia.org/wiki/Transatlantic_slave_trade"
+    },
+    {
+      "start_date": {
+        "year": 1700
+      },
+      "headline": "Expansion of Dahomey",
+      "text": "The Kingdom of Dahomey expanded its territory through military conquests, incorporating various neighboring tribes and solidifying its power in the region.",
+      "media": "https://en.wikipedia.org/wiki/Dahomey"
+    },
+    {
+      "start_date": {
+        "year": 1851
+      },
+      "headline": "First Anglo-Dahomean War",
+      "text": "The British launched an expedition against Dahomey, marking the beginning of military confrontations between European powers and the kingdom.",
+      "media": "https://en.wikipedia.org/wiki/Anglo-Dahomean_War"
+    },
+    {
+      "start_date": {
+        "year": 1890
+      },
+      "headline": "Colonization by France",
+      "text": "Dahomey became a French protectorate, leading to the eventual colonization of the region and the establishment of French West Africa.",
+      "media": "https://en.wikipedia.org/wiki/Dahomey#French_colonization"
+    },
+    {
+      "start_date": {
+        "year": 1904
+      },
+      "headline": "Formal Annexation",
+      "text": "Dahomey was formally annexed by France, becoming a colony and experiencing significant changes in administration and economy.",
+      "media": "https://en.wikipedia.org/wiki/Dahomey#French_colonization"
+    },
+    {
+      "start_date": {
+        "year": 1946
+      },
+      "headline": "Becomes a French Overseas Territory",
+      "text": "Dahomey was designated as a French overseas territory, allowing for limited self-governance and representation in the French National Assembly.",
+      "media": "https://en.wikipedia.org/wiki/Dahomey#French_colonization"
+    },
+    {
+      "start_date": {
+        "year": 1956
+      },
+      "headline": "Increased Autonomy",
+      "text": "Dahomey gained increased autonomy with the establishment of a local government, paving the way for future independence.",
+      "media": "https://en.wikipedia.org/wiki/Dahomey#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "Independence from France",
+      "text": "Dahomey achieved full independence from France, becoming the Republic of Dahomey and marking a new era in its history.",
+      "media": "https://en.wikipedia.org/wiki/Benin#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1972
+      },
+      "headline": "Military Coup",
+      "text": "A military coup led by Major Mathieu Kérékou overthrew the government, leading to a period of military rule and the establishment of a Marxist-Leninist state.",
+      "media": "https://en.wikipedia.org/wiki/Benin#K%C3%A9r%C3%A9kou_era"
+    },
+    {
+      "start_date": {
+        "year": 1990
+      },
+      "headline": "Transition to Democracy",
+      "text": "Benin began a transition to democracy with the National Conference, leading to the adoption of a new constitution and multi-party elections.",
+      "media": "https://en.wikipedia.org/wiki/Benin#Democratic_transition"
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "First Democratic Elections",
+      "text": "Benin held its first democratic elections, marking a significant milestone in its political history and establishing a multiparty system.",
+      "media": "https://en.wikipedia.org/wiki/Benin#Democratic_transition"
+    },
+    {
+      "start_date": {
+        "year": 1996
+      },
+      "headline": "Political Stability",
+      "text": "Benin experienced relative political stability with peaceful transitions of power, contributing to its reputation as a model of democracy in Africa.",
+      "media": "https://en.wikipedia.org/wiki/Benin#Democratic_transition"
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "headline": "Economic Reforms",
+      "text": "The government initiated economic reforms aimed at improving the business environment and attracting foreign investment.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Benin"
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "headline": "Presidential Elections",
+      "text": "The presidential elections in 2016 were marked by controversies and allegations of electoral fraud, leading to heightened political tensions.",
+      "media": "https://en.wikipedia.org/wiki/2016_Benin_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Political Repression",
+      "text": "Under President Patrice Talon, the government faced criticism for political repression and crackdowns on dissent, raising concerns about the state of democracy in Benin.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Benin"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Current Developments",
+      "text": "Benin continues to navigate challenges related to governance, economic development, and social issues while striving to maintain its democratic framework.",
+      "media": "https://en.wikipedia.org/wiki/Benin"
+    }
+  ]
+}
