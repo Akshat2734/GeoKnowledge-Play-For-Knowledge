@@ -1,0 +1,102 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Tuvalu",
+      "text": "Major events in the history of Tuvalu."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Polynesian Settlement",
+      "text": "Polynesian navigators settle the islands and develop distinct cultures.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Tuvalu"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1568
+      },
+      "headline": "First European Contact",
+      "text": "Álvaro de Mendaña sights the islands while exploring the Pacific.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_de_Menda%C3%B1a_de_Neira"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1892
+      },
+      "headline": "British Protectorate",
+      "text": "Ellice Islands become a British protectorate.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Gilbert_and_Ellice_Islands"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1916
+      },
+      "headline": "Colony of Gilbert and Ellice",
+      "text": "Britain merges the Ellice and Gilbert Islands as one colony.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Gilbert_and_Ellice_Islands"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1974
+      },
+      "headline": "Separation from Gilbert Islands",
+      "text": "Tuvalu votes to separate from the Gilberts (now Kiribati).",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tuvalu"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Independence",
+      "text": "Tuvalu becomes fully independent within the Commonwealth.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Tuvalu)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "UN Membership",
+      "text": "Tuvalu joins the United Nations.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tuvalu_and_the_United_Nations"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2019
+      },
+      "headline": "Climate Diplomacy",
+      "text": "A leading global voice for climate action and sea-level rise awareness.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Climate_change_in_Tuvalu"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Digital Nation Initiative",
+      "text": "Building a digital twin to preserve national identity against climate displacement.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tuvalu"
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Cabo Verde",
+      "text": "Major events in the history of Cabo Verde."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1460
+      },
+      "headline": "Discovery of Cabo Verde",
+      "text": "Cabo Verde was discovered by Portuguese explorers, becoming one of the first islands in the Atlantic to be colonized. The archipelago was uninhabited before this time.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1462
+      },
+      "headline": "First Settlements Established",
+      "text": "The Portuguese established the first settlements on the islands, primarily on Santiago and São Vicente. These settlements laid the groundwork for future colonization.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1495
+      },
+      "headline": "Cabo Verde Becomes a Slave Trade Hub",
+      "text": "Cabo Verde became a key stop in the transatlantic slave trade, with enslaved Africans being transported to the Americas. This had lasting impacts on the islands' demographics and culture.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1580
+      },
+      "headline": "Spanish Rule",
+      "text": "Cabo Verde came under Spanish rule as part of the Iberian Union, which lasted until 1640. This period saw increased trade and cultural exchange.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1770
+      },
+      "headline": "Economic Decline",
+      "text": "The islands faced economic decline due to droughts and the abolition of the slave trade. Many inhabitants migrated to other regions, particularly the Americas.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1837
+      },
+      "headline": "Establishment of the First Newspaper",
+      "text": "The first newspaper, 'A Voz de Cabo Verde,' was published, marking the beginning of a new era of communication and political awareness among the islanders.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1951
+      },
+      "headline": "Cabo Verde Becomes an Overseas Province",
+      "text": "Cabo Verde was officially designated as an overseas province of Portugal, which led to increased political and social movements advocating for independence.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": 7,
+        "day": 5
+      },
+      "headline": "Independence from Portugal",
+      "text": "Cabo Verde gained independence from Portugal after a long struggle led by the African Party for the Independence of Guinea and Cape Verde (PAIGC). This marked a significant turning point in the nation's history.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "First Multi-Party Elections",
+      "text": "Cabo Verde held its first multi-party elections, transitioning from a one-party state to a democratic government. This was a crucial step in consolidating democracy in the country.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "Economic Growth and Stability",
+      "text": "Cabo Verde experienced significant economic growth, driven by tourism and remittances from the diaspora. The country was recognized for its political stability and democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2007
+      },
+      "headline": "Access to the Millennium Challenge Account",
+      "text": "Cabo Verde was selected to receive funding from the Millennium Challenge Corporation, aimed at reducing poverty and promoting economic growth. This funding helped improve infrastructure and education.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Transition of Power",
+      "text": "The peaceful transition of power occurred when the opposition party won the presidential elections, showcasing the strength of Cabo Verde's democratic institutions.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "Cabo Verde Joins the Community of Portuguese Language Countries",
+      "text": "Cabo Verde became a full member of the Community of Portuguese Language Countries (CPLP), strengthening its ties with other Portuguese-speaking nations.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic Impact",
+      "text": "The COVID-19 pandemic severely impacted Cabo Verde's economy, particularly the tourism sector, which is vital for the country's revenue. The government implemented measures to mitigate the effects.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Vaccination Campaign",
+      "text": "Cabo Verde launched a nationwide vaccination campaign against COVID-19, aiming to achieve herd immunity and revive the economy. The campaign was supported by international partners.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Economic Recovery Initiatives",
+      "text": "The government introduced economic recovery initiatives to boost tourism and support local businesses affected by the pandemic. These efforts aimed to stabilize the economy.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Development Goals",
+      "text": "Cabo Verde continues to focus on sustainable development goals, emphasizing renewable energy and climate resilience. The government aims to position the country as a leader in sustainable practices in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cabo_Verde"
+    }
+  ]
+}

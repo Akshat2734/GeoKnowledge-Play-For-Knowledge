@@ -1,0 +1,102 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Vanuatu",
+      "text": "Major events in the history of Vanuatu."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "headline": "Melanesian Settlement",
+      "text": "Austronesian and Melanesian communities settle across the islands.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Vanuatu"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1606
+      },
+      "headline": "European Discovery",
+      "text": "Pedro Fernández de Quirós names the islands 'La Austrialia del Espíritu Santo.'",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Pedro_Fern%C3%A1ndez_de_Quir%C3%B3s"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1774
+      },
+      "headline": "Captain Cook Visits",
+      "text": "Cook names the islands the New Hebrides.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/James_Cook"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1906
+      },
+      "headline": "Anglo-French Condominium",
+      "text": "France and Britain agree to jointly govern the New Hebrides.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/New_Hebrides"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1942
+      },
+      "headline": "WWII & U.S. Bases",
+      "text": "The islands host Allied bases during the Pacific war.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/World_War_II_in_the_Pacific"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": 7,
+        "day": 30
+      },
+      "headline": "Independence",
+      "text": "Vanuatu achieves independence and joins the UN.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Vanuatu)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2015
+      },
+      "headline": "Cyclone Pam",
+      "text": "A powerful cyclone devastates infrastructure and communities.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Cyclone_Pam"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Climate Justice Leadership",
+      "text": "Leads a UN campaign for climate justice.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Vanuatu"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Resilience & Recovery",
+      "text": "Focus on renewables and disaster resilience.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Vanuatu"
+      }
+    }
+  ]
+}

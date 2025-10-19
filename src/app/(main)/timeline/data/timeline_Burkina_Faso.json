@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Burkina Faso",
+      "text": "Major events in the history of Burkina Faso."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Settlements",
+      "text": "The region that is now Burkina Faso was inhabited by various ethnic groups, including the Gur and Mande peoples. These early societies engaged in agriculture and trade.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Burkina_Faso"
+    },
+    {
+      "start_date": {
+        "year": 11,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Mossi Kingdoms",
+      "text": "The Mossi kingdoms were established, becoming dominant in the region. They played a crucial role in the political and cultural development of Burkina Faso.",
+      "media": "https://en.wikipedia.org/wiki/Mossi_people"
+    },
+    {
+      "start_date": {
+        "year": 1896,
+        "month": null,
+        "day": null
+      },
+      "headline": "Colonial Rule Begins",
+      "text": "Burkina Faso, then known as Upper Volta, became a French protectorate. This marked the beginning of significant changes in administration and culture.",
+      "media": "https://en.wikipedia.org/wiki/Upper_Volta"
+    },
+    {
+      "start_date": {
+        "year": 1919,
+        "month": null,
+        "day": null
+      },
+      "headline": "Upper Volta Established",
+      "text": "The French established Upper Volta as a separate colony, consolidating control over the region. This led to increased exploitation of resources.",
+      "media": "https://en.wikipedia.org/wiki/Upper_Volta"
+    },
+    {
+      "start_date": {
+        "year": 1947,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Political Movements",
+      "text": "The first political movements began to emerge in Upper Volta, advocating for greater autonomy and rights for the local population. This laid the groundwork for future independence.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Burkina_Faso"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 8,
+        "day": 5
+      },
+      "headline": "Independence from France",
+      "text": "Burkina Faso gained independence from France, becoming a sovereign nation. Maurice Yaméogo became the first president of the newly independent country.",
+      "media": "https://en.wikipedia.org/wiki/Burkina_Faso"
+    },
+    {
+      "start_date": {
+        "year": 1966,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Military Coup",
+      "text": "A military coup led by Lieutenant Colonel Sangoulé Lamizana overthrew President Yaméogo. This marked the beginning of a series of military and civilian governments.",
+      "media": "https://en.wikipedia.org/wiki/Sangoul%C3%A9_Lamizana"
+    },
+    {
+      "start_date": {
+        "year": 1983,
+        "month": 8,
+        "day": 4
+      },
+      "headline": "Thomas Sankara Takes Power",
+      "text": "Thomas Sankara led a popular coup, becoming president and initiating radical reforms aimed at reducing poverty and promoting self-sufficiency.",
+      "media": "https://en.wikipedia.org/wiki/Thomas_Sankara"
+    },
+    {
+      "start_date": {
+        "year": 1987,
+        "month": 10,
+        "day": 15
+      },
+      "headline": "Assassination of Thomas Sankara",
+      "text": "Thomas Sankara was assassinated in a coup led by his former ally Blaise Compaoré. This event marked a significant turning point in Burkina Faso's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Thomas_Sankara"
+    },
+    {
+      "start_date": {
+        "year": 1987,
+        "month": 10,
+        "day": 15
+      },
+      "headline": "Blaise Compaoré Assumes Power",
+      "text": "Blaise Compaoré became president following the coup that killed Sankara. His rule lasted for 27 years, characterized by authoritarianism and economic challenges.",
+      "media": "https://en.wikipedia.org/wiki/Blaise_Compaor%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Reforms",
+      "text": "Burkina Faso underwent political reforms, transitioning towards a multi-party system. This was a response to growing public discontent with Compaoré's regime.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Burkina_Faso"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Challenges",
+      "text": "Burkina Faso faced significant economic challenges, including poverty and food insecurity. The government sought international aid and investment to address these issues.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Burkina_Faso"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": null,
+        "day": null
+      },
+      "headline": "Popular Uprisings",
+      "text": "Widespread protests erupted against President Compaoré's attempt to extend his presidency. This led to his eventual resignation and a transitional government.",
+      "media": "https://en.wikipedia.org/wiki/2014_Burkina_Faso_uprising"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Coup Attempt",
+      "text": "A military coup attempt occurred, aiming to seize control of the transitional government. It was ultimately unsuccessful, but it highlighted ongoing instability.",
+      "media": "https://en.wikipedia.org/wiki/2015_Burkina_Faso_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": 12,
+        "day": 29
+      },
+      "headline": "New Presidential Elections",
+      "text": "New presidential elections were held, leading to the election of Roch Marc Christian Kaboré as president. This marked a return to civilian rule.",
+      "media": "https://en.wikipedia.org/wiki/Roch_Marc_Christian_Kabor%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 11,
+        "day": 22
+      },
+      "headline": "Increased Violence",
+      "text": "Burkina Faso experienced a surge in violence from extremist groups, leading to increased security concerns and displacement of populations.",
+      "media": "https://en.wikipedia.org/wiki/2020_in_Burkina_Faso"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Coup",
+      "text": "A military coup led to the ousting of President Kaboré amid growing unrest and dissatisfaction with the government's handling of security issues.",
+      "media": "https://en.wikipedia.org/wiki/2022_Burkina_Faso_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 9,
+        "day": 30
+      },
+      "headline": "Second Military Coup",
+      "text": "Another military coup took place, further complicating the political situation in Burkina Faso. The military leaders pledged to restore security and order.",
+      "media": "https://en.wikipedia.org/wiki/2022_Burkina_Faso_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Instability",
+      "text": "Burkina Faso continues to face challenges related to security, governance, and humanitarian crises. The situation remains fluid as the country seeks stability.",
+      "media": "https://en.wikipedia.org/wiki/2023_in_Burkina_Faso"
+    }
+  ]
+}

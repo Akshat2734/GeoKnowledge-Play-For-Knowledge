@@ -1,0 +1,187 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Hungary",
+      "text": "Major events in the history of Hungary."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Foundation of the Hungarian State",
+      "text": "The early Hungarians, known as the Magyars, began settling in the Carpathian Basin around this time, establishing the foundations of what would become the Hungarian state.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Hungary#Early_History"
+    },
+    {
+      "start_date": {
+        "year": 895
+      },
+      "headline": "Conquest of the Carpathian Basin",
+      "text": "Led by Árpád, the Magyars conquered the Carpathian Basin, marking the beginning of Hungarian history as a unified entity.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Hungary#Conquest_of_the_Carpathian_Basin"
+    },
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Stephen I Crowned King",
+      "text": "Stephen I was crowned the first King of Hungary, establishing the Christian Kingdom of Hungary and promoting the spread of Christianity.",
+      "media": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+    },
+    {
+      "start_date": {
+        "year": 1241,
+        "month": 4
+      },
+      "headline": "Mongol Invasion",
+      "text": "The Mongol invasion led to significant destruction in Hungary, resulting in the death of a large portion of the population and the eventual rebuilding of the country.",
+      "media": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Hungary"
+    },
+    {
+      "start_date": {
+        "year": 1301
+      },
+      "headline": "End of the Árpád Dynasty",
+      "text": "The death of Andrew III marked the end of the Árpád dynasty, leading to a power struggle and the eventual rise of the Anjou dynasty.",
+      "media": "https://en.wikipedia.org/wiki/Árpád_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 1526,
+        "month": 8,
+        "day": 29
+      },
+      "headline": "Battle of Mohács",
+      "text": "The Ottoman Empire defeated the Hungarian forces at the Battle of Mohács, leading to the partition of Hungary and significant Ottoman influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Mohács"
+    },
+    {
+      "start_date": {
+        "year": 1541
+      },
+      "headline": "Buda Falls to the Ottomans",
+      "text": "The city of Buda fell to the Ottomans, marking the beginning of over a century of Ottoman rule in parts of Hungary.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Hungary#Ottoman_occupation"
+    },
+    {
+      "start_date": {
+        "year": 1686
+      },
+      "headline": "Recapture of Buda",
+      "text": "The Habsburgs, along with their allies, recaptured Buda from the Ottomans, marking the beginning of the end of Ottoman rule in Hungary.",
+      "media": "https://en.wikipedia.org/wiki/Recapture_of_Buda"
+    },
+    {
+      "start_date": {
+        "year": 1848,
+        "month": 3,
+        "day": 15
+      },
+      "headline": "Hungarian Revolution of 1848",
+      "text": "A nationwide revolution against Habsburg rule began, demanding independence and civil rights, leading to a brief period of self-governance.",
+      "media": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848"
+    },
+    {
+      "start_date": {
+        "year": 1867
+      },
+      "headline": "Austro-Hungarian Compromise",
+      "text": "The Austro-Hungarian Compromise established the Dual Monarchy, granting Hungary significant autonomy within the Austro-Hungarian Empire.",
+      "media": "https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867"
+    },
+    {
+      "start_date": {
+        "year": 1914,
+        "month": 7,
+        "day": 28
+      },
+      "headline": "Start of World War I",
+      "text": "Hungary, as part of the Austro-Hungarian Empire, entered World War I, which would lead to significant territorial losses and political changes.",
+      "media": "https://en.wikipedia.org/wiki/Hungary_in_World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": 6,
+        "day": 4
+      },
+      "headline": "Treaty of Trianon",
+      "text": "The Treaty of Trianon was signed, resulting in the loss of two-thirds of Hungary's territory and a significant reduction in population.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Trianon"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": 3,
+        "day": 19
+      },
+      "headline": "Nazi Occupation",
+      "text": "Nazi Germany occupied Hungary, leading to the deportation of hundreds of thousands of Jews and other minorities to concentration camps.",
+      "media": "https://en.wikipedia.org/wiki/Hungary_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1956,
+        "month": 10,
+        "day": 23
+      },
+      "headline": "Hungarian Revolution of 1956",
+      "text": "A nationwide revolt against the Soviet-imposed policies erupted, leading to a brief period of freedom before Soviet forces crushed the uprising.",
+      "media": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 6,
+        "day": 16
+      },
+      "headline": "Reburial of Imre Nagy",
+      "text": "The reburial of Imre Nagy, a leader of the 1956 Revolution, symbolized the end of communist rule and the beginning of democratic reforms in Hungary.",
+      "media": "https://en.wikipedia.org/wiki/Imre_Nagy"
+    },
+    {
+      "start_date": {
+        "year": 1990
+      },
+      "headline": "First Free Elections",
+      "text": "Hungary held its first free elections after the fall of communism, marking a significant step towards democracy.",
+      "media": "https://en.wikipedia.org/wiki/Hungarian_parliamentary_election,_1990"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 4,
+        "day": 12
+      },
+      "headline": "Hungary Joins the EU",
+      "text": "Hungary became a member of the European Union, marking a significant milestone in its integration into the European community.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Hungary_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2010
+      },
+      "headline": "Fidesz Party Gains Power",
+      "text": "The Fidesz party, led by Viktor Orbán, won a two-thirds majority in the parliamentary elections, leading to significant political changes and reforms.",
+      "media": "https://en.wikipedia.org/wiki/Viktor_Orbán"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Hungary, like many countries, faced the challenges of the COVID-19 pandemic, leading to health crises and economic impacts.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Hungary"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Russian Invasion of Ukraine",
+      "text": "The Russian invasion of Ukraine had significant geopolitical implications for Hungary, affecting its energy policies and regional security.",
+      "media": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine"
+    }
+  ]
+}

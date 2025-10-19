@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Cameroon",
+      "text": "Major events in the history of Cameroon."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -10000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The region now known as Cameroon has been inhabited since prehistoric times, with evidence of human activity dating back to around 10,000 BC. Early inhabitants included various hunter-gatherer groups.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Kingdoms",
+      "text": "By the first millennium AD, several powerful kingdoms and chiefdoms emerged in the region, including the Kingdom of Nso and the Kingdom of Bafut. These societies developed complex political structures and trade networks.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Pre-colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1472,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Arrival",
+      "text": "The first Europeans to arrive in Cameroon were the Portuguese, who named the Wouri River 'Rio dos Camarões' (River of Prawns). This marked the beginning of European interest in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1884,
+        "month": 7,
+        "day": 12
+      },
+      "headline": "German Colonization",
+      "text": "Germany established a protectorate over Cameroon, marking the beginning of formal colonial rule. The territory was administered as part of German West Africa.",
+      "media": "https://en.wikipedia.org/wiki/German_Cameroon"
+    },
+    {
+      "start_date": {
+        "year": 1916,
+        "month": null,
+        "day": null
+      },
+      "headline": "Allied Occupation",
+      "text": "During World War I, Allied forces invaded and occupied German Cameroon. The territory was subsequently divided between Britain and France after the war.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#World_War_I_and_after"
+    },
+    {
+      "start_date": {
+        "year": 1922,
+        "month": null,
+        "day": null
+      },
+      "headline": "French and British Mandates",
+      "text": "The League of Nations granted France and Britain mandates over Cameroon, leading to the establishment of French Cameroon and British Southern Cameroons. This division created significant cultural and political differences.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1946,
+        "month": null,
+        "day": null
+      },
+      "headline": "UN Trusteeship",
+      "text": "Cameroon became a United Nations Trust Territory, administered by France and Britain. This period saw increased political organization and movements for independence.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Post-World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": null,
+        "day": null
+      },
+      "headline": "Independence of French Cameroon",
+      "text": "French Cameroon gained independence on January 1, 1960, becoming the Republic of Cameroon. Ahmadou Ahidjo became the first president of the newly independent nation.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": 2,
+        "day": 11
+      },
+      "headline": "Unification with Southern Cameroons",
+      "text": "On February 11, 1961, British Southern Cameroons voted to join the Republic of Cameroon, leading to the creation of a unified state. This event is celebrated as National Unity Day.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Unification"
+    },
+    {
+      "start_date": {
+        "year": 1972,
+        "month": 5,
+        "day": 20
+      },
+      "headline": "Federal Republic to United Republic",
+      "text": "Cameroon transitioned from a federal republic to a unitary state, changing its name to the United Republic of Cameroon. This move centralized power in the presidency.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Political_development"
+    },
+    {
+      "start_date": {
+        "year": 1982,
+        "month": 11,
+        "day": 6
+      },
+      "headline": "Ahidjo Resigns",
+      "text": "President Ahmadou Ahidjo resigned after 22 years in power, handing over the presidency to Paul Biya. This marked a significant shift in Cameroon's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Political_development"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Liberalization",
+      "text": "The early 1990s saw a wave of political liberalization in Cameroon, with the legalization of opposition parties. This period marked the beginning of multiparty politics.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Political_development"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": 9,
+        "day": 11
+      },
+      "headline": "First Multiparty Elections",
+      "text": "Cameroon held its first multiparty presidential elections in 1992. Paul Biya was re-elected amid allegations of fraud and irregularities.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Political_development"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 4,
+        "day": 10
+      },
+      "headline": "Constitutional Reforms",
+      "text": "The Cameroonian parliament passed constitutional amendments allowing President Biya to run for an unlimited number of terms. This sparked widespread protests and criticism.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Political_development"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Anglophone Crisis",
+      "text": "Protests erupted in the English-speaking regions of Cameroon, demanding greater autonomy and recognition of Anglophone rights. The situation escalated into a violent conflict.",
+      "media": "https://en.wikipedia.org/wiki/Anglophone_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 10,
+        "day": 7
+      },
+      "headline": "Presidential Elections",
+      "text": "Paul Biya was re-elected for a seventh term in the presidential elections. The elections were marred by violence and allegations of fraud, particularly in Anglophone regions.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon#Political_development"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Cameroon, like many countries, faced the challenges of the COVID-19 pandemic, impacting public health and the economy. The government implemented various measures to curb the spread.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Cameroon"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Anglophone Conflict",
+      "text": "The conflict in the Anglophone regions continued, with ongoing violence and humanitarian crises. International organizations called for dialogue and resolution of the issues.",
+      "media": "https://en.wikipedia.org/wiki/Anglophone_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Political Climate",
+      "text": "As of 2023, Cameroon continues to face political challenges, including calls for reform and the resolution of the Anglophone crisis. The government remains under scrutiny for its handling of dissent.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cameroon"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Lebanon",
+      "text": "Major events in the history of Lebanon."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Phoenician Civilization",
+      "text": "The Phoenicians, an ancient Semitic civilization, established city-states along the coast of modern-day Lebanon. They were known for their maritime trade and the creation of the alphabet.",
+      "media": "https://en.wikipedia.org/wiki/Phoenicia"
+    },
+    {
+      "start_date": {
+        "year": -1500
+      },
+      "headline": "Egyptian Rule",
+      "text": "Lebanon came under the influence of the Egyptian Empire, which sought control over the rich resources of the region. This period saw increased trade and cultural exchange.",
+      "media": "https://en.wikipedia.org/wiki/Egypt#History"
+    },
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Kingdom of Tyre",
+      "text": "The city of Tyre became a powerful Phoenician city-state, known for its trade and naval prowess. It played a crucial role in the Mediterranean trade networks.",
+      "media": "https://en.wikipedia.org/wiki/Tyre"
+    },
+    {
+      "start_date": {
+        "year": -332
+      },
+      "headline": "Conquest by Alexander the Great",
+      "text": "Alexander the Great conquered the region, integrating it into his vast empire. This led to significant cultural and political changes in Lebanon.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": 64,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Rule",
+      "text": "Lebanon became part of the Roman Empire, flourishing under Roman governance. The region saw the construction of significant infrastructure, including roads and cities.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 636
+      },
+      "headline": "Islamic Conquest",
+      "text": "The region fell under Islamic rule following the Arab conquests. This marked a significant cultural and religious transformation in Lebanon.",
+      "media": "https://en.wikipedia.org/wiki/Islamic_conquest"
+    },
+    {
+      "start_date": {
+        "year": 1099
+      },
+      "headline": "Crusader States",
+      "text": "The First Crusade established several Crusader states in the region, including the County of Tripoli. This period was marked by conflict and cultural exchange.",
+      "media": "https://en.wikipedia.org/wiki/Crusades"
+    },
+    {
+      "start_date": {
+        "year": 1291
+      },
+      "headline": "End of Crusader Rule",
+      "text": "The fall of Acre marked the end of Crusader rule in the region. Lebanon returned to Muslim control, primarily under the Mamluks.",
+      "media": "https://en.wikipedia.org/wiki/Mamluk_Sultanate"
+    },
+    {
+      "start_date": {
+        "year": 1516
+      },
+      "headline": "Ottoman Empire Rule",
+      "text": "Lebanon became part of the Ottoman Empire, which lasted for over four centuries. This period saw the establishment of a feudal system and significant demographic changes.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1860
+      },
+      "headline": "Lebanon Civil War",
+      "text": "Sectarian tensions erupted into violence, leading to the 1860 civil war between Christians and Muslims. This conflict resulted in significant loss of life and displacement.",
+      "media": "https://en.wikipedia.org/wiki/1860_Lebanon_civil_war"
+    },
+    {
+      "start_date": {
+        "year": 1916
+      },
+      "headline": "Arab Revolt",
+      "text": "During World War I, the Arab Revolt against Ottoman rule began, with Lebanese figures playing a significant role. This movement sought independence and greater Arab autonomy.",
+      "media": "https://en.wikipedia.org/wiki/Arab_Revolt"
+    },
+    {
+      "start_date": {
+        "year": 1920
+      },
+      "headline": "French Mandate Established",
+      "text": "After World War I, Lebanon was placed under French mandate. This period saw the establishment of modern political structures but also increased tensions among sectarian groups.",
+      "media": "https://en.wikipedia.org/wiki/French_mandate_of_Lebanon"
+    },
+    {
+      "start_date": {
+        "year": 1943
+      },
+      "headline": "Independence from France",
+      "text": "Lebanon gained independence from French rule, establishing a national government. The National Pact was created, balancing power among religious communities.",
+      "media": "https://en.wikipedia.org/wiki/Lebanese_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1975
+      },
+      "headline": "Lebanese Civil War Begins",
+      "text": "The Lebanese Civil War erupted, fueled by sectarian tensions and political disputes. The conflict lasted for 15 years, resulting in widespread destruction and loss of life.",
+      "media": "https://en.wikipedia.org/wiki/Lebanese_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1982
+      },
+      "headline": "Israeli Invasion of Lebanon",
+      "text": "Israel invaded Lebanon during the civil war, aiming to expel the Palestine Liberation Organization (PLO). This led to further instability and the rise of Hezbollah.",
+      "media": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "start_date": {
+        "year": 1990
+      },
+      "headline": "Civil War Officially Ends",
+      "text": "The Taif Agreement was signed, officially ending the Lebanese Civil War. It restructured the political system but left many issues unresolved.",
+      "media": "https://en.wikipedia.org/wiki/Taif_Agreement"
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "Israeli Withdrawal from Southern Lebanon",
+      "text": "Israel withdrew its forces from southern Lebanon after 22 years of occupation. This event was celebrated by Hezbollah and marked a significant shift in regional dynamics.",
+      "media": "https://en.wikipedia.org/wiki/Israeli_withdrawal_from_Lebanon"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "Cedar Revolution",
+      "text": "The assassination of former Prime Minister Rafik Hariri sparked widespread protests known as the Cedar Revolution. This movement demanded the withdrawal of Syrian troops from Lebanon.",
+      "media": "https://en.wikipedia.org/wiki/Cedar_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "headline": "Lebanon War",
+      "text": "A conflict erupted between Israel and Hezbollah, resulting in significant casualties and destruction in Lebanon. The war highlighted ongoing tensions in the region.",
+      "media": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+    },
+    {
+      "start_date": {
+        "year": 2019
+      },
+      "headline": "Protests Against Corruption",
+      "text": "Nationwide protests erupted against government corruption and economic mismanagement. These demonstrations called for political reform and accountability.",
+      "media": "https://en.wikipedia.org/wiki/2019_Lebanon_protests"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 8,
+        "day": 4
+      },
+      "headline": "Beirut Explosion",
+      "text": "A massive explosion occurred in the port of Beirut, caused by improperly stored ammonium nitrate. The disaster resulted in widespread devastation and loss of life.",
+      "media": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Ongoing Economic Crisis",
+      "text": "Lebanon continues to face a severe economic crisis, marked by hyperinflation and a collapse of public services. The situation has led to widespread hardship and protests.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Lebanon"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Bangladesh",
+      "text": "Major events in the history of Bangladesh."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The earliest evidence of human settlements in the Bengal region dates back to around 2500 BCE, with archaeological findings indicating agricultural and urban development.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Bangladesh#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": 300,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Kingdom of Bengal",
+      "text": "The Kingdom of Bengal was established, marking the beginning of a distinct political entity in the region that would flourish for centuries.",
+      "media": "https://en.wikipedia.org/wiki/Bengal"
+    },
+    {
+      "start_date": {
+        "year": 1204,
+        "month": null,
+        "day": null
+      },
+      "headline": "Muslim Conquest of Bengal",
+      "text": "Bengal was conquered by Muhammad bin Bakhtiyar Khilji, leading to the establishment of Muslim rule in the region.",
+      "media": "https://en.wikipedia.org/wiki/Muhammad_bin_Bakhtiyar_Khilji"
+    },
+    {
+      "start_date": {
+        "year": 1576,
+        "month": null,
+        "day": null
+      },
+      "headline": "Bengal Subah Established",
+      "text": "The Mughal Empire established Bengal as a province, which became one of the richest and most important regions in the empire.",
+      "media": "https://en.wikipedia.org/wiki/Bengal_Subah"
+    },
+    {
+      "start_date": {
+        "year": 1757,
+        "month": 6,
+        "day": 23
+      },
+      "headline": "Battle of Plassey",
+      "text": "The British East India Company defeated the Nawab of Bengal, marking the beginning of British colonial rule in the region.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Plassey"
+    },
+    {
+      "start_date": {
+        "year": 1857,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sepoy Mutiny",
+      "text": "The Indian Rebellion of 1857, also known as the Sepoy Mutiny, had significant repercussions in Bengal, leading to direct British rule.",
+      "media": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+    },
+    {
+      "start_date": {
+        "year": 1947,
+        "month": 8,
+        "day": 15
+      },
+      "headline": "Partition of India",
+      "text": "British India was partitioned into India and Pakistan, with Bengal divided into West Bengal (India) and East Bengal (Pakistan).",
+      "media": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    {
+      "start_date": {
+        "year": 1952,
+        "month": 2,
+        "day": 21
+      },
+      "headline": "Language Movement",
+      "text": "The Language Movement began in East Pakistan, advocating for the recognition of Bengali as an official language, which led to significant political activism.",
+      "media": "https://en.wikipedia.org/wiki/Bengali_Language_Movement"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": 3,
+        "day": 26
+      },
+      "headline": "Bangladesh Liberation War",
+      "text": "The Liberation War began with a declaration of independence from Pakistan, leading to a nine-month-long conflict.",
+      "media": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": 12,
+        "day": 16
+      },
+      "headline": "Independence of Bangladesh",
+      "text": "Bangladesh achieved independence from Pakistan, officially becoming a sovereign nation.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Bangladesh"
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": 8,
+        "day": 15
+      },
+      "headline": "Assassination of Sheikh Mujibur Rahman",
+      "text": "The founding leader of Bangladesh, Sheikh Mujibur Rahman, was assassinated along with most of his family, leading to political turmoil.",
+      "media": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 12,
+        "day": 6
+      },
+      "headline": "Fall of Military Rule",
+      "text": "The military regime in Bangladesh ended following widespread protests, leading to the restoration of democracy.",
+      "media": "https://en.wikipedia.org/wiki/1990_Bangladesh_uprising"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "BNP Wins Elections",
+      "text": "The Bangladesh Nationalist Party (BNP) won the general elections, marking a significant political shift in the country.",
+      "media": "https://en.wikipedia.org/wiki/2001_Bangladesh_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 12,
+        "day": 29
+      },
+      "headline": "Awami League Returns to Power",
+      "text": "The Awami League, led by Sheikh Hasina, won a landslide victory in the national elections, returning to power after two years of military-backed rule.",
+      "media": "https://en.wikipedia.org/wiki/2008_Bangladesh_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": 2,
+        "day": 5
+      },
+      "headline": "Shahbagh Movement",
+      "text": "The Shahbagh Movement emerged, demanding capital punishment for war criminals from the 1971 Liberation War, highlighting issues of justice and accountability.",
+      "media": "https://en.wikipedia.org/wiki/Shahbagh_Movement"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+      },
+      "headline": "Controversial Elections",
+      "text": "The general elections were held amid allegations of vote rigging and violence, resulting in the Awami League winning a third consecutive term.",
+      "media": "https://en.wikipedia.org/wiki/2018_Bangladesh_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 8
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reached Bangladesh, leading to nationwide lockdowns and significant impacts on health and the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Bangladesh"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 3,
+        "day": 26
+      },
+      "headline": "50th Anniversary of Independence",
+      "text": "Bangladesh celebrated the 50th anniversary of its independence with various events and reflections on its journey since 1971.",
+      "media": "https://en.wikipedia.org/wiki/2021_in_Bangladesh"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ongoing Political Challenges",
+      "text": "Bangladesh continues to face political challenges, including calls for democratic reforms and concerns over human rights.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Bangladesh"
+    }
+  ]
+}

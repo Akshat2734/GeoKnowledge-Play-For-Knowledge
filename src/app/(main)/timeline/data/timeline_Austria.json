@@ -1,0 +1,170 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Austria",
+      "text": "Major events in the history of Austria."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "headline": "Earliest Settlements",
+      "text": "The earliest known settlements in what is now Austria date back to around 5000 BC, with evidence of farming communities in the region.",
+      "media": "https://en.wikipedia.org/wiki/Prehistoric_Austria"
+    },
+    {
+      "start_date": {
+        "year": -15
+      },
+      "headline": "Roman Conquest",
+      "text": "The Romans conquered the region around 15 BC, establishing the province of Noricum, which became an important part of the Roman Empire.",
+      "media": "https://en.wikipedia.org/wiki/Noricum"
+    },
+    {
+      "start_date": {
+        "year": 476
+      },
+      "headline": "Fall of the Western Roman Empire",
+      "text": "The fall of the Western Roman Empire in 476 AD led to the fragmentation of power in the region, with various tribes settling in Austria.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 788
+      },
+      "headline": "Part of the Carolingian Empire",
+      "text": "Austria became part of the Carolingian Empire under Charlemagne, which helped to spread Christianity and feudalism in the region.",
+      "media": "https://en.wikipedia.org/wiki/Carolingian_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1156
+      },
+      "headline": "Duchy of Austria Established",
+      "text": "The Duchy of Austria was officially established in 1156, marking the beginning of a distinct political entity in the region.",
+      "media": "https://en.wikipedia.org/wiki/Duchy_of_Austria"
+    },
+    {
+      "start_date": {
+        "year": 1278
+      },
+      "headline": "Habsburg Dynasty Ascends",
+      "text": "The Habsburgs gained control of Austria after the Battle of Dürnkrut, establishing a dynasty that would dominate European politics for centuries.",
+      "media": "https://en.wikipedia.org/wiki/Habsburg"
+    },
+    {
+      "start_date": {
+        "year": 1526
+      },
+      "headline": "Habsburgs Rule Bohemia and Hungary",
+      "text": "Following the death of Louis II of Hungary, the Habsburgs expanded their influence by acquiring the crowns of Bohemia and Hungary.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Hungary"
+    },
+    {
+      "start_date": {
+        "year": 1618
+      },
+      "headline": "Thirty Years' War Begins",
+      "text": "The Thirty Years' War began in 1618, significantly affecting Austria and leading to widespread devastation and political changes in Europe.",
+      "media": "https://en.wikipedia.org/wiki/Thirty_Years%27_War"
+    },
+    {
+      "start_date": {
+        "year": 1740
+      },
+      "headline": "Maria Theresa Becomes Ruler",
+      "text": "Maria Theresa ascended to the throne in 1740, becoming the only female ruler of the Habsburg dominions and implementing significant reforms.",
+      "media": "https://en.wikipedia.org/wiki/Maria_Theresa"
+    },
+    {
+      "start_date": {
+        "year": 1804
+      },
+      "headline": "Austrian Empire Established",
+      "text": "The Austrian Empire was officially proclaimed in 1804, marking a new phase in the Habsburg's political structure amidst the Napoleonic Wars.",
+      "media": "https://en.wikipedia.org/wiki/Austrian_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1867
+      },
+      "headline": "Austro-Hungarian Compromise",
+      "text": "The Austro-Hungarian Compromise of 1867 created the dual monarchy of Austria-Hungary, significantly altering the political landscape of Central Europe.",
+      "media": "https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867"
+    },
+    {
+      "start_date": {
+        "year": 1914
+      },
+      "headline": "Start of World War I",
+      "text": "World War I began in 1914 following the assassination of Archduke Franz Ferdinand, leading to the eventual collapse of the Austro-Hungarian Empire.",
+      "media": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand"
+    },
+    {
+      "start_date": {
+        "year": 1918
+      },
+      "headline": "End of the Austro-Hungarian Empire",
+      "text": "The Austro-Hungarian Empire dissolved in 1918 after World War I, leading to the establishment of the First Austrian Republic.",
+      "media": "https://en.wikipedia.org/wiki/Austro-Hungarian_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1938
+      },
+      "headline": "Anschluss with Nazi Germany",
+      "text": "In 1938, Austria was annexed by Nazi Germany in a political union known as the Anschluss, leading to significant social and political upheaval.",
+      "media": "https://en.wikipedia.org/wiki/Anschluss"
+    },
+    {
+      "start_date": {
+        "year": 1945
+      },
+      "headline": "End of World War II",
+      "text": "World War II ended in 1945, resulting in Austria being occupied by Allied forces and later declared a neutral country.",
+      "media": "https://en.wikipedia.org/wiki/Austria_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1955
+      },
+      "headline": "Austrian State Treaty",
+      "text": "The Austrian State Treaty was signed in 1955, restoring Austria's sovereignty and declaring its permanent neutrality.",
+      "media": "https://en.wikipedia.org/wiki/Austrian_State_Treaty"
+    },
+    {
+      "start_date": {
+        "year": 1995
+      },
+      "headline": "Austria Joins the European Union",
+      "text": "Austria became a member of the European Union in 1995, marking a significant step in its integration into European political and economic structures.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Austria_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2002
+      },
+      "headline": "Adoption of the Euro",
+      "text": "Austria adopted the Euro as its official currency in 2002, replacing the Austrian schilling and further integrating into the European economy.",
+      "media": "https://en.wikipedia.org/wiki/Euro"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic significantly impacted Austria in 2020, leading to lockdowns, economic challenges, and public health measures.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Austria"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Political Changes",
+      "text": "In 2021, Austria saw significant political changes, including the resignation of Chancellor Sebastian Kurz amid corruption allegations.",
+      "media": "https://en.wikipedia.org/wiki/Sebastian_Kurz"
+    }
+  ]
+}

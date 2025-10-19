@@ -1,0 +1,110 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of the United Kingdom",
+      "text": "Major events in the history of the United Kingdom."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1066
+      },
+      "headline": "Norman Conquest",
+      "text": "William the Conqueror defeats Harold at Hastings, beginning Norman rule.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Norman_conquest_of_England"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1215
+      },
+      "headline": "Magna Carta",
+      "text": "King John agrees to limits on royal power and the rule of law.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Magna_Carta"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1534
+      },
+      "headline": "English Reformation",
+      "text": "Henry VIII establishes the Church of England.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/English_Reformation"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1707
+      },
+      "headline": "Acts of Union",
+      "text": "England and Scotland unite as Great Britain.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Acts_of_Union_1707"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1801
+      },
+      "headline": "Union with Ireland",
+      "text": "The United Kingdom of Great Britain and Ireland is formed.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Act_of_Union_1800"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1914
+      },
+      "headline": "World War I",
+      "text": "The UK enters WWI with the Allies.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/World_War_I"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1940
+      },
+      "headline": "Battle of Britain",
+      "text": "RAF successfully defends the UK from Luftwaffe attacks.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Britain"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1945
+      },
+      "headline": "End of WWII",
+      "text": "Victory followed by decolonization and reconstruction.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/United_Kingdom_in_World_War_II"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1973
+      },
+      "headline": "Joins EEC",
+      "text": "UK joins the European Economic Community.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/European_Union"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "Brexit Completed",
+      "text": "The UK formally leaves the European Union.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Brexit"
+      }
+    }
+  ]
+}

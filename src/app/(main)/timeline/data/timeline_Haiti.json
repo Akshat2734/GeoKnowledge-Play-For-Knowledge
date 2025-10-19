@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Haiti",
+      "text": "Major events in the history of Haiti."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,       "day": null
+      },
+      "headline": "First Inhabitants",
+      "text": "The first inhabitants of Haiti were the Taíno people, who arrived around 500 AD. They developed a rich culture and lived off the land, fishing and farming.",
+      "media": "https://en.wikipedia.org/wiki/Ta%C3%ADno"
+    },
+    {
+      "start_date": {
+        "year": 1492,
+        "month": 12, "day": 5
+      },
+      "headline": "Christopher Columbus Arrives",
+      "text": "Christopher Columbus landed on the island of Hispaniola in December 1492, claiming it for Spain. This marked the beginning of European colonization and the decline of the indigenous Taíno population.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,        "day": null
+      },
+      "headline": "Spanish Colonization",
+      "text": "Spain established the first European settlement on Hispaniola, leading to the exploitation and near extermination of the Taíno people. The island became a center for the transatlantic slave trade.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas"
+    },
+    {
+      "start_date": {
+        "year": 1697,
+        "month": null,       "day": null
+      },
+      "headline": "Treaty of Ryswick",
+      "text": "The Treaty of Ryswick formally recognized French control over the western part of Hispaniola, which became known as Saint-Domingue. This area would become one of the richest colonies in the world due to sugar production.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Ryswick"
+    },
+    {
+      "start_date": {
+        "year": 1791,
+        "month": 8, "day": 22
+      },
+      "headline": "Haitian Revolution Begins",
+      "text": "The Haitian Revolution began with a slave uprising in the northern region of Saint-Domingue. This revolt would eventually lead to the abolition of slavery and the establishment of Haiti as a free republic.",
+      "media": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1804,
+        "month": null,        "day": null
+      },
+      "headline": "Haiti Declares Independence",
+      "text": "On January 1, 1804, Haiti declared its independence from France, becoming the first independent nation in Latin America and the Caribbean. It was also the first post-colonial independent black-led nation in the world.",
+      "media": "https://en.wikipedia.org/wiki/Haiti"
+    },
+    {
+      "start_date": {
+        "year": 1806,
+        "month": null,        "day": null
+      },
+      "headline": "Division of Haiti",
+      "text": "After independence, Haiti was divided into two regions: the northern kingdom ruled by Henri Christophe and the southern republic led by Alexandre Pétion. This division created political instability and conflict.",
+      "media": "https://en.wikipedia.org/wiki/Haiti#History"
+    },
+    {
+      "start_date": {
+        "year": 1825,
+        "month": 4, "day": 17
+      },
+      "headline": "Indemnity to France",
+      "text": "Haiti agreed to pay a large indemnity to France in exchange for recognition of its independence. This debt severely hampered Haiti's economic development for decades.",
+      "media": "https://en.wikipedia.org/wiki/Haiti#History"
+    },
+    {
+      "start_date": {
+        "year": 1915,
+        "month": 7, "day": 28
+      },
+      "headline": "U.S. Occupation of Haiti",
+      "text": "The United States occupied Haiti from 1915 to 1934, citing instability and the need to protect American interests. The occupation led to significant changes in Haitian governance and infrastructure.",
+      "media": "https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti"
+    },
+    {
+      "start_date": {
+        "year": 1946,
+        "month": null,       "day": null
+      },
+      "headline": "First Democratic Elections",
+      "text": "Haiti held its first democratic elections in 1946, leading to the presidency of Dumarsais Estimé. This marked a brief period of political stability and reform.",
+      "media": "https://en.wikipedia.org/wiki/Dumarsais_Estim%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 1957,
+        "month": null,       "day": null
+      },
+      "headline": "François Duvalier's Regime",
+      "text": "François 'Papa Doc' Duvalier became president in 1957 and established a brutal dictatorship. His regime was marked by repression, corruption, and the use of the Tonton Macoute militia.",
+      "media": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": 4, "day": 14
+      },
+      "headline": "Death of François Duvalier",
+      "text": "François Duvalier died in 1971, and his son Jean-Claude 'Baby Doc' Duvalier succeeded him. While initially promising reforms, Baby Doc continued his father's oppressive policies.",
+      "media": "https://en.wikipedia.org/wiki/Jean-Claude_Duvalier"
+    },
+    {
+      "start_date": {
+        "year": 1986,
+        "month": 2, "day": 7
+      },
+      "headline": "Fall of the Duvalier Regime",
+      "text": "Jean-Claude Duvalier was ousted from power in 1986 after widespread protests. His departure marked the end of 29 years of Duvalier family rule and a return to democratic processes.",
+      "media": "https://en.wikipedia.org/wiki/Jean-Claude_Duvalier#Fall_of_the_Duvalier_Regime"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 12, "day": 16
+      },
+      "headline": "First Free Elections",
+      "text": "Haiti held its first free elections in 1990, resulting in the election of Jean-Bertrand Aristide. His presidency was marked by efforts to reform the country but faced significant opposition.",
+      "media": "https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 9, "day": 30
+      },
+      "headline": "Military Coup",
+      "text": "In September 1991, a military coup ousted President Aristide, leading to years of violence and repression. The coup was met with international condemnation and sanctions.",
+      "media": "https://en.wikipedia.org/wiki/Haiti#History"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": 9, "day": 19
+      },
+      "headline": "U.S. Intervention",
+      "text": "A U.S.-led military intervention restored Aristide to power in 1994. This intervention aimed to stabilize the country and re-establish democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/Haiti#History"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": null,       "day": null
+      },
+      "headline": "Devastating Earthquake",
+      "text": "A catastrophic earthquake struck Haiti on January 12, 2010, causing widespread destruction and loss of life. The disaster prompted a massive international humanitarian response.",
+      "media": "https://en.wikipedia.org/wiki/2010_Haiti_earthquake"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": 10, "day": 4
+      },
+      "headline": "Hurricane Matthew",
+      "text": "Hurricane Matthew hit Haiti in October 2016, causing severe flooding and damage, particularly in the southwestern region. The hurricane exacerbated the country's ongoing struggles with poverty and recovery.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Matthew"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 7, "day": 7
+      },
+      "headline": "Assassination of President Moïse",
+      "text": "President Jovenel Moïse was assassinated in July 2021, leading to a political crisis and increased violence in the country. His death raised concerns about the future of governance in Haiti.",
+      "media": "https://en.wikipedia.org/wiki/Assassination_of_Jovenel_Mo%C3%AFse"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,        "day": null
+      },
+      "headline": "Ongoing Crisis",
+      "text": "Haiti continues to face significant challenges, including political instability, gang violence, and humanitarian crises. The international community remains engaged in efforts to support the country.",
+      "media": "https://en.wikipedia.org/wiki/Haiti#Current_events"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Albania",
+      "text": "Major events in the history of Albania."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -4000
+      },
+      "headline": "Earliest Settlements",
+      "text": "The earliest known settlements in Albania date back to the Neolithic period, around 4000 BC. Archaeological findings suggest that these early communities engaged in agriculture and animal husbandry.",
+      "media": "https://en.wikipedia.org/wiki/Neolithic"
+    },
+    {
+      "start_date": {
+        "year": -2000
+      },
+      "headline": "Illyrian Tribes Formation",
+      "text": "By 2000 BC, the Illyrians, a group of tribes, began to emerge in the western Balkans, including present-day Albania. They developed a distinct culture and language.",
+      "media": "https://en.wikipedia.org/wiki/Illyrians"
+    },
+    {
+      "start_date": {
+        "year": -358
+      },
+      "headline": "Kingdom of Illyria Established",
+      "text": "The Kingdom of Illyria was established around 358 BC, uniting various Illyrian tribes under a single monarchy. This marked the beginning of a more organized political structure in the region.",
+      "media": "https://en.wikipedia.org/wiki/Illyria"
+    },
+    {
+      "start_date": {
+        "year": -229
+      },
+      "headline": "First Illyrian War",
+      "text": "The First Illyrian War began in 229 BC when the Roman Republic intervened in Illyrian affairs. This conflict marked the start of Roman influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Illyrian_Wars"
+    },
+    {
+      "start_date": {
+        "year": -168
+      },
+      "headline": "Illyria Becomes a Roman Province",
+      "text": "After a series of conflicts, Illyria was fully conquered by Rome and became a Roman province in 168 BC. This led to significant Romanization of the local population.",
+      "media": "https://en.wikipedia.org/wiki/Illyria"
+    },
+    {
+      "start_date": {
+        "year": 395
+      },
+      "headline": "Division of the Roman Empire",
+      "text": "In 395 AD, the Roman Empire was divided into Eastern and Western halves. Albania fell under the Eastern Roman Empire, also known as the Byzantine Empire.",
+      "media": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1040
+      },
+      "headline": "Formation of the Principality of Albania",
+      "text": "The Principality of Albania was established in the early 11th century, marking the emergence of a distinct Albanian political entity. This period saw the consolidation of local power.",
+      "media": "https://en.wikipedia.org/wiki/Principality_of_Albania"
+    },
+    {
+      "start_date": {
+        "year": 1385
+      },
+      "headline": "Ottoman Conquest Begins",
+      "text": "The Ottoman Empire began its conquest of Albania in 1385, gradually subjugating the region over the next several decades. This marked the start of centuries of Ottoman rule.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1443
+      },
+      "headline": "Skanderbeg's Rebellion",
+      "text": "In 1443, Gjergj Kastrioti, known as Skanderbeg, led a rebellion against the Ottomans. He became a national hero for his efforts to resist Ottoman rule for over two decades.",
+      "media": "https://en.wikipedia.org/wiki/Skanderbeg"
+    },
+    {
+      "start_date": {
+        "year": 1479
+      },
+      "headline": "Fall of Albania to the Ottomans",
+      "text": "After Skanderbeg's death, Albania fell completely under Ottoman control in 1479. This initiated a long period of Ottoman dominance that lasted for several centuries.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Albania"
+    },
+    {
+      "start_date": {
+        "year": 1912,
+        "month": 11,
+        "day": 28
+      },
+      "headline": "Independence from Ottoman Empire",
+      "text": "Albania declared its independence from the Ottoman Empire on November 28, 1912. This event marked the establishment of Albania as a sovereign state.",
+      "media": "https://en.wikipedia.org/wiki/Albanian_Declaration_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1913
+      },
+      "headline": "Recognition of Independence",
+      "text": "The Treaty of London in 1913 recognized Albania's independence but also limited its borders. This led to territorial disputes that would affect the country for years.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_London_(1913)"
+    },
+    {
+      "start_date": {
+        "year": 1928
+      },
+      "headline": "Establishment of the Kingdom of Albania",
+      "text": "In 1928, Albania was declared a kingdom under King Zog I. This marked a significant shift in the political structure of the country.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Albania"
+    },
+    {
+      "start_date": {
+        "year": 1939
+      },
+      "headline": "Italian Invasion",
+      "text": "In April 1939, Italy invaded Albania, leading to its annexation. This event marked the beginning of a tumultuous period under fascist rule.",
+      "media": "https://en.wikipedia.org/wiki/Italian_invasion_of_Albania"
+    },
+    {
+      "start_date": {
+        "year": 1944
+      },
+      "headline": "Communist Regime Established",
+      "text": "In November 1944, the communist partisans led by Enver Hoxha took control of Albania, establishing a one-party socialist state. This regime would last for nearly 45 years.",
+      "media": "https://en.wikipedia.org/wiki/Enver_Hoxha"
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "Fall of Communism",
+      "text": "In 1991, Albania experienced a peaceful transition from communism to democracy. This marked the end of decades of isolation and repression.",
+      "media": "https://en.wikipedia.org/wiki/Albania#Post-communism"
+    },
+    {
+      "start_date": {
+        "year": 1992
+      },
+      "headline": "First Free Elections",
+      "text": "Albania held its first free elections in March 1992, leading to the establishment of a democratic government. This was a significant step towards political reform.",
+      "media": "https://en.wikipedia.org/wiki/1992_Albanian_parliamentary_election"
+    },
+    {
+      "start_date": {
+        "year": 1997
+      },
+      "headline": "Financial Crisis and Civil Unrest",
+      "text": "In 1997, Albania faced a severe financial crisis that led to widespread civil unrest and the collapse of the government. This period was marked by chaos and instability.",
+      "media": "https://en.wikipedia.org/wiki/1997_Albanian_civil_unrest"
+    },
+    {
+      "start_date": {
+        "year": 2009
+      },
+      "headline": "NATO Membership",
+      "text": "Albania became a member of NATO in April 2009, marking a significant step in its integration into Euro-Atlantic structures. This was a key goal for the country following the fall of communism.",
+      "media": "https://en.wikipedia.org/wiki/Albania#NATO_membership"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "EU Candidate Status",
+      "text": "In June 2014, Albania was granted candidate status for European Union membership. This marked a significant milestone in the country's efforts to join the EU.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Albania_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic reached Albania in 2020, leading to health and economic challenges. The government implemented various measures to combat the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Albania"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Earthquake Recovery Efforts",
+      "text": "Albania continued its recovery efforts following the devastating earthquake in November 2019. The government and international partners worked to rebuild affected areas.",
+      "media": "https://en.wikipedia.org/wiki/2019_Albania_earthquake"
+    }
+  ]
+}

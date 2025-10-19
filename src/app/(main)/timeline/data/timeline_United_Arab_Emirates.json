@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of the United Arab Emirates",
+      "text": "Major events in the history of the United Arab Emirates."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 600
+      },
+      "headline": "Early Arab Settlements",
+      "text": "Tribal confederations inhabit the Gulf coast, trading and pearl diving.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_the_United_Arab_Emirates"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1498
+      },
+      "headline": "Portuguese Arrival",
+      "text": "Portuguese establish forts and trading posts in the Gulf.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Portuguese_Empire"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1820
+      },
+      "headline": "Trucial States",
+      "text": "Britain signs maritime truces with local rulers, creating the Trucial States.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Trucial_States"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1958
+      },
+      "headline": "Discovery of Oil",
+      "text": "Oil discoveries transform the economy and infrastructure.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Oil_in_the_United_Arab_Emirates"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": 12,
+        "day": 2
+      },
+      "headline": "UAE Formed",
+      "text": "Six emirates unite; Ras Al Khaimah joins in 1972.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1981
+      },
+      "headline": "GCC Founded",
+      "text": "The UAE is a founding member of the Gulf Cooperation Council.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "headline": "Sheikh Zayed’s Passing",
+      "text": "Founding father Zayed bin Sultan Al Nahyan is succeeded by Sheikh Khalifa.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Zayed_bin_Sultan_Al_Nahyan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "Abraham Accords",
+      "text": "UAE normalizes relations with Israel.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Abraham_Accords"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "50th Anniversary",
+      "text": "Expo 2020 Dubai and Golden Jubilee celebrations.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Expo_2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Space & Energy Leadership",
+      "text": "UAE advances in space, trade, and renewables.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+      }
+    }
+  ]
+}

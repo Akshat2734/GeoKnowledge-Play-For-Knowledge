@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Angola",
+      "text": "Major events in the history of Angola."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Human Habitation",
+      "text": "Evidence of human habitation in Angola dates back to around 2000 BC, with various hunter-gatherer societies existing in the region. These early communities laid the foundation for future civilizations.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Angola#Pre-colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1483,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "Portuguese Arrival",
+      "text": "The Portuguese explorer Diogo Cão arrives at the mouth of the Congo River, marking the beginning of European exploration and colonization in Angola. This event initiated significant changes in the region's social and economic structures.",
+      "media": "https://en.wikipedia.org/wiki/Diogo_C%C3%A3o"
+    },
+    {
+      "start_date": {
+        "year": 1575,
+        "month": null,
+        "day": null
+      },
+      "headline": "Founding of Luanda",
+      "text": "The Portuguese founded the city of Luanda, which became the capital of Angola. Luanda served as a crucial port for the slave trade and European settlement.",
+      "media": "https://en.wikipedia.org/wiki/Luanda"
+    },
+    {
+      "start_date": {
+        "year": 1617,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Kingdom of Ndongo",
+      "text": "The Kingdom of Ndongo, a significant African kingdom, was established in Angola, resisting Portuguese colonization. Queen Nzinga, a prominent leader, played a vital role in the kingdom's resistance.",
+      "media": "https://en.wikipedia.org/wiki/Nzinga_of_Ndongo_and_Matamba"
+    },
+    {
+      "start_date": {
+        "year": 1800,
+        "month": null,
+        "day": null
+      },
+      "headline": "Slave Trade Peak",
+      "text": "The transatlantic slave trade reached its peak, with thousands of Angolans forcibly taken to the Americas. This had devastating effects on Angolan society and demographics.",
+      "media": "https://en.wikipedia.org/wiki/Slave_trade"
+    },
+    {
+      "start_date": {
+        "year": 1885,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Berlin Conference",
+      "text": "The Berlin Conference formalized European claims to African territories, including Angola, leading to increased Portuguese control. This marked the beginning of intensified colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/Berlin_Conference"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the MPLA",
+      "text": "The Popular Movement for the Liberation of Angola (MPLA) was founded, marking the beginning of organized resistance against Portuguese colonial rule. The MPLA would later become a key player in Angola's independence struggle.",
+      "media": "https://en.wikipedia.org/wiki/Popular_Movement_for_the_Liberation_of_Angola"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": 2,
+        "day": 4
+      },
+      "headline": "Start of Armed Struggle",
+      "text": "The armed struggle for independence from Portuguese colonial rule began with the first attacks by the MPLA and other liberation movements. This marked the start of a protracted conflict.",
+      "media": "https://en.wikipedia.org/wiki/Angolan_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": 11,
+        "day": 11
+      },
+      "headline": "Independence from Portugal",
+      "text": "Angola achieved independence from Portugal after a long struggle, with the MPLA emerging as the ruling party. The country faced immediate challenges, including civil war and economic instability.",
+      "media": "https://en.wikipedia.org/wiki/Angola#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": 11,
+        "day": 11
+      },
+      "headline": "Civil War Begins",
+      "text": "Following independence, Angola descended into a civil war between the MPLA and UNITA, which lasted for nearly three decades. The conflict was fueled by Cold War dynamics and foreign intervention.",
+      "media": "https://en.wikipedia.org/wiki/Angolan_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "Peace Agreement Signed",
+      "text": "A peace agreement was signed in 1991, leading to a ceasefire and the promise of democratic elections. However, tensions remained high, and the peace was fragile.",
+      "media": "https://en.wikipedia.org/wiki/Angolan_Civil_War#Peace_process"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": 9,
+        "day": 29
+      },
+      "headline": "First Multi-Party Elections",
+      "text": "Angola held its first multi-party elections, which were marred by violence and accusations of fraud. The MPLA was declared the winner, but UNITA rejected the results, leading to renewed conflict.",
+      "media": "https://en.wikipedia.org/wiki/Angolan_Civil_War#1992_elections"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": 4,
+        "day": 4
+      },
+      "headline": "End of Civil War",
+      "text": "The civil war officially ended in 2002 after the death of UNITA leader Jonas Savimbi. A peace agreement was reached, allowing for reconstruction and development efforts in Angola.",
+      "media": "https://en.wikipedia.org/wiki/Angolan_Civil_War#End_of_the_war"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Growth",
+      "text": "Angola experienced significant economic growth due to rising oil prices, leading to increased foreign investment and infrastructure development. However, wealth distribution remained uneven.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Angola"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Constitution Adopted",
+      "text": "A new constitution was adopted, consolidating presidential powers and establishing a framework for governance. This was seen as a step towards political stability.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Angola"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": 9,
+        "day": 29
+      },
+      "headline": "Presidential Elections",
+      "text": "Angola held presidential elections, resulting in the MPLA's continued dominance under President José Eduardo dos Santos. The elections were criticized for lack of transparency.",
+      "media": "https://en.wikipedia.org/wiki/2012_Angolan_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 26
+      },
+      "headline": "Change of Leadership",
+      "text": "João Lourenço was elected as the new president of Angola, succeeding José Eduardo dos Santos after nearly 38 years in power. His presidency marked a new era in Angolan politics.",
+      "media": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Louren%C3%A7o"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "Anti-Corruption Campaign",
+      "text": "President João Lourenço launched an anti-corruption campaign aimed at addressing widespread corruption in the government and public sector. This initiative received both domestic and international support.",
+      "media": "https://en.wikipedia.org/wiki/Corruption_in_Angola"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 8,
+        "day": 24
+      },
+      "headline": "Recent Elections",
+      "text": "Angola held general elections, with the MPLA winning but losing its parliamentary majority. This shift indicated growing discontent among the population and a desire for political change.",
+      "media": "https://en.wikipedia.org/wiki/2022_Angolan_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Economic Challenges",
+      "text": "Angola continues to face economic challenges, including high inflation and unemployment rates. The government is working on reforms to stabilize the economy and improve living conditions.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Angola"
+    }
+  ]
+}

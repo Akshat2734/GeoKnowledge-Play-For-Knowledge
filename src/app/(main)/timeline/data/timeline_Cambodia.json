@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Cambodia",
+      "text": "Major events in the history of Cambodia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Funan",
+      "text": "Funan, one of the earliest known kingdoms in Southeast Asia, is established in the Mekong Delta. It plays a crucial role in trade and cultural exchange between India and China.",
+      "media": "https://en.wikipedia.org/wiki/Funan"
+    },
+    {
+      "start_date": {
+        "year": 802,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Khmer Empire",
+      "text": "Jayavarman II declares himself king and establishes the Khmer Empire, marking the beginning of a powerful dynasty that would dominate Southeast Asia for centuries.",
+      "media": "https://en.wikipedia.org/wiki/Khmer_Empire"
+    },
+    {
+      "start_date": {
+        "year": 889,
+        "month": null,
+        "day": null
+      },
+      "headline": "Construction of Angkor Wat",
+      "text": "King Suryavarman II commissions the construction of Angkor Wat, which becomes a symbol of Cambodia and a masterpiece of Khmer architecture.",
+      "media": "https://en.wikipedia.org/wiki/Angkor_Wat"
+    },
+    {
+      "start_date": {
+        "year": 1181,
+        "month": null,
+        "day": null
+      },
+      "headline": "Reign of Jayavarman VII",
+      "text": "Jayavarman VII ascends to the throne and expands the empire significantly, promoting Buddhism and constructing many temples, including the Bayon.",
+      "media": "https://en.wikipedia.org/wiki/Jayavarman_VII"
+    },
+    {
+      "start_date": {
+        "year": 1431,
+        "month": null,
+        "day": null
+      },
+      "headline": "Fall of Angkor",
+      "text": "The Khmer Empire begins to decline as the Thai kingdom of Ayutthaya invades Angkor, leading to the eventual abandonment of the city.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_Angkor"
+    },
+    {
+      "start_date": {
+        "year": 1863,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Protectorate Established",
+      "text": "Cambodia becomes a protectorate of France, which leads to significant political and economic changes, as well as modernization efforts.",
+      "media": "https://en.wikipedia.org/wiki/French_protectorate_of_Cambodia"
+    },
+    {
+      "start_date": {
+        "year": 1953,
+        "month": "November",
+        "day": 9
+      },
+      "headline": "Independence from France",
+      "text": "Cambodia gains independence from French colonial rule, marking a new era in its history and the beginning of a struggle for national identity.",
+      "media": "https://en.wikipedia.org/wiki/Cambodia#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sihanouk's Reign",
+      "text": "Norodom Sihanouk becomes the head of state, promoting a policy of neutrality during the Cold War while attempting to modernize the country.",
+      "media": "https://en.wikipedia.org/wiki/Norodom_Sihanouk"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": "April",
+        "day": 18
+      },
+      "headline": "Khmer Republic Established",
+      "text": "General Lon Nol overthrows Prince Sihanouk in a coup, establishing the Khmer Republic, which leads to civil unrest and the rise of the Khmer Rouge.",
+      "media": "https://en.wikipedia.org/wiki/Khmer_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": "April",
+        "day": 17
+      },
+      "headline": "Khmer Rouge Takes Power",
+      "text": "The Khmer Rouge, led by Pol Pot, captures Phnom Penh and begins a radical transformation of Cambodian society, leading to widespread atrocities.",
+      "media": "https://en.wikipedia.org/wiki/Khmer_Rouge"
+    },
+    {
+      "start_date": {
+        "year": 1976,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Democratic Kampuchea",
+      "text": "The Khmer Rouge declares Democratic Kampuchea, implementing extreme communist policies that result in the deaths of an estimated 1.7 million people.",
+      "media": "https://en.wikipedia.org/wiki/Democratic_Kampuchea"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": "January",
+        "day": 7
+      },
+      "headline": "Vietnamese Invasion",
+      "text": "Vietnam invades Cambodia, overthrowing the Khmer Rouge regime and leading to the establishment of a new government backed by Vietnam.",
+      "media": "https://en.wikipedia.org/wiki/Vietnamese_invasion_of_Cambodia"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": "October",
+        "day": 23
+      },
+      "headline": "Paris Peace Agreements",
+      "text": "The Paris Peace Agreements are signed, leading to the end of the civil war and the establishment of a framework for democratic governance in Cambodia.",
+      "media": "https://en.wikipedia.org/wiki/Paris_Peace_Agreements"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": "September",
+        "day": 24
+      },
+      "headline": "First Democratic Elections",
+      "text": "Cambodia holds its first democratic elections under the supervision of the United Nations, leading to the establishment of a constitutional monarchy.",
+      "media": "https://en.wikipedia.org/wiki/Cambodia#1993_elections"
+    },
+    {
+      "start_date": {
+        "year": 1997,
+        "month": "July",
+        "day": 5
+      },
+      "headline": "Political Coup",
+      "text": "A coup led by Hun Sen results in the consolidation of power and the establishment of a de facto one-party state, despite the presence of opposition.",
+      "media": "https://en.wikipedia.org/wiki/1997_Cambodian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": "November",
+        "day": null
+      },
+      "headline": "Restoration of the Monarchy",
+      "text": "King Norodom Sihanouk is restored to the throne after years of political turmoil, symbolizing a return to stability in Cambodia.",
+      "media": "https://en.wikipedia.org/wiki/Norodom_Sihanouk#Restoration_of_the_monarchy"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": "October",
+        "day": 14
+      },
+      "headline": "King Sihanouk Abdicates",
+      "text": "King Norodom Sihanouk abdicates the throne in favor of his son, Norodom Sihamoni, marking a new chapter in the Cambodian monarchy.",
+      "media": "https://en.wikipedia.org/wiki/Norodom_Sihamoni"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": "July",
+        "day": 28
+      },
+      "headline": "Controversial Elections",
+      "text": "Cambodia holds elections that are marred by allegations of fraud and voter intimidation, leading to widespread protests and political unrest.",
+      "media": "https://en.wikipedia.org/wiki/2013_Cambodian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": "November",
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Cambodia faces the challenges of the COVID-19 pandemic, implementing measures to control the spread of the virus while navigating economic impacts.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Cambodia"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": "July",
+        "day": null
+      },
+      "headline": "2023 General Elections",
+      "text": "Cambodia holds general elections amid criticism of the political environment and the absence of significant opposition parties, raising concerns about democracy.",
+      "media": "https://en.wikipedia.org/wiki/2023_Cambodian_general_election"
+    }
+  ]
+}

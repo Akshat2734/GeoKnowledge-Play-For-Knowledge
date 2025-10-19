@@ -1,0 +1,202 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Belgium",
+      "text": "Major events in the history of Belgium."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "headline": "Earliest Settlements",
+      "text": "The area now known as Belgium was inhabited by various tribes, including the Celts, as early as 5000 BC. These early settlers engaged in agriculture and trade.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Belgium#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": 57,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Conquest",
+      "text": "Julius Caesar conquered the region during the Gallic Wars, integrating it into the Roman Empire. The area became known as Gallia Belgica.",
+      "media": "https://en.wikipedia.org/wiki/Gallia_Belgica"
+    },
+    {
+      "start_date": {
+        "year": 400
+      },
+      "headline": "Fall of the Roman Empire",
+      "text": "With the decline of the Roman Empire, the region faced invasions by various tribes, including the Franks and Vandals. This led to significant cultural and political changes.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_the_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 843
+      },
+      "headline": "Treaty of Verdun",
+      "text": "The Treaty of Verdun divided the Carolingian Empire among Louis the Pious's three grandsons. The region became part of West Francia.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
+    },
+    {
+      "start_date": {
+        "year": 1066
+      },
+      "headline": "Feudalism Establishes",
+      "text": "The feudal system took root in Belgium, with local lords gaining power. This period saw the rise of city-states and increased trade.",
+      "media": "https://en.wikipedia.org/wiki/Feudalism"
+    },
+    {
+      "start_date": {
+        "year": 1302,
+        "month": 5,
+        "day": 18
+      },
+      "headline": "Battle of the Golden Spurs",
+      "text": "The Battle of the Golden Spurs was fought between the Flemish and the French. It marked a significant victory for the Flemish and a rise in regional autonomy.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_the_Golden_Spurs"
+    },
+    {
+      "start_date": {
+        "year": 1477
+      },
+      "headline": "Habsburg Rule Begins",
+      "text": "With the marriage of Mary of Burgundy to Maximilian I of Habsburg, the Low Countries came under Habsburg control. This began a long period of Habsburg influence.",
+      "media": "https://en.wikipedia.org/wiki/Habsburg"
+    },
+    {
+      "start_date": {
+        "year": 1568,
+        "month": null,
+        "day": null
+      },
+      "headline": "Dutch Revolt",
+      "text": "The Dutch Revolt against Spanish rule began, leading to the Eighty Years' War. This conflict significantly affected the southern provinces, including modern-day Belgium.",
+      "media": "https://en.wikipedia.org/wiki/Dutch_Revolt"
+    },
+    {
+      "start_date": {
+        "year": 1713
+      },
+      "headline": "Treaty of Utrecht",
+      "text": "The Treaty of Utrecht ended the War of the Spanish Succession, ceding control of the Southern Netherlands to the Austrian Habsburgs.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Utrecht"
+    },
+    {
+      "start_date": {
+        "year": 1789
+      },
+      "headline": "Brabant Revolution",
+      "text": "The Brabant Revolution was a revolt against Austrian rule in the Southern Netherlands. It briefly established a republic before being suppressed.",
+      "media": "https://en.wikipedia.org/wiki/Brabant_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1830,
+        "month": 8,
+        "day": 25
+      },
+      "headline": "Belgian Revolution",
+      "text": "The Belgian Revolution led to the independence of Belgium from the United Kingdom of the Netherlands. It was marked by a declaration of independence on October 4, 1830.",
+      "media": "https://en.wikipedia.org/wiki/Belgian_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1831,
+        "month": 7,
+        "day": 21
+      },
+      "headline": "Leopold I Becomes King",
+      "text": "Leopold I was inaugurated as the first King of the Belgians. His reign marked the establishment of a constitutional monarchy.",
+      "media": "https://en.wikipedia.org/wiki/Leopold_I_of_Belgium"
+    },
+    {
+      "start_date": {
+        "year": 1914,
+        "month": 8,
+        "day": 4
+      },
+      "headline": "World War I Begins",
+      "text": "Germany invaded Belgium as part of the Schlieffen Plan, leading to widespread destruction and loss of life. Belgium became a battleground for the war.",
+      "media": "https://en.wikipedia.org/wiki/Belgium_in_World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 11,
+        "day": 11
+      },
+      "headline": "World War I Ends",
+      "text": "The armistice was signed, ending World War I. Belgium faced significant reconstruction challenges after the war.",
+      "media": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"
+    },
+    {
+      "start_date": {
+        "year": 1940,
+        "month": 5,
+        "day": 10
+      },
+      "headline": "World War II Begins",
+      "text": "Nazi Germany invaded Belgium, leading to occupation and significant suffering. The country was liberated in 1944.",
+      "media": "https://en.wikipedia.org/wiki/Belgium_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1958
+      },
+      "headline": "World's Fair in Brussels",
+      "text": "Expo 58, the first major world's fair after World War II, was held in Brussels. It showcased Belgium's recovery and modernity.",
+      "media": "https://en.wikipedia.org/wiki/Expo_58"
+    },
+    {
+      "start_date": {
+        "year": 1970
+      },
+      "headline": "Federalization of Belgium",
+      "text": "Belgium underwent a process of federalization, granting more autonomy to its regions and communities. This was a response to linguistic and cultural tensions.",
+      "media": "https://en.wikipedia.org/wiki/Federalism_in_Belgium"
+    },
+    {
+      "start_date": {
+        "year": 1993
+      },
+      "headline": "Brussels Becomes Capital of the EU",
+      "text": "The Treaty of Maastricht established the European Union, with Brussels as its de facto capital. This solidified Belgium's role in European politics.",
+      "media": "https://en.wikipedia.org/wiki/Brussels"
+    },
+    {
+      "start_date": {
+        "year": 2001
+      },
+      "headline": "Belgium's Anti-Terrorism Laws",
+      "text": "In response to rising terrorism threats, Belgium implemented stricter anti-terrorism laws. This was part of a broader European effort to enhance security.",
+      "media": "https://en.wikipedia.org/wiki/Terrorism_in_Belgium"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Centenary of World War I",
+      "text": "Belgium commemorated the centenary of World War I, reflecting on the impact of the war on its history and identity.",
+      "media": "https://en.wikipedia.org/wiki/World_War_I_centennial"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Belgium faced significant challenges during the COVID-19 pandemic, implementing strict measures to control the spread of the virus. The health crisis had profound social and economic impacts.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Belgium"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Current Political Landscape",
+      "text": "Belgium continues to navigate its complex political landscape, balancing regional autonomy with national unity. Ongoing discussions about governance and identity remain central to its politics.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Belgium"
+    }
+  ]
+}

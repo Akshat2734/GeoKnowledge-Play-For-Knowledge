@@ -1,0 +1,150 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Laos",
+      "text": "Major events in the history of Laos."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1350
+      },
+      "headline": "Foundation of Lan Xang",
+      "text": "Lan Xang, the Kingdom of a Million Elephants, was founded by Fa Ngum, establishing a significant power in Southeast Asia. This kingdom became a cultural and political center in the region.",
+      "media": "https://en.wikipedia.org/wiki/Lan_Xang"
+    },
+    {
+      "start_date": {
+        "year": 1707
+      },
+      "headline": "Division of Lan Xang",
+      "text": "Lan Xang was divided into three separate kingdoms: Luang Prabang, Vientiane, and Champasak. This division weakened the region and made it more vulnerable to external influences.",
+      "media": "https://en.wikipedia.org/wiki/Lan_Xang"
+    },
+    {
+      "start_date": {
+        "year": 1893
+      },
+      "headline": "French Colonization",
+      "text": "Laos became a French protectorate following the Franco-Siamese War. This marked the beginning of significant foreign influence and changes in governance.",
+      "media": "https://en.wikipedia.org/wiki/French_Indochina"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": 8,
+        "day": 9
+      },
+      "headline": "Japanese Occupation",
+      "text": "During World War II, Japan occupied Laos, briefly disrupting French control. This occupation spurred nationalist movements seeking independence.",
+      "media": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Indochina"
+    },
+    {
+      "start_date": {
+        "year": 1949
+      },
+      "headline": "Laos Becomes a Kingdom",
+      "text": "Laos was recognized as a separate kingdom within the French Union, gaining a degree of autonomy. This was a pivotal moment in the country's path toward full independence.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Laos"
+    },
+    {
+      "start_date": {
+        "year": 1953
+      },
+      "headline": "Independence from France",
+      "text": "Laos gained full independence from France, marking the end of colonial rule. This event initiated a series of political changes and conflicts in the country.",
+      "media": "https://en.wikipedia.org/wiki/Laos#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1954
+      },
+      "headline": "Geneva Conference",
+      "text": "The Geneva Conference led to the division of Laos into a royalist government and a communist Pathet Lao movement. This division set the stage for future conflicts.",
+      "media": "https://en.wikipedia.org/wiki/Geneva_Conference_(1954)"
+    },
+    {
+      "start_date": {
+        "year": 1960
+      },
+      "headline": "Civil War Begins",
+      "text": "The Laotian Civil War erupted between the royal government and the communist Pathet Lao. This conflict became part of the larger Cold War struggle in Southeast Asia.",
+      "media": "https://en.wikipedia.org/wiki/Laotian_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1964
+      },
+      "headline": "U.S. Bombing Campaign",
+      "text": "The United States began extensive bombing campaigns in Laos, aiming to disrupt the Ho Chi Minh Trail and combat communist forces. This led to significant destruction and loss of life.",
+      "media": "https://en.wikipedia.org/wiki/Laos#Vietnam_War"
+    },
+    {
+      "start_date": {
+        "year": 1975,
+        "month": 12,
+        "day": 2
+      },
+      "headline": "Establishment of the Lao People's Democratic Republic",
+      "text": "The Pathet Lao took control of the country, leading to the establishment of the Lao People's Democratic Republic. This marked the end of the monarchy and the beginning of communist rule.",
+      "media": "https://en.wikipedia.org/wiki/Lao_People%27s_Democratic_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1986
+      },
+      "headline": "New Economic Mechanism",
+      "text": "Laos introduced the New Economic Mechanism, transitioning from a centrally planned economy to a socialist-oriented market economy. This reform aimed to stimulate economic growth.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Laos"
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "Constitution of 1991",
+      "text": "A new constitution was adopted, reaffirming the one-party system while allowing for some economic reforms. This constitution laid the groundwork for future governance.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Laos"
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "ASEAN Membership",
+      "text": "Laos became a member of the Association of Southeast Asian Nations (ASEAN), enhancing its regional integration and cooperation. This membership aimed to boost economic and political ties.",
+      "media": "https://en.wikipedia.org/wiki/Laos#ASEAN"
+    },
+    {
+      "start_date": {
+        "year": 2003
+      },
+      "headline": "Lao National Development Plan",
+      "text": "The government launched a national development plan aimed at reducing poverty and improving infrastructure. This plan focused on sustainable economic growth and social development.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Laos"
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "headline": "Belt and Road Initiative",
+      "text": "Laos became a participant in China's Belt and Road Initiative, seeking to enhance infrastructure and connectivity. This initiative aims to boost economic development in the region.",
+      "media": "https://en.wikipedia.org/wiki/Belt_and_Road_Initiative"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Laos faced challenges due to the COVID-19 pandemic, impacting its economy and public health. The government implemented measures to control the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Laos"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Economic Recovery Efforts",
+      "text": "As the world recovers from the pandemic, Laos is focusing on economic recovery and sustainable development. The government is prioritizing investments in infrastructure and tourism.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Laos"
+    }
+  ]
+}

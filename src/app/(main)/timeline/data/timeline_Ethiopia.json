@@ -1,0 +1,174 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Ethiopia",
+      "text": "Major events in the history of Ethiopia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Evidence of Civilization",
+      "text": "Archaeological findings suggest that the region now known as Ethiopia has been inhabited since prehistoric times, with evidence of early agricultural societies emerging around 3000 BC.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Ethiopia#Prehistory"
+    },
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Kingdom of D'mt",
+      "text": "The Kingdom of D'mt emerges in the 10th century BC, marking the beginning of organized statehood in the region, with its capital at present-day Eritrea.",
+      "media": "https://en.wikipedia.org/wiki/D%27mt"
+    },
+    {
+      "start_date": {
+        "year": 100
+      },
+      "headline": "Aksumite Empire",
+      "text": "The Aksumite Empire rises to prominence, becoming a major trading power in the Red Sea region and known for its monumental obelisks and as an early adopter of Christianity.",
+      "media": "https://en.wikipedia.org/wiki/Aksum"
+    },
+    {
+      "start_date": {
+        "year": 330
+      },
+      "headline": "Ethiopia Becomes Christian",
+      "text": "King Ezana of Aksum officially adopts Christianity, making Ethiopia one of the first countries to do so and establishing it as a Christian kingdom.",
+      "media": "https://en.wikipedia.org/wiki/Ezana"
+    },
+    {
+      "start_date": {
+        "year": 600
+      },
+      "headline": "Rise of Islam",
+      "text": "Islam begins to spread in the region, leading to significant cultural and religious exchanges between Ethiopian Christians and Muslim communities.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Ethiopia#Islam"
+    },
+    {
+      "start_date": {
+        "year": 1270
+      },
+      "headline": "Solomonic Dynasty",
+      "text": "The Solomonic Dynasty is established, claiming descent from the biblical King Solomon and the Queen of Sheba, which leads to a period of cultural and political consolidation.",
+      "media": "https://en.wikipedia.org/wiki/Solomonic_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 1520
+      },
+      "headline": "Battle of Sempach",
+      "text": "The Battle of Sempach marks a significant conflict between Ethiopian forces and invading Muslim armies, showcasing Ethiopia's military resilience.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Sempach"
+    },
+    {
+      "start_date": {
+        "year": 1896,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "Battle of Adwa",
+      "text": "Ethiopian forces, led by Emperor Menelik II, achieve a decisive victory against Italian invaders at the Battle of Adwa, securing Ethiopian sovereignty and independence.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Adwa"
+    },
+    {
+      "start_date": {
+        "year": 1935,
+        "month": 10,
+        "day": 3
+      },
+      "headline": "Italian Invasion",
+      "text": "Italy invades Ethiopia, leading to a brutal occupation that lasts until 1941, despite fierce resistance from Ethiopian forces.",
+      "media": "https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War"
+    },
+    {
+      "start_date": {
+        "year": 1941
+      },
+      "headline": "Liberation from Italian Occupation",
+      "text": "Ethiopian and Allied forces successfully liberate Ethiopia from Italian occupation, restoring Emperor Haile Selassie to the throne.",
+      "media": "https://en.wikipedia.org/wiki/Haile_Selassie"
+    },
+    {
+      "start_date": {
+        "year": 1974
+      },
+      "headline": "Overthrow of Haile Selassie",
+      "text": "A coup d'état leads to the overthrow of Emperor Haile Selassie, marking the end of the monarchy and the establishment of a Marxist-Leninist military government known as the Derg.",
+      "media": "https://en.wikipedia.org/wiki/Derg"
+    },
+    {
+      "start_date": {
+        "year": 1984
+      },
+      "headline": "Famine in Ethiopia",
+      "text": "A devastating famine strikes Ethiopia, exacerbated by civil war and government policies, leading to widespread suffering and international humanitarian efforts.",
+      "media": "https://en.wikipedia.org/wiki/Ethiopian_famine_(1983%E2%80%931985)"
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "Fall of the Derg",
+      "text": "The Derg regime is overthrown by the Ethiopian People's Revolutionary Democratic Front (EPRDF), leading to a new federal government structure.",
+      "media": "https://en.wikipedia.org/wiki/Ethiopian_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1995
+      },
+      "headline": "New Constitution",
+      "text": "Ethiopia adopts a new constitution that establishes a federal system of government and recognizes ethnic groups' rights, shaping the country's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Ethiopia"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "Controversial Elections",
+      "text": "Ethiopia holds parliamentary elections that are marred by allegations of fraud and violence, leading to widespread protests and government crackdowns.",
+      "media": "https://en.wikipedia.org/wiki/Ethiopian_general_election,_2005"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "Abiy Ahmed Becomes Prime Minister",
+      "text": "Abiy Ahmed is appointed Prime Minister, initiating a series of political reforms aimed at democratization and peace, including a historic peace agreement with Eritrea.",
+      "media": "https://en.wikipedia.org/wiki/Abiy_Ahmed"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "Tigray Conflict",
+      "text": "Conflict erupts in the Tigray region between the federal government and the Tigray People's Liberation Front (TPLF), leading to a humanitarian crisis and international concern.",
+      "media": "https://en.wikipedia.org/wiki/Tigray_conflict"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "State of Emergency",
+      "text": "The Ethiopian government declares a state of emergency in response to the escalating conflict in Tigray, further complicating the humanitarian situation.",
+      "media": "https://en.wikipedia.org/wiki/Ethiopia#2021_state_of_emergency"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Peace Agreement",
+      "text": "A peace agreement is reached between the Ethiopian government and TPLF, signaling a potential end to the Tigray conflict and a path towards reconciliation.",
+      "media": "https://en.wikipedia.org/wiki/Tigray_conflict#Peace_agreement"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Ongoing Challenges",
+      "text": "Ethiopia continues to face challenges related to ethnic tensions, economic development, and the aftermath of the Tigray conflict, as the government seeks to stabilize the nation.",
+      "media": "https://en.wikipedia.org/wiki/Ethiopia#Current_events"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Egypt",
+      "text": "Major events in the history of Egypt."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3100
+      },
+      "headline": "Unification of Upper and Lower Egypt",
+      "text": "Around 3100 BC, King Narmer (also known as Menes) unified Upper and Lower Egypt, marking the beginning of the First Dynasty and the Pharaonic era. This event laid the foundation for the development of ancient Egyptian civilization.",
+      "media": "https://en.wikipedia.org/wiki/Narmer"
+    },
+    {
+      "start_date": {
+        "year": -2686
+      },
+      "headline": "Start of the Old Kingdom",
+      "text": "The Old Kingdom (c. 2686–2181 BC) is known as the 'Age of the Pyramids' due to the construction of the famous pyramids at Giza. This period was marked by the establishment of a strong central government and advancements in art and architecture.",
+      "media": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt"
+    },
+    {
+      "start_date": {
+        "year": -2570
+      },
+      "headline": "Construction of the Great Pyramid of Giza",
+      "text": "The Great Pyramid of Giza, built for Pharaoh Khufu, is one of the Seven Wonders of the Ancient World. Completed around 2570 BC, it showcases the architectural prowess of ancient Egyptians.",
+      "media": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "start_date": {
+        "year": -2181
+      },
+      "headline": "End of the Old Kingdom",
+      "text": "The Old Kingdom ended around 2181 BC due to a combination of factors including drought, famine, and political instability. This led to a period of disunity known as the First Intermediate Period.",
+      "media": "https://en.wikipedia.org/wiki/First_Intermediate_Period"
+    },
+    {
+      "start_date": {
+        "year": -2055
+      },
+      "headline": "Start of the Middle Kingdom",
+      "text": "The Middle Kingdom (c. 2055–1650 BC) began with the reunification of Egypt under Mentuhotep II. This era is characterized by a resurgence in art, literature, and monumental building.",
+      "media": "https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt"
+    },
+    {
+      "start_date": {
+        "year": -1950
+      },
+      "headline": "Literature Flourishes",
+      "text": "During the Middle Kingdom, literature flourished with works such as 'The Tale of Sinuhe' and 'The Story of the Shipwrecked Sailor.' These texts reflect the values and beliefs of ancient Egyptian society.",
+      "media": "https://en.wikipedia.org/wiki/Tale_of_Sinuhe"
+    },
+    {
+      "start_date": {
+        "year": -1650
+      },
+      "headline": "End of the Middle Kingdom",
+      "text": "The Middle Kingdom came to an end around 1650 BC due to the invasion of the Hyksos, who introduced new technologies such as the horse-drawn chariot.",
+      "media": "https://en.wikipedia.org/wiki/Hyksos"
+    },
+    {
+      "start_date": {
+        "year": -1550
+      },
+      "headline": "Start of the New Kingdom",
+      "text": "The New Kingdom (c. 1550–1070 BC) marked the height of Egypt's power and glory. This period saw the expansion of the empire and the construction of magnificent temples and monuments.",
+      "media": "https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt"
+    },
+    {
+      "start_date": {
+        "year": -1479
+      },
+      "headline": "Reign of Hatshepsut",
+      "text": "Hatshepsut, one of the few female pharaohs, ruled from 1479 to 1458 BC. She is known for her successful trade expeditions and monumental building projects, including her mortuary temple at Deir el-Bahari.",
+      "media": "https://en.wikipedia.org/wiki/Hatshepsut"
+    },
+    {
+      "start_date": {
+        "year": -1332
+      },
+      "headline": "Reign of Tutankhamun",
+      "text": "Tutankhamun ascended to the throne at a young age and ruled from 1332 to 1323 BC. His tomb, discovered in 1922, is one of the most significant archaeological finds, revealing much about ancient Egyptian culture.",
+      "media": "https://en.wikipedia.org/wiki/Tutankhamun"
+    },
+    {
+      "start_date": {
+        "year": -1279
+      },
+      "headline": "Reign of Ramses II",
+      "text": "Ramses II, also known as Ramses the Great, ruled from 1279 to 1213 BC and is often regarded as Egypt's most powerful pharaoh. His reign is noted for military victories, extensive building projects, and the signing of the first known peace treaty.",
+      "media": "https://en.wikipedia.org/wiki/Ramses_II"
+    },
+    {
+      "start_date": {
+        "year": -1069
+      },
+      "headline": "End of the New Kingdom",
+      "text": "The New Kingdom ended around 1069 BC, leading to a period of decline and foreign invasions. This marked the beginning of the Third Intermediate Period.",
+      "media": "https://en.wikipedia.org/wiki/Third_Intermediate_Period"
+    },
+    {
+      "start_date": {
+        "year": -332
+      },
+      "headline": "Conquest by Alexander the Great",
+      "text": "In 332 BC, Alexander the Great conquered Egypt, marking the beginning of the Hellenistic period. He was hailed as a liberator and founded the city of Alexandria, which became a major cultural center.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": -30
+      },
+      "headline": "End of the Ptolemaic Kingdom",
+      "text": "The Ptolemaic Kingdom came to an end in 30 BC when Cleopatra VII committed suicide, and Egypt became a province of the Roman Empire. This marked the end of the ancient Egyptian civilization as an independent entity.",
+      "media": "https://en.wikipedia.org/wiki/Cleopatra"
+    },
+    {
+      "start_date": {
+        "year": 395
+      },
+      "headline": "Christianity Becomes Dominant",
+      "text": "By 395 AD, Christianity had become the dominant religion in Egypt, leading to the decline of traditional polytheistic beliefs. This transition significantly influenced Egyptian culture and society.",
+      "media": "https://en.wikipedia.org/wiki/Christianity_in_Egypt"
+    },
+    {
+      "start_date": {
+        "year": 641
+      },
+      "headline": "Islamic Conquest of Egypt",
+      "text": "In 641 AD, Muslim armies conquered Egypt, leading to the spread of Islam and the Arabic language. This marked a significant cultural and religious transformation in the region.",
+      "media": "https://en.wikipedia.org/wiki/Islamic_conquest_of_Egypt"
+    },
+    {
+      "start_date": {
+        "year": 1517
+      },
+      "headline": "Ottoman Rule Begins",
+      "text": "In 1517, Egypt became part of the Ottoman Empire, which lasted for several centuries. This period saw significant changes in governance, culture, and trade.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Egypt"
+    },
+    {
+      "start_date": {
+        "year": 1798
+      },
+      "headline": "Napoleon's Campaign in Egypt",
+      "text": "In 1798, Napoleon Bonaparte invaded Egypt, aiming to establish a French presence in the region. His campaign sparked interest in Egyptology and led to significant cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/Napoleon_in_Egypt"
+    },
+    {
+      "start_date": {
+        "year": 1882
+      },
+      "headline": "British Occupation of Egypt",
+      "text": "In 1882, British forces occupied Egypt, establishing control over the country. This led to significant political and social changes, including the eventual rise of nationalist movements.",
+      "media": "https://en.wikipedia.org/wiki/British_Egypt"
+    },
+    {
+      "start_date": {
+        "year": 1952,
+        "month": 7,
+        "day": 23
+      },
+      "headline": "Egyptian Revolution of 1952",
+      "text": "On July 23, 1952, a group of nationalist officers led by Gamal Abdel Nasser overthrew the monarchy, establishing a republic. This revolution marked a significant turning point in modern Egyptian history.",
+      "media": "https://en.wikipedia.org/wiki/Egyptian_Revolution_of_1952"
+    },
+    {
+      "start_date": {
+        "year": 1970
+      },
+      "headline": "Nasser's Death",
+      "text": "Gamal Abdel Nasser, the second President of Egypt and a key figure in Arab nationalism, died on September 28, 1970. His death marked the end of an era in Egyptian politics.",
+      "media": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser"
+    },
+    {
+      "start_date": {
+        "year": 1979
+      },
+      "headline": "Egypt-Israel Peace Treaty",
+      "text": "In 1979, Egypt became the first Arab country to sign a peace treaty with Israel, following the Camp David Accords. This historic agreement reshaped Middle Eastern politics.",
+      "media": "https://en.wikipedia.org/wiki/Camp_David_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": 1,
+        "day": 25
+      },
+      "headline": "Egyptian Revolution of 2011",
+      "text": "The Egyptian Revolution began on January 25, 2011, as part of the Arab Spring. Mass protests led to the resignation of President Hosni Mubarak, demanding political reform and social justice.",
+      "media": "https://en.wikipedia.org/wiki/2011_Egyptian_revolution"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "day": 3
+      },
+      "headline": "Military Coup Against Morsi",
+      "text": "On July 3, 2013, the Egyptian military, led by General Abdel Fattah el-Sisi, ousted President Mohamed Morsi. This coup led to significant political unrest and a crackdown on dissent.",
+      "media": "https://en.wikipedia.org/wiki/2013_Egyptian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Sisi Becomes President",
+      "text": "In 2014, Abdel Fattah el-Sisi was elected President of Egypt after a controversial election. His presidency has been marked by significant economic reforms and ongoing human rights concerns.",
+      "media": "https://en.wikipedia.org/wiki/Abdel_Fattah_el-Sisi"
+    }
+  ]
+}

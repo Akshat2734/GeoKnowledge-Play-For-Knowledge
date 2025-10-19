@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Uzbekistan",
+      "text": "Major events in the history of Uzbekistan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500
+      },
+      "headline": "Achaemenid Persia",
+      "text": "Samarkand and Bukhara thrive within the Persian sphere.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Uzbekistan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 329
+      },
+      "headline": "Alexander the Great",
+      "text": "Conquest blends Greek and Central Asian cultures.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+      }
+    },
+    {
+      "start_date": {
+        "year": 800
+      },
+      "headline": "Samanid Golden Age",
+      "text": "Bukhara becomes a major cultural center.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Samanid_Empire"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "headline": "Mongol Invasions",
+      "text": "Mongols devastate Central Asia.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Central_Asia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1370
+      },
+      "headline": "Timurid Empire",
+      "text": "Timur rules from Samarkand, ushering a renaissance.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Timur"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1868
+      },
+      "headline": "Russian Conquest",
+      "text": "Tashkent and Samarkand fall to Russia.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Russian_conquest_of_Central_Asia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1924
+      },
+      "headline": "Uzbek SSR",
+      "text": "Becomes a Soviet Socialist Republic.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uzbek_Soviet_Socialist_Republic"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 31
+      },
+      "headline": "Independence",
+      "text": "Declares independence from the USSR.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uzbekistan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "headline": "Mirziyoyev Presidency",
+      "text": "Economic liberalization and diplomatic reforms.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Shavkat_Mirziyoyev"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Constitutional Reforms",
+      "text": "Modernization efforts continue.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Uzbekistan"
+      }
+    }
+  ]
+}

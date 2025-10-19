@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Barbados",
+      "text": "Major events in the history of Barbados."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1600,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The first known inhabitants of Barbados were the Arawak people, who arrived around 1600 BC. They were later followed by the Caribs, who displaced the Arawaks.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1492,
+        "month": 10,
+        "day": 12
+      },
+      "headline": "Columbus's Discovery",
+      "text": "Christopher Columbus sighted Barbados on his voyage to the New World in 1492. However, he did not land on the island.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#European_discovery"
+    },
+    {
+      "start_date": {
+        "year": 1625,
+        "month": null,
+        "day": null
+      },
+      "headline": "First English Settlement",
+      "text": "The first English settlers arrived in Barbados in 1625, establishing a colony. The island was claimed for England and became a sugar-producing colony.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1627,
+        "month": null,
+        "day": null
+      },
+      "headline": "Permanent Settlement Established",
+      "text": "The first permanent settlement was established in 1627 at Holetown. This marked the beginning of significant English colonization.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1640,
+        "month": null,
+        "day": null
+      },
+      "headline": "Introduction of African Slavery",
+      "text": "The plantation economy led to the introduction of African slaves to work on sugar plantations. This would have lasting impacts on the island's demographics and culture.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#Slavery"
+    },
+    {
+      "start_date": {
+        "year": 1661,
+        "month": null,
+        "day": null
+      },
+      "headline": "Barbados Slave Code",
+      "text": "The Barbados Slave Code was enacted in 1661, establishing legal frameworks for the treatment of enslaved people. It became a model for other colonies.",
+      "media": "https://en.wikipedia.org/wiki/Barbados_Slave_Code"
+    },
+    {
+      "start_date": {
+        "year": 1675,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Slave Rebellion",
+      "text": "The first recorded slave rebellion occurred in 1675, reflecting the growing unrest among enslaved Africans. It marked the beginning of resistance against slavery.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#Slavery"
+    },
+    {
+      "start_date": {
+        "year": 1816,
+        "month": 4,
+        "day": 14
+      },
+      "headline": "Bussa's Rebellion",
+      "text": "Bussa's Rebellion was a significant slave uprising that occurred in 1816. It was one of the largest revolts in the Caribbean, leading to increased calls for emancipation.",
+      "media": "https://en.wikipedia.org/wiki/Bussa%27s_Rebellion"
+    },
+    {
+      "start_date": {
+        "year": 1834,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "Abolition of Slavery",
+      "text": "Slavery was officially abolished in Barbados in 1834, following the Slavery Abolition Act of 1833. This marked a pivotal change in the island's social structure.",
+      "media": "https://en.wikipedia.org/wiki/Slavery_abolition_in_the_British_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1937,
+        "month": null,
+        "day": null
+      },
+      "headline": "Labor Riots",
+      "text": "The 1937 labor riots were a response to poor working conditions and economic hardship. They led to significant social and political changes in Barbados.",
+      "media": "https://en.wikipedia.org/wiki/1937_Barbados_labor_riots"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": null,
+        "day": null
+      },
+      "headline": "Universal Suffrage",
+      "text": "Barbados granted universal suffrage in 1944, allowing all adults to vote. This was a significant step towards greater political representation.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#Post-World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": null,
+        "day": null
+      },
+      "headline": "Independence Movement",
+      "text": "The independence movement gained momentum in the early 1960s, with increased calls for self-governance. This reflected a broader trend across the Caribbean.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#Independence_movement"
+    },
+    {
+      "start_date": {
+        "year": 1966,
+        "month": 11,
+        "day": 30
+      },
+      "headline": "Independence from Britain",
+      "text": "Barbados gained independence from Britain on November 30, 1966. This marked a new era in the island's governance and identity.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Barbados"
+    },
+    {
+      "start_date": {
+        "year": 1974,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Caribbean Community",
+      "text": "Barbados became a founding member of the Caribbean Community (CARICOM) in 1974. This regional organization aimed to promote economic integration and cooperation.",
+      "media": "https://en.wikipedia.org/wiki/Caribbean_Community"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": null,
+        "day": null
+      },
+      "headline": "50th Anniversary of Independence",
+      "text": "Barbados celebrated the 50th anniversary of its independence in 2016, reflecting on its journey since gaining self-governance. This milestone was marked by various cultural events.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Barbados#50th_Anniversary_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Challenges",
+      "text": "Barbados faced significant economic challenges in 2008, including a recession and rising debt. This led to austerity measures and calls for economic reform.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Barbados"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 11,
+        "day": 30
+      },
+      "headline": "Republic Status",
+      "text": "Barbados became a republic on November 30, 2021, removing the British monarch as head of state. This historic change was celebrated as a step towards full sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Barbados#Republic"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Development",
+      "text": "Barbados continues to develop its economy and social systems while addressing challenges such as climate change and sustainable tourism. The nation aims to enhance its global standing.",
+      "media": "https://en.wikipedia.org/wiki/Barbados#Current_events"
+    }
+  ]
+}

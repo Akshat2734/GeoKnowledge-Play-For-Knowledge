@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Tajikistan",
+      "text": "Major events in the history of Tajikistan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500
+      },
+      "headline": "Ancient Sogdiana",
+      "text": "Part of Sogdiana, an ancient Persian civilization and Silk Road hub.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Sogdiana"
+      }
+    },
+    {
+      "start_date": {
+        "year": 800
+      },
+      "headline": "Samanid Empire",
+      "text": "Samanids promote Persian culture and Islamic scholarship.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Samanid_Empire"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "headline": "Mongol Invasion",
+      "text": "Mongol armies devastate Central Asia.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Central_Asia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1868
+      },
+      "headline": "Russian Expansion",
+      "text": "Tajik lands under Russian control within the Emirate of Bukhara.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Tajikistan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1929
+      },
+      "headline": "Tajik SSR Formed",
+      "text": "Becomes a Soviet republic within the USSR.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tajik_Soviet_Socialist_Republic"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 9,
+        "day": 9
+      },
+      "headline": "Independence",
+      "text": "Declares independence following the USSR collapse.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tajikistan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1992
+      },
+      "headline": "Civil War",
+      "text": "Conflict between government and Islamist factions.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tajikistani_Civil_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1997
+      },
+      "headline": "Peace Deal",
+      "text": "UN-mediated agreement ends the war.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tajikistani_Civil_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Hydropower Projects",
+      "text": "Rogun Dam development signals economic push.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Rogun_Dam"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Regional Cooperation",
+      "text": "Deepening ties through trade and security accords.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Tajikistan"
+      }
+    }
+  ]
+}

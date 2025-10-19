@@ -1,0 +1,218 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Israel",
+      "text": "Major events in the history of Israel."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1200
+      },
+      "headline": "Settlement of the Israelites",
+      "text": "The Israelites begin settling in the land of Canaan, marking the beginning of their presence in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Israel#Early_settlement"
+    },
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Establishment of the Kingdom of Israel",
+      "text": "King Saul becomes the first king of Israel, followed by King David who unites the tribes and establishes Jerusalem as the capital.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(united)"
+    },
+    {
+      "start_date": {
+        "year": -586
+      },
+      "headline": "Destruction of the First Temple",
+      "text": "The Babylonian Empire conquers Jerusalem, destroying the First Temple and leading to the Babylonian Exile of the Jewish people.",
+      "media": "https://en.wikipedia.org/wiki/Destruction_of_the_First_Temple"
+    },
+    {
+      "start_date": {
+        "year": -516
+      },
+      "headline": "Construction of the Second Temple",
+      "text": "After the Persian conquest, the Second Temple is completed, restoring a central place of worship for the Jewish people.",
+      "media": "https://en.wikipedia.org/wiki/Second_Temple"
+    },
+    {
+      "start_date": {
+        "year": 70
+      },
+      "headline": "Destruction of the Second Temple",
+      "text": "The Romans destroy the Second Temple during the Siege of Jerusalem, leading to significant changes in Jewish life and worship.",
+      "media": "https://en.wikipedia.org/wiki/Destruction_of_the_Second_Temple"
+    },
+    {
+      "start_date": {
+        "year": 135
+      },
+      "headline": "Bar Kokhba Revolt",
+      "text": "A major Jewish uprising against Roman rule is crushed, leading to further Jewish diaspora and the renaming of Judea to Palestina.",
+      "media": "https://en.wikipedia.org/wiki/Bar_Kokhba_revolt"
+    },
+    {
+      "start_date": {
+        "year": 638
+      },
+      "headline": "Muslim Conquest of Jerusalem",
+      "text": "Caliph Umar ibn al-Khattab captures Jerusalem, marking the beginning of Muslim rule in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Jerusalem#Islamic_rule"
+    },
+    {
+      "start_date": {
+        "year": 1099
+      },
+      "headline": "Crusader Conquest of Jerusalem",
+      "text": "The First Crusade culminates in the capture of Jerusalem by Christian forces, leading to a period of Crusader rule.",
+      "media": "https://en.wikipedia.org/wiki/Crusades"
+    },
+    {
+      "start_date": {
+        "year": 1187
+      },
+      "headline": "Saladin Recaptures Jerusalem",
+      "text": "The Muslim leader Saladin defeats the Crusaders at the Battle of Hattin and recaptures Jerusalem.",
+      "media": "https://en.wikipedia.org/wiki/Saladin"
+    },
+    {
+      "start_date": {
+        "year": 1517
+      },
+      "headline": "Ottoman Rule Begins",
+      "text": "The Ottoman Empire conquers the region, establishing a long period of Ottoman governance over Palestine.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1897
+      },
+      "headline": "First Zionist Congress",
+      "text": "The First Zionist Congress is held in Basel, Switzerland, marking the formal beginning of the modern Zionist movement.",
+      "media": "https://en.wikipedia.org/wiki/Zionism"
+    },
+    {
+      "start_date": {
+        "year": 1917,
+        "month": 11,
+        "day": 2
+      },
+      "headline": "Balfour Declaration",
+      "text": "The British government issues the Balfour Declaration, expressing support for the establishment of a 'national home for the Jewish people' in Palestine.",
+      "media": "https://en.wikipedia.org/wiki/Balfour_Declaration"
+    },
+    {
+      "start_date": {
+        "year": 1920
+      },
+      "headline": "San Remo Conference",
+      "text": "The San Remo Conference grants Britain the mandate over Palestine, formalizing British control in the region.",
+      "media": "https://en.wikipedia.org/wiki/San_Remo_Conference"
+    },
+    {
+      "start_date": {
+        "year": 1947
+      },
+      "headline": "UN Partition Plan",
+      "text": "The United Nations proposes a partition plan to create separate Jewish and Arab states in Palestine, which is accepted by Jewish leaders but rejected by Arab leaders.",
+      "media": "https://en.wikipedia.org/wiki/United_Nations_Partition_Plan_for_Palestine"
+    },
+    {
+      "start_date": {
+        "year": 1948,
+        "month": 5,
+        "day": 14
+      },
+      "headline": "Declaration of the State of Israel",
+      "text": "David Ben-Gurion proclaims the establishment of the State of Israel, leading to the first Arab-Israeli War.",
+      "media": "https://en.wikipedia.org/wiki/Israeli_declaration_of_independence"
+    },
+    {
+      "start_date": {
+        "year": 1948
+      },
+      "headline": "First Arab-Israeli War",
+      "text": "Following Israel's declaration of independence, neighboring Arab states invade, resulting in a conflict that reshapes the region.",
+      "media": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War"
+    },
+    {
+      "start_date": {
+        "year": 1967,
+        "month": 6,
+        "day": 5
+      },
+      "headline": "Six-Day War",
+      "text": "Israel launches a preemptive strike against Egypt, Jordan, and Syria, resulting in significant territorial gains, including the West Bank and Gaza Strip.",
+      "media": "https://en.wikipedia.org/wiki/Six-Day_War"
+    },
+    {
+      "start_date": {
+        "year": 1973,
+        "month": 10,
+        "day": 6
+      },
+      "headline": "Yom Kippur War",
+      "text": "Egypt and Syria launch a surprise attack on Israel during Yom Kippur, leading to a prolonged conflict and eventual ceasefire.",
+      "media": "https://en.wikipedia.org/wiki/Yom_Kippur_War"
+    },
+    {
+      "start_date": {
+        "year": 1979
+      },
+      "headline": "Egypt-Israel Peace Treaty",
+      "text": "Israel and Egypt sign a peace treaty, marking the first recognition of Israel by an Arab state and leading to Israel's withdrawal from the Sinai Peninsula.",
+      "media": "https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_peace_treaty"
+    },
+    {
+      "start_date": {
+        "year": 1993
+      },
+      "headline": "Oslo Accords",
+      "text": "The Oslo Accords are signed, establishing a framework for peace between Israel and the Palestinians, including mutual recognition.",
+      "media": "https://en.wikipedia.org/wiki/Oslo_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "Second Intifada",
+      "text": "A wave of violence erupts between Israelis and Palestinians, marking the beginning of the Second Intifada.",
+      "media": "https://en.wikipedia.org/wiki/Second_Intifada"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "Gaza Disengagement",
+      "text": "Israel unilaterally withdraws from the Gaza Strip, evacuating settlements and military presence, leading to increased tensions.",
+      "media": "https://en.wikipedia.org/wiki/Gaza_Disengagement"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Gaza War",
+      "text": "A major conflict erupts between Israel and Hamas, resulting in significant casualties and destruction in Gaza.",
+      "media": "https://en.wikipedia.org/wiki/2014_Gaza_War"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "Abraham Accords",
+      "text": "Israel normalizes relations with several Arab nations, including the UAE and Bahrain, marking a significant shift in regional diplomacy.",
+      "media": "https://en.wikipedia.org/wiki/Abraham_Accords"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Ongoing Conflict",
+      "text": "Tensions and violence continue in the region, with ongoing disputes over territory, governance, and recognition.",
+      "media": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict"
+    }
+  ]
+}

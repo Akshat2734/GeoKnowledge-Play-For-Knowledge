@@ -1,0 +1,250 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of China",
+      "text": "Major events in the history of China."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2100,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Xia Dynasty",
+      "text": "The Xia Dynasty is traditionally considered the first dynasty in Chinese history, marking the beginning of the Chinese civilization. It is said to have been founded by Yu the Great, who is known for his flood control efforts.",
+      "media": "https://en.wikipedia.org/wiki/Xia_dynasty"
+    },
+    {
+      "start_date": {
+        "year": -1600,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Shang Dynasty",
+      "text": "The Shang Dynasty is known for its advances in metallurgy, writing, and urban planning. It is the first Chinese dynasty supported by archaeological evidence.",
+      "media": "https://en.wikipedia.org/wiki/Shang_dynasty"
+    },
+    {
+      "start_date": {
+        "year": -1046,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Zhou Dynasty",
+      "text": "The Zhou Dynasty followed the Shang and is notable for the introduction of the Mandate of Heaven, which justified the ruler's authority. This period saw significant philosophical developments, including Confucianism and Daoism.",
+      "media": "https://en.wikipedia.org/wiki/Zhou_dynasty"
+    },
+    {
+      "start_date": {
+        "year": -770,
+        "month": null,
+        "day": null
+      },
+      "headline": "Eastern Zhou Period Begins",
+      "text": "The Eastern Zhou period is characterized by the fragmentation of power and the rise of regional states. It includes the Spring and Autumn period and the Warring States period.",
+      "media": "https://en.wikipedia.org/wiki/Eastern_Zhou"
+    },
+    {
+      "start_date": {
+        "year": -221,
+        "month": null,
+        "day": null
+      },
+      "headline": "Unification of China under the Qin Dynasty",
+      "text": "The Qin Dynasty, led by Qin Shi Huang, unified China for the first time and standardized weights, measures, and the writing system. This marked the beginning of imperial China.",
+      "media": "https://en.wikipedia.org/wiki/Qin_dynasty"
+    },
+    {
+      "start_date": {
+        "year": -206,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Han Dynasty",
+      "text": "The Han Dynasty is often considered a golden age in Chinese history, known for its cultural, political, and economic achievements. It expanded the Silk Road trade routes and promoted Confucianism.",
+      "media": "https://en.wikipedia.org/wiki/Han_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 220,
+        "month": null,
+        "day": null
+      },
+      "headline": "End of the Han Dynasty",
+      "text": "The Han Dynasty fell into disarray, leading to the Three Kingdoms period, a time of fragmentation and civil war. This era is celebrated in Chinese literature and folklore.",
+      "media": "https://en.wikipedia.org/wiki/Three_Kingdoms"
+    },
+    {
+      "start_date": {
+        "year": 581,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Sui Dynasty",
+      "text": "The Sui Dynasty reunified China after centuries of division and initiated major projects like the Grand Canal. However, it was short-lived due to overextension and rebellion.",
+      "media": "https://en.wikipedia.org/wiki/Sui_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 618,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Tang Dynasty",
+      "text": "The Tang Dynasty is regarded as another golden age, marked by cultural flourishing, international trade, and the expansion of the empire. It is known for its poetry and cosmopolitan culture.",
+      "media": "https://en.wikipedia.org/wiki/Tang_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 907,
+        "month": null,
+        "day": null
+      },
+      "headline": "End of the Tang Dynasty",
+      "text": "The Tang Dynasty fell due to internal strife and rebellion, leading to a period of fragmentation known as the Five Dynasties and Ten Kingdoms period.",
+      "media": "https://en.wikipedia.org/wiki/Five_Dynasties_and_Ten_Kingdoms_period"
+    },
+    {
+      "start_date": {
+        "year": 960,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Song Dynasty",
+      "text": "The Song Dynasty is known for its advancements in technology, culture, and economics, including the invention of gunpowder and the compass. It was a time of great artistic achievement.",
+      "media": "https://en.wikipedia.org/wiki/Song_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 1271,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Yuan Dynasty",
+      "text": "The Yuan Dynasty was founded by Kublai Khan, marking the first time China was ruled by a foreign power, the Mongols. It is known for its cultural exchanges and the expansion of trade.",
+      "media": "https://en.wikipedia.org/wiki/Yuan_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 1368,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Ming Dynasty",
+      "text": "The Ming Dynasty is known for its trade expansion, cultural achievements, and the construction of the Great Wall as it is known today. It was a period of stability and prosperity.",
+      "media": "https://en.wikipedia.org/wiki/Ming_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 1644,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Qing Dynasty",
+      "text": "The Qing Dynasty was the last imperial dynasty of China, ruled by the Manchu people. It expanded China's borders significantly and saw a flourishing of arts and culture.",
+      "media": "https://en.wikipedia.org/wiki/Qing_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 1911,
+        "month": 10,
+        "day": 10
+      },
+      "headline": "Xinhai Revolution",
+      "text": "The Xinhai Revolution led to the fall of the Qing Dynasty and the establishment of the Republic of China. It marked the end of over two thousand years of imperial rule.",
+      "media": "https://en.wikipedia.org/wiki/Xinhai_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1949,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Establishment of the People's Republic of China",
+      "text": "The People's Republic of China was proclaimed by Mao Zedong after the Chinese Civil War, marking the beginning of communist rule in China. This event transformed the political landscape of the country.",
+      "media": "https://en.wikipedia.org/wiki/People%27s_Republic_of_China"
+    },
+    {
+      "start_date": {
+        "year": 1958,
+        "month": null,
+        "day": null
+      },
+      "headline": "Great Leap Forward",
+      "text": "The Great Leap Forward was an economic and social campaign led by the Communist Party aimed at rapidly transforming China into a socialist society. It resulted in widespread famine and millions of deaths.",
+      "media": "https://en.wikipedia.org/wiki/Great_Leap_Forward"
+    },
+    {
+      "start_date": {
+        "year": 1966,
+        "month": null,
+        "day": null
+      },
+      "headline": "Cultural Revolution Begins",
+      "text": "The Cultural Revolution was a sociopolitical movement initiated by Mao Zedong to enforce communism by removing capitalist, traditional, and cultural elements from Chinese society. It led to widespread chaos and persecution.",
+      "media": "https://en.wikipedia.org/wiki/Cultural_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1976,
+        "month": 9,
+        "day": 9
+      },
+      "headline": "Death of Mao Zedong",
+      "text": "Mao Zedong's death marked the end of an era in Chinese politics and led to significant changes in the country's direction under new leadership. It initiated a period of reform and opening up.",
+      "media": "https://en.wikipedia.org/wiki/Mao_Zedong"
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Reforms Initiated",
+      "text": "Deng Xiaoping initiated economic reforms that shifted China towards a market economy, leading to rapid economic growth and modernization. This period is often referred to as China's 'Opening Up.'",
+      "media": "https://en.wikipedia.org/wiki/Deng_Xiaoping"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 6,
+        "day": 4
+      },
+      "headline": "Tiananmen Square Massacre",
+      "text": "The Tiananmen Square Massacre was a violent crackdown on pro-democracy protesters in Beijing, resulting in a significant loss of life. It remains a sensitive and censored topic in China.",
+      "media": "https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": null,
+        "day": null
+      },
+      "headline": "China Joins the World Trade Organization",
+      "text": "China's accession to the WTO marked its integration into the global economy, leading to increased trade and investment. This was a significant step in China's economic development.",
+      "media": "https://en.wikipedia.org/wiki/China_and_the_World_Trade_Organization"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 12,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic Emerges",
+      "text": "The COVID-19 pandemic began in Wuhan, China, leading to global health and economic crises. The outbreak prompted widespread lockdowns and significant changes in public health policy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_China"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "China's Continued Global Influence",
+      "text": "In 2023, China continues to play a significant role in global politics and economics, with initiatives like the Belt and Road Initiative aimed at enhancing international trade and connectivity.",
+      "media": "https://en.wikipedia.org/wiki/Belt_and_Road_Initiative"
+    }
+  ]
+}

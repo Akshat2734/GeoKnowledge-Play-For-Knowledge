@@ -1,0 +1,170 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Colombia",
+      "text": "Major events in the history of Colombia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -10000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Settlements",
+      "text": "The earliest evidence of human presence in Colombia dates back to around 10,000 BC, with hunter-gatherer societies inhabiting the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Colombia#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Arrival",
+      "text": "Spanish explorers, led by Rodrigo de Bastidas, arrived on the northern coast of Colombia, marking the beginning of European colonization.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Muisca"
+    },
+    {
+      "start_date": {
+        "year": 1536,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Bogotá",
+      "text": "The city of Bogotá was founded by Gonzalo Jiménez de Quesada, becoming a key administrative center for the Spanish Empire in the region.",
+      "media": "https://en.wikipedia.org/wiki/Bogotá#Foundation"
+    },
+    {
+      "start_date": {
+        "year": 1564,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Viceroyalty of New Granada",
+      "text": "The Viceroyalty of New Granada was established, which included present-day Colombia, Ecuador, Panama, and Venezuela, consolidating Spanish power in the region.",
+      "media": "https://en.wikipedia.org/wiki/Viceroyalty_of_New_Granada"
+    },
+    {
+      "start_date": {
+        "year": 1810,
+        "month": 7,
+        "day": 20
+      },
+      "headline": "Independence Movement Begins",
+      "text": "The independence movement in Colombia began with the events of July 20, 1810, leading to a series of conflicts against Spanish rule.",
+      "media": "https://en.wikipedia.org/wiki/Colombian_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1819,
+        "month": 8,
+        "day": 7
+      },
+      "headline": "Battle of Boyacá",
+      "text": "The Battle of Boyacá was a decisive victory for the patriots during the Colombian War of Independence, leading to the liberation of New Granada.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": 8,
+        "day": 7
+      },
+      "headline": "Creation of Gran Colombia",
+      "text": "Gran Colombia was established as a republic, uniting present-day Colombia, Venezuela, Ecuador, and Panama under a single government.",
+      "media": "https://en.wikipedia.org/wiki/Gran_Colombia"
+    },
+    {
+      "start_date": {
+        "year": 1830,
+        "month": null,
+        "day": null
+      },
+      "headline": "Dissolution of Gran Colombia",
+      "text": "Gran Colombia dissolved into separate nations, leading to the establishment of the Republic of Colombia as an independent state.",
+      "media": "https://en.wikipedia.org/wiki/Gran_Colombia#Dissolution"
+    },
+    {
+      "start_date": {
+        "year": 1903,
+        "month": 11,
+        "day": 3
+      },
+      "headline": "Panama's Separation",
+      "text": "Panama separated from Colombia with the support of the United States, leading to significant political and economic consequences for Colombia.",
+      "media": "https://en.wikipedia.org/wiki/Panama#Separation_from_Colombia"
+    },
+    {
+      "start_date": {
+        "year": 1948,
+        "month": 4,
+        "day": 9
+      },
+      "headline": "La Violencia Begins",
+      "text": "La Violencia, a period of intense political violence between liberals and conservatives, began following the assassination of Jorge Eliécer Gaitán.",
+      "media": "https://en.wikipedia.org/wiki/La_Violencia"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of FARC",
+      "text": "The Revolutionary Armed Forces of Colombia (FARC) was founded, marking the beginning of a long-standing armed conflict in Colombia.",
+      "media": "https://en.wikipedia.org/wiki/FARC"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 7,
+        "day": 4
+      },
+      "headline": "New Constitution",
+      "text": "A new constitution was adopted in Colombia, establishing a more democratic framework and recognizing various rights for citizens.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Colombia"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "Uribe's Presidency Begins",
+      "text": "Álvaro Uribe was elected president, implementing a security policy aimed at combating guerrilla groups and drug trafficking.",
+      "media": "https://en.wikipedia.org/wiki/%C3%81lvaro_Uribe"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": 11,
+        "day": 24
+      },
+      "headline": "Peace Agreement with FARC",
+      "text": "A historic peace agreement was signed between the Colombian government and FARC, officially ending over 50 years of armed conflict.",
+      "media": "https://en.wikipedia.org/wiki/Colombian_peace_process"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Colombia, like the rest of the world, faced the COVID-19 pandemic, leading to significant health, economic, and social challenges.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Colombia"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 8,
+        "day": 7
+      },
+      "headline": "Gustavo Petro's Presidency",
+      "text": "Gustavo Petro was elected president, becoming the first leftist leader in Colombia's history, promising significant social and economic reforms.",
+      "media": "https://en.wikipedia.org/wiki/Gustavo_Petro"
+    }
+  ]
+}

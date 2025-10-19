@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Honduras",
+      "text": "Major events in the history of Honduras."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The region now known as Honduras was inhabited by various indigenous groups, including the Maya, who established advanced civilizations. These groups left behind significant archaeological sites and cultural legacies.",
+      "media": "https://en.wikipedia.org/wiki/Maya_civilization"
+    },
+    {
+      "start_date": {
+        "year": 1502,
+        "month": 8,
+        "day": 14
+      },
+      "headline": "Christopher Columbus Arrives",
+      "text": "Christopher Columbus arrived on the northern coast of Honduras during his fourth voyage to the New World. His arrival marked the beginning of European interest and subsequent colonization in the region.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1524,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Conquest",
+      "text": "Spanish conquistadors led by Hernán Cortés began the conquest of Honduras, leading to the establishment of Spanish colonial rule. This conquest resulted in significant changes to the indigenous populations and cultures.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_conquest_of_Honduras"
+    },
+    {
+      "start_date": {
+        "year": 1537,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Tegucigalpa",
+      "text": "Tegucigalpa, the current capital of Honduras, was founded by Spanish settlers. It became an important administrative center during the colonial period.",
+      "media": "https://en.wikipedia.org/wiki/Tegucigalpa"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": 9,
+        "day": 15
+      },
+      "headline": "Independence from Spain",
+      "text": "Honduras declared its independence from Spain, along with other Central American provinces. This event marked the beginning of a new era for the region.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Central_America"
+    },
+    {
+      "start_date": {
+        "year": 1823,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Federal Republic of Central America",
+      "text": "Honduras became a part of the Federal Republic of Central America, which aimed to unify the Central American states. However, internal conflicts led to its dissolution in 1838.",
+      "media": "https://en.wikipedia.org/wiki/Federal_Republic_of_Central_America"
+    },
+    {
+      "start_date": {
+        "year": 1838,
+        "month": null,
+        "day": null
+      },
+      "headline": "Full Independence",
+      "text": "Honduras officially declared itself a sovereign nation following the dissolution of the Federal Republic. This marked the start of a series of political changes and instability.",
+      "media": "https://en.wikipedia.org/wiki/Honduras"
+    },
+    {
+      "start_date": {
+        "year": 1870,
+        "month": null,
+        "day": null
+      },
+      "headline": "Banana Industry Emergence",
+      "text": "The banana industry began to flourish in Honduras, leading to significant economic changes and foreign investment, particularly from American companies. This industry would later dominate the Honduran economy.",
+      "media": "https://en.wikipedia.org/wiki/Banana_republic"
+    },
+    {
+      "start_date": {
+        "year": 1903,
+        "month": null,
+        "day": null
+      },
+      "headline": "U.S. Intervention",
+      "text": "The United States intervened in Honduras to protect American business interests, leading to a series of military occupations and political influence in the country. This intervention set a precedent for future U.S. involvement.",
+      "media": "https://en.wikipedia.org/wiki/United_States_intervention_in_Honduras"
+    },
+    {
+      "start_date": {
+        "year": 1933,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Military Rule",
+      "text": "A military coup led to the establishment of a military dictatorship in Honduras. This period was marked by repression and political instability.",
+      "media": "https://en.wikipedia.org/wiki/Honduran_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1954,
+        "month": null,
+        "day": null
+      },
+      "headline": "U.S.-Backed Coup",
+      "text": "A U.S.-backed coup overthrew the democratically elected president Jacobo Árbenz in neighboring Guatemala, which had repercussions in Honduras, including increased U.S. influence.",
+      "media": "https://en.wikipedia.org/wiki/Guatemalan_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1963,
+        "month": 10,
+        "day": 3
+      },
+      "headline": "Another Military Coup",
+      "text": "A military coup led to the overthrow of President Ramón Villeda Morales, marking the beginning of a long period of military rule in Honduras. This coup was supported by the United States.",
+      "media": "https://en.wikipedia.org/wiki/Honduras#Military_rule"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "Civil Unrest and Human Rights Violations",
+      "text": "The 1980s were marked by civil unrest, human rights violations, and the emergence of guerrilla movements. The military government faced increasing opposition from various sectors of society.",
+      "media": "https://en.wikipedia.org/wiki/Honduran_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Hurricane Mitch",
+      "text": "Hurricane Mitch struck Honduras, causing widespread devastation and loss of life. The disaster led to significant humanitarian crises and international aid efforts.",
+      "media": "https://en.wikipedia.org/wiki/Hurricane_Mitch"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 6,
+        "day": 28
+      },
+      "headline": "Coup d'État",
+      "text": "A coup d'état ousted President Manuel Zelaya, leading to political turmoil and international condemnation. The coup resulted in a prolonged political crisis in Honduras.",
+      "media": "https://en.wikipedia.org/wiki/2009_Honduran_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 26
+      },
+      "headline": "Controversial Elections",
+      "text": "The presidential elections were marred by allegations of fraud and violence, leading to widespread protests. The political situation in Honduras became increasingly unstable.",
+      "media": "https://en.wikipedia.org/wiki/2017_Honduran_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 1,
+        "day": 27
+      },
+      "headline": "New Presidential Administration",
+      "text": "Xiomara Castro was inaugurated as the first female president of Honduras, marking a significant political shift. Her administration promised reforms and a focus on human rights.",
+      "media": "https://en.wikipedia.org/wiki/Xiomara_Castro"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ongoing Challenges",
+      "text": "Honduras continues to face challenges such as corruption, poverty, and violence. The government is working on reforms to address these issues and improve the quality of life for its citizens.",
+      "media": "https://en.wikipedia.org/wiki/Honduras"
+    }
+  ]
+}

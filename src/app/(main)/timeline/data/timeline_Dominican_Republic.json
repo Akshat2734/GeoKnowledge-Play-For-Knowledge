@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Dominican Republic",
+      "text": "Major events in the history of Dominican Republic."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1492,
+        "month": 12,
+        "day": 5
+      },
+      "headline": "Discovery by Christopher Columbus",
+      "text": "Christopher Columbus arrived on the island of Hispaniola during his first voyage to the Americas, marking the beginning of European colonization in the region.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1496,
+        "month": 8,
+        "day": 5
+      },
+      "headline": "Foundation of Santo Domingo",
+      "text": "Santo Domingo, the first permanent European settlement in the Americas, was founded by Bartholomew Columbus, brother of Christopher Columbus.",
+      "media": "https://en.wikipedia.org/wiki/Santo_Domingo"
+    },
+    {
+      "start_date": {
+        "year": 1502,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the First Spanish Colony",
+      "text": "The Spanish established the first colony in the New World, which became a key location for the Spanish Empire's operations in the Americas.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": 12,
+        "day": 1
+      },
+      "headline": "Independence from Spain",
+      "text": "The Dominican Republic declared its independence from Spanish rule, although this was short-lived.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1822,
+        "month": 2,
+        "day": 9
+      },
+      "headline": "Annexation by Haiti",
+      "text": "Haitian President Jean-Pierre Boyer invaded and annexed the Dominican Republic, leading to a 22-year occupation.",
+      "media": "https://en.wikipedia.org/wiki/Haitian_Occupation_of_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1844,
+        "month": 2,
+        "day": 27
+      },
+      "headline": "Dominican Independence",
+      "text": "The Dominican Republic gained its independence from Haiti, marking the establishment of the nation as a sovereign state.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1861,
+        "month": null,
+        "day": null
+      },
+      "headline": "Reannexation by Spain",
+      "text": "The Dominican Republic was reannexed by Spain, but this was met with resistance and led to a war of independence.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_annexation_of_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1865,
+        "month": 7,
+        "day": 1
+      },
+      "headline": "Restoration War",
+      "text": "The Restoration War culminated in the successful expulsion of Spanish forces, restoring the Dominican Republic's independence.",
+      "media": "https://en.wikipedia.org/wiki/Restoration_War"
+    },
+    {
+      "start_date": {
+        "year": 1916,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "U.S. Occupation Begins",
+      "text": "The United States occupied the Dominican Republic, citing the need to stabilize the country amid political turmoil.",
+      "media": "https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1924,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "U.S. Occupation Ends",
+      "text": "The U.S. military occupation officially ended, but American influence continued in Dominican politics and economics.",
+      "media": "https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1930,
+        "month": 9,
+        "day": 1
+      },
+      "headline": "Rise of Rafael Trujillo",
+      "text": "Rafael Trujillo came to power, establishing a dictatorship that would last for over 30 years, marked by repression and human rights abuses.",
+      "media": "https://en.wikipedia.org/wiki/Rafael_Trujillo"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": 5,
+        "day": 30
+      },
+      "headline": "Assassination of Trujillo",
+      "text": "Rafael Trujillo was assassinated, leading to a power vacuum and political instability in the country.",
+      "media": "https://en.wikipedia.org/wiki/Assassination_of_Rafael_Trujillo"
+    },
+    {
+      "start_date": {
+        "year": 1965,
+        "month": 4,
+        "day": 28
+      },
+      "headline": "U.S. Intervention",
+      "text": "The United States intervened in the Dominican Civil War to prevent what it perceived as a communist takeover, leading to further political turmoil.",
+      "media": "https://en.wikipedia.org/wiki/Dominican_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": 5,
+        "day": 16
+      },
+      "headline": "First Democratic Elections",
+      "text": "The Dominican Republic held its first democratic elections after Trujillo's regime, marking a significant step towards political stability.",
+      "media": "https://en.wikipedia.org/wiki/Democracy_in_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1996,
+        "month": 5,
+        "day": 16
+      },
+      "headline": "Leonel Fernandez Elected",
+      "text": "Leonel Fernandez was elected president, initiating a period of economic reform and modernization in the Dominican Republic.",
+      "media": "https://en.wikipedia.org/wiki/Leonel_Fern%C3%A1ndez"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 8,
+        "day": 16
+      },
+      "headline": "Return of Leonel Fernandez",
+      "text": "Leonel Fernandez returned to power after winning the presidential elections, focusing on economic growth and infrastructure development.",
+      "media": "https://en.wikipedia.org/wiki/Leonel_Fern%C3%A1ndez"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "day": 16
+      },
+      "headline": "Danilo Medina Elected",
+      "text": "Danilo Medina was elected president, continuing policies of economic growth and social programs aimed at reducing poverty.",
+      "media": "https://en.wikipedia.org/wiki/Danilo_Medina"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 16
+      },
+      "headline": "Luis Abinader Elected",
+      "text": "Luis Abinader won the presidential election, promising to address corruption and improve the economy amidst the COVID-19 pandemic.",
+      "media": "https://en.wikipedia.org/wiki/Luis_Abinader"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic Response",
+      "text": "The Dominican Republic implemented measures to combat the COVID-19 pandemic, including vaccination campaigns and economic support.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Dominican_Republic"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Current Political Climate",
+      "text": "The Dominican Republic continues to navigate challenges related to governance, economic development, and social issues as it moves forward.",
+      "media": "https://en.wikipedia.org/wiki/Dominican_Republic"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Liberia",
+      "text": "Major events in the history of Liberia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The area now known as Liberia was inhabited by various indigenous tribes, including the Kpelle, Bassa, and Grebo, for thousands of years before European contact.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Liberia#Pre-colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1461
+      },
+      "headline": "Portuguese Exploration",
+      "text": "Portuguese explorers were among the first Europeans to reach the coast of Liberia, establishing trade routes and engaging in the slave trade.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Liberia#European_exploration"
+    },
+    {
+      "start_date": {
+        "year": 1822,
+        "month": 1
+      },
+      "headline": "Founding of Liberia",
+      "text": "The American Colonization Society established Liberia as a colony for freed African American slaves, with the first settlers arriving in 1822.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Liberia#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1847,
+        "month": 7,
+        "day": 26
+      },
+      "headline": "Declaration of Independence",
+      "text": "Liberia declared its independence from the American Colonization Society, becoming the first African republic to do so.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Liberia#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1862
+      },
+      "headline": "First Constitution",
+      "text": "Liberia adopted its first constitution, establishing a government modeled after that of the United States.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Liberia#Constitutional_development"
+    },
+    {
+      "start_date": {
+        "year": 1871
+      },
+      "headline": "Monrovia Becomes Capital",
+      "text": "Monrovia, named after U.S. President James Monroe, was officially designated as the capital of Liberia.",
+      "media": "https://en.wikipedia.org/wiki/Monrovia"
+    },
+    {
+      "start_date": {
+        "year": 1904
+      },
+      "headline": "First Civil War",
+      "text": "The first civil war in Liberia began, driven by tensions between indigenous groups and Americo-Liberians.",
+      "media": "https://en.wikipedia.org/wiki/First_Civil_War_(Liberia)"
+    },
+    {
+      "start_date": {
+        "year": 1926
+      },
+      "headline": "Firestone Rubber Plantations",
+      "text": "The Firestone Tire and Rubber Company established a large rubber plantation in Liberia, significantly impacting the economy.",
+      "media": "https://en.wikipedia.org/wiki/Firestone_Tire_and_Rubber_Company"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": 4,
+        "day": 12
+      },
+      "headline": "Coup d'état",
+      "text": "A coup led by Samuel Doe overthrew the Americo-Liberian government, marking the beginning of a turbulent period in Liberian history.",
+      "media": "https://en.wikipedia.org/wiki/1980_coup_d%27%C3%A9tat_in_Liberia"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 12,
+        "day": 24
+      },
+      "headline": "Start of Second Civil War",
+      "text": "The Second Liberian Civil War began when Charles Taylor launched an invasion from the Ivory Coast, leading to widespread violence and instability.",
+      "media": "https://en.wikipedia.org/wiki/Second_Civil_War_(Liberia)"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 9,
+        "day": 9
+      },
+      "headline": "Doe's Execution",
+      "text": "Samuel Doe was captured and executed by rebel forces, further escalating the chaos in the country.",
+      "media": "https://en.wikipedia.org/wiki/Samuel_Doe"
+    },
+    {
+      "start_date": {
+        "year": 1997,
+        "month": 7,
+        "day": 19
+      },
+      "headline": "Charles Taylor Elected President",
+      "text": "Charles Taylor was elected president in a controversial election, promising peace but continuing to face accusations of human rights abuses.",
+      "media": "https://en.wikipedia.org/wiki/Charles_Taylor"
+    },
+    {
+      "start_date": {
+        "year": 2003,
+        "month": 8,
+        "day": 11
+      },
+      "headline": "Taylor Resigns",
+      "text": "Under pressure from rebel forces and international intervention, Charles Taylor resigned and went into exile, marking the end of his presidency.",
+      "media": "https://en.wikipedia.org/wiki/Second_Civil_War_(Liberia)#Aftermath"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 10,
+        "day": 11
+      },
+      "headline": "Ellen Johnson Sirleaf Elected",
+      "text": "Ellen Johnson Sirleaf became Africa's first female elected head of state, winning the presidential election and promising to rebuild the war-torn nation.",
+      "media": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Ebola Outbreak",
+      "text": "Liberia was severely affected by the Ebola outbreak, which led to thousands of deaths and a significant impact on the healthcare system.",
+      "media": "https://en.wikipedia.org/wiki/2014%E2%80%9316_Ebola_outbreak_in_West_Africa"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 1,
+        "day": 22
+      },
+      "headline": "George Weah Elected President",
+      "text": "Former football star George Weah was elected president, promising to address economic challenges and improve living conditions.",
+      "media": "https://en.wikipedia.org/wiki/George_Weah"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Liberia, like many countries, faced challenges due to the COVID-19 pandemic, impacting health and the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Liberia"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Current Political Climate",
+      "text": "Liberia continues to navigate political and economic challenges, with upcoming elections and ongoing efforts for national development.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Liberia"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Congo (Congo-Brazzaville)",
+      "text": "Major events in the history of Congo (Congo-Brazzaville)."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Settlements",
+      "text": "The region now known as Congo-Brazzaville was inhabited by various Bantu-speaking tribes, establishing early agricultural societies. These communities developed rich cultural traditions and trade networks.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 1482,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Exploration",
+      "text": "Portuguese explorers, including Diogo Cão, arrived on the coast of Central Africa, initiating European interest in the region. This led to the establishment of trade routes and the beginning of the transatlantic slave trade.",
+      "media": "https://en.wikipedia.org/wiki/Diogo_C%C3%A3o"
+    },
+    {
+      "start_date": {
+        "year": 1880,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Colonization",
+      "text": "France began to establish control over the region, leading to the formal declaration of the French Congo in 1880. This marked the beginning of significant European colonial influence in the area.",
+      "media": "https://en.wikipedia.org/wiki/French_Congo"
+    },
+    {
+      "start_date": {
+        "year": 1903,
+        "month": null,
+        "day": null
+      },
+      "headline": "Brazzaville Becomes Capital",
+      "text": "Brazzaville was designated as the capital of French Equatorial Africa, consolidating its political importance in the region. This decision facilitated administrative control and economic exploitation.",
+      "media": "https://en.wikipedia.org/wiki/Brazzaville"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": null,
+        "day": null
+      },
+      "headline": "World War II Impact",
+      "text": "During World War II, Brazzaville served as a base for Free French forces. The city hosted the Brazzaville Conference, which aimed to discuss the future of France's colonies.",
+      "media": "https://en.wikipedia.org/wiki/Brazzaville_Conference"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 8,
+        "day": 15
+      },
+      "headline": "Independence from France",
+      "text": "Congo-Brazzaville gained independence from France on August 15, 1960. This marked the beginning of a new era as the country sought to establish its identity and governance.",
+      "media": "https://en.wikipedia.org/wiki/Congo-Brazzaville#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1963,
+        "month": null,
+        "day": null
+      },
+      "headline": "First President",
+      "text": "Fulbert Youlou became the first President of the Republic of Congo after independence. His leadership was marked by political instability and economic challenges.",
+      "media": "https://en.wikipedia.org/wiki/Fulbert_Youlou"
+    },
+    {
+      "start_date": {
+        "year": 1968,
+        "month": null,
+        "day": null
+      },
+      "headline": "Marien Ngouabi's Coup",
+      "text": "Marien Ngouabi led a coup d'état, overthrowing Youlou and establishing a Marxist-Leninist regime. This shifted the political landscape towards a one-party state.",
+      "media": "https://en.wikipedia.org/wiki/Marien_Ngouabi"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Reforms",
+      "text": "In response to growing discontent, Ngouabi's successor initiated political reforms, allowing for multi-party elections. This was a significant step towards democratization.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Multi-Party Elections",
+      "text": "Congo-Brazzaville held its first multi-party elections, leading to the election of Pascal Lissouba as president. This marked a pivotal moment in the country's democratic journey.",
+      "media": "https://en.wikipedia.org/wiki/Pascal_Lissouba"
+    },
+    {
+      "start_date": {
+        "year": 1997,
+        "month": null,
+        "day": null
+      },
+      "headline": "Civil War Erupts",
+      "text": "A civil war broke out between factions supporting Lissouba and those backing Denis Sassou Nguesso. The conflict resulted in significant loss of life and displacement.",
+      "media": "https://en.wikipedia.org/wiki/Congo-Brazzaville_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1999,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sassou Nguesso Returns to Power",
+      "text": "Denis Sassou Nguesso seized control of the government after the civil war, establishing a new regime. His leadership faced criticism for human rights abuses and corruption.",
+      "media": "https://en.wikipedia.org/wiki/Denis_Sassou_Nguesso"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,
+        "day": null
+      },
+      "headline": "Peace Agreements",
+      "text": "A peace agreement was signed, officially ending the civil war. This agreement aimed to restore stability and promote national reconciliation.",
+      "media": "https://en.wikipedia.org/wiki/Congo-Brazzaville_Civil_War#Peace_agreements"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Referendum",
+      "text": "A new constitution was adopted through a referendum, which established a presidential term limit and aimed to strengthen democratic governance. However, political tensions remained.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_the_Republic_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Controversial Referendum",
+      "text": "A controversial referendum was held to amend the constitution, allowing Sassou Nguesso to extend his presidency. This sparked protests and international criticism.",
+      "media": "https://en.wikipedia.org/wiki/2015_Congolese_constitutional_referendum"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": null,
+        "day": null
+      },
+      "headline": "Presidential Elections",
+      "text": "Presidential elections were held, resulting in Sassou Nguesso's victory amid allegations of electoral fraud. The elections were marred by violence and unrest.",
+      "media": "https://en.wikipedia.org/wiki/2016_Congolese_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Congo-Brazzaville faced challenges due to the COVID-19 pandemic, impacting public health and the economy. The government implemented measures to curb the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Republic_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Political Tensions",
+      "text": "Political tensions persisted as opposition parties challenged Sassou Nguesso's government. Protests and calls for democratic reforms continued to shape the political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_the_Congo"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Recent Developments",
+      "text": "Congo-Brazzaville continues to navigate its political landscape with ongoing discussions about governance, economic development, and social issues. The future remains uncertain as citizens advocate for change.",
+      "media": "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+    }
+  ]
+}

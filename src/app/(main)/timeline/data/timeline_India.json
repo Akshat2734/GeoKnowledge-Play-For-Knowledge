@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of India",
+      "text": "Major events in the history of India."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Indus Valley Civilization",
+      "text": "The Indus Valley Civilization, one of the world's earliest urban cultures, flourished in the northwestern regions of South Asia. It is known for its advanced city planning, architecture, and social organization.",
+      "media": "https://en.wikipedia.org/wiki/Indus_Valley_Civilization"
+    },
+    {
+      "start_date": {
+        "year": -1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Vedic Period Begins",
+      "text": "The Vedic period marks the arrival of the Indo-Aryans and the composition of the Vedas, the oldest sacred texts of Hinduism. This era laid the foundations for Hindu culture and philosophy.",
+      "media": "https://en.wikipedia.org/wiki/Vedic_period"
+    },
+    {
+      "start_date": {
+        "year": 322,
+        "month": null,
+        "day": null
+      },
+      "headline": "Maurya Empire Established",
+      "text": "Chandragupta Maurya founded the Maurya Empire, which became one of the largest empires in ancient India. The empire is known for its significant political and military achievements.",
+      "media": "https://en.wikipedia.org/wiki/Maurya_empire"
+    },
+    {
+      "start_date": {
+        "year": 268,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ashoka the Great",
+      "text": "Emperor Ashoka, a prominent Mauryan ruler, embraced Buddhism and spread its teachings across Asia. His edicts promoted non-violence and moral governance.",
+      "media": "https://en.wikipedia.org/wiki/Ashoka"
+    },
+    {
+      "start_date": {
+        "year": 320,
+        "month": null,
+        "day": null
+      },
+      "headline": "Gupta Empire Begins",
+      "text": "The Gupta Empire is often referred to as the Golden Age of India due to its achievements in science, mathematics, and art. This period saw significant advancements in various fields.",
+      "media": "https://en.wikipedia.org/wiki/Gupta_empire"
+    },
+    {
+      "start_date": {
+        "year": 712,
+        "month": null,
+        "day": null
+      },
+      "headline": "Arab Invasion of Sindh",
+      "text": "The Arab invasion led by Muhammad bin Qasim marked the beginning of Islamic influence in India. This event initiated a series of cultural and political changes in the region.",
+      "media": "https://en.wikipedia.org/wiki/Muhammad_bin_Qasim"
+    },
+    {
+      "start_date": {
+        "year": 1192,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Delhi Sultanate",
+      "text": "The Delhi Sultanate was established after the defeat of the Rajput king Prithviraj Chauhan by Muhammad Ghori. This marked the beginning of Muslim rule in India.",
+      "media": "https://en.wikipedia.org/wiki/Delhi_Sultanate"
+    },
+    {
+      "start_date": {
+        "year": 1526,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mughal Empire Founded",
+      "text": "Babur founded the Mughal Empire after defeating Ibrahim Lodi at the First Battle of Panipat. The empire would become known for its rich culture and architectural achievements.",
+      "media": "https://en.wikipedia.org/wiki/Mughal_empire"
+    },
+    {
+      "start_date": {
+        "year": 1600,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the East India Company",
+      "text": "The British East India Company was established to trade in the East Indies, marking the beginning of British economic interests in India. This would eventually lead to colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/East_India_Company"
+    },
+    {
+      "start_date": {
+        "year": 1857,
+        "month": 5,
+        "day": 10
+      },
+      "headline": "Indian Rebellion of 1857",
+      "text": "Also known as the Sepoy Mutiny, this was a major, but ultimately unsuccessful, uprising against the British East India Company's rule. It marked a significant turning point in Indian history.",
+      "media": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+    },
+    {
+      "start_date": {
+        "year": 1885,
+        "month": null,
+        "day": null
+      },
+      "headline": "Indian National Congress Founded",
+      "text": "The Indian National Congress was founded to provide a platform for civil and political rights for Indians. It played a crucial role in the struggle for independence.",
+      "media": "https://en.wikipedia.org/wiki/Indian_National_Congress"
+    },
+    {
+      "start_date": {
+        "year": 1919,
+        "month": 4,
+        "day": 13
+      },
+      "headline": "Jallianwala Bagh Massacre",
+      "text": "British troops opened fire on a peaceful gathering in Amritsar, killing hundreds of Indians. This event galvanized the Indian independence movement and increased anti-British sentiments.",
+      "media": "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre"
+    },
+    {
+      "start_date": {
+        "year": 1930,
+        "month": 1,
+        "day": 26
+      },
+      "headline": "Salt March",
+      "text": "Mahatma Gandhi led the Salt March to protest the British salt tax, symbolizing the Indian struggle for independence. This act of civil disobedience became a pivotal moment in the freedom movement.",
+      "media": "https://en.wikipedia.org/wiki/Salt_March"
+    },
+    {
+      "start_date": {
+        "year": 1942,
+        "month": 8,
+        "day": 8
+      },
+      "headline": "Quit India Movement",
+      "text": "The Quit India Movement was launched by the Indian National Congress demanding an end to British rule. It marked a significant escalation in the struggle for independence.",
+      "media": "https://en.wikipedia.org/wiki/Quit_India_Movement"
+    },
+    {
+      "start_date": {
+        "year": 1947,
+        "month": 8,
+        "day": 15
+      },
+      "headline": "India Gains Independence",
+      "text": "India gained independence from British rule on August 15, 1947, following a long struggle led by figures like Mahatma Gandhi and Jawaharlal Nehru. This day is celebrated annually as Independence Day.",
+      "media": "https://en.wikipedia.org/wiki/Indian_independence_movement"
+    },
+    {
+      "start_date": {
+        "year": 1947,
+        "month": 8,
+        "day": 15
+      },
+      "headline": "Partition of India",
+      "text": "The partition of British India into two independent dominions, India and Pakistan, led to widespread communal violence and mass migrations. It remains one of the most traumatic events in Indian history.",
+      "media": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    {
+      "start_date": {
+        "year": 1950,
+        "month": 1,
+        "day": 26
+      },
+      "headline": "Constitution of India Adopted",
+      "text": "The Constitution of India came into effect, establishing India as a sovereign, democratic republic. It enshrined fundamental rights and the rule of law.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": 12,
+        "day": 3
+      },
+      "headline": "Indo-Pakistani War of 1971",
+      "text": "The Indo-Pakistani War of 1971 resulted in the creation of Bangladesh. It was a significant conflict that highlighted the tensions between India and Pakistan.",
+      "media": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 7,
+        "day": 24
+      },
+      "headline": "Economic Liberalization",
+      "text": "India initiated economic reforms that liberalized its economy, leading to significant growth and integration into the global market. This marked a major shift in India's economic policy.",
+      "media": "https://en.wikipedia.org/wiki/Economic_liberalization_in_India"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "day": 26
+      },
+      "headline": "Narendra Modi Becomes Prime Minister",
+      "text": "Narendra Modi was sworn in as the Prime Minister of India after his party, the Bharatiya Janata Party (BJP), won a decisive victory in the general elections. His tenure has been marked by significant political and economic changes.",
+      "media": "https://en.wikipedia.org/wiki/Narendra_Modi"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 24
+      },
+      "headline": "COVID-19 Lockdown",
+      "text": "India implemented one of the world's strictest lockdowns to combat the COVID-19 pandemic. The lockdown had significant social and economic impacts across the country.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India"
+    }
+  ]
+}

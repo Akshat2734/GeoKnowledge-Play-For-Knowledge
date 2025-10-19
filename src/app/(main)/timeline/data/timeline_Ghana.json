@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Ghana",
+      "text": "Major events in the history of Ghana."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Settlements",
+      "text": "The area now known as Ghana was inhabited by various ethnic groups, including the Akan, Mole-Dagbani, and Ewe, who established settlements and engaged in trade.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Ghana"
+    },
+    {
+      "start_date": {
+        "year": 300,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Ghana Empire",
+      "text": "The Ghana Empire, located to the north of present-day Ghana, became a powerful trading empire, known for its wealth in gold and control of trans-Saharan trade routes.",
+      "media": "https://en.wikipedia.org/wiki/Ghana_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1200,
+        "month": null,
+        "day": null
+      },
+      "headline": "Rise of the Mali Empire",
+      "text": "The decline of the Ghana Empire led to the rise of the Mali Empire, which expanded into the region and influenced trade and culture.",
+      "media": "https://en.wikipedia.org/wiki/Mali_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1471,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Arrival",
+      "text": "The Portuguese were the first Europeans to arrive on the Gold Coast, establishing trade relations and fortifications along the coast.",
+      "media": "https://en.wikipedia.org/wiki/Portuguese_Ghana"
+    },
+    {
+      "start_date": {
+        "year": 1550,
+        "month": null,
+        "day": null
+      },
+      "headline": "Gold Coast Trade",
+      "text": "The Gold Coast became a significant center for the trade of gold, ivory, and enslaved people, attracting various European powers.",
+      "media": "https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Colonization Begins",
+      "text": "The British formally began to establish control over the Gold Coast, leading to conflicts with local kingdoms and the eventual colonization of the region.",
+      "media": "https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)"
+    },
+    {
+      "start_date": {
+        "year": 1874,
+        "month": null,
+        "day": null
+      },
+      "headline": "Gold Coast Becomes a Colony",
+      "text": "The Gold Coast was officially declared a colony of the British Empire, marking the start of direct British rule.",
+      "media": "https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)"
+    },
+    {
+      "start_date": {
+        "year": 1948,
+        "month": 2,
+        "day": 28
+      },
+      "headline": "Accra Riots",
+      "text": "The Accra Riots occurred as a response to colonial policies, highlighting the growing discontent among Ghanaians and the demand for independence.",
+      "media": "https://en.wikipedia.org/wiki/Accra_Riots"
+    },
+    {
+      "start_date": {
+        "year": 1957,
+        "month": 3,
+        "day": 6
+      },
+      "headline": "Independence from Britain",
+      "text": "Ghana became the first African nation to gain independence from colonial rule, with Kwame Nkrumah as its first Prime Minister.",
+      "media": "https://en.wikipedia.org/wiki/Ghana"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 7,
+        "day": 1
+      },
+      "headline": "Republic of Ghana",
+      "text": "Ghana was declared a republic, with Kwame Nkrumah as its first president, solidifying its status as a leader in the African independence movement.",
+      "media": "https://en.wikipedia.org/wiki/Republic_of_Ghana"
+    },
+    {
+      "start_date": {
+        "year": 1966,
+        "month": 2,
+        "day": 24
+      },
+      "headline": "First Coup d'État",
+      "text": "Kwame Nkrumah was overthrown in a military coup, leading to a period of political instability and military rule in Ghana.",
+      "media": "https://en.wikipedia.org/wiki/1966_Ghanaian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": 6,
+        "day": 4
+      },
+      "headline": "Second Coup d'État",
+      "text": "A second coup led by Flight Lieutenant Jerry Rawlings resulted in the establishment of a military government, further complicating Ghana's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/1979_Ghanaian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1981,
+        "month": 12,
+        "day": 31
+      },
+      "headline": "Rawlings Takes Power",
+      "text": "Jerry Rawlings seized power again in a coup, initiating a period of military rule that would last for several years.",
+      "media": "https://en.wikipedia.org/wiki/Jerry_Rawlings"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": 4,
+        "day": 28
+      },
+      "headline": "Return to Democracy",
+      "text": "Ghana adopted a new constitution and returned to democratic rule, with Jerry Rawlings elected as president in the country's first multi-party elections.",
+      "media": "https://en.wikipedia.org/wiki/1992_Ghanaian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": 12,
+        "day": 7
+      },
+      "headline": "First Peaceful Transfer of Power",
+      "text": "Ghana witnessed its first peaceful transfer of power from one democratically elected president to another, marking a significant milestone in its democratic journey.",
+      "media": "https://en.wikipedia.org/wiki/2000_Ghanaian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 12,
+        "day": 7
+      },
+      "headline": "Another Democratic Election",
+      "text": "Ghana held another successful general election, further solidifying its reputation as a stable democracy in West Africa.",
+      "media": "https://en.wikipedia.org/wiki/2008_Ghanaian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2016,
+        "month": 12,
+        "day": 7
+      },
+      "headline": "Election of Nana Akufo-Addo",
+      "text": "Nana Akufo-Addo was elected president, marking a continuation of democratic governance and economic reforms in the country.",
+      "media": "https://en.wikipedia.org/wiki/2016_Ghanaian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 12,
+        "day": 7
+      },
+      "headline": "Re-election of Nana Akufo-Addo",
+      "text": "Nana Akufo-Addo was re-elected for a second term, continuing his policies aimed at economic growth and development.",
+      "media": "https://en.wikipedia.org/wiki/2020_Ghanaian_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Challenges",
+      "text": "Ghana faces various challenges, including economic issues and political tensions, as it navigates its path forward in a dynamic global landscape.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Ghana"
+    }
+  ]
+}

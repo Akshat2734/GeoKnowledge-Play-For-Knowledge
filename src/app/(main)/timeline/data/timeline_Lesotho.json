@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Lesotho",
+      "text": "Major events in the history of Lesotho."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The region that is now Lesotho was inhabited by the San people, known for their rock art and hunter-gatherer lifestyle.",
+      "media": "https://en.wikipedia.org/wiki/San_people"
+    },
+    {
+      "start_date": {
+        "year": 1820,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Basotho Nation",
+      "text": "Moshoeshoe I, a chief of the Basotho, began to consolidate various clans into a single nation, establishing the foundation of modern Lesotho.",
+      "media": "https://en.wikipedia.org/wiki/Moshoeshoe_I"
+    },
+    {
+      "start_date": {
+        "year": 1833,
+        "month": null,
+        "day": null
+      },
+      "headline": "Battle of Viervoet",
+      "text": "The Basotho fought against the Nguni tribes in the Battle of Viervoet, marking a significant conflict in the consolidation of the Basotho nation.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Viervoet"
+    },
+    {
+      "start_date": {
+        "year": 1868,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Protectorate",
+      "text": "Lesotho became a British protectorate after a series of conflicts with the Cape Colony, leading to the establishment of colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1884,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formal Annexation",
+      "text": "The British formally annexed Lesotho, incorporating it into the Cape Colony, which led to increased tensions with the Basotho people.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1966,
+        "month": 10,
+        "day": 4
+      },
+      "headline": "Independence from Britain",
+      "text": "Lesotho gained independence from British colonial rule, becoming a constitutional monarchy under King Moshoeshoe II.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Turmoil",
+      "text": "The 1970 elections were annulled by Prime Minister Leabua Jonathan, leading to political unrest and the establishment of a one-party state.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Political_turmoil"
+    },
+    {
+      "start_date": {
+        "year": 1986,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Coup",
+      "text": "A military coup led by General Justin Lekhanya overthrew the government, marking the beginning of military rule in Lesotho.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Military_rule"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": 5,
+        "day": 26
+      },
+      "headline": "Return to Democracy",
+      "text": "Lesotho held its first democratic elections after years of military rule, leading to the establishment of a parliamentary democracy.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Democratic_governance"
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "Political Violence",
+      "text": "Political unrest and violence erupted following disputed elections, leading to military intervention by South Africa.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Political_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Reforms",
+      "text": "Lesotho adopted a new constitution aimed at strengthening democratic institutions and promoting human rights.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Constitutional_reforms"
+    },
+    {
+      "start_date": {
+        "year": 2007,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Challenges",
+      "text": "Lesotho faced significant economic challenges, including high unemployment and reliance on remittances from migrant workers in South Africa.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Lesotho"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "Political Crisis",
+      "text": "A political crisis emerged when Prime Minister Thomas Thabane suspended parliament, leading to widespread protests and calls for reform.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Political_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Security Sector Reforms",
+      "text": "Lesotho initiated security sector reforms to address issues of political instability and improve governance.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Security_sector_reforms"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 6,
+        "day": 1
+      },
+      "headline": "Thabane Returns to Power",
+      "text": "Thomas Thabane returned to power after a coalition government was formed, aiming to stabilize the political situation in Lesotho.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Recent_history"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Lesotho faced challenges due to the COVID-19 pandemic, impacting its economy and healthcare system significantly.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Lesotho"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "General Elections",
+      "text": "Lesotho held general elections, which resulted in a coalition government, reflecting the ongoing political dynamics in the country.",
+      "media": "https://en.wikipedia.org/wiki/2022_Lesotho_general_election"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Political Reforms",
+      "text": "Lesotho continues to pursue political reforms aimed at enhancing governance and stability in the wake of recent elections.",
+      "media": "https://en.wikipedia.org/wiki/Lesotho#Recent_history"
+    }
+  ]
+}

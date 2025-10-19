@@ -1,0 +1,260 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Iraq",
+      "text": "Major events in the history of Iraq."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sumerian Civilization Emerges",
+      "text": "The Sumerians established one of the world's first civilizations in southern Mesopotamia, developing writing, urban centers, and complex societies.",
+      "media": "https://en.wikipedia.org/wiki/Sumer"
+    },
+    {
+      "start_date": {
+        "year": -2334,
+        "month": null,
+        "day": null
+      },
+      "headline": "Akkadian Empire Founded",
+      "text": "Sargon of Akkad united the Sumerian city-states and established the Akkadian Empire, one of the first empires in history.",
+      "media": "https://en.wikipedia.org/wiki/Akkadian_Empire"
+    },
+    {
+      "start_date": {
+        "year": -1792,
+        "month": null,
+        "day": null
+      },
+      "headline": "Hammurabi's Code",
+      "text": "King Hammurabi of Babylon codified laws that became one of the earliest and most complete written legal codes.",
+      "media": "https://en.wikipedia.org/wiki/Hammurabi"
+    },
+    {
+      "start_date": {
+        "year": -612,
+        "month": null,
+        "day": null
+      },
+      "headline": "Fall of the Assyrian Empire",
+      "text": "The Assyrian Empire, known for its military prowess and architectural achievements, fell to a coalition of Medes, Babylonians, and Scythians.",
+      "media": "https://en.wikipedia.org/wiki/Assyrian_Empire"
+    },
+    {
+      "start_date": {
+        "year": -539,
+        "month": null,
+        "day": null
+      },
+      "headline": "Cyrus the Great Conquers Babylon",
+      "text": "Cyrus the Great of Persia conquered Babylon, marking the beginning of Persian rule over Mesopotamia.",
+      "media": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+    },
+    {
+      "start_date": {
+        "year": 331,
+        "month": null,
+        "day": null
+      },
+      "headline": "Alexander the Great Conquers Persia",
+      "text": "Alexander the Great defeated Darius III of Persia and took control of Babylon, spreading Greek culture throughout the region.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": 637,
+        "month": null,
+        "day": null
+      },
+      "headline": "Islamic Conquest of Iraq",
+      "text": "Muslim forces defeated the Sassanian Empire at the Battle of Qadisiyyah, leading to the spread of Islam in Iraq.",
+      "media": "https://en.wikipedia.org/wiki/Islamic_conquest_of_Persia"
+    },
+    {
+      "start_date": {
+        "year": 750,
+        "month": null,
+        "day": null
+      },
+      "headline": "Abbasid Caliphate Established",
+      "text": "The Abbasid Caliphate was established, with Baghdad becoming a major center of culture, science, and trade.",
+      "media": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+    },
+    {
+      "start_date": {
+        "year": 1258,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sack of Baghdad",
+      "text": "The Mongol Empire, led by Hulagu Khan, sacked Baghdad, marking the end of the Islamic Golden Age in the city.",
+      "media": "https://en.wikipedia.org/wiki/Sack_of_Baghdad_(1258)"
+    },
+    {
+      "start_date": {
+        "year": 1514,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ottoman Conquest of Iraq",
+      "text": "The Ottoman Empire conquered Iraq, incorporating it into its vast territories and ruling for several centuries.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1914,
+        "month": null,
+        "day": null
+      },
+      "headline": "World War I Begins",
+      "text": "Iraq, then part of the Ottoman Empire, became a battleground during World War I as British forces sought to control the region.",
+      "media": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": null,
+        "day": null
+      },
+      "headline": "Iraqi Revolt Against British Rule",
+      "text": "The Iraqi revolt against British rule began, leading to a prolonged struggle for independence.",
+      "media": "https://en.wikipedia.org/wiki/Iraqi_Revolt_of_1920"
+    },
+    {
+      "start_date": {
+        "year": 1932,
+        "month": null,
+        "day": null
+      },
+      "headline": "Iraq Gains Independence",
+      "text": "Iraq was granted independence from British mandate, becoming a sovereign state.",
+      "media": "https://en.wikipedia.org/wiki/Iraq"
+    },
+    {
+      "start_date": {
+        "year": 1958,
+        "month": null,
+        "day": null
+      },
+      "headline": "Iraqi Revolution",
+      "text": "A coup led by the Free Officers Movement overthrew the monarchy, establishing a republic.",
+      "media": "https://en.wikipedia.org/wiki/Iraqi_Revolution_of_1958"
+    },
+    {
+      "start_date": {
+        "year": 1968,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ba'ath Party Takes Power",
+      "text": "The Ba'ath Party, led by Saddam Hussein, seized control of Iraq, beginning a period of authoritarian rule.",
+      "media": "https://en.wikipedia.org/wiki/Ba%27ath_Party"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "Iran-Iraq War Begins",
+      "text": "The Iran-Iraq War began, lasting eight years and resulting in significant casualties and economic damage.",
+      "media": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 8,
+        "day": 2
+      },
+      "headline": "Invasion of Kuwait",
+      "text": "Iraq invaded Kuwait, leading to international condemnation and the eventual Gulf War.",
+      "media": "https://en.wikipedia.org/wiki/Gulf_War"
+    },
+    {
+      "start_date": {
+        "year": 2003,
+        "month": 3,
+        "day": 20
+      },
+      "headline": "U.S.-Led Invasion of Iraq",
+      "text": "A coalition led by the United States invaded Iraq, resulting in the toppling of Saddam Hussein's regime.",
+      "media": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 1,
+        "day": 30
+      },
+      "headline": "First Democratic Elections",
+      "text": "Iraq held its first democratic elections since the fall of Saddam Hussein, marking a significant step towards democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/2005_Iraqi_parliamentary_election"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": 12,
+        "day": 18
+      },
+      "headline": "U.S. Troops Withdraw",
+      "text": "The last U.S. combat troops withdrew from Iraq, ending nearly nine years of military presence.",
+      "media": "https://en.wikipedia.org/wiki/Withdrawal_of_U.S._military_forces_from_Iraq"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "day": 10
+      },
+      "headline": "Rise of ISIS",
+      "text": "The Islamic State of Iraq and Syria (ISIS) captured Mosul, declaring a caliphate and leading to widespread violence and instability.",
+      "media": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 12,
+        "day": 9
+      },
+      "headline": "Defeat of ISIS",
+      "text": "Iraqi forces declared victory over ISIS, reclaiming territory and restoring some stability to the region.",
+      "media": "https://en.wikipedia.org/wiki/ISIS#Defeat_in_Iraq"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Protests Against Corruption",
+      "text": "Nationwide protests erupted in Iraq against government corruption, unemployment, and lack of basic services.",
+      "media": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Iraqi_protests"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 10,
+        "day": 10
+      },
+      "headline": "Parliamentary Elections",
+      "text": "Iraq held parliamentary elections, aimed at addressing the demands of the protest movement and reforming the political system.",
+      "media": "https://en.wikipedia.org/wiki/2021_Iraqi_parliamentary_election"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ongoing Political Challenges",
+      "text": "Iraq continues to face political instability, economic challenges, and security threats, as it navigates its post-ISIS recovery.",
+      "media": "https://en.wikipedia.org/wiki/Iraq"
+    }
+  ]
+}

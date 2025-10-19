@@ -1,0 +1,230 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Iran",
+      "text": "Major events in the history of Iran."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3200,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Elamite Civilization",
+      "text": "The Elamite civilization emerges in southwestern Iran, known for its advanced culture and trade networks. It plays a significant role in the early history of the region.",
+      "media": "https://en.wikipedia.org/wiki/Elam"
+    },
+    {
+      "start_date": {
+        "year": -550,
+        "month": null,
+        "day": null
+      },
+      "headline": "Rise of the Achaemenid Empire",
+      "text": "Cyrus the Great founds the Achaemenid Empire, uniting various tribes and regions under a centralized rule. This marks the beginning of the first Persian Empire.",
+      "media": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+    },
+    {
+      "start_date": {
+        "year": -330,
+        "month": null,
+        "day": null
+      },
+      "headline": "Conquest by Alexander the Great",
+      "text": "Alexander the Great conquers the Achaemenid Empire, leading to the fall of Persian rule. This event significantly influences the cultural landscape of Iran.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": -250,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Parthian Empire",
+      "text": "The Parthian Empire rises, succeeding the Seleucid Empire and becoming a major power in the region. It is known for its feudal system and conflicts with Rome.",
+      "media": "https://en.wikipedia.org/wiki/Parthian_Empire"
+    },
+    {
+      "start_date": {
+        "year": 224,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sasanian Empire Established",
+      "text": "Ardashir I establishes the Sasanian Empire, marking a revival of Persian culture and Zoroastrianism. The empire becomes a significant rival to the Roman Empire.",
+      "media": "https://en.wikipedia.org/wiki/Sasanian_Empire"
+    },
+    {
+      "start_date": {
+        "year": 651,
+        "month": null,
+        "day": null
+      },
+      "headline": "Islamic Conquest of Persia",
+      "text": "The Islamic armies conquer the Sasanian Empire, leading to the widespread adoption of Islam in Iran. This marks a significant cultural and religious transformation.",
+      "media": "https://en.wikipedia.org/wiki/Islamic_conquest_of_Persia"
+    },
+    {
+      "start_date": {
+        "year": 1258,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mongol Invasion",
+      "text": "The Mongols, led by Hulagu Khan, invade and sack Baghdad, impacting Iran significantly. This leads to a period of devastation and transformation in the region.",
+      "media": "https://en.wikipedia.org/wiki/Mongol_invasions"
+    },
+    {
+      "start_date": {
+        "year": 1501,
+        "month": null,
+        "day": null
+      },
+      "headline": "Safavid Dynasty Founded",
+      "text": "Shah Ismail I establishes the Safavid Dynasty, marking the beginning of a unified Persian state and the establishment of Twelver Shi'ism as the state religion.",
+      "media": "https://en.wikipedia.org/wiki/Safavid"
+    },
+    {
+      "start_date": {
+        "year": 1794,
+        "month": null,
+        "day": null
+      },
+      "headline": "Qajar Dynasty Established",
+      "text": "The Qajar Dynasty comes to power, ruling Iran until the early 20th century. This period is marked by internal strife and foreign intervention.",
+      "media": "https://en.wikipedia.org/wiki/Qajar"
+    },
+    {
+      "start_date": {
+        "year": 1906,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Revolution",
+      "text": "The Constitutional Revolution leads to the establishment of a parliament in Iran, marking a significant step towards modern governance and civil rights.",
+      "media": "https://en.wikipedia.org/wiki/Iranian_Constitutional_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1925,
+        "month": null,
+        "day": null
+      },
+      "headline": "Pahlavi Dynasty Established",
+      "text": "Reza Shah Pahlavi comes to power, initiating a series of modernization reforms in Iran. His rule significantly alters the political and social landscape.",
+      "media": "https://en.wikipedia.org/wiki/Pahlavi_dynasty"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": null,
+        "day": null
+      },
+      "headline": "Reza Shah Abdicates",
+      "text": "Reza Shah is forced to abdicate during World War II, leading to the rise of his son, Mohammad Reza Pahlavi. This transition marks a turbulent period in Iranian politics.",
+      "media": "https://en.wikipedia.org/wiki/Reza_Shah"
+    },
+    {
+      "start_date": {
+        "year": 1953,
+        "month": null,
+        "day": null
+      },
+      "headline": "Coup d'état Against Mossadegh",
+      "text": "The CIA orchestrates a coup to overthrow Prime Minister Mohammad Mossadegh, reinstating the Shah's power. This event has lasting implications for Iranian politics.",
+      "media": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": null,
+        "day": null
+      },
+      "headline": "Iranian Revolution",
+      "text": "The Iranian Revolution leads to the overthrow of the Pahlavi monarchy and the establishment of the Islamic Republic under Ayatollah Khomeini. This marks a significant shift in governance and ideology.",
+      "media": "https://en.wikipedia.org/wiki/Iranian_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": null,
+        "day": null
+      },
+      "headline": "Iran-Iraq War Begins",
+      "text": "The Iran-Iraq War begins, lasting eight years and resulting in significant loss of life and economic hardship for both nations. The conflict shapes regional dynamics.",
+      "media": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": null,
+        "day": null
+      },
+      "headline": "Death of Ayatollah Khomeini",
+      "text": "Ayatollah Khomeini, the leader of the Iranian Revolution, dies, leading to a power transition within the Islamic Republic. His death marks the end of an era in Iranian politics.",
+      "media": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": 9,
+        "day": 11
+      },
+      "headline": "September 11 Attacks",
+      "text": "The September 11 attacks in the United States lead to increased tensions between Iran and the West, particularly regarding terrorism and nuclear proliferation.",
+      "media": "https://en.wikipedia.org/wiki/September_11_attacks"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "Mahmoud Ahmadinejad Elected",
+      "text": "Mahmoud Ahmadinejad is elected president, known for his controversial policies and rhetoric. His presidency marks a period of heightened tensions with the West.",
+      "media": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 14
+      },
+      "headline": "Iran Nuclear Deal",
+      "text": "Iran and six world powers reach an agreement on Iran's nuclear program, aimed at limiting its nuclear capabilities in exchange for sanctions relief. This deal is a significant diplomatic achievement.",
+      "media": "https://en.wikipedia.org/wiki/Iran_nuclear_deal"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 5,
+        "day": 8
+      },
+      "headline": "U.S. Withdraws from Nuclear Deal",
+      "text": "The United States withdraws from the Iran nuclear deal, reinstating sanctions and escalating tensions between the two countries. This decision has profound implications for regional stability.",
+      "media": "https://en.wikipedia.org/wiki/2018_United_States_withdrawal_from_the_Iran_nuclear_deal"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 6,
+        "day": 18
+      },
+      "headline": "Ebrahim Raisi Elected President",
+      "text": "Ebrahim Raisi is elected president of Iran, promising to address economic challenges and maintain a hardline stance against the West. His election reflects the ongoing tensions in Iranian politics.",
+      "media": "https://en.wikipedia.org/wiki/Ebrahim_Raisi"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 9,
+        "day": 16
+      },
+      "headline": "Mahsa Amini Protests",
+      "text": "The death of Mahsa Amini, a young woman detained by the morality police, sparks widespread protests across Iran. These protests highlight ongoing issues of women's rights and government repression.",
+      "media": "https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini"
+    }
+  ]
+}

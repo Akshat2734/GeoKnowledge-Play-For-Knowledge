@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Maldives",
+      "text": "Major events in the history of Maldives."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The Maldives is believed to have been settled by Dravidian peoples from the Indian subcontinent around 3000 BCE. These early inhabitants established fishing and agricultural communities on the islands.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives"
+    },
+    {
+      "start_date": {
+        "year": 1153,
+        "month": null,
+        "day": null
+      },
+      "headline": "Conversion to Islam",
+      "text": "The Maldives officially converted to Islam in 1153 AD under the influence of a Moroccan traveler, Abu al-Barakat. This marked a significant cultural and religious shift for the islands.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#Islamic_period"
+    },
+    {
+      "start_date": {
+        "year": 1558,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Colonization",
+      "text": "The Portuguese established control over the Maldives in 1558, leading to a period of foreign domination. Their presence was met with resistance from the local population.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#Portuguese_period"
+    },
+    {
+      "start_date": {
+        "year": 1573,
+        "month": null,
+        "day": null
+      },
+      "headline": "End of Portuguese Rule",
+      "text": "The Maldives expelled the Portuguese in 1573 after a successful uprising led by Muhammad Thakurufaanu Al-Azam. This event is celebrated as a national holiday in the Maldives.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#End_of_Portuguese_rule"
+    },
+    {
+      "start_date": {
+        "year": 1887,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Protectorate",
+      "text": "The Maldives became a British protectorate in 1887, which lasted until the mid-20th century. This arrangement allowed the British to control foreign affairs while the local sultan retained internal authority.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#British_protectorate"
+    },
+    {
+      "start_date": {
+        "year": 1932,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Constitution",
+      "text": "The Maldives adopted its first constitution in 1932, marking a shift towards modern governance. This document established a parliamentary system and limited the powers of the sultan.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#Constitutional_development"
+    },
+    {
+      "start_date": {
+        "year": 1953,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Republic",
+      "text": "The Maldives declared itself a republic for the first time in 1953, abolishing the monarchy. However, this republic was short-lived and the sultanate was restored later that year.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#First_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1965,
+        "month": null,
+        "day": null
+      },
+      "headline": "Independence from Britain",
+      "text": "The Maldives gained full independence from British rule on July 26, 1965. This marked a new era of self-governance and national identity for the islands.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1968,
+        "month": null,
+        "day": null
+      },
+      "headline": "Second Republic",
+      "text": "The Maldives established its Second Republic in 1968 after a coup that deposed the last sultan, Muhammad Fareed Didi. This led to the establishment of a presidential system.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Maldives#Second_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1978,
+        "month": null,
+        "day": null
+      },
+      "headline": "Maumoon Abdul Gayoom's Presidency",
+      "text": "Maumoon Abdul Gayoom became president in 1978, serving for 30 years. His administration was marked by economic development but also by authoritarian practices.",
+      "media": "https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 12,
+        "day": 26
+      },
+      "headline": "2004 Tsunami",
+      "text": "The Maldives was severely affected by the Indian Ocean tsunami on December 26, 2004, which caused extensive damage and loss of life. The disaster prompted international aid and reconstruction efforts.",
+      "media": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_tsunami"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "New Constitution",
+      "text": "A new constitution was adopted in 2008, establishing a multi-party democracy and enhancing civil liberties. This marked a significant political transition for the Maldives.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_the_Maldives"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 10,
+        "day": 28
+      },
+      "headline": "First Democratic Elections",
+      "text": "The first democratic presidential elections were held in the Maldives in 2008, leading to the election of Mohamed Nasheed. This was a historic moment for the country's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Mohamed_Nasheed"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "day": 7
+      },
+      "headline": "Nasheed's Resignation",
+      "text": "President Mohamed Nasheed resigned on February 7, 2012, amid political turmoil and protests. His resignation was controversial and led to debates about the legitimacy of the transition.",
+      "media": "https://en.wikipedia.org/wiki/2012_Maldives_presidential_resignation"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "day": 7
+      },
+      "headline": "Presidential Elections",
+      "text": "Presidential elections were held in September 2013, resulting in the election of Abdulla Yameen. His presidency was marked by political unrest and allegations of authoritarianism.",
+      "media": "https://en.wikipedia.org/wiki/Abdulla_Yameen"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Crisis",
+      "text": "The Maldives faced a political crisis in 2015, with increasing tensions between the government and opposition. This culminated in protests and calls for democratic reforms.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_the_Maldives"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 9,
+        "day": 23
+      },
+      "headline": "Election of Ibrahim Mohamed Solih",
+      "text": "Ibrahim Mohamed Solih was elected president in September 2018, marking a significant political shift. His administration promised to restore democracy and address human rights issues.",
+      "media": "https://en.wikipedia.org/wiki/Ibrahim_Mohamed_Solih"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The Maldives faced the COVID-19 pandemic starting in March 2020, which significantly impacted its tourism-dependent economy. The government implemented various measures to control the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Maldives"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Political Developments",
+      "text": "As of 2023, the Maldives continues to navigate political challenges and economic recovery post-pandemic. The government is focusing on enhancing tourism and addressing climate change issues.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_the_Maldives"
+    }
+  ]
+}

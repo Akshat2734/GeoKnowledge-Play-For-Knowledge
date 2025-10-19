@@ -1,0 +1,210 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Japan",
+      "text": "Major events in the history of Japan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -660,
+        "month": 2,
+        "day": 11
+      },
+      "headline": "Foundation of Japan",
+      "text": "According to legend, Emperor Jimmu, the first emperor of Japan, ascended to the throne, marking the foundation of Japan. This date is celebrated as National Foundation Day in modern Japan.",
+      "media": "https://en.wikipedia.org/wiki/Jimmu"
+    },
+    {
+      "start_date": {
+        "year": 794,
+        "month": null,
+        "day": null
+      },
+      "headline": "Heian Period Begins",
+      "text": "The Heian period marks the height of the Japanese imperial court and the flourishing of classical Japanese culture, including literature and art. The capital was moved to Heian-kyō (modern Kyoto).",
+      "media": "https://en.wikipedia.org/wiki/Heian_period"
+    },
+    {
+      "start_date": {
+        "year": 1185,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "Genpei War Ends",
+      "text": "The Genpei War culminated in the defeat of the Taira clan by the Minamoto clan, leading to the establishment of the Kamakura shogunate. This marked the beginning of feudalism in Japan.",
+      "media": "https://en.wikipedia.org/wiki/Genpei_War"
+    },
+    {
+      "start_date": {
+        "year": 1274,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "First Mongol Invasion",
+      "text": "Kublai Khan's forces attempted to invade Japan, but the invasion was thwarted by a typhoon, which the Japanese called 'kamikaze' or divine winds. This event solidified the belief in divine protection.",
+      "media": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan"
+    },
+    {
+      "start_date": {
+        "year": 1336,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ashikaga Shogunate Established",
+      "text": "The Ashikaga shogunate was established after the fall of the Kamakura shogunate, leading to a period of relative peace and cultural development known as the Muromachi period.",
+      "media": "https://en.wikipedia.org/wiki/Ashikaga_shogunate"
+    },
+    {
+      "start_date": {
+        "year": 1467,
+        "month": null,
+        "day": null
+      },
+      "headline": "Onin War Begins",
+      "text": "The Onin War marked the beginning of the Sengoku period, a time of social upheaval, political intrigue, and near-constant military conflict among rival daimyōs.",
+      "media": "https://en.wikipedia.org/wiki/Onin_War"
+    },
+    {
+      "start_date": {
+        "year": 1603,
+        "month": 3,
+        "day": 24
+      },
+      "headline": "Tokugawa Shogunate Established",
+      "text": "Tokugawa Ieyasu was appointed shōgun, establishing a period of peace and stability known as the Edo period. This era lasted over 250 years and saw significant cultural and economic growth.",
+      "media": "https://en.wikipedia.org/wiki/Tokugawa_shogunate"
+    },
+    {
+      "start_date": {
+        "year": 1853,
+        "month": 7,
+        "day": 8
+      },
+      "headline": "Commodore Perry Arrives",
+      "text": "U.S. Commodore Matthew Perry arrived in Japan with a fleet of ships, demanding the opening of Japanese ports to American trade. This event marked the end of Japan's isolationist policy.",
+      "media": "https://en.wikipedia.org/wiki/Matthew_Calbraith_Perry"
+    },
+    {
+      "start_date": {
+        "year": 1868,
+        "month": 1,
+        "day": 3
+      },
+      "headline": "Meiji Restoration",
+      "text": "The Meiji Restoration restored imperial rule to Japan under Emperor Meiji, leading to rapid modernization and industrialization of the country. This period transformed Japan into a major world power.",
+      "media": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+    },
+    {
+      "start_date": {
+        "year": 1912,
+        "month": 7,
+        "day": 30
+      },
+      "headline": "Taisho Era Begins",
+      "text": "The Taisho era began with the ascension of Emperor Taisho, characterized by a shift towards democracy and cultural openness. It was a time of significant social change and political experimentation.",
+      "media": "https://en.wikipedia.org/wiki/Taisho"
+    },
+    {
+      "start_date": {
+        "year": 1931,
+        "month": 9,
+        "day": 18
+      },
+      "headline": "Invasion of Manchuria",
+      "text": "Japan invaded Manchuria, establishing the puppet state of Manchukuo. This marked the beginning of Japan's aggressive expansion in Asia leading up to World War II.",
+      "media": "https://en.wikipedia.org/wiki/Invasion_of_Manchuria"
+    },
+    {
+      "start_date": {
+        "year": 1941,
+        "month": 12,
+        "day": 7
+      },
+      "headline": "Attack on Pearl Harbor",
+      "text": "Japan launched a surprise military strike against the United States naval base at Pearl Harbor, leading to the U.S. entering World War II. This event marked a significant escalation in the conflict.",
+      "media": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": 8,
+        "day": 6
+      },
+      "headline": "Atomic Bombing of Hiroshima",
+      "text": "The United States dropped an atomic bomb on the city of Hiroshima, resulting in massive destruction and loss of life. This event played a crucial role in Japan's eventual surrender in World War II.",
+      "media": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": 8,
+        "day": 9
+      },
+      "headline": "Atomic Bombing of Nagasaki",
+      "text": "Three days after Hiroshima, Nagasaki was bombed, leading to Japan's unconditional surrender. This event marked the end of World War II.",
+      "media": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    },
+    {
+      "start_date": {
+        "year": 1947,
+        "month": 5,
+        "day": 3
+      },
+      "headline": "New Constitution Adopted",
+      "text": "Japan adopted a new constitution, establishing a parliamentary democracy and renouncing war. This document remains in effect today and is a cornerstone of modern Japanese governance.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Japan"
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": 10,
+        "day": 10
+      },
+      "headline": "Tokyo Olympics",
+      "text": "Japan hosted the Summer Olympics in Tokyo, marking the first time the Games were held in Asia. This event symbolized Japan's post-war recovery and re-emergence on the world stage.",
+      "media": "https://en.wikipedia.org/wiki/1964_Summer_Olympics"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 1,
+        "day": 7
+      },
+      "headline": "Emperor Showa Dies",
+      "text": "The death of Emperor Showa (Hirohito) marked the end of the Showa era and the beginning of the Heisei era under his son, Emperor Akihito. This transition was significant in Japan's modern history.",
+      "media": "https://en.wikipedia.org/wiki/Hirohito"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": 3,
+        "day": 11
+      },
+      "headline": "Great East Japan Earthquake",
+      "text": "A massive earthquake and tsunami struck northeastern Japan, causing widespread devastation and a nuclear disaster at the Fukushima Daiichi Nuclear Power Plant. This event had lasting impacts on Japan's energy policy.",
+      "media": "https://en.wikipedia.org/wiki/2011_Tōhoku_earthquake_and_tsunami"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 23
+      },
+      "headline": "Tokyo Olympics Postponed",
+      "text": "Originally scheduled for 2020, the Tokyo Olympics were postponed to 2021 due to the COVID-19 pandemic. This marked the first time the Olympics had been postponed in modern history.",
+      "media": "https://en.wikipedia.org/wiki/2020_Summer_Olympics"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 7,
+        "day": 23
+      },
+      "headline": "Tokyo Olympics Held",
+      "text": "The Tokyo Olympics were finally held after a year-long postponement, taking place under strict health protocols due to the ongoing pandemic. The event showcased Japan's resilience and adaptability.",
+      "media": "https://en.wikipedia.org/wiki/2020_Summer_Olympics"
+    }
+  ]
+}

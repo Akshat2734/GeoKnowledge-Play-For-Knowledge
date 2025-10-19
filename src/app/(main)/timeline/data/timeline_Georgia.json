@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Georgia",
+      "text": "Major events in the history of Georgia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -6000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The region now known as Georgia was inhabited by ancient tribes, with evidence of human presence dating back to 6000 BC. These early settlers engaged in agriculture and developed complex societies.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Georgia_(country)#Prehistory"
+    },
+    {
+      "start_date": {
+        "year": -400,
+        "month": null,
+        "day": null
+      },
+      "headline": "Kingdom of Colchis",
+      "text": "The Kingdom of Colchis emerged as a significant power on the Black Sea coast, known for its wealth and trade. It is famously associated with the legend of Jason and the Argonauts.",
+      "media": "https://en.wikipedia.org/wiki/Colchis"
+    },
+    {
+      "start_date": {
+        "year": -100,
+        "month": null,
+        "day": null
+      },
+      "headline": "Kingdom of Iberia",
+      "text": "The Kingdom of Iberia was established in eastern Georgia, becoming a major political entity. It played a crucial role in the region's history and culture.",
+      "media": "https://en.wikipedia.org/wiki/Iberia_(ancient_state)"
+    },
+    {
+      "start_date": {
+        "year": 337,
+        "month": null,
+        "day": null
+      },
+      "headline": "Christianity Adopted",
+      "text": "Georgia officially adopted Christianity as the state religion, making it one of the first countries to do so. This event significantly influenced Georgian culture and identity.",
+      "media": "https://en.wikipedia.org/wiki/Christianity_in_Georgia"
+    },
+    {
+      "start_date": {
+        "year": 478,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the Georgian Kingdom",
+      "text": "The Kingdom of Georgia was formed through the unification of various principalities. This marked the beginning of a powerful and culturally rich state.",
+      "media": "https://en.wikipedia.org/wiki/Kingdom_of_Georgia"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Golden Age of Georgia",
+      "text": "The Golden Age of Georgia occurred during the 11th to 13th centuries, characterized by political stability, economic prosperity, and cultural achievements. It was a time of flourishing arts and literature.",
+      "media": "https://en.wikipedia.org/wiki/Golden_Age_of_Georgia"
+    },
+    {
+      "start_date": {
+        "year": 1223,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mongol Invasion",
+      "text": "The Mongol invasion devastated Georgia, leading to significant territorial losses and a decline in power. The invasion marked the beginning of a turbulent period in Georgian history.",
+      "media": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Georgia"
+    },
+    {
+      "start_date": {
+        "year": 1783,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of Georgievsk",
+      "text": "The Treaty of Georgievsk was signed between the Kingdom of Georgia and the Russian Empire, establishing a protectorate over Georgia. This agreement aimed to protect Georgia from external threats.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Georgievsk"
+    },
+    {
+      "start_date": {
+        "year": 1801,
+        "month": null,
+        "day": null
+      },
+      "headline": "Annexation by Russia",
+      "text": "Georgia was formally annexed by the Russian Empire, ending its sovereignty. This event marked the beginning of a long period of Russian rule over Georgia.",
+      "media": "https://en.wikipedia.org/wiki/Annexation_of_Georgia_by_Russia"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 5,
+        "day": 26
+      },
+      "headline": "Independence from Russia",
+      "text": "Georgia declared independence from Russia following the collapse of the Russian Empire. This marked the establishment of the Democratic Republic of Georgia.",
+      "media": "https://en.wikipedia.org/wiki/First_Republic_of_Georgia"
+    },
+    {
+      "start_date": {
+        "year": 1921,
+        "month": 2,
+        "day": 25
+      },
+      "headline": "Soviet Occupation",
+      "text": "The Red Army invaded Georgia, leading to its incorporation into the Soviet Union. This event marked the beginning of a harsh period of Soviet rule.",
+      "media": "https://en.wikipedia.org/wiki/Soviet_invasion_of_Georgia"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 4,
+        "day": 9
+      },
+      "headline": "Restoration of Independence",
+      "text": "Georgia regained its independence from the Soviet Union following a national movement. This event was celebrated as a significant step towards sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Georgia"
+    },
+    {
+      "start_date": {
+        "year": 2003,
+        "month": 11,
+        "day": 23
+      },
+      "headline": "Rose Revolution",
+      "text": "The Rose Revolution led to the peaceful ousting of President Eduard Shevardnadze. This event marked a significant shift towards democratic reforms in Georgia.",
+      "media": "https://en.wikipedia.org/wiki/Rose_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 8,
+        "day": 7
+      },
+      "headline": "Russo-Georgian War",
+      "text": "The Russo-Georgian War broke out over the disputed regions of South Ossetia and Abkhazia. The conflict resulted in significant territorial losses for Georgia.",
+      "media": "https://en.wikipedia.org/wiki/Russo-Georgian_War"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Change of Government",
+      "text": "The parliamentary elections led to a peaceful transfer of power from the United National Movement to the Georgian Dream coalition. This marked a significant moment in Georgia's democratic development.",
+      "media": "https://en.wikipedia.org/wiki/2012_Georgian_parliamentary_election"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 10,
+        "day": 31
+      },
+      "headline": "Parliamentary Elections",
+      "text": "Georgia held parliamentary elections amid political tensions and protests. The elections were marked by allegations of fraud and calls for electoral reform.",
+      "media": "https://en.wikipedia.org/wiki/2020_Georgian_parliamentary_election"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 2,
+        "day": 1
+      },
+      "headline": "Ongoing Political Crisis",
+      "text": "Georgia continues to face political challenges, including protests and calls for democratic reforms. The political landscape remains contentious as the country seeks to strengthen its democratic institutions.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Georgia_(country)"
+    }
+  ]
+}

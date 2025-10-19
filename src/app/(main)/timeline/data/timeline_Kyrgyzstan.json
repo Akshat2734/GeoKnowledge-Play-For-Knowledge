@@ -1,0 +1,191 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Kyrgyzstan",
+      "text": "Major events in the history of Kyrgyzstan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Settlements",
+      "text": "The region that is now Kyrgyzstan has been inhabited since ancient times, with evidence of early human settlements dating back to around 3000 BCE. These early inhabitants were primarily engaged in agriculture and animal husbandry.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Kyrgyzstan"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": 1
+      },
+      "headline": "Formation of the Kyrgyz Khanate",
+      "text": "By the 10th century, the Kyrgyz people had formed a distinct identity and established the Kyrgyz Khanate. This marked the beginning of organized political structures among the Kyrgyz tribes.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyz_Khanate"
+    },
+    {
+      "start_date": {
+        "year": 1206
+      },
+      "headline": "Genghis Khan's Conquest",
+      "text": "In 1206, Genghis Khan united the Mongol tribes and began his conquests, which included the territory of modern Kyrgyzstan. This led to significant cultural and political changes in the region.",
+      "media": "https://en.wikipedia.org/wiki/Genghis_Khan"
+    },
+    {
+      "start_date": {
+        "year": 1370
+      },
+      "headline": "Timurid Empire",
+      "text": "The rise of the Timurid Empire in the 14th century brought further influence to the region. Timur's campaigns affected the political landscape and trade routes in Central Asia.",
+      "media": "https://en.wikipedia.org/wiki/Timurid_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1510
+      },
+      "headline": "Kyrgyz Tribes Unite",
+      "text": "In the early 16th century, various Kyrgyz tribes began to unite against external threats, forming a more cohesive identity. This period saw the establishment of the Kyrgyz as a distinct ethnic group.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyz_people"
+    },
+    {
+      "start_date": {
+        "year": 1750
+      },
+      "headline": "Expansion of the Russian Empire",
+      "text": "In the mid-18th century, the Russian Empire began to expand into Central Asia, including Kyrgyz territory. This expansion led to conflicts with local tribes and significant changes in governance.",
+      "media": "https://en.wikipedia.org/wiki/Russian_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1860
+      },
+      "headline": "Russian Annexation",
+      "text": "By 1860, the Russian Empire had fully annexed Kyrgyzstan, integrating it into its vast territories. This led to the establishment of new administrative structures and increased Russian influence.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyzstan#Russian_Imperial_rule"
+    },
+    {
+      "start_date": {
+        "year": 1916
+      },
+      "headline": "Kyrgyz Uprising",
+      "text": "In 1916, a major uprising occurred against Russian rule, driven by conscription policies during World War I. The uprising was brutally suppressed, leading to significant loss of life.",
+      "media": "https://en.wikipedia.org/wiki/1916_Kyrgyz_uprising"
+    },
+    {
+      "start_date": {
+        "year": 1924
+      },
+      "headline": "Creation of the Kyrgyz Autonomous Oblast",
+      "text": "In 1924, the Soviet government established the Kyrgyz Autonomous Oblast, marking the beginning of formal recognition of the Kyrgyz people within the Soviet Union. This was a significant step towards Kyrgyz national identity.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyzstan#Soviet_period"
+    },
+    {
+      "start_date": {
+        "year": 1936
+      },
+      "headline": "Kyrgyz SSR Established",
+      "text": "In 1936, Kyrgyzstan was officially designated as the Kyrgyz Soviet Socialist Republic (Kyrgyz SSR) within the Soviet Union. This status allowed for greater political representation for Kyrgyz people.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyz_Soviet_Socialist_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Declaration of State Sovereignty",
+      "text": "On October 1, 1990, Kyrgyzstan declared its state sovereignty, marking a significant step towards independence from the Soviet Union. This declaration set the stage for future independence.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyzstan#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 31
+      },
+      "headline": "Independence from the Soviet Union",
+      "text": "On August 31, 1991, Kyrgyzstan declared its independence from the Soviet Union following a failed coup in Moscow. This event marked the beginning of a new era for the nation.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyzstan#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1993
+      },
+      "headline": "Adoption of the Constitution",
+      "text": "In 1993, Kyrgyzstan adopted its first post-independence constitution, establishing a parliamentary democracy. This was a crucial step in shaping the country's political framework.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Kyrgyzstan"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 3,
+        "day": 24
+      },
+      "headline": "Tulip Revolution",
+      "text": "The Tulip Revolution on March 24, 2005, resulted in the ousting of President Askar Akayev. This popular uprising was driven by widespread discontent over corruption and electoral fraud.",
+      "media": "https://en.wikipedia.org/wiki/Tulip_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 4,
+        "day": 7
+      },
+      "headline": "April Revolution",
+      "text": "On April 7, 2010, protests erupted against President Kurmanbek Bakiyev, leading to his ousting. The unrest was fueled by economic hardship and allegations of corruption.",
+      "media": "https://en.wikipedia.org/wiki/April_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 6,
+        "day": 10
+      },
+      "headline": "Ethnic Violence in Osh",
+      "text": "In June 2010, ethnic violence erupted in the southern city of Osh, resulting in significant loss of life and displacement. This conflict highlighted underlying ethnic tensions in the country.",
+      "media": "https://en.wikipedia.org/wiki/2010_Osh_riots"
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "headline": "New Constitution Adopted",
+      "text": "In 2011, Kyrgyzstan adopted a new constitution that strengthened parliamentary powers and reduced the authority of the president. This was a significant shift towards democratic governance.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Kyrgyzstan#2010_Constitution"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 10,
+        "day": 5
+      },
+      "headline": "Presidential Elections and Protests",
+      "text": "In October 2020, presidential elections were held, leading to widespread protests over alleged electoral fraud. The unrest resulted in the resignation of President Sooronbay Jeenbekov.",
+      "media": "https://en.wikipedia.org/wiki/2020_Kyrgyz_parliamentary_elections"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Formation of New Government",
+      "text": "Following the political turmoil of 2020, a new government was formed in Kyrgyzstan, aiming to stabilize the country and address ongoing economic challenges. This marked a new chapter in Kyrgyz politics.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyzstan#Politics"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Constitutional Referendum",
+      "text": "In 2022, a constitutional referendum was held to approve amendments that increased presidential powers. This sparked debates about the balance of power in the government.",
+      "media": "https://en.wikipedia.org/wiki/2022_Kyrgyz_referendum"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Current Political Landscape",
+      "text": "As of 2023, Kyrgyzstan continues to navigate its political landscape, focusing on economic development, regional cooperation, and addressing social issues. The country remains a key player in Central Asia.",
+      "media": "https://en.wikipedia.org/wiki/Kyrgyzstan"
+    }
+  ]
+}

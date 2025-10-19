@@ -1,0 +1,172 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of El Salvador",
+      "text": "Major events in the history of El Salvador."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,       "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The area now known as El Salvador was inhabited by various indigenous groups, including the Pipil and Lenca, who established complex societies and cultures.",
+      "media": "https://en.wikipedia.org/wiki/History_of_El_Salvador#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1524,
+        "month": 4, "day": 1
+      },
+      "headline": "Spanish Conquest",
+      "text": "Spanish conquistador Pedro de Alvarado led the conquest of El Salvador, marking the beginning of colonial rule and significant changes to the indigenous way of life.",
+      "media": "https://en.wikipedia.org/wiki/Pedro_de_Alvarado"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": 9, "day": 15
+      },
+      "headline": "Independence from Spain",
+      "text": "El Salvador declared its independence from Spanish rule, joining the Mexican Empire briefly before becoming part of the United Provinces of Central America.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_Central_America"
+    },
+    {
+      "start_date": {
+        "year": 1839,
+        "month": null,       "day": null
+      },
+      "headline": "Formation of the Republic",
+      "text": "El Salvador became a fully independent republic after the dissolution of the United Provinces of Central America, establishing its own government.",
+      "media": "https://en.wikipedia.org/wiki/History_of_El_Salvador#Formation_of_the_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1932,
+        "month": null,     "day": null
+      },
+      "headline": "The Salvadoran Peasant Massacre",
+      "text": "A brutal repression of a peasant uprising led to the massacre of tens of thousands of indigenous people and peasants, significantly impacting the country's social fabric.",
+      "media": "https://en.wikipedia.org/wiki/Salvadoran_Peasant_Massacre"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": null,       "day": null
+      },
+      "headline": "Civilian-Military Government",
+      "text": "A series of military coups led to the establishment of a civilian-military government, which exacerbated social tensions and laid the groundwork for future conflict.",
+      "media": "https://en.wikipedia.org/wiki/History_of_El_Salvador#Civilian-Military_Government"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": null,       "day": null
+      },
+      "headline": "Rise of Guerrilla Movements",
+      "text": "The growing discontent among the populace led to the formation of guerrilla groups, including the FMLN, which sought to address social injustices.",
+      "media": "https://en.wikipedia.org/wiki/FMLN"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": 3, "day": 24
+      },
+      "headline": "Assassination of Archbishop Romero",
+      "text": "Archbishop Óscar Romero was assassinated while delivering a sermon, becoming a martyr for human rights and social justice in El Salvador.",
+      "media": "https://en.wikipedia.org/wiki/%C3%93scar_Romero"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": 10, "day": 1
+      },
+      "headline": "Start of the Civil War",
+      "text": "The Salvadoran Civil War began, lasting over a decade and resulting in significant loss of life and displacement of people.",
+      "media": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": null,        "day": null
+      },
+      "headline": "Peace Accords Signed",
+      "text": "The Chapultepec Peace Accords were signed, officially ending the civil war and establishing a framework for political and social reforms.",
+      "media": "https://en.wikipedia.org/wiki/Chapultepec_Peace_Accords"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": null,       "day": null
+      },
+      "headline": "Economic Reforms",
+      "text": "El Salvador implemented significant economic reforms, including dollarization, to stabilize the economy and attract foreign investment.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_El_Salvador#Dollarization"
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": null,        "day": null
+      },
+      "headline": "Major Earthquake",
+      "text": "A powerful earthquake struck El Salvador, causing widespread destruction and loss of life, prompting international aid and reconstruction efforts.",
+      "media": "https://en.wikipedia.org/wiki/2001_El_Salvador_earthquakes"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 6, "day": 1
+      },
+      "headline": "First Leftist President",
+      "text": "Mauricio Funes, representing the FMLN, became the first leftist president in El Salvador's history, marking a shift in the country's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Mauricio_Funes"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": null,        "day": null
+      },
+      "headline": "Gang Violence Crisis",
+      "text": "El Salvador faced a severe crisis of gang violence, with high homicide rates prompting national and international responses to improve security.",
+      "media": "https://en.wikipedia.org/wiki/Gangs_in_El_Salvador"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,       "day": null
+      },
+      "headline": "Migration Crisis",
+      "text": "The ongoing violence and poverty led to a significant increase in migration, with many Salvadorans seeking asylum in the United States.",
+      "media": "https://en.wikipedia.org/wiki/Migration_from_El_Salvador"
+    },
+    {
+      "start_date": {
+        "year": 2017,
+        "month": 9, "day": 1
+      },
+      "headline": "Pope Francis Visits El Salvador",
+      "text": "Pope Francis visited El Salvador, emphasizing the need for peace, reconciliation, and social justice in a country still recovering from its civil war.",
+      "media": "https://en.wikipedia.org/wiki/Pope_Francis#Visit_to_El_Salvador"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 9, "day": 7
+      },
+      "headline": "Bitcoin Legalization",
+      "text": "El Salvador became the first country in the world to adopt Bitcoin as legal tender, aiming to boost economic growth and financial inclusion.",
+      "media": "https://en.wikipedia.org/wiki/Bitcoin#Legal_status"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,       "day": null
+      },
+      "headline": "Political Turmoil",
+      "text": "El Salvador faced political turmoil with ongoing debates about governance, democracy, and the rule of law under President Nayib Bukele.",
+      "media": "https://en.wikipedia.org/wiki/Nayib_Bukele"
+    }
+  ]
+}

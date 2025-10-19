@@ -1,0 +1,200 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Luxembourg",
+      "text": "Major events in the history of Luxembourg."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 963,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Luxembourg",
+      "text": "Luxembourg was founded as a countship by Siegfried, who acquired the fortress of Lucilinburhuc. This event marks the beginning of Luxembourg's history as a significant political entity in Europe.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1060,
+        "month": null,
+        "day": null
+      },
+      "headline": "Elevation to Duchy",
+      "text": "Luxembourg was elevated to a duchy by the Holy Roman Emperor, making it a significant territory within the Empire. This change solidified its status and influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Duchy_of_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1354,
+        "month": null,
+        "day": null
+      },
+      "headline": "Duke John the Blind",
+      "text": "John the Blind was granted the title of Duke of Luxembourg, further enhancing the duchy's prestige. He became a notable figure in the Hundred Years' War.",
+      "media": "https://en.wikipedia.org/wiki/John_the_Blind_of_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1443,
+        "month": null,
+        "day": null
+      },
+      "headline": "House of Luxembourg",
+      "text": "The House of Luxembourg gained prominence as a ruling dynasty in Europe, influencing politics in the Holy Roman Empire. This period marked the height of Luxembourg's power.",
+      "media": "https://en.wikipedia.org/wiki/House_of_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1556,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Rule",
+      "text": "Luxembourg came under Spanish control as part of the Habsburg territories. This marked a significant shift in governance and brought new cultural influences.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1715,
+        "month": null,
+        "day": null
+      },
+      "headline": "Austrian Rule",
+      "text": "After the War of the Spanish Succession, Luxembourg was ceded to the Austrian Habsburgs. This transition brought about changes in administration and military fortifications.",
+      "media": "https://en.wikipedia.org/wiki/Austrian_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1795,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Revolution",
+      "text": "Luxembourg was annexed by France during the revolutionary period. This led to significant administrative changes and the introduction of French law.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Luxembourg#French_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1815,
+        "month": null,
+        "day": null
+      },
+      "headline": "Congress of Vienna",
+      "text": "The Congress of Vienna established Luxembourg as a Grand Duchy under the control of the Netherlands. This event reshaped the political landscape of Europe.",
+      "media": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+    },
+    {
+      "start_date": {
+        "year": 1839,
+        "month": null,
+        "day": null
+      },
+      "headline": "Partition of Luxembourg",
+      "text": "The Treaty of London resulted in the partition of Luxembourg, with the western part ceded to Belgium. This division significantly impacted Luxembourg's territorial integrity.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_London_(1839)"
+    },
+    {
+      "start_date": {
+        "year": 1867,
+        "month": null,
+        "day": null
+      },
+      "headline": "Luxembourg's Neutrality",
+      "text": "The Treaty of London established Luxembourg's perpetual neutrality, which has been a cornerstone of its foreign policy. This neutrality has helped maintain peace in the region.",
+      "media": "https://en.wikipedia.org/wiki/Neutrality_of_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1890,
+        "month": null,
+        "day": null
+      },
+      "headline": "Grand Duke Adolphe",
+      "text": "Adolphe became Grand Duke of Luxembourg, marking a new era of modernization and economic development. His reign saw significant industrial growth.",
+      "media": "https://en.wikipedia.org/wiki/Adolphe,_Grand_Duke_of_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 1914,
+        "month": null,
+        "day": null
+      },
+      "headline": "World War I",
+      "text": "Luxembourg was invaded by Germany during World War I, leading to occupation and significant hardship for the population. The war had lasting effects on the nation's identity.",
+      "media": "https://en.wikipedia.org/wiki/Luxembourg_in_World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1940,
+        "month": 5,
+        "day": 10
+      },
+      "headline": "World War II Invasion",
+      "text": "Germany invaded Luxembourg again in 1940, leading to another occupation. The country was liberated in 1944 by Allied forces.",
+      "media": "https://en.wikipedia.org/wiki/Luxembourg_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1948,
+        "month": null,
+        "day": null
+      },
+      "headline": "Founding of Benelux",
+      "text": "Luxembourg, along with Belgium and the Netherlands, founded the Benelux Economic Union. This cooperation laid the groundwork for future European integration.",
+      "media": "https://en.wikipedia.org/wiki/Benelux"
+    },
+    {
+      "start_date": {
+        "year": 1957,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of Rome",
+      "text": "Luxembourg was one of the founding members of the European Economic Community (EEC) with the signing of the Treaty of Rome. This marked a significant step towards European integration.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Rome"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 10,
+        "day": 9
+      },
+      "headline": "Grand Duke Henri's Ascension",
+      "text": "Henri became Grand Duke of Luxembourg, succeeding his father, Grand Duke Jean. His reign has focused on modernizing the monarchy and promoting national identity.",
+      "media": "https://en.wikipedia.org/wiki/Henri,_Grand_Duke_of_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": null,
+        "day": null
+      },
+      "headline": "Luxembourg's EU Presidency",
+      "text": "Luxembourg held the presidency of the Council of the European Union, emphasizing its role in European politics and cooperation. This position allowed Luxembourg to influence key EU policies.",
+      "media": "https://en.wikipedia.org/wiki/Luxembourg_in_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Luxembourg, like many countries, faced the challenges of the COVID-19 pandemic, implementing measures to protect public health. The response highlighted the resilience of the nation.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Luxembourg"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Luxembourg's Climate Goals",
+      "text": "Luxembourg announced ambitious climate goals aimed at reducing carbon emissions and promoting sustainability. This initiative reflects the country's commitment to environmental stewardship.",
+      "media": "https://en.wikipedia.org/wiki/Climate_change_in_Luxembourg"
+    }
+  ]
+}

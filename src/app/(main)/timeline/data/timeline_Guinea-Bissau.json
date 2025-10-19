@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Guinea-Bissau",
+      "text": "Major events in the history of Guinea-Bissau."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Settlements",
+      "text": "The region that is now Guinea-Bissau was inhabited by various ethnic groups, including the Balanta and the Fulani. These groups established agricultural communities and trade networks.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1446,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Exploration",
+      "text": "Portuguese explorers arrived on the coast of Guinea-Bissau, marking the beginning of European interest in the region. This led to the establishment of trade routes and the exploitation of resources.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1498,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Trade Posts",
+      "text": "The Portuguese established trade posts along the coast, focusing on the trade of slaves, gold, and spices. This laid the groundwork for colonial rule in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1763,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formal Colonization",
+      "text": "Guinea-Bissau was formally recognized as a Portuguese colony. The colonial government implemented policies that exploited local resources and labor.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1879,
+        "month": null,
+        "day": null
+      },
+      "headline": "Creation of the Colony of Guinea",
+      "text": "The Portuguese government established the Colony of Guinea, which included present-day Guinea-Bissau and parts of neighboring countries. This was part of a larger effort to consolidate colonial control.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1956,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of the PAIGC",
+      "text": "The African Party for the Independence of Guinea and Cape Verde (PAIGC) was founded by Amílcar Cabral. This marked the beginning of organized resistance against Portuguese colonial rule.",
+      "media": "https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral"
+    },
+    {
+      "start_date": {
+        "year": 1963,
+        "month": null,
+        "day": null
+      },
+      "headline": "Start of Armed Struggle",
+      "text": "The PAIGC launched an armed struggle against Portuguese colonial forces, marking the beginning of the Guinea-Bissau War of Independence. The conflict would last for over a decade.",
+      "media": "https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1973,
+        "month": 9,
+        "day": 24
+      },
+      "headline": "Declaration of Independence",
+      "text": "Guinea-Bissau declared its independence from Portugal, with the PAIGC establishing a provisional government. This declaration was not recognized by Portugal until 1974.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1974,
+        "month": 4,
+        "day": 25
+      },
+      "headline": "Carnation Revolution in Portugal",
+      "text": "The Carnation Revolution in Portugal led to the end of the dictatorship and the recognition of Guinea-Bissau's independence. This was a significant turning point in the region's history.",
+      "media": "https://en.wikipedia.org/wiki/Carnation_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": 11,
+        "day": 14
+      },
+      "headline": "Coup d'état",
+      "text": "A coup led by João Bernardo Vieira resulted in the overthrow of the PAIGC leadership. Vieira became the president and ruled with an authoritarian regime.",
+      "media": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Bernardo_Vieira"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Reforms",
+      "text": "The government initiated political reforms, allowing for multi-party elections. This was a response to growing internal and external pressures for democratization.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Multi-Party Elections",
+      "text": "Guinea-Bissau held its first multi-party elections, resulting in a victory for the PAIGC. However, political instability continued to plague the country.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": 6,
+        "day": 7
+      },
+      "headline": "Civil War",
+      "text": "A civil war broke out between the government and opposition forces, leading to significant loss of life and displacement. The conflict lasted until 1999.",
+      "media": "https://en.wikipedia.org/wiki/Civil_war_in_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 1999,
+        "month": 5,
+        "day": 7
+      },
+      "headline": "End of Civil War",
+      "text": "The civil war ended with the ousting of President Vieira. A transitional government was established to restore order and prepare for new elections.",
+      "media": "https://en.wikipedia.org/wiki/Civil_war_in_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Return to Democracy",
+      "text": "Guinea-Bissau returned to democratic governance with new elections. However, political instability and corruption continued to hinder progress.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": 3,
+        "day": 2
+      },
+      "headline": "Assassination of President Vieira",
+      "text": "President João Bernardo Vieira was assassinated in a coup, leading to further political turmoil. This event marked a significant moment in the country's ongoing instability.",
+      "media": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Bernardo_Vieira"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": 4,
+        "day": 12
+      },
+      "headline": "Military Coup",
+      "text": "A military coup occurred, disrupting the electoral process and leading to international condemnation. The coup further complicated the political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Guinea-Bissau#2012_coup"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 4,
+        "day": 13
+      },
+      "headline": "Presidential Elections",
+      "text": "Presidential elections were held, resulting in the election of José Mário Vaz. This marked a step towards stabilization after years of turmoil.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 3,
+        "day": 10
+      },
+      "headline": "Recent Elections",
+      "text": "Guinea-Bissau held presidential elections, which were seen as a crucial test for the country's democracy. The elections were largely peaceful, indicating a potential for political stability.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic affected Guinea-Bissau, leading to health and economic challenges. The government implemented measures to control the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Guinea-Bissau"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Political Climate",
+      "text": "As of 2023, Guinea-Bissau continues to face challenges related to governance, economic development, and social stability. The international community remains engaged in supporting the country's progress.",
+      "media": "https://en.wikipedia.org/wiki/Guinea-Bissau#Current_events"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of the United States of America",
+      "text": "Major events in the history of the United States of America."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1607
+      },
+      "headline": "Jamestown Founded",
+      "text": "First permanent English settlement in North America.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Jamestown,_Virginia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1776,
+        "month": 7,
+        "day": 4
+      },
+      "headline": "Declaration of Independence",
+      "text": "Thirteen colonies declare independence from Britain.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1787
+      },
+      "headline": "Constitution Signed",
+      "text": "Establishes framework for the federal government.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/United_States_Constitution"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1861
+      },
+      "headline": "American Civil War",
+      "text": "Conflict over slavery and states’ rights.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1865
+      },
+      "headline": "Abolition of Slavery",
+      "text": "Thirteenth Amendment abolishes slavery.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1929
+      },
+      "headline": "Great Depression",
+      "text": "Economic collapse triggers major reforms.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1941
+      },
+      "headline": "Pearl Harbor",
+      "text": "U.S. enters WWII after Japanese attack.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Pearl_Harbor"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1969
+      },
+      "headline": "Apollo 11",
+      "text": "First human Moon landing.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Apollo_11"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2001
+      },
+      "headline": "September 11 Attacks",
+      "text": "Terrorist attacks reshape U.S. policy.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/September_11_attacks"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Public health crisis and polarization.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States"
+      }
+    }
+  ]
+}

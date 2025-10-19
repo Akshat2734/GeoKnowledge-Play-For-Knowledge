@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Andorra",
+      "text": "Major events in the history of Andorra."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 802,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Andorra",
+      "text": "According to legend, Andorra was founded by Charlemagne as a buffer state against Muslim invasions. The region became a refuge for the local population seeking protection.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 988,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Documented Reference",
+      "text": "The first written reference to Andorra appears in a document from the year 988, which mentions the region as a part of the Catalan counties.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1278,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Co-Principality",
+      "text": "The co-principality of Andorra was established, with the Count of Foix and the Bishop of Urgell sharing power. This unique political arrangement continues to this day.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1419,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Andorran Constitution",
+      "text": "The first constitution of Andorra was established, outlining the rights and responsibilities of its citizens and the governing bodies.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1512,
+        "month": null,
+        "day": null
+      },
+      "headline": "Recognition by the Spanish Crown",
+      "text": "The Spanish Crown officially recognized the co-princes of Andorra, solidifying its status as a principality under dual sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1607,
+        "month": null,
+        "day": null
+      },
+      "headline": "Andorran Flag Established",
+      "text": "The flag of Andorra was officially adopted, featuring the national coat of arms and representing the country's unique heritage.",
+      "media": "https://en.wikipedia.org/wiki/Flag_of_Andorra"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Revolution Impact",
+      "text": "The French Revolution had a significant impact on Andorra, leading to changes in governance and the relationship with France.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1866,
+        "month": null,
+        "day": null
+      },
+      "headline": "Modernization of Andorra",
+      "text": "Andorra began to modernize its economy and infrastructure, moving away from traditional agricultural practices.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1933,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitution of 1933",
+      "text": "A new constitution was adopted, establishing a parliamentary system and granting civil rights to Andorran citizens.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1943,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Constitution Adopted",
+      "text": "A new constitution was adopted, replacing the previous one from 1933 and further defining the political structure of Andorra.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Constitution Enacted",
+      "text": "The current constitution of Andorra was enacted, establishing a parliamentary democracy and reaffirming the co-principality.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": null,
+        "day": null
+      },
+      "headline": "Andorra Joins the UN",
+      "text": "Andorra became a member of the United Nations, marking a significant step in its international recognition and diplomatic relations.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": null,
+        "day": null
+      },
+      "headline": "Andorra Signs Tax Agreement with Spain",
+      "text": "Andorra signed a tax agreement with Spain, aimed at increasing transparency and cooperation in financial matters.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": null,
+        "day": null
+      },
+      "headline": "Andorra's First International Agreement",
+      "text": "Andorra signed its first international agreement with the European Union, paving the way for future cooperation and economic integration.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#History"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Andorra's Economic Reforms",
+      "text": "The government of Andorra implemented significant economic reforms to diversify its economy and reduce reliance on tourism.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#Economy"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic Response",
+      "text": "Andorra faced challenges during the COVID-19 pandemic, implementing measures to protect public health and support the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Andorra"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Vaccination Rollout",
+      "text": "Andorra began its vaccination rollout against COVID-19, aiming to achieve herd immunity and return to normalcy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Andorra"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Andorra's Continued Development",
+      "text": "Andorra continues to develop its economy and strengthen its international relations, focusing on sustainability and innovation.",
+      "media": "https://en.wikipedia.org/wiki/Andorra#Economy"
+    }
+  ]
+}

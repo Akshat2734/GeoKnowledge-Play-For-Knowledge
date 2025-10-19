@@ -1,0 +1,156 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Central African Republic",
+      "text": "Major events in the history of Central African Republic."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Early Inhabitants",
+      "text": "The region now known as the Central African Republic was inhabited by various ethnic groups, including the Bantu and the Pygmies, who lived as hunter-gatherers and farmers.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Central_African_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1500
+      },
+      "headline": "Rise of Kingdoms",
+      "text": "By the 15th century, several kingdoms emerged in the region, including the Kingdom of Lobaye and the Kingdom of Baaka, which engaged in trade and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Central_African_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1885
+      },
+      "headline": "Colonial Rule Begins",
+      "text": "The area became part of the Congo Free State under King Leopold II of Belgium, marking the beginning of European colonial interests in Central Africa.",
+      "media": "https://en.wikipedia.org/wiki/Congo_Free_State"
+    },
+    {
+      "start_date": {
+        "year": 1894
+      },
+      "headline": "French Colonization",
+      "text": "The French established control over the region, officially naming it Oubangui-Chari, which later became part of French Equatorial Africa.",
+      "media": "https://en.wikipedia.org/wiki/French_Equatorial_Africa"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 8,
+        "day": 13
+      },
+      "headline": "Independence from France",
+      "text": "The Central African Republic gained independence from France, becoming a sovereign nation under the leadership of David Dacko.",
+      "media": "https://en.wikipedia.org/wiki/Independence_of_the_Central_African_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1965
+      },
+      "headline": "Jean-Bédel Bokassa's Coup",
+      "text": "President David Dacko was overthrown in a coup led by Jean-Bédel Bokassa, who later declared himself Emperor of the Central African Empire.",
+      "media": "https://en.wikipedia.org/wiki/Jean-B%C3%A9del_Bokassa"
+    },
+    {
+      "start_date": {
+        "year": 1979
+      },
+      "headline": "Return to Republic",
+      "text": "Bokassa was ousted by French troops, and the country was restored as a republic under Dacko, but political instability continued.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Central_African_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1981
+      },
+      "headline": "Dacko's Second Presidency",
+      "text": "David Dacko returned to power but faced challenges from various rebel groups and political factions.",
+      "media": "https://en.wikipedia.org/wiki/History_of_the_Central_African_Republic"
+    },
+    {
+      "start_date": {
+        "year": 1993
+      },
+      "headline": "First Democratic Elections",
+      "text": "The Central African Republic held its first democratic elections, leading to the presidency of Ange-Félix Patassé.",
+      "media": "https://en.wikipedia.org/wiki/Ange-F%C3%A9lix_Patass%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 2003
+      },
+      "headline": "Coup d'État by François Bozizé",
+      "text": "François Bozizé led a successful coup against President Patassé, marking the start of a new era of political turmoil.",
+      "media": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Boziz%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "Constitutional Reforms",
+      "text": "A new constitution was adopted, aiming to establish a more democratic governance structure in the Central African Republic.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_the_Central_African_Republic"
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Séléka Rebellion",
+      "text": "The Séléka rebel coalition overthrew President Bozizé, leading to widespread violence and humanitarian crises in the country.",
+      "media": "https://en.wikipedia.org/wiki/S%C3%A9l%C3%A9ka"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Humanitarian Crisis",
+      "text": "The conflict escalated, resulting in a severe humanitarian crisis with thousands displaced and widespread atrocities reported.",
+      "media": "https://en.wikipedia.org/wiki/Central_African_Republic_civil_war"
+    },
+    {
+      "start_date": {
+        "year": 2016
+      },
+      "headline": "New Presidential Elections",
+      "text": "Faustin-Archange Touadéra was elected president in a bid to restore stability and peace to the nation after years of conflict.",
+      "media": "https://en.wikipedia.org/wiki/Faustin-Archange_Touad%C3%A9ra"
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "headline": "Peace Agreement Attempts",
+      "text": "Multiple peace agreements were attempted to resolve ongoing conflicts between various armed groups, but challenges persisted.",
+      "media": "https://en.wikipedia.org/wiki/Central_African_Republic_civil_war"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "Renewed Violence",
+      "text": "Violence erupted again as armed groups launched attacks ahead of the presidential elections, exacerbating the humanitarian situation.",
+      "media": "https://en.wikipedia.org/wiki/Central_African_Republic_civil_war"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Continued Instability",
+      "text": "The Central African Republic continued to face instability with ongoing clashes between government forces and rebel groups.",
+      "media": "https://en.wikipedia.org/wiki/Central_African_Republic_civil_war"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Current Situation",
+      "text": "The Central African Republic remains in a fragile state with ongoing efforts for peace and stability amidst humanitarian challenges.",
+      "media": "https://en.wikipedia.org/wiki/Central_African_Republic"
+    }
+  ]
+}

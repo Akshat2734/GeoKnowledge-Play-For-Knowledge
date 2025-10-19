@@ -1,0 +1,110 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Taiwan",
+      "text": "Major events in the history of Taiwan."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1624
+      },
+      "headline": "Dutch Establish Fort Zeelandia",
+      "text": "VOC builds Fort Zeelandia, marking the start of European colonization.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Taiwan)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1662
+      },
+      "headline": "Koxinga Expels the Dutch",
+      "text": "Zheng Chenggong (Koxinga) drives out the Dutch.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Koxinga"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1683
+      },
+      "headline": "Qing Annexes Taiwan",
+      "text": "Qing dynasty incorporates Taiwan as part of Fujian province.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Taiwan_under_Qing_rule"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1895
+      },
+      "headline": "Japanese Rule",
+      "text": "After the First Sino-Japanese War, China cedes Taiwan to Japan.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Taiwan_under_Japanese_rule"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1945
+      },
+      "headline": "Return to Chinese Control",
+      "text": "Post-WWII, Taiwan is placed under the ROC.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Taiwan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1949
+      },
+      "headline": "ROC Retreats to Taiwan",
+      "text": "KMT relocates government to Taipei after civil war defeat.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Republic_of_China_(Taiwan)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1971
+      },
+      "headline": "UN Seat to PRC",
+      "text": "UN recognizes PRC as the government of China.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/China_and_the_United_Nations"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1987
+      },
+      "headline": "End of Martial Law",
+      "text": "Taiwan lifts martial law and liberalizes politics.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Martial_law_in_Taiwan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "First Non-KMT President",
+      "text": "Chen Shui-bian wins the presidency.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Chen_Shui-bian"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Cross-Strait Tensions",
+      "text": "Taiwan strengthens defense and partnerships.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Taiwan"
+      }
+    }
+  ]
+}

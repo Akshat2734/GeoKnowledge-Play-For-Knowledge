@@ -1,0 +1,70 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Sri Lanka",
+      "text": "Major events in the history of Sri Lanka."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500
+      },
+      "headline": "Early Cultures and Societies",
+      "text": "Ancient peoples inhabit the lands of Sri Lanka, developing trade, language, and belief systems.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Sri_Lanka"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1500
+      },
+      "headline": "Age of Exploration and External Influence",
+      "text": "Explorers, traders, or neighboring empires shape the political economy of Sri Lanka.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Sri_Lanka"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1800
+      },
+      "headline": "Colonial or Imperial Rule",
+      "text": "Periods of external rule or regional empires leave lasting administrative and cultural legacies in Sri Lanka.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Sri_Lanka"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1945
+      },
+      "headline": "Post–World War II Transitions",
+      "text": "Global shifts reshape governance, economics, and society in Sri Lanka.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Sri_Lanka"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1960
+      },
+      "headline": "Independence or Constitutional Reform",
+      "text": "Sri Lanka enters a new era through independence, unification, or major constitutional change.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Contemporary Developments",
+      "text": "Sri Lanka focuses on growth, governance, and international partnerships in the 21st century.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+      }
+    }
+  ]
+}

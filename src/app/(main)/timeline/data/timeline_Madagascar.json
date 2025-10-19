@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Madagascar",
+      "text": "Major events in the history of Madagascar."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Human Settlements",
+      "text": "The first human settlers, believed to be of Austronesian origin, arrive in Madagascar. They bring with them agriculture and animal husbandry practices.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Prehistory"
+    },
+    {
+      "start_date": {
+        "year": 500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Bantu Migration",
+      "text": "Bantu-speaking peoples migrate to Madagascar, influencing the local culture and demographics. This migration contributes to the island's diverse ethnic composition.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Early_history"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Kingdoms",
+      "text": "Several kingdoms emerge in Madagascar, including the Kingdom of Imerina in the central highlands. These kingdoms establish trade routes and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Early_history"
+    },
+    {
+      "start_date": {
+        "year": 1500,
+        "month": null,
+        "day": null
+      },
+      "headline": "European Contact",
+      "text": "Portuguese explorers arrive on the island, marking the beginning of European interest in Madagascar. This leads to increased trade and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#European_contact"
+    },
+    {
+      "start_date": {
+        "year": 1640,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Colonization Begins",
+      "text": "The French establish a presence in Madagascar, initially through trade and later through colonization efforts. This sets the stage for future conflicts.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1794,
+        "month": null,
+        "day": null
+      },
+      "headline": "Merina Kingdom Expansion",
+      "text": "The Merina Kingdom, under King Andrianampoinimerina, begins to unify various regions of Madagascar. This expansion significantly alters the political landscape.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#19th_century"
+    },
+    {
+      "start_date": {
+        "year": 1810,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Protectorate Established",
+      "text": "The French establish a protectorate over Madagascar, leading to increased tensions with local rulers. This marks a significant step toward full colonization.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1896,
+        "month": null,
+        "day": null
+      },
+      "headline": "Madagascar Becomes a French Colony",
+      "text": "Madagascar is officially declared a French colony after the defeat of the Merina monarchy. This leads to significant changes in governance and society.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1947,
+        "month": null,
+        "day": null
+      },
+      "headline": "Anti-Colonial Uprising",
+      "text": "A major uprising against French colonial rule occurs, leading to violent clashes. Although suppressed, this event ignites the independence movement.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Independence_movement"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 6,
+        "day": 26
+      },
+      "headline": "Independence from France",
+      "text": "Madagascar gains independence from France, marking a new era in its history. The first president, Philibert Tsiranana, leads the country.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1972,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Unrest",
+      "text": "Widespread protests lead to the resignation of President Tsiranana. This period marks the beginning of political instability in Madagascar.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Post-independence"
+    },
+    {
+      "start_date": {
+        "year": 1992,
+        "month": null,
+        "day": null
+      },
+      "headline": "New Constitution Adopted",
+      "text": "A new constitution is adopted, establishing a multiparty system and democratic governance. This is a significant step towards political reform.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Political_reforms"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Crisis",
+      "text": "A contested presidential election leads to a political crisis, resulting in violence and instability. Marc Ravalomanana eventually takes power.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Political_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": null,
+        "day": null
+      },
+      "headline": "Military Coup",
+      "text": "A military coup ousts President Ravalomanana, leading to years of political turmoil and international isolation. Andry Rajoelina assumes power.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Political_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": null,
+        "day": null
+      },
+      "headline": "Return to Democratic Elections",
+      "text": "Madagascar holds its first democratic elections since the coup, leading to the election of Hery Rajaonarimampianina as president. This marks a hopeful turn for the nation.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Recent_history"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": null,
+        "day": null
+      },
+      "headline": "Political Reforms",
+      "text": "The government initiates political reforms aimed at stabilizing the country and improving governance. These reforms are seen as essential for future development.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Recent_history"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Madagascar, like the rest of the world, faces the challenges of the COVID-19 pandemic. The government implements measures to contain the virus and support the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Madagascar"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Political Climate",
+      "text": "Madagascar continues to navigate its political landscape, with ongoing efforts to address economic challenges and improve governance. The country remains focused on development.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Madagascar#Recent_history"
+    }
+  ]
+}

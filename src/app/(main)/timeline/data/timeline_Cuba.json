@@ -1,0 +1,230 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Cuba",
+      "text": "Major events in the history of Cuba."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "First Inhabitants",
+      "text": "The first inhabitants of Cuba were indigenous peoples, including the Taíno and Ciboney. They lived in small villages and relied on agriculture, fishing, and hunting for sustenance.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Cuba#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1492,
+        "month": 10,
+        "day": 28
+      },
+      "headline": "Christopher Columbus Arrives",
+      "text": "Christopher Columbus landed on the island of Cuba during his first voyage to the New World. He claimed the island for Spain, marking the beginning of European colonization.",
+      "media": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "start_date": {
+        "year": 1511,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Colonization",
+      "text": "Spanish colonization began in earnest with the establishment of the first settlements. The indigenous population faced severe decline due to disease and exploitation.",
+      "media": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas"
+    },
+    {
+      "start_date": {
+        "year": 1762,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Capture Havana",
+      "text": "During the Seven Years' War, British forces captured Havana, Cuba, for nearly a year. The city was returned to Spain in exchange for Florida in the Treaty of Paris.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Havana_(1762)"
+    },
+    {
+      "start_date": {
+        "year": 1868,
+        "month": 10,
+        "day": 10
+      },
+      "headline": "Ten Years' War Begins",
+      "text": "The Ten Years' War, Cuba's first war of independence against Spanish rule, began. Led by Carlos Manuel de Céspedes, it marked the start of a long struggle for freedom.",
+      "media": "https://en.wikipedia.org/wiki/Ten_Years%27_War"
+    },
+    {
+      "start_date": {
+        "year": 1895,
+        "month": 2,
+        "day": 24
+      },
+      "headline": "Cuban War of Independence",
+      "text": "The Cuban War of Independence commenced, led by figures such as José Martí and Máximo Gómez. This conflict aimed to end Spanish colonial rule in Cuba.",
+      "media": "https://en.wikipedia.org/wiki/Cuban_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1898,
+        "month": 4,
+        "day": 25
+      },
+      "headline": "Spanish-American War",
+      "text": "The United States declared war on Spain, leading to the defeat of Spanish forces in Cuba. The war resulted in the Treaty of Paris, which ceded control of Cuba to the U.S.",
+      "media": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
+    },
+    {
+      "start_date": {
+        "year": 1902,
+        "month": 5,
+        "day": 20
+      },
+      "headline": "Cuba Gains Independence",
+      "text": "Cuba officially gained independence from the United States, although the Platt Amendment allowed U.S. intervention in Cuban affairs. This marked the beginning of a new era for the island.",
+      "media": "https://en.wikipedia.org/wiki/Platt_Amendment"
+    },
+    {
+      "start_date": {
+        "year": 1933,
+        "month": null,
+        "day": null
+      },
+      "headline": "Cuban Revolution of 1933",
+      "text": "A popular uprising led to the overthrow of the Machado dictatorship. This event marked the rise of political movements that would shape Cuba's future.",
+      "media": "https://en.wikipedia.org/wiki/Cuban_Revolution_of_1933"
+    },
+    {
+      "start_date": {
+        "year": 1953,
+        "month": 7,
+        "day": 26
+      },
+      "headline": "Attack on Moncada Barracks",
+      "text": "Fidel Castro and his followers launched an attack on the Moncada Barracks, marking the beginning of the Cuban Revolution. Although the attack failed, it galvanized support for the revolutionary movement.",
+      "media": "https://en.wikipedia.org/wiki/Moncada_Barracks"
+    },
+    {
+      "start_date": {
+        "year": 1959,
+        "month": null,
+        "day": null
+      },
+      "headline": "Cuban Revolution Triumphs",
+      "text": "Fidel Castro's revolutionary forces overthrew the Batista government, leading to the establishment of a socialist state in Cuba. This marked a significant shift in the island's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Cuban_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": 4,
+        "day": 17
+      },
+      "headline": "Bay of Pigs Invasion",
+      "text": "A failed invasion of Cuba by U.S.-backed Cuban exiles aimed to overthrow Castro's government. The event solidified Cuba's ties with the Soviet Union.",
+      "media": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion"
+    },
+    {
+      "start_date": {
+        "year": 1962,
+        "month": 10,
+        "day": 16
+      },
+      "headline": "Cuban Missile Crisis",
+      "text": "The Cuban Missile Crisis brought the world to the brink of nuclear war as the U.S. discovered Soviet missiles in Cuba. The standoff lasted for 13 days before a resolution was reached.",
+      "media": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+    },
+    {
+      "start_date": {
+        "year": 1965,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "Establishment of the Communist Party",
+      "text": "The Communist Party of Cuba was established, consolidating power under Fidel Castro's leadership. This marked the formalization of Cuba's socialist government.",
+      "media": "https://en.wikipedia.org/wiki/Communist_Party_of_Cuba"
+    },
+    {
+      "start_date": {
+        "year": 1980,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "Mariel Boatlift",
+      "text": "The Mariel Boatlift saw thousands of Cubans emigrate to the U.S. in response to economic difficulties and political repression. This event highlighted the ongoing struggles within Cuba.",
+      "media": "https://en.wikipedia.org/wiki/Mariel_boatlift"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 12,
+        "day": 1
+      },
+      "headline": "Collapse of the Soviet Union",
+      "text": "The collapse of the Soviet Union had a profound impact on Cuba's economy, leading to a period known as the Special Period characterized by severe shortages and economic hardship.",
+      "media": "https://en.wikipedia.org/wiki/Special_Period_in_Time_of_Peace"
+    },
+    {
+      "start_date": {
+        "year": 2006,
+        "month": 7,
+        "day": 31
+      },
+      "headline": "Fidel Castro Transfers Power",
+      "text": "Fidel Castro temporarily transferred power to his brother Raúl Castro due to health issues. This marked the beginning of a transition in leadership.",
+      "media": "https://en.wikipedia.org/wiki/Fidel_Castro"
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 2,
+        "day": 24
+      },
+      "headline": "Raúl Castro Becomes President",
+      "text": "Raúl Castro officially became the President of Cuba, initiating a series of economic reforms aimed at modernizing the economy and improving living conditions.",
+      "media": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "day": 17
+      },
+      "headline": "U.S.-Cuba Relations Thaw",
+      "text": "The U.S. and Cuba announced a historic thaw in relations, leading to the reopening of embassies and the easing of some travel and trade restrictions.",
+      "media": "https://en.wikipedia.org/wiki/Thaw_in_U.S.-Cuba_relations"
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 4,
+        "day": 19
+      },
+      "headline": "Miguel Díaz-Canel Becomes President",
+      "text": "Miguel Díaz-Canel was elected as the first non-Castro president of Cuba since the revolution. His leadership marked a new chapter in Cuban politics.",
+      "media": "https://en.wikipedia.org/wiki/Miguel_D%C3%ADaz-Canel"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+      },
+      "headline": "Nationwide Protests",
+      "text": "Cuba experienced widespread protests against the government, fueled by economic hardships and demands for greater freedoms. This marked one of the largest anti-government demonstrations in decades.",
+      "media": "https://en.wikipedia.org/wiki/2021_Cuban_protests"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Economic Challenges",
+      "text": "Cuba continues to face significant economic challenges, including inflation and shortages of basic goods. The government is under pressure to implement reforms to address these issues.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Cuba"
+    }
+  ]
+}

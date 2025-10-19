@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Equatorial Guinea",
+      "text": "Major events in the history of Equatorial Guinea."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Early Settlements",
+      "text": "The earliest inhabitants of Equatorial Guinea were Bantu-speaking peoples who settled in the region around 1000 BC. They established communities on the mainland and the islands, developing agriculture and trade.",
+      "media": "https://en.wikipedia.org/wiki/Equatorial_Guinea#History"
+    },
+    {
+      "start_date": {
+        "year": 1471,
+        "month": null,
+        "day": null
+      },
+      "headline": "Portuguese Discovery",
+      "text": "Portuguese explorers first arrived in Equatorial Guinea in 1471, marking the beginning of European interest in the region. They established trade relations and claimed the islands for Portugal.",
+      "media": "https://en.wikipedia.org/wiki/Equatorial_Guinea#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1778,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Control",
+      "text": "Spain formally acquired control of the islands of Bioko and Annobón in 1778 through the Treaty of El Pardo. This marked the start of Spanish colonial rule in the region.",
+      "media": "https://en.wikipedia.org/wiki/Equatorial_Guinea#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1900,
+        "month": null,
+        "day": null
+      },
+      "headline": "Colonial Administration",
+      "text": "Spain established a more formal colonial administration in Equatorial Guinea, focusing on the exploitation of natural resources. The indigenous population faced significant oppression during this period.",
+      "media": "https://en.wikipedia.org/wiki/Equatorial_Guinea#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1968,
+        "month": 10,
+        "day": 12
+      },
+      "headline": "Independence from Spain",
+      "text": "Equatorial Guinea gained independence from Spain on October 12, 1968. This marked the beginning of a new era for the nation, but also set the stage for political instability.",
+      "media": "https://en.wikipedia.org/wiki/Equatorial_Guinea#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": null,
+        "day": null
+      },
+      "headline": "Francisco Macías Nguema's Rule",
+      "text": "Francisco Macías Nguema became the first president of Equatorial Guinea after independence. His authoritarian regime was marked by widespread human rights abuses and economic mismanagement.",
+      "media": "https://en.wikipedia.org/wiki/Francisco_Mac%C3%ADas_Nguema"
+    },
+    {
+      "start_date": {
+        "year": 1979,
+        "month": null,
+        "day": null
+      },
+      "headline": "Coup d'état",
+      "text": "In 1979, Teodoro Obiang Nguema Mbasogo overthrew Francisco Macías Nguema in a military coup. Obiang's regime has been characterized by a continuation of authoritarian rule and significant corruption.",
+      "media": "https://en.wikipedia.org/wiki/Teodoro_Obiang"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitutional Reforms",
+      "text": "Equatorial Guinea adopted a new constitution in 1991, which allowed for a multi-party system. However, the political landscape remained dominated by Obiang's party, leading to continued repression of dissent.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Equatorial_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 1995,
+        "month": null,
+        "day": null
+      },
+      "headline": "Discovery of Oil",
+      "text": "The discovery of significant oil reserves off the coast of Equatorial Guinea transformed the country's economy. Oil production became the primary driver of economic growth, attracting foreign investment.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Equatorial_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,
+        "day": null
+      },
+      "headline": "Presidential Elections",
+      "text": "Teodoro Obiang was re-elected in a controversial presidential election in 2002. The election was marred by allegations of fraud and intimidation, reflecting the ongoing challenges to democracy in the country.",
+      "media": "https://en.wikipedia.org/wiki/2002_Equatorial_Guinea_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": null,
+        "day": null
+      },
+      "headline": "Failed Coup Attempt",
+      "text": "A failed coup attempt in 2004, involving mercenaries from several countries, highlighted the political tensions in Equatorial Guinea. The government responded with a crackdown on dissent and increased repression.",
+      "media": "https://en.wikipedia.org/wiki/2004_Equatorial_Guinea_coup_attempt"
+    },
+    {
+      "start_date": {
+        "year": 2009,
+        "month": null,
+        "day": null
+      },
+      "headline": "Human Rights Concerns",
+      "text": "International human rights organizations raised concerns about the treatment of political prisoners and freedom of expression in Equatorial Guinea. The government has faced criticism for its authoritarian practices.",
+      "media": "https://en.wikipedia.org/wiki/Human_rights_in_Equatorial_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 2012,
+        "month": null,
+        "day": null
+      },
+      "headline": "Presidential Elections",
+      "text": "Teodoro Obiang was re-elected again in 2012 amid accusations of electoral fraud and lack of transparency. His continued rule has been marked by allegations of corruption and human rights abuses.",
+      "media": "https://en.wikipedia.org/wiki/2012_Equatorial_Guinea_presidential_election"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Challenges",
+      "text": "Equatorial Guinea faced economic challenges due to falling oil prices, leading to budget cuts and social unrest. The government struggled to address the needs of its citizens amid declining revenues.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Equatorial_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": null,
+        "day": null
+      },
+      "headline": "International Relations",
+      "text": "Equatorial Guinea sought to strengthen its international relations, particularly with African nations and China. The government aimed to diversify its economy and reduce dependence on oil.",
+      "media": "https://en.wikipedia.org/wiki/Foreign_relations_of_Equatorial_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic impacted Equatorial Guinea, leading to health and economic challenges. The government implemented measures to control the spread of the virus while facing criticism for its handling of the crisis.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Equatorial_Guinea"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": null,
+        "day": null
+      },
+      "headline": "Continued Authoritarian Rule",
+      "text": "Teodoro Obiang remains in power, continuing his long-standing rule over Equatorial Guinea. The political environment remains tightly controlled, with limited space for opposition and dissent.",
+      "media": "https://en.wikipedia.org/wiki/Teodoro_Obiang"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Developments",
+      "text": "As of 2023, Equatorial Guinea continues to face challenges related to governance, human rights, and economic diversification. The government is under scrutiny from international organizations for its treatment of citizens.",
+      "media": "https://en.wikipedia.org/wiki/Equatorial_Guinea#Current_developments"
+    }
+  ]
+}

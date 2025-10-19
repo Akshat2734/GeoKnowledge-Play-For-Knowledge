@@ -1,0 +1,217 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Germany",
+      "text": "Major events in the history of Germany."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null, "day": null
+      },
+      "headline": "Formation of Germanic Tribes",
+      "text": "Various Germanic tribes begin to form in Central Europe, laying the foundations for future German identity.",
+      "media": "https://en.wikipedia.org/wiki/Germanic_peoples"
+    },
+    {
+      "start_date": {
+        "year": 9,
+        "month": null, "day": null
+      },
+      "headline": "Battle of the Teutoburg Forest",
+      "text": "Germanic tribes led by Arminius defeat three Roman legions, marking a significant turning point in the Roman expansion into Germania.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest"
+    },
+    {
+      "start_date": {
+        "year": 800,
+        "month": null, "day": null
+      },
+      "headline": "Charlemagne Crowned Emperor",
+      "text": "Charlemagne is crowned Emperor of the Romans, uniting much of Western Europe and laying the groundwork for the Holy Roman Empire.",
+      "media": "https://en.wikipedia.org/wiki/Charlemagne"
+    },
+    {
+      "start_date": {
+        "year": 962,
+        "month": null, "day": null
+      },
+      "headline": "Foundation of the Holy Roman Empire",
+      "text": "Otto I is crowned as the first Holy Roman Emperor, establishing a political entity that would last for over a millennium.",
+      "media": "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1517,
+        "month": 10, "day": 31
+      },
+      "headline": "Martin Luther's 95 Theses",
+      "text": "Martin Luther publishes his 95 Theses, sparking the Protestant Reformation and leading to significant religious and political changes in Germany.",
+      "media": "https://en.wikipedia.org/wiki/95_Theses"
+    },
+    {
+      "start_date": {
+        "year": 1618,
+        "month": null, "day": null
+      },
+      "headline": "Thirty Years' War Begins",
+      "text": "The Thirty Years' War begins, a devastating conflict that involves many European powers and leads to significant loss of life and territory in Germany.",
+      "media": "https://en.wikipedia.org/wiki/Thirty_Years%27_War"
+    },
+    {
+      "start_date": {
+        "year": 1648,
+        "month": null, "day": null
+      },
+      "headline": "Peace of Westphalia",
+      "text": "The Peace of Westphalia ends the Thirty Years' War, establishing a new political order in Europe and recognizing the sovereignty of German states.",
+      "media": "https://en.wikipedia.org/wiki/Peace_of_Westphalia"
+    },
+    {
+      "start_date": {
+        "year": 1806,
+        "month": null, "day": null
+      },
+      "headline": "Dissolution of the Holy Roman Empire",
+      "text": "The Holy Roman Empire is dissolved following defeat by Napoleon, leading to the rise of nationalism in the German territories.",
+      "media": "https://en.wikipedia.org/wiki/Holy_Roman_Empire#Dissolution"
+    },
+    {
+      "start_date": {
+        "year": 1871,
+        "month": null,      "day": null
+      },
+      "headline": "Unification of Germany",
+      "text": "The German Empire is officially proclaimed in the Hall of Mirrors at Versailles, uniting various German states under Prussian leadership.",
+      "media": "https://en.wikipedia.org/wiki/German_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1914,
+        "month": 7, "day": 28
+      },
+      "headline": "Start of World War I",
+      "text": "World War I begins with the assassination of Archduke Franz Ferdinand, leading to Germany's involvement in a global conflict.",
+      "media": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 11, "day": 11
+      },
+      "headline": "End of World War I",
+      "text": "World War I ends with the signing of the Armistice, leading to significant political changes in Germany and the abdication of Kaiser Wilhelm II.",
+      "media": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"
+    },
+    {
+      "start_date": {
+        "year": 1919,
+        "month": 6, "day": 28
+      },
+      "headline": "Treaty of Versailles",
+      "text": "The Treaty of Versailles is signed, imposing heavy reparations and territorial losses on Germany, contributing to economic hardship and political instability.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
+    },
+    {
+      "start_date": {
+        "year": 1933,
+        "month": 1, "day": 30
+      },
+      "headline": "Hitler Becomes Chancellor",
+      "text": "Adolf Hitler is appointed Chancellor of Germany, marking the beginning of the Nazi regime and the rise of totalitarianism.",
+      "media": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+    },
+    {
+      "start_date": {
+        "year": 1939,
+        "month": 9, "day": 1
+      },
+      "headline": "Start of World War II",
+      "text": "Germany invades Poland, triggering World War II and leading to widespread conflict across Europe and beyond.",
+      "media": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1945,
+        "month": 5, "day": 8
+      },
+      "headline": "End of World War II in Europe",
+      "text": "Germany surrenders unconditionally, marking the end of World War II in Europe and leading to the division of the country.",
+      "media": "https://en.wikipedia.org/wiki/V-E_Day"
+    },
+    {
+      "start_date": {
+        "year": 1949,
+        "month": 5, "day": 23
+      },
+      "headline": "Foundation of West Germany",
+      "text": "The Federal Republic of Germany (West Germany) is established, marking the beginning of the division of Germany during the Cold War.",
+      "media": "https://en.wikipedia.org/wiki/West_Germany"
+    },
+    {
+      "start_date": {
+        "year": 1949,
+        "month": 10, "day": 7
+      },
+      "headline": "Foundation of East Germany",
+      "text": "The German Democratic Republic (East Germany) is established, solidifying the division of Germany into two separate states.",
+      "media": "https://en.wikipedia.org/wiki/East_Germany"
+    },
+    {
+      "start_date": {
+        "year": 1961,
+        "month": 8, "day": 13
+      },
+      "headline": "Construction of the Berlin Wall",
+      "text": "The Berlin Wall is erected, symbolizing the division between East and West Germany and the broader Cold War tensions.",
+      "media": "https://en.wikipedia.org/wiki/Berlin_Wall"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 11, "day": 9
+      },
+      "headline": "Fall of the Berlin Wall",
+      "text": "The Berlin Wall falls, leading to the reunification of Germany and the end of the Cold War division.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 10, "day": 3
+      },
+      "headline": "Reunification of Germany",
+      "text": "Germany is officially reunified, marking the end of the division that lasted for over four decades.",
+      "media": "https://en.wikipedia.org/wiki/German_reunification"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,       "day": null
+      },
+      "headline": "Germany Adopts the Euro",
+      "text": "Germany adopts the Euro as its official currency, becoming part of the European monetary union.",
+      "media": "https://en.wikipedia.org/wiki/Euro"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": 9, "day": null
+      },
+      "headline": "European Migrant Crisis",
+      "text": "Germany plays a significant role in the European migrant crisis, accepting a large number of refugees and migrants fleeing conflict and persecution.",
+      "media": "https://en.wikipedia.org/wiki/European_migrant_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3, "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Germany implements measures to combat the COVID-19 pandemic, impacting public health and the economy significantly.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Germany"
+    }
+  ]
+}

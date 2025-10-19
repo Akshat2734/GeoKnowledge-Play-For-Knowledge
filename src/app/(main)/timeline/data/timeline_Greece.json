@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Greece",
+      "text": "Major events in the history of Greece."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Minoan Civilization",
+      "text": "The Minoan civilization emerges on the island of Crete, known for its advanced architecture and art. It is considered one of the earliest advanced societies in Europe.",
+      "media": "https://en.wikipedia.org/wiki/Minoan_civilization"
+    },
+    {
+      "start_date": {
+        "year": -1600
+      },
+      "headline": "Mycenaean Civilization",
+      "text": "The Mycenaean civilization rises, characterized by its palatial states and linear B script. This period marks the beginning of Greek mythology and epic poetry.",
+      "media": "https://en.wikipedia.org/wiki/Mycenaean_Greece"
+    },
+    {
+      "start_date": {
+        "year": -1200
+      },
+      "headline": "Destruction of Mycenaean Palaces",
+      "text": "The collapse of the Mycenaean civilization leads to a period of decline known as the Greek Dark Ages. Many palatial centers are destroyed or abandoned.",
+      "media": "https://en.wikipedia.org/wiki/Dark_Ages_of_Greece"
+    },
+    {
+      "start_date": {
+        "year": -800
+      },
+      "headline": "Rise of City-States",
+      "text": "The Greek city-states, or poleis, begin to emerge, leading to the development of distinct political entities like Athens and Sparta. This period also sees the birth of the Olympic Games.",
+      "media": "https://en.wikipedia.org/wiki/Ancient_Greece"
+    },
+    {
+      "start_date": {
+        "year": -508
+      },
+      "headline": "Athenian Democracy",
+      "text": "Cleisthenes introduces democratic reforms in Athens, establishing a system of governance that allows citizens to participate in decision-making. This is a foundational moment for modern democracy.",
+      "media": "https://en.wikipedia.org/wiki/Cleisthenes"
+    },
+    {
+      "start_date": {
+        "year": -490
+      },
+      "headline": "Battle of Marathon",
+      "text": "The Athenians defeat the Persian army at the Battle of Marathon, a pivotal moment in the Greco-Persian Wars. This victory boosts Athenian confidence and unity.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Marathon"
+    },
+    {
+      "start_date": {
+        "year": -480
+      },
+      "headline": "Battle of Salamis",
+      "text": "The Greek fleet achieves a decisive victory over the Persians at the naval Battle of Salamis. This battle is crucial in securing Greek independence from Persian rule.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Salamis"
+    },
+    {
+      "start_date": {
+        "year": -431
+      },
+      "headline": "Peloponnesian War",
+      "text": "The Peloponnesian War begins, pitting Athens against Sparta and their respective allies. This protracted conflict leads to significant political and social changes in ancient Greece.",
+      "media": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+    },
+    {
+      "start_date": {
+        "year": -404
+      },
+      "headline": "Fall of Athens",
+      "text": "Athens surrenders to Sparta, marking the end of the Peloponnesian War. The defeat leads to a brief period of Spartan hegemony in Greece.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_Athens"
+    },
+    {
+      "start_date": {
+        "year": -338
+      },
+      "headline": "Battle of Chaeronea",
+      "text": "Philip II of Macedon defeats the Greek city-states at the Battle of Chaeronea, establishing Macedonian dominance over Greece. This sets the stage for the rise of his son, Alexander the Great.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)"
+    },
+    {
+      "start_date": {
+        "year": -334
+      },
+      "headline": "Alexander the Great's Conquests",
+      "text": "Alexander the Great begins his campaign against the Persian Empire, leading to the spread of Greek culture throughout the known world. His conquests significantly impact the course of history.",
+      "media": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": -323
+      },
+      "headline": "Death of Alexander the Great",
+      "text": "Alexander the Great dies in Babylon, leading to the fragmentation of his empire. His death marks the end of the classical era of Greek history.",
+      "media": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+    },
+    {
+      "start_date": {
+        "year": -146
+      },
+      "headline": "Roman Conquest of Greece",
+      "text": "Greece falls under Roman control after the defeat of the last Greek kingdom, Macedon. This marks the end of Greek political independence and the beginning of Roman influence.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Greece"
+    },
+    {
+      "start_date": {
+        "year": 330
+      },
+      "headline": "Constantinople Becomes Capital",
+      "text": "Constantine the Great establishes Constantinople as the new capital of the Roman Empire, which later becomes the Byzantine Empire. This city becomes a major center of Greek culture and Orthodox Christianity.",
+      "media": "https://en.wikipedia.org/wiki/Constantinople"
+    },
+    {
+      "start_date": {
+        "year": 1453
+      },
+      "headline": "Fall of Constantinople",
+      "text": "The Ottoman Empire captures Constantinople, marking the end of the Byzantine Empire. This event significantly alters the political landscape of Greece and the Balkans.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+    },
+    {
+      "start_date": {
+        "year": 1821,
+        "month": 3,
+        "day": 25
+      },
+      "headline": "Greek War of Independence",
+      "text": "The Greek War of Independence begins, as Greeks rise against Ottoman rule. This struggle for freedom is marked by significant battles and the eventual establishment of an independent Greek state.",
+      "media": "https://en.wikipedia.org/wiki/Greek_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1830
+      },
+      "headline": "Recognition of Greek Independence",
+      "text": "The London Protocol recognizes Greece as an independent state, following years of conflict and negotiation. This marks a significant milestone in the nation's history.",
+      "media": "https://en.wikipedia.org/wiki/Greek_War_of_Independence#Recognition_of_Greek_independence"
+    },
+    {
+      "start_date": {
+        "year": 1912
+      },
+      "headline": "Balkan Wars",
+      "text": "Greece participates in the Balkan Wars, expanding its territory and gaining control over regions with significant Greek populations. This period of expansion reshapes the map of Southeast Europe.",
+      "media": "https://en.wikipedia.org/wiki/Balkan_Wars"
+    },
+    {
+      "start_date": {
+        "year": 1922
+      },
+      "headline": "Asia Minor Catastrophe",
+      "text": "The Greco-Turkish War culminates in the Asia Minor Catastrophe, leading to a massive population exchange between Greece and Turkey. This event has lasting impacts on Greek society.",
+      "media": "https://en.wikipedia.org/wiki/Greco-Turkish_War_(1919%E2%80%9322)"
+    },
+    {
+      "start_date": {
+        "year": 1941
+      },
+      "headline": "German Occupation",
+      "text": "Nazi Germany invades and occupies Greece during World War II, leading to widespread suffering and resistance. The occupation has profound effects on Greek society and politics.",
+      "media": "https://en.wikipedia.org/wiki/Greece_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1944
+      },
+      "headline": "Liberation from Occupation",
+      "text": "Greece is liberated from Axis occupation, leading to a power vacuum and subsequent civil conflict. The struggle for power shapes the future of the nation.",
+      "media": "https://en.wikipedia.org/wiki/Greek_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1974
+      },
+      "headline": "Restoration of Democracy",
+      "text": "After a period of military dictatorship, democracy is restored in Greece. This transition marks a significant turning point in the country's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Greek_Colonels%27_junta"
+    },
+    {
+      "start_date": {
+        "year": 1981
+      },
+      "headline": "Greece Joins the European Union",
+      "text": "Greece officially joins the European Economic Community, which later becomes the European Union. This membership has significant economic and political implications for the country.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_Greece_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2004
+      },
+      "headline": "Athens Hosts the Olympics",
+      "text": "Greece hosts the Summer Olympics in Athens, marking the return of the Games to their birthplace. This event showcases Greek culture and history on a global stage.",
+      "media": "https://en.wikipedia.org/wiki/2004_Summer_Olympics"
+    },
+    {
+      "start_date": {
+        "year": 2010
+      },
+      "headline": "Greek Debt Crisis",
+      "text": "Greece faces a severe debt crisis, leading to international bailouts and austerity measures. This crisis has profound social and economic impacts on the country.",
+      "media": "https://en.wikipedia.org/wiki/Greek_debt_crisis"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Greece, like the rest of the world, is affected by the COVID-19 pandemic, leading to health crises and economic challenges. The government implements measures to combat the spread of the virus.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Greece"
+    }
+  ]
+}

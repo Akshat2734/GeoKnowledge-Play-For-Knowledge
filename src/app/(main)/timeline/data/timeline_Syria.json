@@ -1,0 +1,122 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Syria",
+      "text": "Major events in the history of Syria."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Early Civilizations",
+      "text": "Ancient cities like Ebla and Mari flourish as trade and cultural centers.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Syria"
+      }
+    },
+    {
+      "start_date": {
+        "year": -64
+      },
+      "headline": "Roman Rule Begins",
+      "text": "Pompey annexes Syria into the Roman Republic; Antioch becomes a major city.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 636
+      },
+      "headline": "Muslim Conquest",
+      "text": "Arab Muslim forces defeat the Byzantines at Yarmouk.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Yarmouk"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1516
+      },
+      "headline": "Ottoman Rule",
+      "text": "Syria becomes part of the Ottoman Empire for nearly four centuries.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Syria_under_Ottoman_rule"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1918
+      },
+      "headline": "End of Ottoman Rule",
+      "text": "Arab and Allied forces capture Damascus during WWI.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Arab_Revolt"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1920
+      },
+      "headline": "French Mandate",
+      "text": "The League of Nations grants France control over Syria and Lebanon.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/French_Mandate_for_Syria_and_the_Lebanon"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1946,
+        "month": 4,
+        "day": 17
+      },
+      "headline": "Independence from France",
+      "text": "Syria gains full independence.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Syria)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1970
+      },
+      "headline": "Rise of Hafez al-Assad",
+      "text": "Hafez al-Assad seizes power, beginning Ba'ath Party rule.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Hafez_al-Assad"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "headline": "Bashar al-Assad Becomes President",
+      "text": "Bashar al-Assad assumes leadership after his father’s death.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Bashar_al-Assad"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "headline": "Syrian Civil War",
+      "text": "Protests escalate into a prolonged civil war.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Syrian_civil_war"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Reconstruction and Sanctions",
+      "text": "Syria remains divided; reconstruction is hindered by sanctions and instability.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Syria"
+      }
+    }
+  ]
+}

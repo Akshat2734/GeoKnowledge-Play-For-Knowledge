@@ -1,0 +1,174 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Kuwait",
+      "text": "Major events in the history of Kuwait."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Settlements",
+      "text": "Archaeological evidence suggests that Kuwait was inhabited as early as 3000 BC, with settlements engaged in trade and fishing.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 2500
+      },
+      "headline": "Dilmun Civilization",
+      "text": "Kuwait was part of the ancient Dilmun civilization, which was a major trading hub between Mesopotamia and the Indus Valley.",
+      "media": "https://en.wikipedia.org/wiki/Dilmun"
+    },
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Islamic Influence",
+      "text": "With the spread of Islam in the 7th century, Kuwait became an important area for trade and culture in the Arabian Peninsula.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 1716
+      },
+      "headline": "Foundation of Kuwait City",
+      "text": "The Al-Sabah family settled in Kuwait, establishing the city as a significant trading port in the Persian Gulf.",
+      "media": "https://en.wikipedia.org/wiki/Kuwait_City"
+    },
+    {
+      "start_date": {
+        "year": 1756
+      },
+      "headline": "Al-Sabah Dynasty Established",
+      "text": "The Al-Sabah family was officially recognized as the ruling family of Kuwait, marking the beginning of its modern political structure.",
+      "media": "https://en.wikipedia.org/wiki/Al-Sabah"
+    },
+    {
+      "start_date": {
+        "year": 1899
+      },
+      "headline": "British Protectorate",
+      "text": "Kuwait signed a treaty with Britain, becoming a protectorate in response to threats from the Ottoman Empire.",
+      "media": "https://en.wikipedia.org/wiki/Kuwait#British_protectorate"
+    },
+    {
+      "start_date": {
+        "year": 1938
+      },
+      "headline": "Oil Discovery",
+      "text": "Oil was discovered in Kuwait, leading to significant economic growth and transformation of the country.",
+      "media": "https://en.wikipedia.org/wiki/Petroleum_industry_in_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 1946
+      },
+      "headline": "First Oil Exports",
+      "text": "Kuwait began exporting oil, which became the backbone of its economy and led to rapid modernization.",
+      "media": "https://en.wikipedia.org/wiki/Petroleum_industry_in_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 1961
+      },
+      "headline": "Independence from Britain",
+      "text": "Kuwait gained full independence from British control on June 19, 1961, marking a new era in its history.",
+      "media": "https://en.wikipedia.org/wiki/Kuwait#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1963
+      },
+      "headline": "First National Assembly",
+      "text": "Kuwait held its first parliamentary elections, establishing a constitutional monarchy and a democratic framework.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "headline": "Nationalization of Oil Industry",
+      "text": "Kuwait nationalized its oil industry, taking control of its oil resources and increasing revenue for development.",
+      "media": "https://en.wikipedia.org/wiki/Petroleum_industry_in_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 8,
+        "day": 2
+      },
+      "headline": "Invasion by Iraq",
+      "text": "Iraq invaded Kuwait, leading to the Gulf War and significant international military intervention.",
+      "media": "https://en.wikipedia.org/wiki/Gulf_War"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 2,
+        "day": 26
+      },
+      "headline": "Liberation of Kuwait",
+      "text": "Kuwait was liberated from Iraqi occupation after a coalition of forces led by the United States conducted Operation Desert Storm.",
+      "media": "https://en.wikipedia.org/wiki/Gulf_War#Liberation_of_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 1992
+      },
+      "headline": "Return to Democracy",
+      "text": "Kuwait restored its parliament and democratic processes after the Gulf War, reaffirming its commitment to constitutional governance.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "Women Granted Voting Rights",
+      "text": "Kuwait granted women the right to vote and run for office, marking a significant step towards gender equality in the region.",
+      "media": "https://en.wikipedia.org/wiki/Women_in_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "headline": "Arab Spring Protests",
+      "text": "Kuwait experienced a series of protests inspired by the Arab Spring, demanding political reforms and greater freedoms.",
+      "media": "https://en.wikipedia.org/wiki/2011_Kuwait_protests"
+    },
+    {
+      "start_date": {
+        "year": 2014
+      },
+      "headline": "Economic Challenges",
+      "text": "Kuwait faced economic challenges due to falling oil prices, prompting discussions on economic diversification and reform.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Kuwait implemented strict measures to combat the COVID-19 pandemic, impacting its economy and public health.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Vaccination Rollout",
+      "text": "Kuwait began its vaccination campaign against COVID-19, aiming to immunize its population and return to normalcy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Kuwait"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Continued Economic Diversification",
+      "text": "Kuwait continues to pursue economic diversification strategies to reduce its reliance on oil revenues and enhance sustainable development.",
+      "media": "https://en.wikipedia.org/wiki/Economy_of_Kuwait"
+    }
+  ]
+}

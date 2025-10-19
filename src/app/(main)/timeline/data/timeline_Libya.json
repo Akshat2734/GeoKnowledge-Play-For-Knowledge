@@ -1,0 +1,240 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Libya",
+      "text": "Major events in the history of Libya."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The earliest known settlements in Libya date back to around 3000 BC, with evidence of Neolithic cultures in the region. These early inhabitants engaged in agriculture and animal husbandry.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Libya#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Phoenician Colonization",
+      "text": "Phoenician traders established colonies along the Libyan coast, most notably in the area of present-day Tripoli. This marked the beginning of significant external influences in the region.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Libya#Phoenician_colonization"
+    },
+    {
+      "start_date": {
+        "year": -814,
+        "month": null,
+        "day": null
+      },
+      "headline": "Founding of Carthage",
+      "text": "Carthage was founded by Phoenician settlers from Tyre, becoming a major power in the Mediterranean and influencing the region, including Libya. This led to increased trade and cultural exchanges.",
+      "media": "https://en.wikipedia.org/wiki/Carthage"
+    },
+    {
+      "start_date": {
+        "year": -600,
+        "month": null,
+        "day": null
+      },
+      "headline": "Greek Colonization",
+      "text": "Greek settlers established cities such as Cyrene in eastern Libya, further enriching the cultural landscape of the region. This period saw the blending of Greek and local cultures.",
+      "media": "https://en.wikipedia.org/wiki/Cyrene"
+    },
+    {
+      "start_date": {
+        "year": -146,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Conquest",
+      "text": "After the fall of Carthage, Libya became part of the Roman Empire. The region was integrated into the empire, leading to significant urban development and the spread of Roman culture.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Libya"
+    },
+    {
+      "start_date": {
+        "year": 642,
+        "month": null,
+        "day": null
+      },
+      "headline": "Islamic Conquest",
+      "text": "Arab forces conquered Libya, introducing Islam and Arabic culture to the region. This marked a significant shift in the religious and cultural identity of the Libyan people.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Libya#Islamic_conquest"
+    },
+    {
+      "start_date": {
+        "year": 1551,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ottoman Rule",
+      "text": "Libya became part of the Ottoman Empire, which ruled the region for over three centuries. This period was characterized by relative stability but also local uprisings against Ottoman authority.",
+      "media": "https://en.wikipedia.org/wiki/Ottoman_Libya"
+    },
+    {
+      "start_date": {
+        "year": 1911,
+        "month": 10,
+        "day": 29
+      },
+      "headline": "Italo-Turkish War",
+      "text": "Italy invaded Libya, leading to the Italo-Turkish War. The conflict resulted in Libya becoming an Italian colony, which sparked resistance among the local population.",
+      "media": "https://en.wikipedia.org/wiki/Italo-Turkish_War"
+    },
+    {
+      "start_date": {
+        "year": 1922,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of Italian Rule",
+      "text": "Italy formally established control over Libya, leading to significant Italian settlement and the suppression of local uprisings. This period saw the exploitation of Libya's resources.",
+      "media": "https://en.wikipedia.org/wiki/Italian_Libya"
+    },
+    {
+      "start_date": {
+        "year": 1943,
+        "month": null,
+        "day": null
+      },
+      "headline": "World War II and Allied Occupation",
+      "text": "During World War II, Libya was a battleground between Axis and Allied forces. The war ended with the Allied occupation, leading to a shift in control and governance.",
+      "media": "https://en.wikipedia.org/wiki/Libya_in_World_War_II"
+    },
+    {
+      "start_date": {
+        "year": 1951,
+        "month": 12,
+        "day": 24
+      },
+      "headline": "Independence of Libya",
+      "text": "Libya gained independence from Italy, becoming the United Kingdom of Libya. This marked the beginning of a new era for the country, with King Idris I as its monarch.",
+      "media": "https://en.wikipedia.org/wiki/Libya#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1969,
+        "month": 9,
+        "day": 1
+      },
+      "headline": "Gaddafi's Coup",
+      "text": "Muammar Gaddafi led a coup d'état that overthrew King Idris I, establishing a republic. Gaddafi's regime would last for over four decades, characterized by authoritarian rule.",
+      "media": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+    },
+    {
+      "start_date": {
+        "year": 1977,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "Declaration of the Jamahiriya",
+      "text": "Gaddafi declared Libya a 'People's Jamahiriya', promoting his ideology of direct democracy. This system aimed to empower citizens but often led to repression of dissent.",
+      "media": "https://en.wikipedia.org/wiki/Jamahiriya"
+    },
+    {
+      "start_date": {
+        "year": 1986,
+        "month": 4,
+        "day": 15
+      },
+      "headline": "U.S. Bombing of Libya",
+      "text": "The United States conducted airstrikes against Libya in response to terrorist activities attributed to Gaddafi's regime. This event heightened tensions between Libya and the West.",
+      "media": "https://en.wikipedia.org/wiki/1986_United_States_airstrikes_on_Libya"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": 2,
+        "day": 15
+      },
+      "headline": "Libyan Civil War Begins",
+      "text": "Protests against Gaddafi's regime erupted, leading to a civil war. The conflict drew international attention and intervention, ultimately resulting in Gaddafi's downfall.",
+      "media": "https://en.wikipedia.org/wiki/2011_Libyan_civil_war"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": 10,
+        "day": 20
+      },
+      "headline": "Death of Gaddafi",
+      "text": "Muammar Gaddafi was captured and killed by rebel forces in Sirte. His death marked the end of his 42-year rule and led to a power vacuum in Libya.",
+      "media": "https://en.wikipedia.org/wiki/Death_of_Muammar_Gaddafi"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "Second Libyan Civil War",
+      "text": "A second civil war broke out as rival factions vied for control of the country. The conflict further destabilized Libya and complicated efforts for reconciliation.",
+      "media": "https://en.wikipedia.org/wiki/Second_Libyan_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": null,
+        "day": null
+      },
+      "headline": "Rise of ISIS in Libya",
+      "text": "The chaos following the civil wars allowed ISIS to establish a foothold in Libya. The group conducted various attacks, exacerbating the security crisis in the country.",
+      "media": "https://en.wikipedia.org/wiki/ISIS_in_Libya"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "Battle of Tripoli",
+      "text": "A military offensive was launched by the Libyan National Army to capture Tripoli from the Government of National Accord. The battle intensified the ongoing conflict in the region.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Tripoli_(2019)"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 6,
+        "day": 5
+      },
+      "headline": "Ceasefire Agreement",
+      "text": "A ceasefire agreement was reached between the warring factions, signaling a potential path towards peace. However, the political situation remained fragile and complex.",
+      "media": "https://en.wikipedia.org/wiki/2020_Libyan_ceasefire"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "Formation of Unity Government",
+      "text": "A new interim government was formed, aiming to unify the country and prepare for elections. This development raised hopes for stability and reconciliation in Libya.",
+      "media": "https://en.wikipedia.org/wiki/2021_Libyan_unity_government"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 12,
+        "day": 1
+      },
+      "headline": "Continued Political Instability",
+      "text": "Despite efforts for unity, Libya continued to face political instability and violence. The challenges of governance and security persisted, complicating the path forward.",
+      "media": "https://en.wikipedia.org/wiki/2022_in_Libya"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ongoing Humanitarian Crisis",
+      "text": "Libya faces a severe humanitarian crisis, with many citizens suffering from lack of basic services and security. International organizations continue to call for assistance and intervention.",
+      "media": "https://en.wikipedia.org/wiki/Human_rights_in_Libya"
+    }
+  ]
+}

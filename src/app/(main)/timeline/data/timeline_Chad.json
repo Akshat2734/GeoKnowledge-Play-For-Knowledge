@@ -1,0 +1,164 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Chad",
+      "text": "Major events in the history of Chad."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The region now known as Chad has been inhabited since prehistoric times, with evidence of early human settlements dating back to around 5000 BC. These early inhabitants were primarily nomadic hunter-gatherers.",
+      "media": "https://en.wikipedia.org/wiki/Prehistory_of_Chad"
+    },
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "headline": "Emergence of the Sao Civilization",
+      "text": "The Sao civilization emerged in the Chad Basin around 1000 BC, known for its advanced pottery and metallurgy. They established a series of city-states that thrived until around the 16th century.",
+      "media": "https://en.wikipedia.org/wiki/Sao_civilization"
+    },
+    {
+      "start_date": {
+        "year": 700
+      },
+      "headline": "Introduction of Islam",
+      "text": "Islam was introduced to Chad in the 7th century through trade routes from North Africa. This significantly influenced the culture and politics of the region.",
+      "media": "https://en.wikipedia.org/wiki/Islam_in_Chad"
+    },
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Formation of the Kanem Empire",
+      "text": "The Kanem Empire was established in the 10th century, becoming a powerful state in the region. It played a crucial role in trade and the spread of Islam in Central Africa.",
+      "media": "https://en.wikipedia.org/wiki/Kanem"
+    },
+    {
+      "start_date": {
+        "year": 1380
+      },
+      "headline": "Expansion of the Bornu Empire",
+      "text": "The Bornu Empire expanded into Chad in the late 14th century, dominating trade routes and influencing the local cultures. This empire continued to thrive until the 19th century.",
+      "media": "https://en.wikipedia.org/wiki/Bornu_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1891
+      },
+      "headline": "French Colonization Begins",
+      "text": "France began its colonization of Chad in 1891, integrating it into French Equatorial Africa. This marked the start of significant changes in governance and society.",
+      "media": "https://en.wikipedia.org/wiki/Chad#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1910
+      },
+      "headline": "Creation of Chad as a French Colony",
+      "text": "In 1910, Chad was officially established as a French colony, with the capital moved to Fort-Lamy (now N'Djamena). The French implemented policies that affected local governance and economy.",
+      "media": "https://en.wikipedia.org/wiki/Chad#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1946
+      },
+      "headline": "Chad Becomes an Overseas Territory",
+      "text": "In 1946, Chad became an overseas territory of France, allowing for limited political representation. This period saw the rise of nationalist movements seeking independence.",
+      "media": "https://en.wikipedia.org/wiki/Chad#Colonial_period"
+    },
+    {
+      "start_date": {
+        "year": 1960,
+        "month": 8,
+        "day": 11
+      },
+      "headline": "Chad Gains Independence",
+      "text": "Chad gained independence from France on August 11, 1960. François Tombalbaye became the first president, marking the beginning of a new political era.",
+      "media": "https://en.wikipedia.org/wiki/Chad#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1965
+      },
+      "headline": "Civil War Begins",
+      "text": "A civil war broke out in Chad in 1965, fueled by ethnic tensions and political rivalries. This conflict would last for over a decade and lead to significant instability.",
+      "media": "https://en.wikipedia.org/wiki/Chadian_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1979
+      },
+      "headline": "Overthrow of Tombalbaye",
+      "text": "François Tombalbaye was overthrown in 1979, leading to a power struggle among various factions. This period was marked by violence and further civil unrest.",
+      "media": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Tombalbaye"
+    },
+    {
+      "start_date": {
+        "year": 1982
+      },
+      "headline": "Hissène Habré Takes Power",
+      "text": "Hissène Habré seized power in 1982 after a coup, ruling with an iron fist until his ousting in 1990. His regime was characterized by human rights abuses and repression.",
+      "media": "https://en.wikipedia.org/wiki/Hiss%C3%A8ne_Habr%C3%A9"
+    },
+    {
+      "start_date": {
+        "year": 1990
+      },
+      "headline": "Idriss Déby Becomes President",
+      "text": "Idriss Déby came to power in 1990 after overthrowing Habré. His presidency saw relative stability but was also marked by allegations of corruption and authoritarianism.",
+      "media": "https://en.wikipedia.org/wiki/Idriss_D%C3%A9by"
+    },
+    {
+      "start_date": {
+        "year": 2003
+      },
+      "headline": "Darfur Conflict Spillover",
+      "text": "The Darfur conflict in neighboring Sudan spilled over into Chad in 2003, leading to increased violence and humanitarian crises. Chad became a refuge for many fleeing the conflict.",
+      "media": "https://en.wikipedia.org/wiki/Darfur_conflict"
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "headline": "Constitutional Reforms",
+      "text": "In 2005, Chad adopted a new constitution that allowed for presidential term limits. However, Déby later amended it to extend his rule, leading to widespread protests.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Chad"
+    },
+    {
+      "start_date": {
+        "year": 2013
+      },
+      "headline": "Military Intervention in CAR",
+      "text": "Chad intervened militarily in the Central African Republic in 2013 to protect its interests and citizens. This intervention highlighted Chad's role in regional security.",
+      "media": "https://en.wikipedia.org/wiki/Chad#Military_intervention_in_the_Central_African_Republic"
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "headline": "Idriss Déby Dies",
+      "text": "Idriss Déby died in April 2021 from injuries sustained in combat against rebels. His death led to a transitional military council taking power, further complicating Chad's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Idriss_D%C3%A9by#Death"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Transitional Government Established",
+      "text": "A transitional government was established in Chad following Déby's death, promising to hold elections within 18 months. This period is marked by ongoing political tensions and calls for reform.",
+      "media": "https://en.wikipedia.org/wiki/Chad#Politics"
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Ongoing Political Challenges",
+      "text": "Chad continues to face political challenges, including calls for democratic reforms and the need to address economic issues. The transitional government is under pressure to fulfill its promises.",
+      "media": "https://en.wikipedia.org/wiki/Chad#Politics"
+    }
+  ]
+}

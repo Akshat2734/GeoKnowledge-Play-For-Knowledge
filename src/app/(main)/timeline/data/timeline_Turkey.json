@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Turkey",
+      "text": "Major events in the history of Turkey."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1071
+      },
+      "headline": "Battle of Manzikert",
+      "text": "Seljuk Turks defeat the Byzantines, opening Anatolia to Turkish settlement.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1299
+      },
+      "headline": "Ottoman Empire Founded",
+      "text": "Osman I establishes a principality that becomes a vast empire.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1453
+      },
+      "headline": "Fall of Constantinople",
+      "text": "Mehmed II captures the city, making it the Ottoman capital.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1683
+      },
+      "headline": "Siege of Vienna Fails",
+      "text": "Marks the end of Ottoman expansion into Europe.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1918
+      },
+      "headline": "Ottoman Collapse",
+      "text": "Defeat in WWI leads to partition of Ottoman territories.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Partition_of_the_Ottoman_Empire"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1923,
+        "month": 10,
+        "day": 29
+      },
+      "headline": "Republic of Turkey Founded",
+      "text": "Atatürk establishes the republic and becomes its first president.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Republic_of_Turkey"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1945
+      },
+      "headline": "UN Membership",
+      "text": "Turkey becomes a founding member of the United Nations.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Turkey_and_the_United_Nations"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "headline": "Military Coup",
+      "text": "A military coup triggers political purges and a new constitution.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/1980_Turkish_coup_d%27%C3%A9tat"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2002
+      },
+      "headline": "AKP Rises",
+      "text": "Recep Tayyip Erdoğan’s AKP wins national elections.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Republic at 100",
+      "text": "Turkey marks its centennial amid debates over democracy and secularism.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Turkey"
+      }
+    }
+  ]
+}

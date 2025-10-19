@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Chile",
+      "text": "Major events in the history of Chile."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -10000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Inhabitants",
+      "text": "The earliest known inhabitants of Chile are believed to have arrived around 10,000 BC, primarily hunter-gatherers who settled in various regions of the country.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Chile#Pre-Columbian_period"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mapuche Culture Emerges",
+      "text": "The Mapuche people, known for their resistance against Spanish colonization, developed a rich culture and social structure in central and southern Chile.",
+      "media": "https://en.wikipedia.org/wiki/Mapuche"
+    },
+    {
+      "start_date": {
+        "year": 1536,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Exploration",
+      "text": "Spanish explorer Diego de Almagro led the first expedition into Chile, claiming the territory for Spain. This marked the beginning of European interest in the region.",
+      "media": "https://en.wikipedia.org/wiki/Diego_de_Almagro"
+    },
+    {
+      "start_date": {
+        "year": 1541,
+        "month": 2,
+        "day": 12
+      },
+      "headline": "Foundation of Santiago",
+      "text": "Pedro de Valdivia founded Santiago, the capital of Chile, establishing a colonial stronghold in the region.",
+      "media": "https://en.wikipedia.org/wiki/Santiago"
+    },
+    {
+      "start_date": {
+        "year": 1553,
+        "month": null,
+        "day": null
+      },
+      "headline": "Mapuche Resistance",
+      "text": "The Mapuche people began organized resistance against Spanish colonization, leading to a series of conflicts known as the Arauco War.",
+      "media": "https://en.wikipedia.org/wiki/Arauco_War"
+    },
+    {
+      "start_date": {
+        "year": 1810,
+        "month": 9,
+        "day": 18
+      },
+      "headline": "First National Assembly",
+      "text": "Chile's First National Assembly was convened, marking the beginning of the Chilean War of Independence from Spanish rule.",
+      "media": "https://en.wikipedia.org/wiki/Chilean_War_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1818,
+        "month": 2,
+        "day": 12
+      },
+      "headline": "Independence Declared",
+      "text": "Chile officially declared its independence from Spain on February 12, 1818, following a series of battles and political struggles.",
+      "media": "https://en.wikipedia.org/wiki/Chilean_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1833,
+        "month": null,
+        "day": null
+      },
+      "headline": "Constitution of 1833",
+      "text": "A new constitution was adopted, establishing a centralized government and laying the foundation for Chile's political structure for decades.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Chile"
+    },
+    {
+      "start_date": {
+        "year": 1879,
+        "month": 4,
+        "day": 1
+      },
+      "headline": "War of the Pacific",
+      "text": "Chile engaged in the War of the Pacific against Bolivia and Peru, resulting in significant territorial gains for Chile, including the Atacama Desert.",
+      "media": "https://en.wikipedia.org/wiki/War_of_the_Pacific"
+    },
+    {
+      "start_date": {
+        "year": 1884,
+        "month": 8,
+        "day": 1
+      },
+      "headline": "Occupation of Tarapacá",
+      "text": "Following the War of the Pacific, Chile formally occupied the Tarapacá region, solidifying its control over the northern territories.",
+      "media": "https://en.wikipedia.org/wiki/Tarapac%C3%A1_Region"
+    },
+    {
+      "start_date": {
+        "year": 1920,
+        "month": null,
+        "day": null
+      },
+      "headline": "Social Movements Rise",
+      "text": "The early 20th century saw the rise of labor movements and social reforms, as workers began to demand better rights and conditions.",
+      "media": "https://en.wikipedia.org/wiki/Labor_movements_in_Chile"
+    },
+    {
+      "start_date": {
+        "year": 1932,
+        "month": 6,
+        "day": 1
+      },
+      "headline": "First Socialist Government",
+      "text": "Chile elected its first socialist government under President Arturo Alessandri, marking a significant shift in the political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Arturo_Alessandri"
+    },
+    {
+      "start_date": {
+        "year": 1970,
+        "month": 9,
+        "day": 4
+      },
+      "headline": "Salvador Allende Elected",
+      "text": "Salvador Allende became the first Marxist to be elected president in a liberal democracy, initiating a series of socialist reforms.",
+      "media": "https://en.wikipedia.org/wiki/Salvador_Allende"
+    },
+    {
+      "start_date": {
+        "year": 1973,
+        "month": 9,
+        "day": 11
+      },
+      "headline": "Military Coup",
+      "text": "A military coup led by General Augusto Pinochet overthrew Allende's government, marking the beginning of a brutal dictatorship.",
+      "media": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat"
+    },
+    {
+      "start_date": {
+        "year": 1988,
+        "month": 10,
+        "day": 5
+      },
+      "headline": "Plebiscite Against Pinochet",
+      "text": "A national plebiscite was held, resulting in a decisive vote against extending Pinochet's rule, leading to democratic elections.",
+      "media": "https://en.wikipedia.org/wiki/1988_Chilean_plebiscite"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 3,
+        "day": 11
+      },
+      "headline": "Return to Democracy",
+      "text": "Chile transitioned back to democracy with the election of Patricio Aylwin as president, marking the end of Pinochet's dictatorship.",
+      "media": "https://en.wikipedia.org/wiki/Patricio_Aylwin"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 2,
+        "day": 27
+      },
+      "headline": "Earthquake and Tsunami",
+      "text": "A massive earthquake struck central Chile, followed by a tsunami, causing widespread destruction and loss of life.",
+      "media": "https://en.wikipedia.org/wiki/2010_Chilean_earthquake"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 10,
+        "day": 18
+      },
+      "headline": "Social Protests Erupt",
+      "text": "Nationwide protests erupted over inequality and social issues, leading to significant political changes and discussions about a new constitution.",
+      "media": "https://en.wikipedia.org/wiki/2019_Chilean_protests"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 5,
+        "day": 15
+      },
+      "headline": "Constitutional Convention Elections",
+      "text": "Elections were held for a constitutional convention to draft a new constitution, reflecting the demands of the social protests.",
+      "media": "https://en.wikipedia.org/wiki/Constitutional_Convention_of_Chile"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 9,
+        "day": 4
+      },
+      "headline": "Constitutional Proposal Rejected",
+      "text": "A proposed new constitution drafted by the convention was rejected in a national referendum, leading to further discussions on constitutional reform.",
+      "media": "https://en.wikipedia.org/wiki/2022_Chilean_constitutional_referendum"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ongoing Political Reforms",
+      "text": "Chile continues to navigate political reforms and discussions surrounding social justice, equality, and governance in the wake of recent protests.",
+      "media": "https://en.wikipedia.org/wiki/Politics_of_Chile"
+    }
+  ]
+}

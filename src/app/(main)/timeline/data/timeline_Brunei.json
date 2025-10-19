@@ -1,0 +1,190 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Brunei",
+      "text": "Major events in the history of Brunei."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -2000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The earliest evidence of human settlement in Brunei dates back to around 2000 BC, with archaeological findings indicating the presence of Neolithic communities.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Prehistory"
+    },
+    {
+      "start_date": {
+        "year": 1400,
+        "month": null,
+        "day": null
+      },
+      "headline": "Introduction of Islam",
+      "text": "Islam was introduced to Brunei in the 15th century, marking a significant cultural and religious transformation for the region.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Islam"
+    },
+    {
+      "start_date": {
+        "year": 1521,
+        "month": null,
+        "day": null
+      },
+      "headline": "First European Contact",
+      "text": "Ferdinand Magellan's expedition reached Brunei, marking the first recorded European contact with the sultanate.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#European_contact"
+    },
+    {
+      "start_date": {
+        "year": 1578,
+        "month": null,
+        "day": null
+      },
+      "headline": "Spanish Conquest Attempt",
+      "text": "The Spanish attempted to conquer Brunei, leading to a series of conflicts that would shape the region's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Spanish_attempts_to_conquer_Brunei"
+    },
+    {
+      "start_date": {
+        "year": 1888,
+        "month": null,
+        "day": null
+      },
+      "headline": "British Protectorate",
+      "text": "Brunei became a British protectorate, which significantly influenced its political and economic systems.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#British_protectorate"
+    },
+    {
+      "start_date": {
+        "year": 1906,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sultan's Authority Limited",
+      "text": "The British established a Resident in Brunei, limiting the Sultan's authority while maintaining a degree of local governance.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#British_protectorate"
+    },
+    {
+      "start_date": {
+        "year": 1959,
+        "month": null,
+        "day": null
+      },
+      "headline": "Self-Government",
+      "text": "Brunei was granted self-government under the 1959 constitution, allowing for greater autonomy from British control.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Self-government"
+    },
+    {
+      "start_date": {
+        "year": 1962,
+        "month": 12,
+        "day": 8
+      },
+      "headline": "Brunei Revolt",
+      "text": "A failed rebellion against the Sultan's rule occurred, leading to a crackdown on dissent and a reaffirmation of the Sultan's power.",
+      "media": "https://en.wikipedia.org/wiki/Brunei_Revolt"
+    },
+    {
+      "start_date": {
+        "year": 1971,
+        "month": null,
+        "day": null
+      },
+      "headline": "Oil Discovery",
+      "text": "The discovery of oil in Brunei transformed its economy, leading to significant wealth and development.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Economy"
+    },
+    {
+      "start_date": {
+        "year": 1984,
+        "month": null,
+        "day": null
+      },
+      "headline": "Independence from Britain",
+      "text": "Brunei gained full independence from British rule on January 1, 1984, marking a new era in its governance.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Independence"
+    },
+    {
+      "start_date": {
+        "year": 1996,
+        "month": null,
+        "day": null
+      },
+      "headline": "Brunei's First National Day",
+      "text": "Brunei celebrated its first National Day, marking the anniversary of its independence and the establishment of its national identity.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#National_Day"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": null,
+        "day": null
+      },
+      "headline": "Sultan's Coronation",
+      "text": "Sultan Hassanal Bolkiah celebrated the 50th anniversary of his accession to the throne, highlighting his long reign and contributions to the nation.",
+      "media": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": null,
+        "day": null
+      },
+      "headline": "Brunei's Vision 2035",
+      "text": "The government launched Vision 2035, a long-term development plan aimed at diversifying the economy and improving the quality of life.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Vision_2035"
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": null,
+        "day": null
+      },
+      "headline": "ASEAN Chairmanship",
+      "text": "Brunei served as the chair of the Association of Southeast Asian Nations (ASEAN), promoting regional cooperation and integration.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#ASEAN"
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": null,
+        "day": null
+      },
+      "headline": "Implementation of Sharia Law",
+      "text": "Brunei implemented a new penal code based on Sharia law, which drew international attention and criticism.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Sharia_law"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": null,
+        "day": null
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "Brunei, like many countries, faced challenges due to the COVID-19 pandemic, leading to health measures and economic impacts.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Brunei"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": null,
+        "day": null
+      },
+      "headline": "Economic Diversification Efforts",
+      "text": "Brunei intensified efforts to diversify its economy away from oil dependency, focusing on sustainable development and tourism.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#Economy"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Brunei's 40th National Day",
+      "text": "Brunei celebrated its 40th National Day of independence, reflecting on its progress and future aspirations.",
+      "media": "https://en.wikipedia.org/wiki/Brunei#National_Day"
+    }
+  ]
+}

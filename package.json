@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "dev": "next dev --turbo",
+    "build": "next build --turbo",
     "start": "next start",
     "lint": "biome check",
     "format": "biome format --write"
@@ -13,11 +13,13 @@
     "@turf/turf": "^7.2.0",
     "daisyui": "^5.2.2",
     "leaflet": "^1.9.4",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
     "motion": "^12.23.22",
     "next": "15.5.4",
+    "openai": "^6.5.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "react-leaflet": "^5.0.0"
+    "react-leaflet": "^3.2.2"
   },
   "devDependencies": {
     "@biomejs/biome": "2.2.0",

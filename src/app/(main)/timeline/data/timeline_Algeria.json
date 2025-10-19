@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Algeria",
+      "text": "Major events in the history of Algeria."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -10000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Human Habitation",
+      "text": "Evidence of human habitation in Algeria dates back to around 10,000 BC, with prehistoric cave paintings found in the Tassili n'Ajjer mountains. These artworks depict the life and environment of early humans in the region.",
+      "media": "https://en.wikipedia.org/wiki/Tassili_n%27Ajjer"
+    },
+    {
+      "start_date": {
+        "year": -1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Carthage",
+      "text": "Carthage was founded by Phoenician settlers in the 9th century BC and became a dominant power in the western Mediterranean. Its influence extended into present-day Algeria, where it established trade and military outposts.",
+      "media": "https://en.wikipedia.org/wiki/Carthage"
+    },
+    {
+      "start_date": {
+        "year": -202,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Conquest of Carthage",
+      "text": "The fall of Carthage in 146 BC led to Roman control over North Africa, including Algeria. The region became part of the Roman Empire, flourishing with cities like Timgad and Hippo Regius.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Algeria"
+    },
+    {
+      "start_date": {
+        "year": 30,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Algeria",
+      "text": "Algeria became an important part of the Roman Empire, known for its agricultural production and trade. The region was dotted with Roman cities, many of which still have ruins today.",
+      "media": "https://en.wikipedia.org/wiki/Roman_Algeria"
+    },
+    {
+      "start_date": {
+        "year": 429,
+        "month": null,
+        "day": null
+      },
+      "headline": "Vandal Invasion",
+      "text": "The Vandals invaded North Africa in the early 5th century, establishing a kingdom that lasted until the Byzantine reconquest. This period saw significant changes in the region's demographics and culture.",
+      "media": "https://en.wikipedia.org/wiki/Vandal_kingdom"
+    },
+    {
+      "start_date": {
+        "year": 533,
+        "month": null,
+        "day": null
+      },
+      "headline": "Byzantine Reconquest",
+      "text": "The Byzantine Empire reconquered North Africa from the Vandals, restoring Roman influence in the region. This led to a period of relative stability and cultural exchange.",
+      "media": "https://en.wikipedia.org/wiki/Byzantine_Algeria"
+    },
+    {
+      "start_date": {
+        "year": 647,
+        "month": null,
+        "day": null
+      },
+      "headline": "Arab Conquest",
+      "text": "The Arab armies began their conquest of North Africa in the 7th century, spreading Islam and Arabic culture throughout Algeria. This marked the beginning of significant cultural and religious transformations.",
+      "media": "https://en.wikipedia.org/wiki/Arab_conquest_of_North_Africa"
+    },
+    {
+      "start_date": {
+        "year": 1516,
+        "month": null,
+        "day": null
+      },
+      "headline": "Ottoman Rule Begins",
+      "text": "The Ottoman Empire established control over Algeria in the early 16th century, leading to a period of piracy and trade in the Mediterranean. Algeria became a significant base for Ottoman naval power.",
+      "media": "https://en.wikipedia.org/wiki/Algeria_under_the_Ottoman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 1830,
+        "month": 6,
+        "day": 14
+      },
+      "headline": "French Colonization",
+      "text": "France invaded Algeria in 1830, marking the beginning of a brutal colonial period that lasted for over a century. The French implemented policies that marginalized the local population and exploited resources.",
+      "media": "https://en.wikipedia.org/wiki/French_colonization_of_Algeria"
+    },
+    {
+      "start_date": {
+        "year": 1954,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Algerian War of Independence Begins",
+      "text": "The Algerian War of Independence began in 1954, as the National Liberation Front (FLN) launched a guerrilla campaign against French colonial rule. This conflict would last for nearly eight years and result in significant loss of life.",
+      "media": "https://en.wikipedia.org/wiki/Algerian_War"
+    },
+    {
+      "start_date": {
+        "year": 1962,
+        "month": 3,
+        "day": 18
+      },
+      "headline": "Independence from France",
+      "text": "Algeria gained independence from France on July 5, 1962, following a brutal war that claimed over a million lives. This marked the end of 132 years of colonial rule and the establishment of a sovereign state.",
+      "media": "https://en.wikipedia.org/wiki/Algeria"
+    },
+    {
+      "start_date": {
+        "year": 1963,
+        "month": 9,
+        "day": 25
+      },
+      "headline": "First Constitution Adopted",
+      "text": "Algeria adopted its first constitution in 1963, establishing a one-party state under the FLN. This constitution aimed to solidify the principles of socialism and national sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Constitution_of_Algeria"
+    },
+    {
+      "start_date": {
+        "year": 1988,
+        "month": 10,
+        "day": 5
+      },
+      "headline": "October Riots",
+      "text": "Mass protests erupted in Algeria in October 1988, leading to significant political reforms. The government responded to public discontent with promises of democratization and political pluralism.",
+      "media": "https://en.wikipedia.org/wiki/October_1988_riots"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 12,
+        "day": 26
+      },
+      "headline": "Civil War Begins",
+      "text": "The Algerian Civil War began in 1991 after the cancellation of elections that the Islamic Salvation Front (FIS) was poised to win. The conflict resulted in widespread violence and loss of life.",
+      "media": "https://en.wikipedia.org/wiki/Algerian_Civil_War"
+    },
+    {
+      "start_date": {
+        "year": 1999,
+        "month": 4,
+        "day": 15
+      },
+      "headline": "Bouteflika Becomes President",
+      "text": "Abdelaziz Bouteflika was elected president in 1999, promising to end the civil war and promote national reconciliation. His presidency marked a shift towards stability in Algeria after years of turmoil.",
+      "media": "https://en.wikipedia.org/wiki/Abdelaziz_Bouteflika"
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 9,
+        "day": 28
+      },
+      "headline": "National Reconciliation Policy",
+      "text": "The Algerian government implemented a National Reconciliation Policy aimed at healing the wounds of the civil war. This policy included amnesty for some former militants and efforts to rebuild the nation.",
+      "media": "https://en.wikipedia.org/wiki/National_Reconciliation_Charter"
+    },
+    {
+      "start_date": {
+        "year": 2011,
+        "month": 2,
+        "day": 12
+      },
+      "headline": "Arab Spring Protests",
+      "text": "Inspired by the Arab Spring, protests erupted in Algeria in early 2011, demanding political reform and greater freedoms. The government responded with a mix of concessions and crackdowns.",
+      "media": "https://en.wikipedia.org/wiki/2011_Algerian_protests"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 2,
+        "day": 22
+      },
+      "headline": "Mass Protests Against Bouteflika",
+      "text": "Mass protests began in February 2019 against President Bouteflika's bid for a fifth term in office. The protests, known as the Hirak movement, called for political change and greater democracy.",
+      "media": "https://en.wikipedia.org/wiki/Hirak_protests"
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 4,
+        "day": 2
+      },
+      "headline": "Bouteflika Resigns",
+      "text": "Facing immense pressure from protests, President Bouteflika resigned on April 2, 2019. His resignation marked a significant turning point in Algeria's political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Abdelaziz_Bouteflika#Resignation"
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 11,
+        "day": 1
+      },
+      "headline": "Constitutional Referendum",
+      "text": "A constitutional referendum was held in November 2020, resulting in the adoption of amendments aimed at increasing political freedoms and reducing presidential powers. This was seen as a response to the Hirak protests.",
+      "media": "https://en.wikipedia.org/wiki/2020_Algerian_constitutional_referendum"
+    },
+    {
+      "start_date": {
+        "year": 2022,
+        "month": 12,
+        "day": 12
+      },
+      "headline": "Presidential Elections",
+      "text": "Presidential elections were held in December 2022, marking a continuation of the political transition in Algeria. The elections were closely watched by both domestic and international observers.",
+      "media": "https://en.wikipedia.org/wiki/2022_Algerian_presidential_election"
+    }
+  ]
+}

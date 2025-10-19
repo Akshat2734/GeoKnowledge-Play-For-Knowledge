@@ -1,0 +1,220 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Czech Republic",
+      "text": "Major events in the history of Czech Republic."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -500,
+        "month": null,
+        "day": null
+      },
+      "headline": "Celtic Settlement",
+      "text": "The territory of present-day Czech Republic was inhabited by Celtic tribes, marking the beginning of significant human settlement in the region.",
+      "media": "https://en.wikipedia.org/wiki/Celts"
+    },
+    {
+      "start_date": {
+        "year": 6,
+        "month": null,
+        "day": null
+      },
+      "headline": "Germanic Invasions",
+      "text": "Germanic tribes began to invade and settle in the area, leading to significant cultural and demographic changes.",
+      "media": "https://en.wikipedia.org/wiki/Germanic_peoples"
+    },
+    {
+      "start_date": {
+        "year": 895,
+        "month": null,
+        "day": null
+      },
+      "headline": "Formation of Great Moravia",
+      "text": "The Slavic state of Great Moravia was established, becoming a significant political entity in Central Europe.",
+      "media": "https://en.wikipedia.org/wiki/Great_Moravia"
+    },
+    {
+      "start_date": {
+        "year": 1000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Establishment of the Duchy of Bohemia",
+      "text": "The Duchy of Bohemia was established, laying the foundation for the future Kingdom of Bohemia.",
+      "media": "https://en.wikipedia.org/wiki/Duchy_of_Bohemia"
+    },
+    {
+      "start_date": {
+        "year": 1212,
+        "month": null,
+        "day": null
+      },
+      "headline": "Golden Bull of Sicily",
+      "text": "The Golden Bull granted the Kingdom of Bohemia hereditary royal status, elevating its importance in the Holy Roman Empire.",
+      "media": "https://en.wikipedia.org/wiki/Golden_Bull_of_Sicily"
+    },
+    {
+      "start_date": {
+        "year": 1346,
+        "month": null,
+        "day": null
+      },
+      "headline": "Charles IV Becomes King",
+      "text": "Charles IV was crowned King of Bohemia, later becoming Holy Roman Emperor, and initiated a period of cultural and economic prosperity.",
+      "media": "https://en.wikipedia.org/wiki/Charles_IV"
+    },
+    {
+      "start_date": {
+        "year": 1419,
+        "month": 7,
+        "day": 30
+      },
+      "headline": "Hussite Wars Begin",
+      "text": "The Hussite Wars erupted following the execution of Jan Hus, leading to significant religious and political upheaval in Bohemia.",
+      "media": "https://en.wikipedia.org/wiki/Hussite_Wars"
+    },
+    {
+      "start_date": {
+        "year": 1526,
+        "month": null,
+        "day": null
+      },
+      "headline": "Habsburg Rule Established",
+      "text": "The Kingdom of Bohemia came under Habsburg rule after the Battle of Mohács, marking a new era of foreign dominance.",
+      "media": "https://en.wikipedia.org/wiki/Habsburg"
+    },
+    {
+      "start_date": {
+        "year": 1618,
+        "month": 5,
+        "day": 23
+      },
+      "headline": "Defenestration of Prague",
+      "text": "The Defenestration of Prague sparked the Thirty Years' War, a devastating conflict that altered the political landscape of Europe.",
+      "media": "https://en.wikipedia.org/wiki/Defenestrations_of_Prague"
+    },
+    {
+      "start_date": {
+        "year": 1620,
+        "month": 11,
+        "day": 8
+      },
+      "headline": "Battle of White Mountain",
+      "text": "The Battle of White Mountain marked a decisive defeat for the Czech Protestant forces, solidifying Habsburg control over Bohemia.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_White_Mountain"
+    },
+    {
+      "start_date": {
+        "year": 1867,
+        "month": null,
+        "day": null
+      },
+      "headline": "Austro-Hungarian Compromise",
+      "text": "The Austro-Hungarian Compromise established the dual monarchy, impacting the political structure and national identity of Czechs.",
+      "media": "https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 10,
+        "day": 28
+      },
+      "headline": "Czechoslovakia Established",
+      "text": "Czechoslovakia was declared an independent state, marking the end of Austro-Hungarian rule and the beginning of a new nation.",
+      "media": "https://en.wikipedia.org/wiki/Czechoslovakia"
+    },
+    {
+      "start_date": {
+        "year": 1938,
+        "month": 10,
+        "day": 1
+      },
+      "headline": "Munich Agreement",
+      "text": "The Munich Agreement allowed Nazi Germany to annex parts of Czechoslovakia, leading to increased tensions and eventual occupation.",
+      "media": "https://en.wikipedia.org/wiki/Munich_Agreement"
+    },
+    {
+      "start_date": {
+        "year": 1948,
+        "month": 2,
+        "day": 25
+      },
+      "headline": "Communist Coup",
+      "text": "The Communist Party seized power in Czechoslovakia, establishing a one-party state that lasted for over four decades.",
+      "media": "https://en.wikipedia.org/wiki/Czechoslovak_Communist_Party"
+    },
+    {
+      "start_date": {
+        "year": 1968,
+        "month": null,
+        "day": null
+      },
+      "headline": "Prague Spring",
+      "text": "The Prague Spring was a period of political liberalization in Czechoslovakia, ultimately suppressed by a Soviet-led invasion.",
+      "media": "https://en.wikipedia.org/wiki/Prague_Spring"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 11,
+        "day": 17
+      },
+      "headline": "Velvet Revolution",
+      "text": "The Velvet Revolution led to the peaceful overthrow of the Communist regime, restoring democracy in Czechoslovakia.",
+      "media": "https://en.wikipedia.org/wiki/Velvet_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": null,
+        "day": null
+      },
+      "headline": "Czech Republic Established",
+      "text": "Czechoslovakia peacefully split into two independent nations, the Czech Republic and Slovakia, marking a new chapter in their histories.",
+      "media": "https://en.wikipedia.org/wiki/Czech_Republic"
+    },
+    {
+      "start_date": {
+        "year": 2004,
+        "month": 5,
+        "day": 1
+      },
+      "headline": "Czech Republic Joins EU",
+      "text": "The Czech Republic became a member of the European Union, enhancing its political and economic ties with Europe.",
+      "media": "https://en.wikipedia.org/wiki/Accession_of_the_Czech_Republic_to_the_European_Union"
+    },
+    {
+      "start_date": {
+        "year": 2013,
+        "month": null,
+        "day": null
+      },
+      "headline": "Miloš Zeman Elected President",
+      "text": "Miloš Zeman was elected as the first directly elected president of the Czech Republic, marking a significant shift in the political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Milo%C5%A1_Zeman"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 1
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic significantly impacted the Czech Republic, leading to health crises and economic challenges.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Czech_Republic"
+    },
+    {
+      "start_date": {
+        "year": 2023,
+        "month": null,
+        "day": null
+      },
+      "headline": "Current Political Landscape",
+      "text": "The Czech Republic continues to navigate its role within the EU and address contemporary issues such as climate change and immigration.",
+      "media": "https://en.wikipedia.org/wiki/Czech_Republic"
+    }
+  ]
+}

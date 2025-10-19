@@ -1,0 +1,112 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Zambia",
+      "text": "Major events in the history of Zambia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1000
+      },
+      "headline": "Bantu Settlement",
+      "text": "Bantu-speaking peoples establish kingdoms across the region.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/History_of_Zambia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1851
+      },
+      "headline": "David Livingstone",
+      "text": "Explores the area and publicizes Victoria Falls.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/David_Livingstone"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1889
+      },
+      "headline": "BSAC Rule",
+      "text": "British South Africa Company claims Northern Rhodesia.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Northern_Rhodesia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1924
+      },
+      "headline": "British Administration",
+      "text": "Direct British colonial administration begins.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Northern_Rhodesia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1953
+      },
+      "headline": "Federation with Nyasaland & Rhodesia",
+      "text": "Controversial federation sparks nationalism.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Federation_of_Rhodesia_and_Nyasaland"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1964,
+        "month": 10,
+        "day": 24
+      },
+      "headline": "Independence",
+      "text": "Becomes the Republic of Zambia under Kenneth Kaunda.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Zambia)"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1972
+      },
+      "headline": "One-Party State",
+      "text": "UNIP becomes the sole legal party.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Kenneth_Kaunda"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1991
+      },
+      "headline": "Multi-Party Democracy",
+      "text": "Frederick Chiluba defeats Kaunda in elections.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Frederick_Chiluba"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2011
+      },
+      "headline": "Copper-Driven Growth",
+      "text": "Economy expands with mining exports.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Zambia"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "headline": "Debt Restructuring",
+      "text": "Works with IMF and China on debt solutions.",
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Zambia"
+      }
+    }
+  ]
+}

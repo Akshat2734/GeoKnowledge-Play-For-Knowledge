@@ -1,0 +1,180 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of Latvia",
+      "text": "Major events in the history of Latvia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "headline": "Earliest Settlements",
+      "text": "The territory of modern Latvia has been inhabited since the Neolithic period, with evidence of early settlements dating back to around 3000 BC.",
+      "media": "https://en.wikipedia.org/wiki/History_of_Latvia#Prehistoric_period"
+    },
+    {
+      "start_date": {
+        "year": 1201,
+        "month": null,
+        "day": null
+      },
+      "headline": "Foundation of Riga",
+      "text": "Riga, the capital of Latvia, was founded by German bishop Albert of Buxhoeveden, marking the beginning of significant German influence in the region.",
+      "media": "https://en.wikipedia.org/wiki/Riga#History"
+    },
+    {
+      "start_date": {
+        "year": 1282
+      },
+      "headline": "Riga Joins the Hanseatic League",
+      "text": "Riga became a member of the Hanseatic League, a powerful economic alliance of trading cities in Northern Europe, enhancing its trade and influence.",
+      "media": "https://en.wikipedia.org/wiki/Hanseatic_League"
+    },
+    {
+      "start_date": {
+        "year": 1561
+      },
+      "headline": "Livonian War",
+      "text": "The Livonian War began, leading to the division of Livonia between Sweden and Poland-Lithuania, significantly impacting Latvia's territorial and political landscape.",
+      "media": "https://en.wikipedia.org/wiki/Livonian_War"
+    },
+    {
+      "start_date": {
+        "year": 1629
+      },
+      "headline": "Swedish Rule Established",
+      "text": "Following the Treaty of Altmark, Sweden gained control over much of Latvia, initiating a period of Swedish rule that lasted until the Great Northern War.",
+      "media": "https://en.wikipedia.org/wiki/Swedish_Latvia"
+    },
+    {
+      "start_date": {
+        "year": 1710
+      },
+      "headline": "Russian Empire Takes Control",
+      "text": "The Great Northern War resulted in the defeat of Sweden, and Latvia came under the control of the Russian Empire, marking a new era in its history.",
+      "media": "https://en.wikipedia.org/wiki/Great_Northern_War"
+    },
+    {
+      "start_date": {
+        "year": 1861
+      },
+      "headline": "Emancipation of Serfs",
+      "text": "The serfs in Latvia were emancipated, leading to significant social and economic changes in the region as peasants gained more rights.",
+      "media": "https://en.wikipedia.org/wiki/Emancipation_of_the_serfs"
+    },
+    {
+      "start_date": {
+        "year": 1905
+      },
+      "headline": "1905 Revolution",
+      "text": "The 1905 Revolution in Russia sparked widespread unrest in Latvia, leading to demands for greater autonomy and rights for the Latvian people.",
+      "media": "https://en.wikipedia.org/wiki/1905_Russian_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1918,
+        "month": 11,
+        "day": 18
+      },
+      "headline": "Declaration of Independence",
+      "text": "Latvia declared its independence from Russia, establishing itself as a sovereign nation after World War I.",
+      "media": "https://en.wikipedia.org/wiki/Latvian_Declaration_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1920
+      },
+      "headline": "Peace Treaty with Soviet Russia",
+      "text": "The Treaty of Tartu was signed, recognizing Latvia's independence and establishing its borders with Soviet Russia.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Tartu"
+    },
+    {
+      "start_date": {
+        "year": 1940
+      },
+      "headline": "Soviet Occupation",
+      "text": "Latvia was occupied by the Soviet Union as part of the Molotov-Ribbentrop Pact, leading to significant political repression and loss of sovereignty.",
+      "media": "https://en.wikipedia.org/wiki/Occupation_of_the_Baltic_states"
+    },
+    {
+      "start_date": {
+        "year": 1941
+      },
+      "headline": "Nazi Occupation",
+      "text": "During World War II, Latvia was occupied by Nazi Germany, resulting in severe persecution of the Jewish population and other groups.",
+      "media": "https://en.wikipedia.org/wiki/Nazi_occupation_of_the_Baltic_states"
+    },
+    {
+      "start_date": {
+        "year": 1944
+      },
+      "headline": "Return to Soviet Control",
+      "text": "As World War II ended, Latvia was reoccupied by the Soviet Union, leading to further repression and the imposition of Soviet policies.",
+      "media": "https://en.wikipedia.org/wiki/Occupation_of_the_Baltic_states"
+    },
+    {
+      "start_date": {
+        "year": 1986
+      },
+      "headline": "Chernobyl Disaster",
+      "text": "The Chernobyl nuclear disaster had significant health and environmental impacts on Latvia, contributing to growing anti-Soviet sentiments.",
+      "media": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
+    },
+    {
+      "start_date": {
+        "year": 1989,
+        "month": 8,
+        "day": 23
+      },
+      "headline": "Baltic Way",
+      "text": "Over two million people joined hands to form a human chain across the Baltic States, including Latvia, in a peaceful protest for independence from Soviet rule.",
+      "media": "https://en.wikipedia.org/wiki/Baltic_Way"
+    },
+    {
+      "start_date": {
+        "year": 1990,
+        "month": 5,
+        "day": 4
+      },
+      "headline": "Restoration of Independence",
+      "text": "The Supreme Council of Latvia declared the restoration of independence from the Soviet Union, marking a pivotal moment in Latvian history.",
+      "media": "https://en.wikipedia.org/wiki/Latvian_Declaration_of_Independence"
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 21
+      },
+      "headline": "Soviet Union Acknowledges Independence",
+      "text": "Following the failed coup in Moscow, Latvia's independence was recognized by the Soviet Union, solidifying its status as a sovereign state.",
+      "media": "https://en.wikipedia.org/wiki/Latvian_independence_referendum"
+    },
+    {
+      "start_date": {
+        "year": 2004
+      },
+      "headline": "NATO and EU Membership",
+      "text": "Latvia joined NATO and the European Union, marking a significant step in its integration into Western political and security structures.",
+      "media": "https://en.wikipedia.org/wiki/Latvia#Membership_in_NATO_and_the_EU"
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "headline": "COVID-19 Pandemic",
+      "text": "The COVID-19 pandemic affected Latvia significantly, leading to health crises and economic challenges, as well as a national response to manage the situation.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Latvia"
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "headline": "Support for Ukraine",
+      "text": "In response to the Russian invasion of Ukraine, Latvia has actively supported Ukraine, providing military aid and welcoming refugees.",
+      "media": "https://en.wikipedia.org/wiki/Latvia#Support_for_Ukraine"
+    }
+  ]
+}

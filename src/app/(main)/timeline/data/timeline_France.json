@@ -1,0 +1,250 @@
+{
+  "title": {
+    "text": {
+      "headline": "Timeline of France",
+      "text": "Major events in the history of France."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": -5000,
+        "month": null,
+        "day": null
+      },
+      "headline": "Earliest Settlements",
+      "text": "The first human settlements in what is now France date back to around 5000 BC, with evidence of agriculture and permanent dwellings.",
+      "media": "https://en.wikipedia.org/wiki/Prehistoric_France"
+    },
+    {
+      "start_date": {
+        "year": -600,
+        "month": null,
+        "day": null
+      },
+      "headline": "Celtic Tribes",
+      "text": "By 600 BC, Celtic tribes, known as the Gauls, inhabited the region, establishing a rich culture and social structure.",
+      "media": "https://en.wikipedia.org/wiki/Gaul"
+    },
+    {
+      "start_date": {
+        "year": 51,
+        "month": null,
+        "day": null
+      },
+      "headline": "Roman Conquest of Gaul",
+      "text": "Julius Caesar completed the conquest of Gaul in 51 BC, integrating the region into the Roman Empire and leading to significant cultural changes.",
+      "media": "https://en.wikipedia.org/wiki/Gallic_Wars"
+    },
+    {
+      "start_date": {
+        "year": 476,
+        "month": null,
+        "day": null
+      },
+      "headline": "Fall of the Western Roman Empire",
+      "text": "The fall of the Western Roman Empire marked the beginning of the Middle Ages in France, leading to the rise of feudalism.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+      "start_date": {
+        "year": 843,
+        "month": null,
+        "day": null
+      },
+      "headline": "Treaty of Verdun",
+      "text": "The Treaty of Verdun divided the Carolingian Empire into three kingdoms, laying the groundwork for modern France and Germany.",
+      "media": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
+    },
+    {
+      "start_date": {
+        "year": 987,
+        "month": null,
+        "day": null
+      },
+      "headline": "Hugh Capet Becomes King",
+      "text": "Hugh Capet was elected king, marking the beginning of the Capetian dynasty which would rule France for over 800 years.",
+      "media": "https://en.wikipedia.org/wiki/Hugh_Capet"
+    },
+    {
+      "start_date": {
+        "year": 1337,
+        "month": null,
+        "day": null
+      },
+      "headline": "Start of the Hundred Years' War",
+      "text": "The conflict between England and France over territorial claims began, lasting until 1453 and significantly shaping both nations.",
+      "media": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
+    },
+    {
+      "start_date": {
+        "year": 1429,
+        "month": null,
+        "day": null
+      },
+      "headline": "Joan of Arc's Campaign",
+      "text": "Joan of Arc led French forces to several important victories during the Hundred Years' War, becoming a national heroine.",
+      "media": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+    },
+    {
+      "start_date": {
+        "year": 1515,
+        "month": null,
+        "day": null
+      },
+      "headline": "Francis I Becomes King",
+      "text": "Francis I's reign marked the Renaissance in France, characterized by cultural flourishing and the strengthening of royal power.",
+      "media": "https://en.wikipedia.org/wiki/Francis_I_of_France"
+    },
+    {
+      "start_date": {
+        "year": 1562,
+        "month": null,
+        "day": null
+      },
+      "headline": "French Wars of Religion",
+      "text": "A series of conflicts between Catholics and Protestants (Huguenots) erupted, leading to widespread violence and political instability.",
+      "media": "https://en.wikipedia.org/wiki/French_Wars_of_Religion"
+    },
+    {
+      "start_date": {
+        "year": 1598,
+        "month": 4,
+        "day": 13
+      },
+      "headline": "Edict of Nantes",
+      "text": "The Edict of Nantes granted religious freedom to Huguenots, helping to end the French Wars of Religion and promote civil peace.",
+      "media": "https://en.wikipedia.org/wiki/Edict_of_Nantes"
+    },
+    {
+      "start_date": {
+        "year": 1643,
+        "month": null,
+        "day": null
+      },
+      "headline": "Louis XIV Ascends the Throne",
+      "text": "Louis XIV, known as the Sun King, began his reign, which would become synonymous with absolute monarchy and the centralization of power.",
+      "media": "https://en.wikipedia.org/wiki/Louis_XIV_of_France"
+    },
+    {
+      "start_date": {
+        "year": 1789,
+        "month": 7,
+        "day": 14
+      },
+      "headline": "French Revolution Begins",
+      "text": "The storming of the Bastille marked the beginning of the French Revolution, a period of radical social and political upheaval.",
+      "media": "https://en.wikipedia.org/wiki/French_Revolution"
+    },
+    {
+      "start_date": {
+        "year": 1793,
+        "month": 1,
+        "day": 21
+      },
+      "headline": "Execution of Louis XVI",
+      "text": "King Louis XVI was executed by guillotine, symbolizing the end of the monarchy and the rise of republicanism in France.",
+      "media": "https://en.wikipedia.org/wiki/Louis_XVI_of_France"
+    },
+    {
+      "start_date": {
+        "year": 1804,
+        "month": 12,
+        "day": 2
+      },
+      "headline": "Napoleon Becomes Emperor",
+      "text": "Napoleon Bonaparte crowned himself Emperor of the French, initiating a series of military campaigns across Europe.",
+      "media": "https://en.wikipedia.org/wiki/Napoleon"
+    },
+    {
+      "start_date": {
+        "year": 1815,
+        "month": 6,
+        "day": 18
+      },
+      "headline": "Battle of Waterloo",
+      "text": "Napoleon's defeat at the Battle of Waterloo marked the end of his rule and the restoration of the Bourbon monarchy.",
+      "media": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+    },
+    {
+      "start_date": {
+        "year": 1870,
+        "month": 7,
+        "day": 19
+      },
+      "headline": "Franco-Prussian War",
+      "text": "The Franco-Prussian War resulted in the defeat of France and the proclamation of the German Empire, leading to significant territorial losses.",
+      "media": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
+    },
+    {
+      "start_date": {
+        "year": 1914,
+        "month": 7,
+        "day": 28
+      },
+      "headline": "World War I Begins",
+      "text": "France entered World War I following the assassination of Archduke Franz Ferdinand, leading to four years of devastating conflict.",
+      "media": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "start_date": {
+        "year": 1940,
+        "month": 5,
+        "day": 10
+      },
+      "headline": "Fall of France in World War II",
+      "text": "Nazi Germany invaded France, leading to the swift defeat of French forces and the establishment of the Vichy regime.",
+      "media": "https://en.wikipedia.org/wiki/Fall_of_France"
+    },
+    {
+      "start_date": {
+        "year": 1944,
+        "month": 6,
+        "day": 6
+      },
+      "headline": "D-Day: Allied Invasion",
+      "text": "The Allied invasion of Normandy on D-Day marked the beginning of the liberation of France from Nazi occupation.",
+      "media": "https://en.wikipedia.org/wiki/Normandy_landings"
+    },
+    {
+      "start_date": {
+        "year": 1958,
+        "month": 10,
+        "day": 4
+      },
+      "headline": "Fifth Republic Established",
+      "text": "The establishment of the Fifth Republic, led by Charles de Gaulle, marked a new era in French politics and governance.",
+      "media": "https://en.wikipedia.org/wiki/Fifth_Republic_(France)"
+    },
+    {
+      "start_date": {
+        "year": 2002,
+        "month": null,
+        "day": null
+      },
+      "headline": "Euro Introduced",
+      "text": "France adopted the Euro as its official currency, marking a significant step in European economic integration.",
+      "media": "https://en.wikipedia.org/wiki/Euro"
+    },
+    {
+      "start_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 13
+      },
+      "headline": "Paris Attacks",
+      "text": "A series of coordinated terrorist attacks in Paris resulted in significant loss of life and heightened security concerns across Europe.",
+      "media": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
+    },
+    {
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 17
+      },
+      "headline": "COVID-19 Lockdown",
+      "text": "France implemented a nationwide lockdown in response to the COVID-19 pandemic, affecting daily life and the economy.",
+      "media": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France"
+    }
+  ]
+}
