@@ -10,16 +10,12 @@ export default function Page(){
     if (selected == "General"){
         return(
         <div>
-            {selectedCountry}
-            {selected}
+            <AdaptiveQuizLive />
         </div>
     )
     }
     return(
         <div>
-            {selectedCountry}
-            {selectedTimeline}
-            {selected}
             <AdaptiveQuizLive />
         </div>
     )

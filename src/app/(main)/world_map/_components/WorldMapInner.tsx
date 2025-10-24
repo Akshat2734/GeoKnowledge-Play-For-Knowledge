@@ -10,7 +10,7 @@ import "leaflet-defaulticon-compatibility";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
 import type { GeoJsonObject } from "geojson";
 import type { LeafletMouseEvent, Map as LeafletMap } from "leaflet";
-import loadingScreen from "import/assets/Screenshot 2025-10-10 193356.png";
+import loadingScreen from "public/assets/Screenshot 2025-10-10 193356.png";
 import useLocalStorage from "../../hooks/useLocalStorage";
 
 const defaultStyle = {
@@ -85,7 +85,7 @@ export default function WorldMapInner() {
     <div className="relative h-[600px] w-full flex items-center justify-center rounded-2xl overflow-hidden shadow-lg">
       {!countriesData && (
         <div className="absolute inset-0 z-[1000] flex items-center justify-center bg-white">
-          <Image src={loadingScreen} alt="Loading map background" fill className="object-cover" placeholder="blur" />
+          <Image src="/assets/Screenshot 2025-10-10 193356.png" alt="Loading map background" fill className="object-cover" placeholder="blur" />
           <div className="relative z-10 text-white bg-black bg-opacity-50 p-4 rounded-lg">Loading Map Components...</div>
         </div>
       )}
