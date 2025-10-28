@@ -91,10 +91,7 @@ export default function WorldMapInner() {
 
       {countriesData && (
         <MapContainer
-          whenCreated={(map) => {
-            mapRef.current = map;
-            setTimeout(() => map.invalidateSize(), 100);
-          }}
+          ref={(mapInstance) => { mapRef.current = mapInstance; }}
           center={[20, 0]}
           zoom={2}
           scrollWheelZoom
