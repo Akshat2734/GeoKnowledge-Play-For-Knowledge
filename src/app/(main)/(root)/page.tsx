@@ -20,7 +20,7 @@ export default function Home() {
       </div>
 
       {/* Earth Image at Bottom */}
-      <Link href="http://localhost:3000/world_map">
+      <Link href="/world_map">
         <Image
           className="
             absolute
